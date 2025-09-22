@@ -7,7 +7,8 @@ This repository contains everything you need to reproduce the results of our **V
 ## Repository Structure
 ```
 Virtual Scene Creator
-├── Evaluation 
+├── Evaluation
+├── CompanyProfileAnalyzer 
 ├── BackendPipeline 
 ├── Visualizer
 └── PictureAndAssetGenerator
@@ -19,6 +20,7 @@ Virtual Scene Creator
 | Path | Purpose |
 |------|---------|
 | **Evaluation/** | <ul><li>**results/** – Excel sheets with the evaluation data and a Python script for parsing them</li><li>**Classroom_*/** – datasets generated for classroom scenes</li><li>**FairBooth_*/** – datasets generated for trade-fair booth scenes</li></ul> |
+| **CompanyProfileAnalyzer/** | <ul><li>**results/** –Python files for recreating the analysis of company profiles</li></ul> |
 | **BackendPipeline/** | Implements the back-end steps of the project. It communicates with the **Visualizer** and handles all requests coming from the chatbot, covering the stages **Scene Planning** and **Layout Generation**. |
 | **Visualizer/** | Unity project that forms the central interface of the pipeline. It launches the chatbot, enables user intervention, and triggers asset generation. |
 | **PictureAndAssetGenerator/** | <ul><li>**FlaskConnectorTrellisComfy/** – Flask back-end for communicating with Trellis, ComfyUI and OpenAI</li><li>**TextTo/** – generation scripts for image creation in ComfyUI</li></ul> |
