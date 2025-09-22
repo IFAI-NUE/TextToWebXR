@@ -1,0 +1,76 @@
+**Identity Brand**
+
+Legal Name: Anonymous Automotive Group  
+Tagline: "Technology is Our Passion"  
+Sector: Vehicle Manufacturing / Automotive Supplier  
+Status: Established family-run industrial company and a global leader in development and systems partnering with around 4,000 employees and more than €500 million in revenue.  
+Geographic Reach: Production and locations in six countries across three continents (USA, Mexico, Germany, Czech Republic, Romania, China; twelve sites total). Broad color palette, design language, material hints, and logo usage: Not specified.
+
+**Value Proposition Map**
+
+1. High-Precision Components & Systems  
+   - Benefit: Reliable parts for OEMs  
+   - Target: International automotive manufacturers and suppliers  
+   - Evidence: Long-term supply relationships with reputable OEMs  
+   - Weight: 40%  
+
+2. Development Systems & Engineering Partnerships  
+   - Benefit: System solutions and development support  
+   - Target: OEMs, development departments  
+   - Evidence: Position as a leading development and system partner  
+   - Weight: 25%  
+
+3. E-Mobility Solutions & Power Electronics (Automation Projects)  
+   - Benefit: Components and automation for e-mobility  
+   - Target: E-drive manufacturers and internal R&D  
+   - Evidence: Published theses and projects on power electronics  
+   - Weight: 15%  
+
+4. Process and Technology Development (Metal Joining, Image Processing, Testing)  
+   - Benefit: Production optimization and quality assurance  
+   - Target: Internal production, regional sites, customer projects  
+   - Evidence: Job descriptions for process development and testing  
+   - Weight: 12%  
+
+5. Global Manufacturing & Production Network  
+   - Benefit: Scalable production across continents  
+   - Target: Major clients with global procurement  
+   - Evidence: Manufacturing in six countries  
+   - Weight: 8%
+
+**Culture Profile**
+
+Family-run and technology-driven: The company emphasizes technical excellence and long-term partnerships. Values are reflected in employee offerings such as training, health measures, flexible working hours, and home office options, indicating a culture of care and development. The work style is project-oriented, collaborative, and internationally focused, with an innovation-driven pace that emphasizes structured, analytical process development.
+
+**Portfolio Focus**
+
+Showcases include physical samples of high-precision components and system prototypes, demonstrations of automation and power electronics, and multimedia insights into manufacturing and testing technology. Interaction: Visitor engagement through standalone display pedestals, demonstration stations, and managed test setups. Safety specifications for exhibits are not specified.
+
+**Narrative Assets**
+
+Headline: "Technology is Our Passion."  
+Key Messages:  
+1. Precision manufacturing and system expertise for the automotive future  
+2. Global production network with development strength  
+3. Focus on e-mobility, automation, and manufacturing innovation  
+Metrics & Signals: Around 4,000 employees, over €500 million in revenue, twelve locations on three continents, long-standing supply relationships with international OEMs.
+
+**Interaction Flow**
+
+Visitors start at a standalone reception and information kiosk, choose a tour or specific demo, and move to product pedestals and live demo stations. In-depth stations offer interactive simulations or VR setups, along with technical deep-dive areas for R&D topics. The end point is a stand-alone recruiting and contact station with informational materials. The route is modular, allowing for reversals and targeted short visits.
+
+**Zones Layout**
+
+Stand-alone intro/information island as a central starting point, large product presentation area with multiple pedestals as the focus, separate demo arena for automation and testing stations, compact tech areas for VR/simulation, and a recruiting island with info materials. Augmented by several seating and conversation areas and a small service station. Space distribution prioritizes product presentations and interactive demos, followed by info and meeting zones.
+
+**Anchor Objects**
+
+Types: High display pedestals for components (Function: Exhibiting; Mobility: Mobile to semi-mobile), demo benches with drive or testing modules (Function: Live demos; Mobility: Generally stable with occasional mobile units), interactive touch kiosks (Function: Information access; Mobility: Mobile/portable), VR/AR booths or simulations (Function: Immersive product/process display; Mobility: Portable modules), seating and conversation islands (Function: Interaction/networking; Mobility: Mobile). Mobile tool and experiment carts may be provided for workshop or training purposes.
+
+**Circulation Accessibility**
+
+Minimum aisle width, entry points, and specific accessibility requirements: Not specified.
+
+**Ambience**
+
+Lighting, audio, music, and scent concept: Not specified.

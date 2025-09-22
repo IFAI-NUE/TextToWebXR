@@ -1,0 +1,52 @@
+**Identity Brand**
+
+Legal Name: A global information security company.  
+Tagline: The information security provider.  
+Sector: IT Services/Training and other services.  
+Established: 2000, accredited testing lab.  
+Geographical Reach: International with locations in Munich, Stockholm, Rome, Austin, and Beijing.  
+
+**Value Proposition Map**
+
+Core Offering - Certified Assessments and Evaluations: Conducting IT security evaluations per international standards; benefits to manufacturers and clients through impartial assessments.  
+Research & Testing - Vulnerability Research and IIoT Focus: Enhancements for innovation and product development through thorough testing and research.  
+Consulting & Audits – Security Analyses and Frameworks: Benefits for operators and integrators via structured security plans and audits.  
+Training & Development – Targeted Programs for Evaluators: Benefits for new and internal teams through systematic training.  
+
+**Culture Profile**
+
+Values: Neutrality, expertise, customer focus, and independence.  
+Pace: Technically focused, detail-oriented with room for research and continuous learning.  
+Collaboration Style: International, interdisciplinary team with flat hierarchies.  
+Work Mode: Hybrid, part-time, and full-time models with flexible hours and focused training.  
+
+**Portfolio Focus**
+
+Showcasing assessments, evaluations, case studies, tool demos for vulnerability research, and IIoT research outcomes. Interactive demos, videos, and report excerpts; sensitive documents are access-controlled.  
+
+**Narrative Assets**
+
+Headline: Neutral, accredited IT security assessments since 2000.  
+Key Messages: 1) Independent evaluation partner; 2) International expert network; 3) Active in IIoT research and comprehensive training.  
+
+**Interaction Flow**
+
+Modes: Quick info pods, self-guided demo stations, and expert-led deep-dive sessions.  
+Path: Start at an info station → Choose demo topics → Engage with simulations or video dossiers → End with contact and consultation area.  
+
+**Zones Layout**
+
+Zones: Intro/Reception pod, Demo and Test-Bench area, Research and Documentation hub, Consultation and Meeting cluster, and Lounge/Networking zone.  
+
+**Anchor Objects**
+
+Types: Info kiosks, interactive displays, standalone test benches, secure display cases, and seating islands.  
+Function: Orientation, technical demonstrations, secure presentations, and guided consultations.  
+
+**Circulation Accessibility**
+
+No information provided.  
+
+**Ambience**
+
+No information provided.

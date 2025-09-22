@@ -1,0 +1,51 @@
+**Identity**
+
+Legal Name: CODESYS Group  
+Tagline: Leader in independent control software  
+Sector: IT software development, research & development, and automation technology  
+Status: Established, leading company with over 200 employees  
+Geographic Reach: Global, with headquarters in Kempten and locations in Boston, Beijing, and Milan  
+Color Palette: Red, dark gray, white (HEX: not specified)
+
+**Value Proposition**
+
+Core Platform (Control Software): Hardware-independent control software for development, programming, and operation of controls; Target Groups: Device manufacturers, machine builders, and plant operators; Proven with more than 1,000 device manufacturers and over 1 million machines; Estimated Weight: 50%  
+Tooling & Ecosystem: Development tools, libraries, and integrations to accelerate projects; Target Groups: Developer teams and system integrators; Estimated Weight: 25%  
+Services & Support: Training, support, and professional services for implementation and operation; Target Groups: Customers and partners; Estimated Weight: 15%  
+Partnerships & Certification: Collaboration with device manufacturers and global partners for compatibility and market reach; Target Groups: OEMs and suppliers; Estimated Weight: 10%
+
+**Culture Profile**
+
+Values: Passion for automation, technical expertise, and reliability, combined with customer orientation  
+Pace: Innovation-driven but established and customer-focused; decisions are fact-based  
+Collaboration Style: Team-oriented, cross-functional with a focus on learning and exchange  
+Work Mode: Hybrid work models with flexible hours, remote work, and training and health initiatives
+
+**Portfolio Focus**
+
+Primarily showcasing software artifacts and demonstrations of the development/runtime environment along with examples of actual integrations with machines and devices. Includes case studies and user reports highlighting usage in over 1 million machines. Interactive software demos and hands-on stations for developers, along with explanatory media content.
+
+**Narrative Assets**
+
+Headline: Hardware-independent control software, globally established  
+Key Messages:  
+1) CODESYS offers a complete toolchain for developing, programming, and operating industrial controls.  
+2) Industry-wide acceptance proven by over 1,000 device manufacturers and more than 1 million installed machines.  
+3) Global team with locations in Kempten, Boston, Beijing, and Milan driving automation standards.  
+Metrics & Signals: >1,000 manufacturers, >1,000,000 machines, >200 employees
+
+**Interaction Flow**
+
+Welcome and brief introduction to CODESYS Group at a central info point, followed by guided or self-directed exploration at demo stations with live software presentations. Concludes with hands-on stations for developer workflows and integration examples with partner devices, and a contact point for partnerships, support, and recruiting information. Options for self-discovery or guided tours.
+
+**Zones Layout**
+
+A central entrance/info point surrounded by freely arranged demo stations, interactive developer areas, and case study pods. Complemented by partner showcases and a space for personal discussions and recruitment. Focus on interactive demo stations and hands-on areas, flanked by information and contact sections.
+
+**Anchor Objects**
+
+Large, freestanding touch kiosks for introduction and navigation (fixed or movable); demo stations with monitors and hardware mockups for software integration (partially mobile); hands-on tables with developer PCs for interactive sessions (mobile/movable); freestanding info totems for key figures and case studies (easily transportable). Functions: orientation, demonstration, interaction, and conversation facilitation.
+
+**Ambience**
+
+Lighting/Audio/Music/Scent: Not specified

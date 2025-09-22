@@ -1,0 +1,33 @@
+identity_brand  
+Legal Entity: A locally established company operating in organic agriculture, craftsmanship, retail, and hospitality for 25 years. Tagline: Living from the Source – the Green Monastery. Sector: Agriculture, craftsmanship, retail, and gastronomy with an organic focus. Geographic Range: Local/regional presence. Color Palette: Natural greens and earth tones. Design Style: Organic, grounded, and simple. Materials: Wood, linen, stone, natural surfaces. Logo Use: Not specified.
+
+value_proposition_map  
+1) Organic Agriculture (Farm, Animal Husbandry): Benefits: Regionally produced organic materials; Target Groups: Consumers, gastronomy, partners; Evidence: 300 hectares managed under organic standards; Weight: 35%.  
+2) Artisan Food Production (Butchery, Bakery): Benefits: Traditional refinement, farm products; Target Groups: Customers, food enthusiasts; Evidence: Farm animals, traditional preparation; Weight: 25%.  
+3) Gardening & Retail (Shops, Plants, Farm Sale): Benefits: Fresh plants and products on-site; Target Groups: Visitors, households; Evidence: Local stores; Weight: 15%.  
+4) Hospitality & Conferences (Guest House, Tavern): Benefits: Accommodation, catering, and event spaces; Target Groups: Guests, conference attendees; Evidence: Guest and conference facilities; Weight: 15%.  
+5) Sustainability & Regional Cooperation: Benefits: Preservation of rural structures, regional value; Target Groups: Regional farmers, sustainability-conscious consumers; Evidence: Collaboration with local farmers; Weight: 10%.
+
+culture_profile  
+Values: Respect for people and environment, tolerance, joy in work, organic as a way of life. Pace: Grounded and craftsman-like, long-term, and sustainable focus. Collaboration Style: Team-oriented with collaboration between locals and monks; practice-oriented. Work Mode: On-site, practical and seasonal, with emphasis on hygiene and responsibility.
+
+portfolio_focus  
+Displays include samples such as bread and sausage, models and dioramas, along with demonstrations of refinement steps. Videos and photos related to agriculture and animal care are integrated. Handling: Interactive pedestals and sensory stations; hygiene instructions for food detailed. Safety: Hygiene rules for tastings and clear separation of exhibits and food service.
+
+narrative_assets  
+Headline: Living from the Source – Regional, Organic, Craftsmanship. Core Messages: 1) 25 years of organic farming on 300 hectares; 2) Craft food production from farm-sourced materials; 3) Linking agriculture, craftsmanship, and hospitality regionally. Measurable Metrics & External Signals: 300 hectares, 25 years of organic farming, close cooperation with local farmers.
+
+interaction_flow  
+Modes: Self-guided exploration, guided tours, and sensory tasting sessions. Pathway: Arrival at the central welcome pedestal, moving to agriculture and animal care areas, followed by production and processing stations, then sensory tasting and retail pedestals, concluding at a presentation and information stand. Each station is an independent entity allowing recurring visits.
+
+zones_layout  
+Zone Distribution: Central reception pedestal (10%), Agriculture and Animal Care area with dioramas and models (30%), Production and Craft stations (Butchery/Bakery) (25%), Sensory tasting and display pedestals (15%), Retail and information areas (15%). Each zone comprises independent, movable islands and displays.
+
+anchor_objects  
+Key freestanding anchors: Large dioramas/models of the organic farm; product pedestals showcasing bread, sausage, and plants; replicas of processing tables or smokehouses as demo items; video and interactive info stations for detailed insight; mobile tasting counters for hygiene tests. Function: Orientation, information, interaction; Mobility: Mostly movable or modular, some stationary based on the exhibit.
+
+circulation_accessibility  
+No specific information on minimum aisle width, defined entries, or accessibility requirements provided. General visitor services such as parking are mentioned, but detailed accessibility data is lacking.
+
+ambience  
+Lighting: Warm, natural color setting through accentuated illumination of exhibits. Audio: Subtle background sounds including nature and operational noises and calming music to enhance the narrative. Scent: Mild notes of freshly baked bread, herbs, and light wood smoke referencing bakery, gardening, and curing craft.

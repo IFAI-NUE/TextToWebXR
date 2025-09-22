@@ -1,0 +1,16 @@
+About Us: A company has established itself as a nationwide competitive metering service provider for electricity and gas, also offering services in submetering, and will soon include water and district heating. In addition to handling all energy-related processes, the company provides services to energy suppliers, direct marketers, and electrical trades.
+
+ They develop holistic solutions for the digitalization of real estate, aiming to advance the digitalization of metering technology across various energy sectors and provide customers with data seamlessly and efficiently.
+
+ Focused on real estate digitalization, the company adopts a comprehensive approach to developing solutions for metering technology digitalization. Their goal is to offer customers easily accessible and efficient data.
+
+ Key Services Overview:
+
+- Competitive Metering Services: The company operates as a nationwide metering service provider for electricity and gas, also offering "white labeling" options.
+- Integration of Energy Sectors: Covers metering for electricity, gas, water, district heating, and submetering.
+- Online Portal for Customers: An online platform allows customers to view energy data and use a CO2 calculator.
+- Generic Interface: Provides customers with generic interfaces for data transmission in REST-API and MQTT formats suitable for all energy sectors.
+- Provision of Detailed Data: Offers energy data with high granularity.
+- KNX Compatibility: Their electricity meters are KNX-compatible, allowing integration into smart building control systems.
+
+ The company targets energy suppliers, direct marketers, and energy service providers with modular solutions for various aspects of competitive metering services. By actively collaborating with customers, they aim to create value beyond standard metering services.

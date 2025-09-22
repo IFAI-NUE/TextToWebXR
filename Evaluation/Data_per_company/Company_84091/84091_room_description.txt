@@ -1,0 +1,29 @@
+identity_brand
+Company Name: A leading supermarket chain in Germany, part of a prominent European retail group. Short Tagline: "Your Market." Sector: Food Retail. Status: Established, large company with consistent market leadership. Geographic Reach: Nationwide in Germany, part of a group with European presence. Color Palette: Bold red, white, gray; exact HEX not provided.
+
+value_proposition_map
+Core Offer 1 – Fresh and High-Quality Range (Benefit: Reliable food supply; Audience: Consumers of all ages; Evidence: Large store network and sales): Weight about 50%. Core Offer 2 – Extensive Store Network & Availability (Benefit: Convenience and accessibility; Audience: Nationwide customers; Evidence: >15,748 stores): Weight about 20%. Core Offer 3 – Training & Career Development (Benefit: Secure career prospects; Audience: Trainees, young professionals; Evidence: approx. 4,000 trainees, many young managers): Weight about 15%. Core Offer 4 – Employee Benefits & Employer Appeal (Benefit: Good working conditions, benefits; Audience: Employees; Evidence: Multiple top employer awards, extensive benefits list): Weight about 15%.
+
+culture_profile
+Values: Customer focus, reliability, employee development, and family friendliness are central. Pace: Stable, aimed at long-term growth with planned career paths. Collaboration Style: Supportive, with strong internal training and career planning. Work Mode: Mix of in-store duties and central support functions; flexible hours and remote work options available.
+
+portfolio_focus
+Content Presented: Emphasis on product offerings, career opportunities, employer branding, and company metrics. Formats: Product samples/demos, info stations on training and benefits, graphical reach representations.
+
+narrative_assets
+Headline: "Your Market for Fresh Products and Secure Careers." Core Message 1: Nationwide provider of fresh, quality foods. Core Message 2: Major employer with extensive training and development programs. Core Message 3: Diverse employee benefits and recognized employer quality. Key Metrics: >15,748 stores, over 384,000 employees, annual revenue >75.3 billion euros, approx. 4,000 trainees; multiple top employer awards.
+
+interaction_flow
+Modes: Self-guided exploration, guided tours, interactive info stations. General Path: Welcome area → central info pillar with metrics → product demo zones → career and training areas → benefit and FAQ kiosks → contact area. Each section features freestanding stations and monitors, offering curated paths or individual exploration.
+
+zones_layout
+Zone Layout: Freestanding arrangement—central reception/info cluster, adjacent product demo groups with shelves and tables, separate career/training area with kiosks, lounge/discussion spots, and a contact area. Spaces are organized as standalone, clearly defined islands forming a logical walkthrough.
+
+anchor_objects
+Freestanding Anchor Objects: Large info monoliths (Function: Overview & metrics; Mobility: stationary/rollable), product islands (Function: Samples and demos; Mobility: semi-mobile), interactive touch kiosks (Function: Career info, FAQs; Mobility: mobile/rollable), seating/discussion areas (Function: Meetings and consultations; Mobility: mobile). All elements are designed as freestanding units.
+
+circulation_accessibility
+Minimum aisle width, entrances, accessibility: Not specified.
+
+ambience
+Lighting/Audio/Music/Scent: Not specified.

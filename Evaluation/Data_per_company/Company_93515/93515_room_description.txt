@@ -1,0 +1,89 @@
+Brand Identity
+
+Short Tagline: The heartbeat of mobility. 
+
+Sector: Automotive Electronics & Software, Transport Systems, Smart Factory, IT Software Development, and Automation Technology. 
+
+Maturity: An established and growing company with around 2000 employees, offering a comprehensive range of products and services. 
+
+Geographical Reach: International, with over 20 locations globally. 
+
+Color Palette: Primary color is brand orange (approximately #FF6A00), complemented by dark anthracite (#333333) and white (#FFFFFF). 
+
+Design Language: Technical, clear geometries combined with smooth curves for user-friendliness. 
+
+Material Note: High-quality industrial materials for freestanding displays—matte metal, technical plastics, and textiles. 
+
+Logo Use: Prominent placement on freestanding information panels and displays in orange on a neutral background; high-contrast options for dark or light surfaces.
+
+Value Proposition Map
+
+Pillar 1 - Automotive Electronics & Software (approx. 35%): Development, testing, and system integration for autonomous, electric, and connected vehicles. Target: OEMs, suppliers, and vehicle developers. Evidence: Comprehensive product development services throughout the process.
+
+Pillar 2 - Transport Systems (approx. 20%): Digital solutions for rail systems like Digital Train and signaling systems. Target: Rail operators and infrastructure providers. Evidence: Focus on rail digitization.
+
+Pillar 3 - Smart Factory (approx. 25%): Industry 4.0 solutions for efficiency boosts, downtime reduction, and remote services. Target: Machinery and plant operators. Evidence: Customized software and system solutions for production optimization.
+
+Pillar 4 - Digital Software Development (approx. 20%): Software development from embedded to native apps. Target: Cross-industry clients with digitalization needs. Evidence: Around 200 developers on the team. Weighted by product range and technological depth.
+
+Culture Profile
+
+Values: Team spirit, support, innovation, and a willingness to learn shape the culture—collaboration is at the heart. 
+
+Pace: Research-driven and iterative, with a focus on practical development and testing. 
+
+Collaboration Style: Interdisciplinary and supportive, with strong personal contacts for onboarding and development. 
+
+Work Mode: Flexible and hybrid with remote options, training, and benefit-oriented offerings.
+
+Portfolio Focus
+
+Displayed are freestanding artifacts and demos such as hardware prototypes, functional models, interactive software stations, and short demo videos. 
+
+Interaction: Visitors interact with touch surfaces, physical controls, and assisted demonstrations; sensitive exhibits are behind freestanding barriers or on pedestals. 
+
+Safety: Guidance and personnel accompany interactions; electrical exhibits are secured and labeled.
+
+Narrative Assets
+
+Headline: Join us – shaping the future of mobility. 
+
+Key Messages: 1) Developing electronics and software for autonomous, electric, and connected vehicles; 2) Digitizing rail with solutions like Digital Train and control systems; 3) Smart factory solutions increase efficiency and reduce downtime. 
+
+Metrics & Signals: Around 2000 employees, over 20 locations; benefits and training offerings indicate sustainable employee development.
+
+Interaction Flow
+
+Modes: Self-guided tour via interactive kiosk, guided demonstrations, and career stations for engagement. 
+
+Path: Start at a central information pillar, choose a topic line (Automotive, Rail, Smart Factory, Digital), visit thematic exhibit pods with interactive stations, conclude at a career/contact station. Each station offers short demos, in-depth media, and professional contact opportunities.
+
+Zones Layout
+
+Freestanding Arrangement: Central information pillar as a starting point, radially arranged thematic pods (Automotive Hub, Rail Hub, Smart Factory, Digital Lab).
+
+Supplementary Clusters: Demo gallery with prototypes, video lounge, and career/networking zone.
+
+Space Distribution: Dominant thematic pods for core offerings, smaller islands for career and relaxation, all accessible as standalone units.
+
+Anchor Objects
+
+Types/Examples: Vehicle prototype pod with display platform, cab mockup, machinery model, large interactive touch tables, standing holographic displays, demo racks for control electronics, and mobile info kiosks. 
+
+Function: Demonstration, interaction, orientation, and information provision. 
+
+Mobility: Many anchors are on rolling bases or as modular, movable units, allowing reconfiguration.
+
+Circulation & Accessibility
+
+Flow & Access: Recommended minimum aisle width between exhibits is 1.5 meters, clear, accessible entry to all pods.
+
+Accessibility: Low information surfaces and tactile floor indicators at freestanding stations, audio descriptions, and high-contrast controls; seating available in island areas if needed.
+
+Ambience
+
+Lighting: Freestanding light pylons and directional spots with warm to neutral white LED lighting, accented with orange light elements. 
+
+Audio/Music: Subtle, low-tempo electronic soundscape with localized speakers at exhibits for specific audio info.
+
+Scent: Subtle, clean air with an optional light citrus note for brand association. All ambience elements integrated into freestanding lights, speaker towers, and scent dispensers.

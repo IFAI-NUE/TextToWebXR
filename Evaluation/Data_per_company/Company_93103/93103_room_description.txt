@@ -1,0 +1,89 @@
+identity_brand
+
+Brand: Logistics Solutions Provider  
+Tagline: "Logistics beyond"  
+Sector: Logistics and Integrated Services  
+Maturity: Established family business since 1928, leading in the field (approximately 1,600 employees, 260,000 m² space, over 30 locations)  
+Geographic Reach: Germany, Czech Republic, Hungary, Romania  
+Color Palette: Not specified  
+Design Language: Not specified  
+Materials: Not specified  
+Logo Usage: Not specified  
+
+value_proposition_map
+
+Pillar 1 – Contract Logistics & Space Operations:  
+- Benefit: Tailored warehousing and fulfillment solutions for efficient supply chains  
+- Target Audience: Manufacturers, Retail, E‑Commerce  
+- Proof: 260,000 m² of logistics space, >30 locations  
+
+Pillar 2 – Transport and Distribution Services:  
+- Benefit: Reliable domestic and international transport  
+- Target Audience: National and cross-border shippers  
+- Proof: Long-standing market presence since 1928  
+
+Pillar 3 – Innovation Lab:  
+- Benefit: Development of new logistics solutions and process optimization  
+- Target Audience: Existing customers, pilot projects  
+- Proof: In-house innovation lab in the portfolio  
+
+Pillar 4 – Creative Agency & Digital Services:  
+- Benefit: Brand and service development along the supply chain  
+- Target Audience: Clients needing digital/communication solutions  
+- Proof: Agency as part of the offerings  
+
+Pillar 5 – Personnel Services:  
+- Benefit: Flexible workforce resources for logistics operations  
+- Target Audience: Multi-site operators and clients  
+- Proof: Personnel services part of the group  
+
+Weighting: No exact percentages; classical logistics and spatial services dominate, supplemented by innovation and service offerings.
+
+culture_profile
+
+Values: Customer success, sustainability, innovation readiness, and family business leadership  
+Pace: Long-term focused with continuous development since 1928  
+Collaboration Style: Cross-departmental, combining operational functions with innovation and creative teams  
+Work Mode: Hybrid structures possible; benefits for employees include flexible working hours  
+
+portfolio_focus
+
+Showcasing practical logistics solutions, case studies on logistics and transport services, outcomes of the Innovation Lab, and examples from the creative agency. Artifacts include operational metrics, location overviews, and conceptual prototypes from the innovation sector. Interactive and visual presentations are suggested, though specific formats are not detailed.
+
+narrative_assets
+
+Headline: "Logistics beyond – tailored logistics for the future since 1928."  
+Key Messages:  
+1) Long-standing experience and broad operational base ensure customer continuity  
+2) In-house innovation lab and creative agency drive future-ready solutions  
+3) Multi-location presence in diverse regions facilitates cross-border support  
+Metrics & External Signals: Founded in 1928, approximately 1,600 employees, 260,000 m² of logistics space, over 30 locations  
+
+interaction_flow
+
+Entry with a brief overview of offerings and history, then thematic stations for logistics operations, transport, innovation, and services. Visitors can view evidence/case summaries, examine prototypes, and engage at consulting points with representatives. Finally, contact or recruiting area for further exploration.
+
+zones_layout
+
+Free-standing zones distributed as follows:  
+- Orientation/Reception 10%  
+- Operational Logistics Stations 35%  
+- Innovation and Prototype Area 25%  
+- Services and Agency Presentation 15%  
+- Career and Consulting Zone 15%  
+
+Each zone is an independent island with clear content focus, allowing guests to approach stations linearly or selectively.
+
+anchor_objects
+
+Types/Examples: Large-scale models of storage spaces or vehicles for illustration, info kiosks with case studies, interaction tables for prototype demonstrations, consulting islands with seating. Function: Orientation, demonstration, interaction, and consulting. Mobility: Models and kiosks can be stationary or on wheels for flexible rearrangement; specific implementation details not provided.
+
+circulation_accessibility
+
+Minimum corridor width: Not specified.  
+Entry points: Not specified.  
+Accessibility: Not specified.
+
+ambience
+
+Atmosphere: Professional, forward-thinking, and practical, aligning with the positioning as a leading logistics expert focused on innovation. Specific light, audio, music, or scent concepts: Not specified.

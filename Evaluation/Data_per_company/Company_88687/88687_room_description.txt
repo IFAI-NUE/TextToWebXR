@@ -1,0 +1,23 @@
+identity_brand
+Legal Name: Anonymous Company. Tagline: Where talents become part of #TeamAnonymous — Together, Dynamic, International. Sector: Manufacturer of tools and garden equipment, focusing on battery-powered solutions. Maturity Level: Established, international company (over 2,400 employees, revenue exceeding €1 billion). Geographic Reach: International. Color Palette: Primary red (approx. #E3001A), black (#000000), white (#FFFFFF), neutral gray (#6E6E6E). Design Language: Robust, functional, and ergonomic with clear, technical geometries. Material Note: Typical products made from plastic, metal, and rubber. Logo Use: Prominent, contrasting placement on product presentations and standalone display elements.
+
+value_proposition_map
+Power X-Change Battery Platform (40%): Offers universal battery compatibility and cordless freedom; target audiences include DIY enthusiasts, professionals, and gardening users; cited as a central platform and innovation driver. Battery Tools and Garden Equipment (35%): Benefits include endurance, performance, and safety; target audience is consumers in the DIY and gardening sectors; focus on advanced devices and standards. Price-Performance & Customer Service (15%): Offers good value and service quality; targets price-sensitive buyers and resellers; mentioned as having an attractive price-performance ratio and top-notch customer service. Research & Development / Test Solutions (10%): Offers technical advancements and product reliability; targets internal development teams, partners, and tech-savvy customers; job listings mention hardware setups, simulators, and patent support.
+
+culture_profile
+Values: Team orientation, passion for products, enthusiasm for innovation, and determination reflected in the self-description "#TeamAnonymous". Pace: Ambitious and decisive — emphasizing the achievement of high company goals. Collaboration Style: International, cross-functional, and team-centered with a strong focus on professional development. Work Mode: Hybrid and flexible, supported by benefits such as remote work, flexible hours, and training opportunities.
+
+portfolio_focus
+Featured are standalone product pedestals with tools and garden equipment, a Power X-Change battery station as a central exhibit, as well as prototypes and test rigs (e.g., cell and pack simulators). Interactive demo benches for hands-on tests and multimedia stations for product functions are included. Handling: Visitor-oriented, supervised hands-on tests; secured fastening and supervision for prototypes and safety-relevant exhibits. Safety: Display of product standards for performance and protection, along with lockable presentations for sensitive prototypes.
+
+narrative_assets
+Headline: Cordless Freedom — Power X-Change and German Engineering. Key Messages: 1) One battery platform for diverse applications, 2) Powerful, safe tools for DIY and gardening, 3) International growth through teamwork and innovation. Measurable Metrics & Signals: Over 2,400 employees, revenue exceeding €1 billion; external signals: established market presence as a pioneer in battery-powered tools.
+
+interaction_flow
+Visitors begin at a freestanding reception and orientation kiosk, proceed to product pedestals for visual orientation, then move to supervised demo benches for hands-on tests. Following this, freestanding tech islands lead to Power X-Change details and test rigs, followed by service and career kiosks as final points. Each step is organized through independent, modular elements that structure the circuit.
+
+zones_layout
+Orientation Zone (approx. 10%): freestanding reception kiosk and info pedestals. Product Presentation (approx. 35%): several freestanding pedestals and showrooms for tools and garden equipment. Demonstration and Test Zone (approx. 25%): modular demo benches with power access and hands-on stations. Battery/Tech Island (approx. 15%): central Power X-Change showcase and test rigs. Service & Career (approx. 15%): freestanding service kiosks and recruiting stations.
+
+anchor_objects
+Product Pedestals: Freestanding platforms for individual products, used for presentation and information; usually mobile/modular. Demo Benches with Power: For hands-on tests and live demos; often on wheels or modularly movable. Power X-Change Battery Showcase: Oversized battery exhibit as a focal point; typically anchored or heavily stabilized. Prototype and Simulator Rigs (e.g., 5-cell pack simulator): Functional testing devices for technical demonstrations; usually stationary and secured. Interactive Kiosks and Charging Stations: Information access and charging options; mobile or modularly designed. Seating Islands and Rest Areas: For discussions and extended stays; usually easily movable.

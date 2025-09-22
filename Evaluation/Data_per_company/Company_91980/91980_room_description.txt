@@ -1,0 +1,29 @@
+Brand Identity:
+Legal Name: A well-established global transportation company. Tagline: A strong rail for climate, people, and economy. Sector: Mobility, Infrastructure, and Transport; Maturity: Established multinational with a strong presence. Geographic Reach: Active in over 130 countries, with a focus on Germany and Europe. Color Palette: Distinctive red, white, and dark anthracite. Design Language: Clear, linear, technical geometries inspired by rail and vehicle design. Material Note: Robust industrial materials like steel and composites. Logo Use: Prominent and contrasting, suitable for vehicles and info pylons.
+
+Value Proposition Map:
+Core Offerings: 1) Infrastructure and Construction Projects – Benefits: Reliable, long-lasting transport routes; Audiences: Public clients, municipalities, engineers. 2) Passenger and Freight Solutions – Benefits: Eco-friendly mobility and logistics; Audiences: Passengers, industry partners. 3) Digital Tools & Engineering Services – Benefits: Precise planning and efficiency; Audiences: Planners, engineers. 4) Career and Training Opportunities – Benefits: Professional development, benefits; Audiences: Students, graduates. Focuses primarily on infrastructure and operations, then mobility and personnel development; exact proportions unspecified.
+
+Culture Profile:
+Values: Responsibility for climate and society, innovation, and reliability. Pace: Ambitious and project-driven with methodical planning. Collaboration Style: Interdisciplinary, team-oriented, high initiative. Work Mode: Hybrid options and flexible hours offered, with extensive training and health benefits.
+
+Portfolio Focus:
+Showcasing technical artifacts and interactive demos: scale models, CAD demos, and VR simulations. Complemented by information on benefits, career paths, and project examples. Features interactive stations and VR for hands-on experience. Safety details not provided.
+
+Narrative Assets:
+Headline: Strong Rails — Shaping Sustainable Mobility. Key Messages: 1) Actively creating eco-friendly transport infrastructure; 2) Offering diverse career paths with extensive benefits; 3) Combining engineering excellence with digital tools and international activities. Measurable Metrics: Presence in over 130 countries, about 500 career profiles, and approximately 2,000 interns and trainees annually.
+
+Interaction Flow:
+Visitors start at a prominent info pylon with orientation and branding, choose thematic stations (career, projects, technology, sustainability), and engage with interactive demos or VR experiences. Ends with advisory kiosks for questions and applications. Layout is modular for flexibility between stations.
+
+Zones Layout:
+Central axis with major anchor stations (Info, Career, Infrastructure Models), surrounded by smaller demo and VR areas plus seating spaces. Thematic clusters organized by technology, sustainability, and career interests. Open transitions, distinct individual stations.
+
+Anchor Objects:
+Examples: large train nose models for brand ID (fixed or portable), scale bridges and tracks as exhibits (stationary), interactive touch kiosks and info pylons (mobile), VR cabins and CAD stations (modifiable or mobile). Functions: Orientation, brand presence, technical demos, interaction, and advisory.
+
+Circulation Accessibility:
+Minimum walkway widths, entries, and detailed accessibility: Not specified.
+
+Ambience:
+Details on lighting, audio, music, and scent: Not specified.

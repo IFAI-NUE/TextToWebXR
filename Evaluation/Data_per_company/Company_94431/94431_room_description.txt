@@ -1,0 +1,46 @@
+**Identity Brand**
+
+Legal Entity: Engineering Firm - Established in 2015 and growing dynamically with recognized expertise in engineering services and technical building equipment. Main Office: Eichstätt (Nature Park Altmühltal) and a secondary office in Nuremberg, operating mainly regionally/nationally in Bavaria and Germany. Visual Style: Structured and technically oriented with a focus on clear, functional forms.
+
+**Value Proposition**
+
+1. **Engineering Planning (HOAI Phases 1-9):** Comprehensive planning for heating, ventilation, sanitation, and refrigeration with high standards targeting developers, architects, and public clients.
+2. **Building Management & Operation:** Management of technical installations, including control technology, for schools, clinics, and municipalities.
+3. **Special Solutions & Consulting:** Fire protection, water analysis, hygiene inspections, economic assessments, and expert reports for authorities and investors.
+4. **Renewable Energies & Feasibility Studies:** Planning and realization concepts for renewable energies for public and private investors.
+5. **Research, Education & Practical Projects:** Supporting theses, live test facilities, and digital twin initiatives for students and educational institutions.
+
+**Culture Profile**
+
+Values include responsibility towards people and the environment, quality, long-term partnerships, and continuous development. The company embraces a dynamic growth pace with a collaborative, mentoring-based work style, offering flexible working hours and development programs.
+
+**Portfolio Focus**
+
+Features planning documents, BIM and digital twin demonstrations, and real-world operational scenarios. Includes interactive BIM models and data analysis demonstrations.
+
+**Narrative Assets**
+
+Headline: "Systematic and Structured – Responsible Building Technology for People and the Environment."
+Core Messages emphasize holistic planning and operational services, practical research, and long-term partnerships with a focus on quality and customer satisfaction.
+
+**Interaction Flow**
+
+Entry through a welcoming info kiosk. Exploration involves engaging with model and demo stations. In-depth interaction at workstations or conversation pods with opportunities for project inquiries and recruitment.
+
+**Zones Layout**
+
+- Introduction Zone (10%): Info kiosk for orientation.
+- Exhibition Zone (40%): Displays with models and BIM tables.
+- Interactive Tech Zone (25%): Workstations and demonstration devices.
+- Test and Measurement Zone (15%): Test stands with data-gathering setups.
+- Conversation and Lounge Zone (10%): Meeting pods for discussions and recruitment.
+
+**Anchor Objects**
+
+- BIM Table: Central interaction point for digital models.
+- Physical Equipment Models: Demonstration objects for understanding functionalities.
+- Control Technology Demo Kit/Console: Showcases control and measurement technology functions.
+- Data Visualization Columns: Displays ongoing data and KPIs.
+- Test Bench: Demonstrative setups for parameter measurement.
+
+Circulation and accessibility details are not provided. Ambience details are not provided.

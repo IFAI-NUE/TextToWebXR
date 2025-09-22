@@ -1,0 +1,61 @@
+**identity_brand**
+
+Legal Name: BMZ Group / BMZ Germany GmbH. 
+Tagline: WE POWER THE FUTURE. 
+Sector: Production of lithium-ion battery system solutions (electrical engineering, precision mechanics, research & development). 
+Maturity: Established company with around 25 years of experience and about 3,000 employees. 
+Geographic Reach: Global, with headquarters in Germany and production sites in China, Poland, and the USA, as well as offices in Japan and France and global R&D locations.
+
+**value_proposition_map**
+
+1) Battery System Solutions Production (40%): Supply of complete lithium-ion systems for industrial applications; target groups include OEMs and industrial clients; supported by global production sites and 25 years of market presence. 
+
+2) Research & Development (30%): Development and optimization of battery technologies; target groups are research and industry partners; supported by worldwide R&D sites. 
+
+3) Global Production and Supply Network (20%): Scalable manufacturing and international presence for global market supply; target groups include international customers and suppliers; supported by locations in multiple countries. 
+
+4) Employer and Talent Offer (10%): Attractive benefits and career options for employees and students; target groups are applicants and working students; supported by extensive benefits and targeted job ads.
+
+**culture_profile**
+
+Values: Professional, responsible, and growth-oriented actions, complemented by sensitivity to handling personal data and a high quality awareness. 
+
+Pace: Dynamic and growth-driven with established structures from 25 years of experience. 
+
+Collaboration Style: International and project-oriented with cross-functional collaboration between production, R&D, and HR. 
+
+Work Mode: Hybrid options available (mention of remote work) along with flexible working hours and diverse employee benefits.
+
+**portfolio_focus**
+
+Showcases key products and competencies around lithium-ion battery system solutions, global production presence, and innovations from research. Includes information on employer benefits and awards.
+
+**narrative_assets**
+
+Headline: WE POWER THE FUTURE. 
+
+Core Messages: BMZ is a global manufacturer of complete lithium-ion battery system solutions; the company combines 25 years of experience with international manufacturing and worldwide research; BMZ offers attractive career and employment models for talent. 
+
+Metrics & External Signals: About 3,000 employees, production sites in China/Poland/USA, offices in Japan/France, multiple awards including "Bayerns Best 50" and IKOM Award 2018.
+
+**interaction_flow**
+
+Modes: Self-guided visits and guided tours. 
+
+Pathway: Start with a compact introduction to the company profile and slogan, proceed to product and production areas, followed by stations on research/innovation and career/benefits, and conclude in a section for contact and further exploration. Each station is designed as a standalone unit offering concise info and detailed content.
+
+**zones_layout**
+
+Central product/system areas (about 35%) for battery components and system demonstrations, production and manufacturing presence areas (about 20%) focusing on global production, R&D/innovation areas (about 20%) showcasing research topics, career and benefits zone (about 15%) for recruiting content and employee advantages, and a presentation and awards zone (about 10%) for achievements and metrics. All areas are designed as independent, freely positionable units.
+
+**anchor_objects**
+
+Freestanding product podiums with battery modules and system samples for direct viewing; interactive info totems for multimedia content and job offers; a model or exhibit for global presence (e.g., illuminated model/graphic object); display cases or pedestals for awards; modular seating niches for discussions. Mobility: Most anchor objects are modular and portable, allowing flexible arrangement and routing.
+
+**circulation_accessibility**
+
+Minimum aisle width, entries, and specific accessibility requirements: not specified.
+
+**ambience**
+
+No specific guidelines for lighting, audio, music, or scent provided.

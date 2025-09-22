@@ -1,0 +1,18 @@
+About Us: We are a specialist in IT security and a member of a renowned group. Our goal is clearly defined: to develop high-quality solutions to ensure reliable IT security for our clients.
+
+Our services include securing sensitive interfaces in governmental and industrial sectors, networking of highly critical infrastructures, securely encrypted data communication via the internet, remote maintenance systems, and remote access solutions for mobile employees and home offices. We offer extensive services tailored to our clients' needs.
+
+Specializations:
+- Network Security
+- Securing Critical Infrastructure
+- Secure Site Connectivity
+- Secure Cloud Connectivity
+- Secure Connectivity in Healthcare
+- Secure Mobile and Home Office Access
+- Encrypted Communication via VPN
+- Encrypted Communication via VPN up to certain security levels
+- Securing Remote Maintenance of Machinery and IT Systems
+- Securing Automation and Industrial Monitoring
+
+Legal Notice: [Website Link]
+Privacy Policy: [Website Link]

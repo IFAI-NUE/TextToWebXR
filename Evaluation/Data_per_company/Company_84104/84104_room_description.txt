@@ -1,0 +1,74 @@
+### identity_brand
+
+**Legal Name:** Company GmbH  
+**Tagline:** Miniature cameras for precise dispensing monitoring.  
+**Sector:** Industrial and Mechanical Engineering, Biotechnology/Pharmaceuticals, Electrical Engineering/Precision Mechanics/Optics, Medical Technology, and Automation Technology.  
+**Maturity Level:** Tech startup with secured funding from a private investor (since fall 2023).  
+**Geographical Reach:** Not specified.  
+**Color Palette (HEX):** Not specified.  
+**Design Language:** Compact, precise, and tech-minimalist, focusing on micromechanics and optics.  
+**Material Note:** High-precision metal, glass, and technical plastic components.  
+**Logo Usage:** Not specified.
+
+### value_proposition_map
+
+**Core Offering:**  
+Miniature cameras for continuous monitoring of dispensing processes with in-flight 3D imaging. Benefit: high dosing precision and reduced waste; Target: Manufacturers in Pharma, Biotech, Medical Technology, and Automation. Evidence: Product description.  
+
+**Secondary:**  
+3D imaging and analysis software for real-time quality control. Benefit: Direct process optimization and traceability; Target: Production and quality engineers. Evidence: Mention of virtual 3D images.  
+
+**Additional:**  
+Integration, embedded, and web app development. Benefit: Seamless integration into existing manufacturing environments; Target: System integrators and developers. Evidence: Tools in job listings.  
+
+**Sales/Support:**  
+Market entry strengthened by private capital and sales support. Benefit: Increased market access and reliability for customers. Evidence: Investor since fall 2023.  
+
+**Focus:**  
+Emphasis on hardware and imaging, supported by software/integration and sales (qualitatively prioritized).
+
+### culture_profile
+
+**Values:** High motivation, open communication, team orientation, driven by the motto that the team's well-being reflects the company's well-being.  
+**Pace:** Fast-paced, product- and development-driven startup.  
+**Collaboration Style:** Flat, direct, and hands-on with clear expectations for engagement.  
+**Work Mode:** Modern and flexible with remote work opportunities, flexible hours, and additional benefits.
+
+### portfolio_focus
+
+Showcasing prototypes of miniature cameras and demo setups with droplet detection, live 3D visualizations, and web app demos. Includes technical insights into embedded and web development based on tools mentioned in job listings.  
+
+**Handling:** Standalone demo units and interactive kiosks for visitors' immediate use.  
+**Safety for Exhibition Operation:** Not specified.
+
+### narrative_assets
+
+**Headline:** The first miniature camera for continuous dispensing monitoring.  
+**Key Messages:**  
+1. Real-time 3D imaging of droplets in flight enables extreme dosing precision.  
+2. Reduction in waste and process costs in pharma and high-tech manufacturing.  
+3. Stability and growth secured by private investor funding and sales support.  
+
+**Measurable Metrics:** Not specified; **External Signals:** Secured funding since fall 2023 and technical orientation from job listings.
+
+### interaction_flow
+
+Visitors begin at a freestanding reception/info kiosk with a brief product overview, followed by a hardware demo island with live 3D visualization. Next, a software pod introduces web app features and integration options, supplemented by a technical deep dive for developers. A lounge/inquiry station concludes the experience with access to sales and recruitment.
+
+### zones_layout
+
+**Freestanding Zones:** Reception/info kiosk as an entry point; hardware demo islands for physical camera modules; software pods for demos; hands-on developer corner for tech stacks and code examples; lounge/recruiting area for conversations and networking.  
+
+**Space Allocation:** Primary focus on hardware demos and visualization, followed by software pods and a compact lounge area. Exact square footage: not specified.
+
+### anchor_objects
+
+Key freestanding items include demo pedestals with miniature camera devices, interactive touch kiosks for web app exploration, transportable demo rigs for droplet capture (mobile setup), and seating/conversation islands for recruiting and sales. Functions encompass demonstration, interaction, technical explanation, and contact. Mobility: Demo rigs and kiosks preferably mobile or on wheels, pedestals and seating islands movable as needed.
+
+### circulation_accessibility
+
+Not specified.
+
+### ambience
+
+The atmosphere is inspired by the company's internal "home-like" vibe: relaxed, friendly, modern, and informal. Lighting and sound design aim to support technical precision while being inviting and relaxed, complemented by free drinks and snacks. Specifics on scent or detailed audio/music: not specified.

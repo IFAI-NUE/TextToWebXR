@@ -1,0 +1,45 @@
+identity_brand
+
+Brand Name: cityUP. Tagline: "Real Estate Portfolio Strategies. Efficient. Transparent. Flexible." Sector: Construction/Architecture, IT Software Development, Research & Development. Stage: Startup preparing for the pilot phase. Geographical Reach: Not specified. Color Palette: Not provided. Design Language: Not provided. Material Note: Not specified. Logo Usage: Not provided.
+
+value_proposition_map
+
+1) Automated Digital Twins (40%): Generation of digital twins for entire building portfolios based on official 3D building data; Benefit: Fast, consistent data foundation for planning; Target Audience: Housing companies; Evidence: Use of official 3D data and platform approach.
+
+2) Platform for Sustainable Modernization Strategies (30%): Planning at district, building, and component levels to prioritize actions; Benefit: Efficient, transparent decisions; Target Audience: Strategic planners in housing companies; Evidence: Product focus and pilot phase.
+
+3) Simulation and Prioritization Modules (15%): Tools for simulating economic and environmental scenarios; Benefit: Data-driven investment prioritization; Target Audience: Portfolio managers; Evidence: Mention of simulation & prioritization as product features.
+
+4) Pilot Partnerships & Implementation Support (15%): Collaborating with established housing companies for introduction; Benefit: Risk-minimized deployment and practical validation; Target Audience: Early-adopter housing companies; Evidence: Pilot phase preparation with partners.
+
+culture_profile
+
+Values: Data and results-driven, transparent and solution-oriented. Pace: Agile startup speed with rapid iteration, developed over two years and preparing for pilot. Collaboration Style: Cross-functional, utilizes version control and collaborative development (e.g., GitHub). Work Mode: Flexible work with remote options and expectation for independent, structured work; Communication in German and English.
+
+portfolio_focus
+
+Showcased are interactive software artifacts like digital 3D models of entire portfolios, UI demos of the web application, and simulation results. Handling: Interactive demos and guided use cases for scenario exploration and prioritization. Security & Privacy: No specific measures provided.
+
+narrative_assets
+
+Headline: "Data-Driven Planning for Sustainable Modernizations in Housing Companies." Core Messages: 1) Automated digital twins provide a unified data foundation; 2) Platform enables efficient, transparent, and flexible investment decisions; 3) Product is aimed at housing companies and is currently being tested in pilot projects. Metrics & External Signals: Over two years of development experience; Pilot phase preparation with established housing companies; Use of official 3D building data.
+
+interaction_flow
+
+Modes: Guided tour for decision-makers, self-service demo for technical users, and deep-dive sessions for pilot partners. General Path: Brief introduction at an information kiosk, followed by interactive 3D model stations for portfolio exploration, subsequent simulation tables for prioritization, and final contact/meeting modules for discussion and pilot agreements.
+
+zones_layout
+
+Freestanding zones: Reception/intro point for orientation, clusters with interactive 3D model islands, workstations for simulations and prioritizations, exhibition area for pilot cases and partner information, and modular meeting pods. Space distribution: Demo and model areas take the largest share, followed by hands-on simulations and smaller partner/meeting areas.
+
+anchor_objects
+
+Large freestanding 3D model stations as focal points and interaction spaces, interactive kiosks/tablets for UI demos, high demo tables for simulations, freestanding info columns with partner case cards, and modular meeting pods for discussions; Function: Presentation, interaction, exchange; Mobility: Mix of fixed model stations and mobile kiosks/pods.
+
+circulation_accessibility
+
+Minimum corridor width: Not specified. Entry/Exit to areas: Not specified. Accessibility: Not specified.
+
+ambience
+
+Light/Audio/Music/Scent: Not specified.

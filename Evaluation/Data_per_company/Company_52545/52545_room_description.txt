@@ -1,0 +1,29 @@
+**Identity Brand**
+Legal Name: KN-Electronics Solutions Co. Tagline: We Invent Solutions! Sector: Custom Electronics and Mechatronic Solutions (Hardware/Software, Imaging, Measurement, Trace Gas Analytics, Bus Systems, Wireless). Maturity: Established company with approximately 40 years of history. Geographic Reach: Not specified. Color Palette (HEX if available): Not specified. Design Language: Functional, modular, and industrial, focused on technical precision. Materials: Metal, PCBs, technical plastics, mechanical components. Logo Usage: Not specified.
+
+**Value Proposition Map**
+1) Custom Development & Engineering (approx. 30%): Comprehensive solutions from concept to production, including hardware and software for OEMs and industry partners; backed by portfolio and 40 years of expertise. 2) Measurement and Sensor Systems (approx. 25%): Optical and photoacoustic sensors, trace gas analysis, and imaging for research and medical partners; validated by projects like collaboration with key industry players and academic work. 3) Power Electronics and Test Solutions (approx. 20%): Circuit topologies, power semiconductors, and test concepts for mobility and battery testing; supported by relevant job postings. 4) Production & Manufacturing (approx. 25%): Devices, cabinet construction, assembly, and machining for industrial and research clients; emphasized by advanced production capabilities.
+
+**Culture Profile**
+Values: Innovation focus ("We Invent Solutions!"), Quality consciousness, and Customer orientation. Pace: Project-driven, technology-oriented workflow with room for R&D. Collaboration Style: Interdisciplinary, practical teamwork with external partners and student involvement. Work Mode: Combination of on-site production/R&D and flexible models (e.g., remote work, flexible hours).
+
+**Portfolio Focus**
+Showcasing prototypes and demonstrators in sensors and imaging, power electronics samples, and test concepts, along with assemblies/cabinets and production process visualizations. Complemented by project videos and documentation, along with interactive software demos (apps, web interfaces, AI algorithms). Handling: Interactive, standalone exhibits and touch kiosks, plus demonstration setups. Security: Not specified.
+
+**Narrative Assets**
+Headline: 40 Years of Tailored Electronics and Mechatronics Solutions. Key Messages: 1) End-to-end capability from concept to production; 2) Specialization in sensors, imaging, and power electronics; 3) Practical research and collaborations (e.g., with industry leaders) with student involvement. Measurable Metrics & External Signals: Approximately 40 years in business, active projects, and various student research opportunities; specific partnerships and focus areas in job listings.
+
+**Interaction Flow**
+Visitors begin at a standalone info kiosk with a compact company overview and navigation to topic areas. Followed by thematic stations on sensors, power electronics, and manufacturing with interactive demonstrators and video documentaries. Deepening at hands-on benches for software/AI demos and a contact point for project inquiries and recruiting. Concluding with the option to download further materials digitally or schedule an expert appointment.
+
+**Zones Layout**
+Central information hub with orientation and navigation, surrounded by thematic demo zones (sensors, power electronics, production). Complementary areas with hands-on software/AI tables, presentation zone for videos and case studies, as well as quiet meeting islands and a recruiting/contact stand. All areas are freestanding units, clearly grouped by theme.
+
+**Anchor Objects**
+Freestanding info kiosk for orientation and registration (mobile). Sensor demonstration pods (e.g., optical/photoacoustic sensor) for live demos; typically transportable on pedestals or mobile. Test or power electronics rigs as dominant anchors for power topics, large and generally less mobile. Presentation islands with touch kiosks and prototype pedestals for assemblies and PCBs; easily movable. Hands-on worktables for interactive software and firmware demonstrations; mobile or modular design.
+
+**Circulation Accessibility**
+Minimum aisle width, entrances, and specific accessibility measures: Not specified.
+
+**Ambience**
+Lighting and sound design, music or scent concept: Not specified.

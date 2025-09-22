@@ -1,0 +1,29 @@
+identity_brand
+Legal Name: A well-established technology group known for electronic capital goods in both economic and governmental sectors. Tagline: Make ideas real! Industry: Technology. Maturity: Over 90 years of company history as a leading technology provider. Geographic Reach: Headquartered in Munich with additional locations in various cities. Color Palette: Not specified. Style: Technical, precise, functional, and industry-focused. Materials: Not specified. Logo Usage: Not specified.
+
+value_proposition_map
+Pillar 1 — Development & Production: Offers research, development, and manufacturing of electronic capital goods. Benefit: Reliable, high-quality devices. Target: Industrial and government clients. Proof: Production and development sites in Germany. Pillar 2 — Sales & Service: Provides sales and service offerings. Benefit: Comprehensive lifecycle support. Target: Operators and organizations. Proof: Service location in Cologne. Pillar 3 — Education & Talent Development: Offers training and dual study programs. Benefit: Qualification and long-term skilled workforce retention. Target: Trainees, students. Proof: Numerous training positions and dual study programs, regularly with top graduates. Pillar 4 — Technological Leadership & Innovation Projects: Offers highly specialized solutions and research expertise. Benefit: Market-leading technologies. Target: Research partners, discerning industrial clients. Proof: Company’s portrayal as a technology leader. Weighting: No precise percentages available; qualitative focus on development/production and customer solutions along with education.
+
+culture_profile
+Values: Innovation, technical excellence, quality, and responsibility to customers and society. Pace: Focused and sustainable—engineering and production-driven with long-term goals. Collaboration: Team-oriented, interdisciplinary, and project-based. Work Mode: Combination of on-site presence in production/development and flexible options (e.g., flexible hours, continuous education), with a strong practical focus.
+
+portfolio_focus
+Content: Standalone exhibits of electronic goods, prototype models, demonstration stations, and video-based application demos. Handling: Interactive demo spots and guided hands-on stations, with safety instructions if necessary. Safety: No specific safety requirements mentioned.
+
+narrative_assets
+Headline: Make ideas real! Core Messages: 1) Over 90 years of experience make the company a reliable technology leader. 2) Production and development in Germany ensure quality and expertise. 3) Extensive training and study programs develop future professionals. Metrics & Signals: Approximately 3,600 employees at the Munich headquarters, production sites with 1,600 and 2,000 employees respectively in other cities; training successes are nationally recognized.
+
+interaction_flow
+Modes: Self-guided exploration, guided demo tours, and career/recruitment advice. Path: Starting at a central reception platform, choosing between technology and career paths, visiting interactive demo stations and training areas, concluding in a conversation or networking area. Visitor interaction focuses on hands-on demonstrations and personal consultations.
+
+zones_layout
+Free-standing zones: Central reception and orientation area as a starting point, multiple technology and demo stations for product presentations, clusters with career and training pods, workshop or lab setups with model manufacturing, and lounge and conversation areas for consultation and networking. General Layout: Technological demonstrations dominate, followed by product presentations, career/training, and break areas; specific area proportions not provided.
+
+anchor_objects
+Types/Examples: Large product plinths with stationary devices, interactive demo tables/benches, standalone career pods/kiosks, mobile service carts for live demos, VR/AR stations on platforms, and seating areas for discussions. Function: Present, explain, interact, and advise. Mobility: Many elements are designed as mobile or easily movable units to allow flexible exhibition space adjustments.
+
+circulation_accessibility
+Flow & Access: Clear, direct paths between exhibits for intuitive visitor guidance; multiple entry points with free-standing reception and info pods. Minimum aisle width: Not specified. Entry points: No details on formal entry designs. Accessibility: No specific details or standards mentioned.
+
+ambience
+Lighting/Audio/Music/Scents: No specific lighting concepts, audio cues, music styles, or scent settings specified. Recommended mood from company context: Professional and focused, supported by clear lighting and subtle acoustic elements; detailed design unspecified.

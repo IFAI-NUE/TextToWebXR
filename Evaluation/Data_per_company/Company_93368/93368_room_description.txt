@@ -1,0 +1,46 @@
+**Identity Overview**
+
+A company specializing in comprehensive automation solutions, from planning to service, operating in the fields of plant and mechanical engineering, electrical engineering, automation, and engineering services. Established as a mid-sized business since 2010, with roots dating back to 1964. They have three locations in Germany and international project experience. The brand values precise and functional designs that emphasize engineering quality, favoring industrial materials and metallic surfaces.
+
+**Value Proposition**
+
+1. **Project Planning & Engineering (30%)**: Full project management from planning to delivery for plant operators and OEMs.
+2. **Design & Manufacturing (30%)**: Includes prototyping and series production in their own workshop for machine builders and industrial clients.
+3. **Commissioning & Service (25%)**: On-site functions and operational checks for operators and integrators.
+4. **Consulting, Sustainability & Knowledge Transfer (15%)**: Focus on sustainable solutions and professional training for long-term partners.
+
+**Culture Profile**
+
+Values include partnership, responsibility, openness, and respectfulness. The work environment is team-oriented, solution-driven, and committed to continuous improvement with flexible work options and opportunities for training.
+
+**Portfolio Focus**
+
+Displays include standalone rigs for automation processes, switch cabinets, and in-house manufactured prototypes, complemented by interactive kiosks with EPLAN demos and commissioning video documentation. Visitors can interact via touch kiosks and designated demo areas with safety zones for machinery.
+
+**Narrative Assets**
+
+Headline: Holistic Automation — Expertise from Idea to Service. Core messages emphasize complete solutions, manufacturer independence for tailored solutions, and a strategic focus on sustainability and energy efficiency. Notable attributes include three locations in Germany and an in-house training facility.
+
+**Interaction Flow**
+
+Visitors can choose between self-guided tours using kiosks and guided demonstrations at demo rigs. The general path: introductory kiosk → overview display → demo rig and prototype cluster → hands-on EPLAN stations → project discussion and contact exchange pod. Visitors can book appointments at a mobile service desk.
+
+**Zones Layout**
+
+- Entry and orientation zone with info kiosk (10%)
+- Main demo zone with demo rigs and interactive displays (45%)
+- Workshop/prototype presentation area on pedestals (25%)
+- Consultation and lounge zone with seating and meeting pods (15%)
+- Includes traffic areas and safety distances.
+
+**Anchor Objects**
+
+Standalone demo rigs and machinery models serve as visual and test objects. Control cabinets on pedestals display electrical setups and EPLAN plans. Interactive kiosks present videos and offers. Mobile service carts and tool stations aid live demos and consultations.
+
+**Circulation & Accessibility**
+
+Gangway width, access points, and accessibility details not specified.
+
+**Ambience**
+
+Lighting, audio, music, and scent details are unspecified.

@@ -1,0 +1,65 @@
+**Identity Brand**
+
+**Legal Name:** [Company Name].  
+**Tagline:** Precision with Air.  
+**Sector:** Manufacturing and Engineering, Electrical Engineering/Precision Mechanics/Optics, Research & Development.  
+**Maturity Level:** Established Mid-sized Business (50–249 employees).  
+**Geographic Reach:** Not specified.  
+**Design Style:** Technical, precise, functional, minimalistic.  
+**Material Notes:** Not specified.  
+**Logo Usage:** Not specified.  
+
+**Value Proposition Map**
+
+**Pillar 1 — Precision Air Bearing Products:**  
+Provides air-supported cross tables, linear axes, spindles, rotary tables, and air bearing pads with precision down to the nanometer range. Targeted at OEMs in precision mechanics, optics, and engineering.  
+
+**Pillar 2 — Cleanroom and Wear-Free Systems:**  
+Products suitable for cleanrooms and wear-free, reducing downtime and contamination. Target markets include semiconductor, laboratory, and medical technology industries.  
+
+**Pillar 3 — Customized Development:**  
+Tailored systems and components for specific applications, targeted at research institutions and industrial users with special requirements.  
+
+**Pillar 4 — Expert Support & Updates:**  
+Offers technical advice, insights, and product updates through company communication, aimed at existing customers and prospects.  
+
+**Culture Profile**
+
+**Values:** Focus on precision, innovation, and reliability.  
+**Pace:** Methodical and quality-focused, aiming for high-precision results.  
+**Collaboration Style:** Close cooperation with customers for individual solutions and team-oriented work internally.  
+**Work Mode:** Hybrid, employee-friendly options (flexible hours, remote work, training).  
+
+**Portfolio Focus**
+
+Features stand-alone demonstration platforms for core products: air-supported cross tables, linear axes, spindles, rotary tables, and air bearing pads. Includes models, function demos, and short videos illustrating precision and cleanroom suitability.  
+
+**Narrative Assets**
+
+**Headline:** Precision with Air — Nanometer Precision.  
+**Key Message 1:** High-precision air-supported components for demanding applications.  
+**Key Message 2:** Cleanroom-suitable, wear-free systems for long life and minimal contamination.  
+**Key Message 3:** Customized development capabilities for specific customer needs.  
+
+**Interaction Flow**
+
+Visitors begin at an information kiosk for orientation and tour mode selection (self-guided or guided demos). Followed by product stations with live demos and interactive control panels, then a hands-on testing area for practical assessments. Concludes with consultation booths for technical discussions and a media lounge with in-depth information.  
+
+**Zones Layout**
+
+- **Orientation and Reception Area (10%)** for tour selection and registration.  
+- **Main Section with Product Stations (50%)** for cross tables, axes, and spindles.  
+- **Interactive Testing Area (20%)** for precise measurement and hands-on experiences.  
+- **Consultation Booths and Media Lounge (20%)** for discussions, videos, and detailed information.  
+
+**Anchor Objects**
+
+- **Demonstration Platforms for Air-Supported Cross Tables:** Showcase movement and precision; mostly stationary.  
+- **Presentation Racks for Linear Axes:** Visualize linear motion; stationary or semi-mobile.  
+- **Pedestals for Spindles and Rotary Tables:** Demonstrate rotation and interfaces; freestanding.  
+- **Air Bearing Pad Models on Stands:** Illustrate bearing principles; mobile.  
+- **Interactive Information Kiosks and Consultation Stations:** Used for navigation and detailed research; mobile or easily repositionable.  
+
+**Ambience**
+
+A clean, minimalistic atmosphere with neutral, clear lighting to highlight technical details. Subtle technical operational sounds and factual explanations during demos; no loud music. Scent climate: neutral and clean, aligning with the cleanroom suitability of the technologies on display.

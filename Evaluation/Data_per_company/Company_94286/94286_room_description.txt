@@ -1,0 +1,48 @@
+identity_brand
+Company Name: HAWE Micro Fluid GmbH.  
+Tagline: For a world under pressure.  
+Sector: Mini and compact hydraulics, custom system solutions.  
+Established: Over 50 years of experience.  
+Geographic Reach: Based in Germany with international scope within the HAWE Group (global presence).  
+Color Palette: Not specified (typically conservative-technical: Blue/Grey/White).  
+Design Language: Compact, functional, precise, and modular.  
+Materials: Metallic precision parts and technical plastics.  
+Logo Use: Applied on products and marketing communications; detailed guidelines not specified.
+
+value_proposition_map
+1) Hydraulic Components (35%): Small, high-performance parts for OEMs and developers; Benefit: high power density and compact integration; Core offering.  
+2) Pre-configured Sets (15%): Ready-to-install kits for quick integration; Target: Machine builders and system integrators.  
+3) Complete System Solutions for Medical Use (25%): Plug-and-play hydraulic systems for medical technology; Benefit: certifiable, precise solutions for regulated applications.  
+4) Locking Systems for Amusement Rides (10%): Safety solutions for the leisure industry; Target: Facility operators.  
+5) Custom Engineering Services (15%): Development of tailored systems and consulting; Target: Industrial clients with specific requirements.
+
+culture_profile
+Values: Engineering expertise, reliability, and customer focus, supported by sustainability efforts of the HAWE Group.  
+Pace: Technically focused and project-oriented with a solid, experienced work rhythm.  
+Collaboration Style: Cross-functional cooperation between R&D, Product Management, Sales, and HR.  
+Work Mode: Hybrid and flexible work options available; benefits include remote work and flexible hours.
+
+portfolio_focus
+Featuring standalone product displays (mini hydraulic components), pre-configured sets, and scale system demonstrators. Supported by video demos and interactive digital presentations of system functions. Hands-on models and guided demonstrations for technical insights.
+
+narrative_assets
+Headline: Compact Hydraulics – Reliable under Pressure.  
+Key Messages:  
+1) Specializing in mini and compact hydraulics for over 50 years.  
+2) Turnkey solutions for medical, industrial, and specialized applications.  
+3) Part of the international HAWE Group with local service.
+
+interaction_flow
+Visitors choose between a guided tour and a self-guided walkthrough at a reception kiosk. Standalone product areas offer hands-on demos, followed by system demonstrations and case study stations. Conclusion: Contact and lead station with information on career and collaboration opportunities.
+
+zones_layout
+Entry/reception area for module registration, standalone product zones for components and kits, a demonstration stage for system showcases and videos, and a section with meeting and consultation pods for client and recruiting discussions. Enhanced with interactive info kiosks and a social media/content spot for uploads and engagement.
+
+anchor_objects
+Pedestals with exhibits (compact hydraulic components) for direct viewing; interactive demo setups (medical system replicas, locking demonstrator) for function explanations; media information kiosks and a video stage for live demos; modular seating and meeting pods for discussions.
+
+circulation_accessibility
+Minimum dimensions for passageways, entry types, or specific accessibility certifications not specified. Mentioned employer benefits (e.g., flexible working hours, remote work) suggest an open, employee-friendly environment, but specific structural accessibility details are not described.
+
+ambience
+Lighting, audio, music, or scent not described.

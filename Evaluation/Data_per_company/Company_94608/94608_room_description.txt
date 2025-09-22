@@ -1,0 +1,29 @@
+identity_brand
+Legal Entity: A prominent tech company. Tagline: "We record & analyze communications." Sector: Cloud services and software for omni‑channel recording, quality management, and analysis. Experience: Established company with over 40 years of global operations. Headquarters: Based in Bavaria with 13 subsidiaries worldwide. Color and Design Details: Not specified.
+
+value_proposition_map
+Pillar 1 – Omni‑Channel Recording: Secure capture of audio, video, screen recordings, chats, and meetings; Target Audience: Financial services, contact centers, public safety; Evidence: Self-described as a leading global provider. Pillar 2 – AI-Driven Analysis & Quality Management: Automated evaluations and trend discovery; Audience: Organizations with compliance and quality demands; Evidence: Focus on AI-based analytics. Pillar 3 – Cloud Services & Secure Storage: Scalable cloud solutions for recording and archiving; Audience: Global organizations with large data needs; Evidence: Offered as cloud services. Pillar 4 – Consulting & Support: Support in implementation, training, and consulting for integration; Audience: Businesses needing solutions; Evidence: Solution consulting and product management emphasis. Weight: Described qualitatively.
+
+culture_profile
+Values: Team spirit, openness, curiosity, and innovation. Pace: Agile and adaptable with a focus on proactive development. Collaboration Style: Interdisciplinary collaboration between sales, development, solution consulting, and product management. Work Mode: Flexible hours and remote work options, with targeted training and development opportunities.
+
+portfolio_focus
+Exhibit Highlights: Interactive platform demos, AI analysis tools as live visualizations, demo videos, and whitepapers. Interaction: Via touch-enabled kiosks and guided demo terminals. Security: Emphasis on secure recordings and compliance aspects. Extras: Career section with information on student positions, benefits, and training.
+
+narrative_assets
+Headline: "We record & analyze communications — Secure recording, intelligent evaluation." Core Message 1: Market-leading omni‑channel recording for regulated industries. Core Message 2: AI-driven analytics provide meaningful insights and trends. Core Message 3: Global service offering with over 40 years of experience and 13 subsidiaries. Key Metrics: Over 40 years of expertise; location in Bavaria with 13 global subsidiaries.
+
+interaction_flow
+Modes: Orientation mode for overview, demo mode for hands-on experience, deep-dive mode for technical details, and career mode for job information. Path: Starts at a welcome area for orientation, followed by rotating demo pods for live scenarios, deep analytics stations, and a career and contact area. Visitors progress from overview to technical details with clear interaction points.
+
+zones_layout
+Freestanding Zones: Welcome area for entry and orientation, main demo cluster with interactive pods for product showcases, analytics lounge with multiple stations for in-depth visualizations, career area with info points and contacts, and a relaxation and conversation zone with seating. Space Emphasis: Focus on demo cluster and analytics lounge, supported by a compact career area and interaction zones.
+
+anchor_objects
+Types: Interactive kiosks with touchscreens for demos, closed demo pods for media scenarios (some mobile), information totems for overview content, multifunction touch tables for collaborative analyses, seating clusters with exhibition tables for discussions. Function: Information delivery, hands-on interaction, consultation points. Mobility: Mix of stationary installations and mobile units.
+
+circulation_accessibility
+Minimum dimensions, entrances, and specific accessibility guidelines: Not specified. Contextual Notes: The company offers flexible working arrangements and varied employee benefits, but specific exhibition accessibility details are not provided.
+
+ambience
+Lighting, Audio, Music, or Scent: Not specified. Contextual Notes: Focus on professional, technology-oriented presentation and media demonstrations suggests a clear and professional aesthetic, though specific guidelines are not given.

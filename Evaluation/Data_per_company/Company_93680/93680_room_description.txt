@@ -1,0 +1,29 @@
+identity_brand
+Legal Name: Technology Transfer Center: Digital Intelligence. Short Tagline: AI @ SMEs. Sector: Science, Research & Development. Maturity Level: Not specified. Geographic Reach: Regional transfer towards SMEs in industry and craftsmanship. General Color Palette: Not specified. Design Language: Not specified. Material Note: Not specified. Logo Usage: Not specified.
+
+value_proposition_map
+Core Offerings: 1) Technology and Implementation Transfer: Implementation of AI solutions for regional SMEs, targeting small and medium enterprises in industry and craftsmanship; Evidence: Repeated mention of transfer role; Weight: Approx. 40%. 2) Applied Research: Designing and implementing AI solutions, supported by doctoral candidates and research teams; Target: Industry and research partners; Evidence: Job postings for AI doctoral candidates; Weight: Approx. 30%. 3) Training & Events: Awareness, training offerings, and events for SMEs, employees, and society; Targets: SMEs, employees, public; Evidence: Company profile mentions training offerings; Weight: Approx. 20%. 4) Project Support & Collaboration: Promotion of joint projects between science, business, and community, including supervised research projects; Targets: Companies, community, research; Evidence: Interdisciplinary orientation and doctoral offerings; Weight: Approx. 10%. (Weights are rough estimates based on available information.)
+
+culture_profile
+Culture: Collaborative between science, business, and community with a clear practical focus. Values: Applied research, promotion of training, and accessibility for SMEs. Pace and Work Style: Flexible with remote work and flexible hours; Learning-oriented through trainings and employee events. Collaboration Style: Interdisciplinary and project-based.
+
+portfolio_focus
+Featured Exhibits: Freestanding interactive demonstrators for image, speech, and signal processing, prototype AI solutions for industry and craftsmanship, audiovisual project presentations and research outputs. Handling: Interactive stations and demos for hands-on exploration by visitors. Safety Instructions or Specific Protective Measures: Not specified.
+
+narrative_assets
+Headline: AI @ SMEs – Accessible Technology Transfer to Practice. Core Messages: 1) We transfer digitalization and AI directly into regional SMEs; 2) We connect applied research with practical implementation teams; 3) We offer training and events to raise awareness among companies and society. Measurable Metrics & External Signals: Employees 10–49, affiliation with a local university, advertised fully funded AI doctoral positions as a signal of research depth.
+
+interaction_flow
+Visitors start at a freestanding orientation booth with a brief overview, followed by tangible demo pods showing specific AI applications. A workshop and training area leads to hands-on sessions; research stations display project results, and a networking zone invites interaction. Modes: Self-guided exploration, guided presentations, and interactive workshops.
+
+zones_layout
+Orientation Area (approx. 10%) with freestanding info kiosks; Cluster of Demo Pods (approx. 40%) for use cases; Learning and Workshop Hub with modular tables and seating (approx. 25%); Research and Results Corner with posters and showcases (approx. 15%); Networking Lounge with freestanding furniture (approx. 10%). Spaces are arranged as independent, freestanding zones.
+
+anchor_objects
+Typical Anchor Objects: Interactive information kiosks on stands (orientation and navigation), demo pods/stations with touch interfaces (hands-on), freestanding displays on stands for videos and visualizations, plinths with physical prototypes, modular seating islands for workshops, mobile whiteboards/moderation furniture. Function: Presentation, interaction, exchange; Mobility: Many objects are modular and mobile, some larger demos semi-permanent.
+
+circulation_accessibility
+Minimum Aisle Width: Not specified. Entries/Access to Individual Zones: Not specified. Accessibility (general ergonomic design, tactile cues, etc.): Not specified.
+
+ambience
+Not specified.

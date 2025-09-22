@@ -1,0 +1,47 @@
+**Identity Brand:**
+
+**Legal Name**: Engineering Office - Testing Center; **Tagline**: Not specified. **Sector**: Engineering services focused on vehicle technology/automotive industry. **Company Size**: Small (0–9 employees); **Geographic Reach**: Local/regional. **Color Palette**: Not specified; **Design Language**: Not specified; **Material Note**: Not specified; **Logo Usage**: Not specified.
+
+**Value Proposition Map:**
+
+**Core Services**:  
+1) Official vehicle inspections, including emissions tests (Benefit: Legal vehicle approval; Target: Households, vehicle owners) — Approx. 35%.  
+2) Modification approvals (Benefit: Legal approval of modifications; Target: Tuners, workshops) — Approx. 20%.  
+3) Safety inspections for commercial vehicles and buses (Benefit: Operational safety, legal compliance; Target: Fleet operators, transport companies) — Approx. 15%.  
+4) Inspections according to ADR and BO-Kraft (Benefit: Hazardous materials and bus transport safety; Target: Freight companies, bus operators) — Approx. 15%.  
+5) Classic car appraisals (Benefit: Historical and value classification; Target: Classic car owners) — Approx. 15%.
+
+**Culture Profile:**
+
+**Work Culture**: Family-oriented and collegial with flat hierarchies. **Pace and Work Mode**: Mix of office/testing center and fieldwork, structured processes through an 8-month traineeship. **Collaboration Style**: Hands-on guidance by experienced inspectors, emphasis on teamwork, commitment, and further development.
+
+**Portfolio Focus:**
+
+Showcasing service-related artifacts and demos: Descriptions of inspection procedures, training programs (traineeship), sample inspection reports, and case studies on main inspections, modification approvals, and safety checks. Interaction: Interactive stations with tutorials and demonstrations; safety instructions and protective gear included.
+
+**Narrative Assets:**
+
+**Headline**: Official Vehicle Inspection and Practical Training. **Core Messages**:  
+1) We conduct official inspections on behalf of a recognized monitoring organization.  
+2) We provide practical training for inspection engineers (8-month traineeship).  
+3) Reliable inspection and appraisal services for cars, commercial vehicles, and classic cars. **Metrics & Signals**: 8-month traineeship, 30 days of vacation, partnership with a recognized organization; Team: 0–9 employees.
+
+**Interaction Flow:**
+
+Visitors choose from Service Information, Training Details, or Technical Demo modes. The path leads to information kiosks, demonstration areas with inspection examples, and ends at a consultation/booking station. Each station offers concise, modular content for self-guided exploration or tours.
+
+**Zones Layout:**
+
+Divided into zones: Reception and information area with a kiosk, demonstration lane with vehicle/inspection stations, training area with learning and simulation islands, consulting pod, and a small exhibition of sample appraisals. Layout designed for user-focused sequences: Info → Demo → Training → Consulting.
+
+**Anchor Objects:**
+
+Key objects include information kiosks (digital/print) for orientation, demonstration platforms for vehicle inspections (mobile stands or podiums), interactive training islands for traineeship, and consulting pods. Function: Orientation, demonstration, training, consultation; Mobility: Kiosks and training islands mostly portable, demonstration platforms vary.
+
+**Circulation Accessibility:**
+
+Specific guidelines for aisle widths, entries, and accessibility are not provided.
+
+**Ambience:**
+
+Details on lighting, audio, music, or scent concepts are not provided.

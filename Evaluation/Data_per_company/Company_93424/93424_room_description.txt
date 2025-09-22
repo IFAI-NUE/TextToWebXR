@@ -1,0 +1,58 @@
+**identity_brand**
+
+Company Name: A leading engineering firm. 
+Tagline: Innovators at Heart. 
+Industry: Technical Building Equipment & Engineering Services in Construction. 
+Established: Long-standing (founded in 1968) and modernized with BIM integration. 
+Geographic Reach: Based in Munich, managing complex projects nationally and internationally. 
+Design Style: Clear, technical, and systematic with a focus on functionality and precision.
+
+**value_proposition_map**
+
+1) Building Services Engineering & Consulting (approx. 40%): Comprehensive planning of advanced building technology for all project phases. Targets include property owners, general contractors, and architectural firms; proven by extensive company history and project experience.  
+2) BIM Implementation and Support (approx. 30%): Execution of Building Information Modeling for coordinating complex projects; targets project teams and planners as a key to project management.  
+3) Sustainability and Lifecycle Solutions (approx. 15%): Resource-efficient concepts throughout the entire lifecycle; aimed at public sector clients and investors.  
+4) Interface Coordination & Process Optimization (approx. 10%): Interdisciplinary coordination to enhance efficiency; targets project managers and developers with services like specifications and process optimization.  
+5) Consulting & Training (approx. 5%): Support with software applications (AutoCAD MEP, Revit) and professional development; aimed at junior and experienced planners with ongoing training offerings.
+
+**culture_profile**
+
+Values and Work Ethic: Team-oriented, learning-focused, and responsible with a strong emphasis on systems thinking.  
+Pace: Project-driven and results-oriented with ongoing development through BIM dynamics.  
+Collaboration Style: Interdisciplinary and coordinated, with daily team collaboration.  
+Work Mode: Flexible, with remote work options, flexible hours, and professional development opportunities.
+
+**portfolio_focus**
+
+Features digital BIM models and Revit/AutoCAD demos, project case studies, specifications, and examples of technical detail planning. Presented via freestanding interactive kiosks, touch stations, and VR/AR stations with supporting staff.
+
+**narrative_assets**
+
+Headline: Innovators at Heart — Technically Precise, Sustainably Planned.  
+Key Messages:  
+1) Combining decades of experience with contemporary digitalization through BIM.  
+2) Comprehensive, resource-efficient concepts for the entire project lifecycle.  
+3) Team-oriented execution with interdisciplinary interface coordination.
+
+**interaction_flow**
+
+Modes: Information module (intro), interactive demonstrations (BIM/software), VR experience for project walkthroughs, and personal consultations.  
+Path: Visitors start at an information kiosk, choose a demo, explore interactive models at touch stations or VR stations, and can then consult with staff at an advisory island.
+
+**zones_layout**
+
+Entrance and information area with freestanding kiosks, central demo area for digital models and VR stations, a zone with physical building equipment models, and a consultation and meeting area with tables/pods. Layout focused on visitor flow and interaction.
+
+**anchor_objects**
+
+Freestanding informational kiosks for introduction; interactive touch kiosks and large multi-touch tables for BIM demos; VR/AR stations with headsets as experience anchors; freestanding physical building equipment models as tangible examples; consultation islands/stands for discussions. Most items designed to be movable or easily reconfigurable; other exhibits as stable freestanding installations.
+
+**circulation_accessibility**
+
+Minimum aisle width: unspecified.  
+Zone entries/access: unspecified.  
+Accessibility: unspecified.
+
+**ambience**
+
+Lighting, audio, music, and scent: unspecified.

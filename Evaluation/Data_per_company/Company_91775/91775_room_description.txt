@@ -1,0 +1,39 @@
+identity_brand
+
+Company Name: Anonymized Company. Tagline: "Mental health for everyone!" Sector: Health/IT Software Development/Medical Technology/Research & Development. Status: Emerging startup with academic roots; Market Scope: Entire market. General color palette, design language, material hint, and logo usage: not specified.
+
+value_proposition_map
+
+1) Evidence-based digital therapy programs (Benefit: lasting improvement in quality of life; Audience: individuals with mental health issues; Proof: explicitly "evidence-based programs"). Weight: 45%. 2) Mobile apps and platform development (Benefit: direct access to treatment; Audience: patients, developer partners; Proof: multiple job ads for app development). Weight: 25%. 3) Care solutions and integration with stakeholders (Benefit: bridging care gaps; Audience: providers, payers, healthcare system; Proof: company description identifies care gaps). Weight: 20%. 4) Research & Evaluation (Benefit: scientific validation; Audience: research partners, clinicians; Proof: academic roots and R&D focus). Weight: 10%.
+
+culture_profile
+
+Values: evidence-based, patient-centric, and innovation-driven. Work pace and style: agile working (Scrum mentioned), high standards for clean code, and independent work. Collaboration style and work mode: cross-functional teams with flexible hours, remote work options, and an open startup culture (Benefits: flexible hours, remote work, team events, pets allowed).
+
+portfolio_focus
+
+Primarily showcasing digital products and their demonstrations: app demos, prototypes, programmatic interventions, and summarized research results. Developer-related artifacts (code examples, integration descriptions) and career information may also be included. Specific details on handling, security certificates, or privacy measures: not specified.
+
+narrative_assets
+
+Headline: "Mental health for everyone!" Core messages: 1) We develop evidence-based programs for a sustainable improvement in quality of life for mental health conditions. 2) We bridge care gaps through digital solutions and close collaboration with stakeholders. 3) Academic roots and technical product expertise drive research and development. Measurable metrics and external signals (e.g., user numbers, clinical outcomes): not provided; external signals: Presence in health, IT, and medical technology contexts, and active recruitment of developers.
+
+interaction_flow
+
+Visitors start at an Intro Island with a compact company presentation and options to choose different modes (Product Demo, Research Insight, Developer/Career Area). The Product Mode includes interactive app demos and case studies; Research Mode presents evidence and study results; the Developer Mode offers technical insights and integration examples. Visitors can contact for partnerships or applications at the end.
+
+zones_layout
+
+Freestanding zones include a reception/intro island, several product demo islands with mobile pods, a research lounge for evidence presentation, a developer/integration hub, and a career/partner island. Space distribution (rough guide): Product demos dominate, followed by the developer hub, research lounge, and career area. All zones are designed as independent, freestanding units.
+
+anchor_objects
+
+Key freestanding anchor objects are interactive kiosks for app demos, demo pods or cabins with headset stations, information totems for evidence display, and seating/dialog islands for discussions. Function: presentation, interaction, information dissemination, and discussion areas; Mobility: A mix of fixed kiosks and mobile pods/touch stations is planned.
+
+circulation_accessibility
+
+Specific information on minimum aisle widths, entrances, or explicit accessibility is not included in the context; therefore: not specified.
+
+ambience
+
+Specific information about lighting design, audio/music, or scent concepts is not included in the context; therefore: not specified.

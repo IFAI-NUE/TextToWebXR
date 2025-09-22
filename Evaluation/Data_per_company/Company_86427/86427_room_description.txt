@@ -1,0 +1,81 @@
+**identity_brand**
+
+Legal Name: ESy-Labs GmbH. 
+
+Tagline: Electrifying Synthesis.
+
+Sector: Development and implementation of electrochemical syntheses for chemistry, recycling, and biotechnology.
+
+Stage: Young start-up, founded in 2018.
+
+Geographic Reach: National and European R&D projects and collaborations.
+
+Color Palette: Not specified.
+
+Design Language: Not specified.
+
+Material Note: Not specified.
+
+Logo Usage: Not specified.
+
+**value_proposition_map**
+
+Pillar 1 – Electrochemical Process Development: Benefit is accelerated development and scaling of electrochemical syntheses for industry partners; target groups are chemical and recycling companies; evidenced by focusing on transferring from lab to large-scale processes.
+
+Pillar 2 – High-Throughput Screening & AI: Benefit is faster parameter prediction and reduced laboratory efforts; target groups are process developers and research labs; evidenced by scaling screening combined with statistical methods and AI.
+
+Pillar 3 – Collaborations & Licensing: Benefit is access to technology without internal development; target groups are industry partners and licensees; evidenced by direct industry collaborations and licensing of own developments.
+
+Pillar 4 – Application Projects (Recycling, Bio-based Products): Benefit is concrete solutions for metal and waste streams and bio-based product development; target groups are waste management, mining, and sustainable chemistry; evidenced by projects on zinc/copper recycling, paraffins, and recycling of persistent organic waste.
+
+Weighting: No numerical breakdown available; qualitatively focused on high-throughput screening & AI combined with process development and project-based application.
+
+**culture_profile**
+
+Values: Focus on development, innovation, scientific accuracy, and cooperation with research partners.
+
+Pace: Research and project-driven, typically fast start-up pace.
+
+Collaboration Style: Interdisciplinary and cooperative with academic and industrial partners.
+
+Work Mode: Lab- and data-driven project work focusing on practical experimentation, analytics, and machine learning integration; flexible hours and further education are mentioned.
+
+**portfolio_focus**
+
+Displayed Artifacts include: Semi-automated screening system, screening pot cells (undivided cells), sample storage, and representations of analytical instruments (GC, HPLC, NMR) as well as datasets and ML models.
+
+Demos/Models/Videos: No specific media types mentioned, but practical screening demonstrations and data evaluations are key contents.
+
+Handling: Experimental handling and data collection are part of the activities (e.g., for final theses).
+
+Safety: Not specified.
+
+**narrative_assets**
+
+Headline: Electrifying Synthesis.
+
+Core Statements: Pioneer in Germany's use of electrosynthesis as a central technology; accelerates chemical process development through high-throughput screening plus statistics and AI; application cases range from metal recycling to bio-based products; collaborations and publicly funded R&D projects underline relevance.
+
+Measurable Metrics & Signals: Founded in 2018, active national and European R&D projects, and industry collaborations.
+
+**interaction_flow**
+
+Visitors start at an information point and choose between guided demonstrations and self-directed stations. The general path leads from a live demonstration of the screening system to analytical demonstrations, then a data/AI station with case studies. Final discussion areas facilitate in-depth technical and commercial talks with team members.
+
+**zones_layout**
+
+Free-standing arrangement in clear islands: central demonstration island with the semi-automated screening system, adjacent analytics island with equipment representations, a data and AI island with dashboards and models, and project showcases for recycling and bio-based products. Complemented by information kiosk and seating/meeting pods as free-standing encounter spaces.
+
+**anchor_objects**
+
+Typical anchors are the semi-automated screening system (representing process hardware), modular pot cell demonstrators, free-standing props or replicas of GC/HPLC/NMR, interactive touch kiosks for data visualization, sample and display shelves, and mobile process flow models. Purpose: Demonstration, interaction, sample presentation, and knowledge transfer.
+
+Mobility: Many anchors are modular and mobile to allow rearrangements and live demos.
+
+**circulation_accessibility**
+
+No specification on minimum aisle widths or specific entry points. No information on accessibility.
+
+**ambience**
+
+No specific details on lighting design, audio/music, or scent concepts.

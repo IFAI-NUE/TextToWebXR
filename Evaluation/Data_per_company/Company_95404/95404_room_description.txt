@@ -1,0 +1,48 @@
+identity_brand
+
+Tagline: #UPLIFTYOURFUTURE (≤80 characters). Sector: Aerospace; Status: Established, leading German engine company with extensive development and manufacturing. Global Reach: Locations in Munich, Berlin-Ludwigsfelde, Hannover-Langenhagen, with international presence in China, Canada, Malaysia, Netherlands, Serbia, Poland, USA, and Australia. No specific color palette, design language, material guidance, or logo usage provided.
+
+value_proposition_map
+
+Core Offerings:
+1) Engine Development & Manufacturing – Benefit: Reliable propulsion technologies for aviation; Target Groups: Aircraft manufacturers, airlines, operators; Proof: Established as Germany's leading engine manufacturer.
+2) Research & Innovation – Benefit: Advancing emission-reducing technologies; Target Groups: Industry partners, research institutions; Proof: Vision of "zero-emission flying."
+3) Sustainability & Environmental Compliance – Benefit: Legally compliant and sustainable site management; Target Groups: Site operators, authorities; Proof: Defined environmental management responsibilities.
+4) Talent & Career Development – Benefit: Education, internships, attractive benefits; Target Groups: Students, young professionals; Proof: Numerous internship and work-study positions and employee benefits.
+Focus: Primarily on engine development/manufacturing, supplemented by research/innovation, environmental compliance, and talent promotion.
+
+culture_profile
+
+Values: Initiative, performance and responsibility, and teamwork are emphasized. Style: Challenging, problem-oriented approach with a focus on technical solutions and continuous improvement. Collaboration: Engaged, team-based cooperation across disciplines. Work Mode: Flexible hours and home-office options available, along with training and health programs.
+
+portfolio_focus
+
+Featured topics include engine development and propulsion technologies, research approaches to emission reduction, and roles in environmental protection; additionally, career and training opportunities. Formats: Physical models and prototypes, digital demos/videos, and information-based job and project stations. Handling: Interactive presentations and explanatory media, with safety details related to testing and operational processes. Specific exhibit lists: not provided.
+
+narrative_assets
+
+Headline: Fly Emissions-Free – Shape the Future. Key Messages:
+1) As a leading German engine manufacturer, we advance new propulsion technologies.
+2) Our research and production aim for more sustainable, low-emission aviation.
+3) We invest in people through education and training along with various benefits.
+Measurable Metrics: not provided. External Signals: international locations and active talent acquisition through diverse job offerings.
+
+interaction_flow
+
+A linear exploration path is advisable: Orientation → Engine and Technology Exhibits → Research & Innovation Demos → Sustainability and Environmental Management Stations → Career and Training Area. Modes: Self-guided exploration with optional guided tours and interactive demonstrations. Transitions focus on thematic closures (Technology → Sustainability → Career).
+
+zones_layout
+
+Standalone Zones: Entrance/Info; Engine Exhibition; Research & Innovation Area; Sustainability & Environmental Zone; Career and Training Area; Quiet Lounge/Networking Space. Space Distribution (qualitative): Emphasis on engine exhibition, supplemented by research and sustainability areas with a compact career section and relaxation zone.
+
+anchor_objects
+
+Key Standalone Objects: Large-scale engine models or components as central attractions, interactive info stations/kiosks with digital demos, test stands or simulator exhibits for demonstrations, and seating areas for recruitment conversations. Function: Orientation, demonstration of technical content, interaction, and conversation facilitation. Mobility: Preferably modular and transportable for reconfiguration and maintenance.
+
+circulation_accessibility
+
+Specific measurements for aisles, entries, or special accessibility provisions: not provided. Mentioned company offerings like good transport connections and employee support suggest user orientation, but specific physical accessibility measures in the exhibition space are not described.
+
+ambience
+
+No details on lighting concepts, audio, music, or scent atmosphere provided.

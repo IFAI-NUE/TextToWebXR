@@ -1,0 +1,29 @@
+identity_brand
+Legal Name: [Company Name Redacted]. Tagline: We create solutions. Sector: Machinery components for various industries including textile yarns, chemical fibers, hygiene, packaging, and lithium batteries. Maturity: Established company with nearly 70 years of market presence. Geographic Reach: Global distribution with headquarters in Bavaria. Color Palette: Neutral, technical tones like gray, blue, and metallic accents. Design Language: Technically precise, functional, and performance-oriented. Material Note: Metallic components and engineering materials such as steel and hardened alloys. Logo Usage: Not specified.
+
+value_proposition_map
+Core Offering 1 – High-performance machine components (e.g., custom bearings): Benefits include speed, space efficiency, and durability; Target audience: manufacturers in textile, packaging, hygiene, and batteries; Evidence: almost 70 years in use with renowned manufacturers. Core Offering 2 – System expertise and custom solutions: Complete, coordinated component solutions for demanding applications; Audience: engineering and production departments; Evidence: Subsidiary of a globally present company. Core Offering 3 – Development, prototyping, and measurement systems: Technical consulting, trial planning, and monitoring solutions; Audience: R&D departments and industrial clients; Evidence: Job profiles include prototype support and bearing monitoring. Core Offering 4 – Global sales and service: Delivery capability and local support; Audience: international manufacturers and suppliers; Evidence: "global presence" statement. Emphasis: Strongly product and technology-driven with a focus on components and development.
+
+culture_profile
+Values: Emphasizes technical excellence, innovation, customer focus, and collegiality. Tempo: Results-oriented work with project responsibility. Collaboration Style: Cooperative and team-oriented, encouraging everyone's knowledge contribution. Work Mode: Flexible hours and support through training; stresses individual development opportunities.
+
+portfolio_focus
+Exhibits: Standalone examples of real components and bearing solutions, prototypes, and assemblies for various industries. Demos/Models: Functional demonstrators and test units illustrating vibration dynamics and bearing monitoring. Handling & Safety: Physical exhibits for viewing with guided demonstrations as needed; specific safety instructions not provided.
+
+narrative_assets
+Headline: Proven component expertise meets custom innovation. Key Messages: 1) Nearly 70 years of experience in high-efficiency bearing solutions; 2) System expertise across multiple industries; 3) Focus on custom development, prototype testing, and global support. Measurable Metrics & External Signals: Nearly 70-year history and cited as a global leader; other metrics: not provided.
+
+interaction_flow
+Orientation: Visitors receive a concise company overview from a standalone information pylon. Product Discovery: Followed by standalone product displays, demonstration stations for prototypes and measurement solutions. Conclusion: Career and contact stations on standalone kiosks for applicants and business inquiries. Detailed plans or visitor numbers: not provided.
+
+zones_layout
+Arrangement: Standalone display sequence—Intro pylon, product islands, demo/testing areas, innovation/R&D corner, and career kiosk. Space distribution in words: Focus on product presentation followed by demo and development areas; precise proportions: not specified. Navigation aided by standalone markers.
+
+anchor_objects
+Types/Examples: Standalone pedestals with component samples, rotating demonstrators for bearing behavior, prototype test stands, interactive touch kiosks, and showcases for components. Function: Illustrative demonstration of technical properties, hands-on experience, information dissemination. Mobility: Some exhibits are transportable; heavy machinery parts remain freestanding.
+
+circulation_accessibility
+Minimum aisle width, entry points, and specific accessibility: not provided. General guidance on visitor flow or technical details for accessibility not included.
+
+ambience
+Lighting, audio, music, and scent: not provided. Specifics on lighting, acoustics, or scent design are not within the provided context.

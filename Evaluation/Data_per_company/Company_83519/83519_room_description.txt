@@ -1,0 +1,29 @@
+identity_brand  
+Company: A well-established, mid-sized engineering firm with over 180 employees, operating globally in the industrial solutions sector, particularly in plant and machinery construction, metal, automotive, and automation technology. Tagline: Reliable, customized industrial solutions. Visual Identity: Emphasizes robust, functional, and technical design with metallic components and high-quality materials.
+
+value_proposition_map  
+1) Customized Systems — Benefit: Tailored solutions for process optimization; Target: Industrial companies, OEMs, automotive suppliers; Evidence: "create and deliver customized, innovative solutions." 2) Reliable, Maintenance-Friendly Products — Benefit: High availability and easy maintenance; Target: Operators and maintenance teams; Evidence: "stringent quality controls" and "maintenance-friendly." 3) Modern Engineering and Production Techniques — Benefit: Precise design and efficient manufacturing; Target: Project planners and production managers; Evidence: Investments in state-of-the-art technology. 4) Project Management and Worldwide Delivery — Benefit: Handling large projects and international logistics; Target: International industrial clients; Evidence: "a team of over 180 employees... and deliver worldwide."
+
+culture_profile  
+Values: Reliability, high-quality standards, and continuous learning. Work Environment: Focused, goal-oriented with high standards; collaborative, team-oriented, and project-based. Modern, flexible work modes with opportunities for training and development.
+
+portfolio_focus  
+Features standalone prototypes, interactive CAD/3D models, and demonstration rigs. Includes case studies of varied project sizes, testing, and quality certifications. Interactive stations for operations and maintenance simulations alongside live demos.
+
+narrative_assets  
+Headline: Reliable, customized industrial solutions for every project size. Key Messages: 1) Tailored engineering solutions for industry and automotive; 2) Emphasis on reliability and maintenance-friendly design; 3) Investment in modern construction and employee training; 4) Capabilities for projects from small tasks to multimillion installations. Metrics: Over 180 employees, worldwide delivery, large-scale projects.
+
+interaction_flow  
+Visitors can choose between self-guided tours of information and demo islands, or guided tours with experts at large demonstration setups. General Path: Reception → Product/Prototype Islands → Live Demonstration Rigs → Technical and Maintenance Stations → Consultation Pod, ending with a service kiosk for direct contact.
+
+zones_layout  
+A welcoming info area leading to product and demo islands sorted by category. A separate live demo area with rigs and test stands, complemented by a gallery for models and CAD stations. Includes group work and consulting pods, plus a media and presentation area.
+
+anchor_objects  
+Large machine mockups as focal points and demonstration centers, scaled models on pedestals, interactive kiosks and VR stations for digital presentations, and mobile demo rigs for live demonstrations. Provides hands-on experience and expert advice. Some exhibits are fixed, others are modular or mobile.
+
+circulation_accessibility  
+Not specified.
+
+ambience  
+Not specified.

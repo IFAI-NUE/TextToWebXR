@@ -1,0 +1,29 @@
+**Identity Overview**  
+This company is a well-established energy and electrical engineering enterprise, part of a larger group, with a rich history spanning over a century. They are known for their slogan, "Energy is our strength." Operating both regionally and internationally, the organization has over 600 experts within the company and over 3,000 in the group. The design approach is pragmatic, technical, and functional.
+
+**Value Proposition**  
+1) **Complete Solutions & Project Management**: Offering planning, development, and commissioning for private, commercial, and municipal clients. 2) **Overhead Line Planning & Routing**: Specializing in route planning and coordination with stakeholders. 3) **Statics & Construction for Overhead Lines**: Performing static calculations and load assessments. 4) **Installation, Commissioning & Regional Service**: Providing execution, onsite solutions, and ongoing local support.
+
+**Culture Profile**  
+The corporate culture emphasizes reliability, quality, and a familial atmosphere. Offers include professional development and social security benefits. The work environment is professional and project-focused, with an interdisciplinary and collaborative approach.
+
+**Portfolio Focus**  
+Showcases include technical artifacts: model overhead lines, CAD/GIS visualizations, and interactive planning options. Interactive touch stations and VR setups are used for engagement, with a focus on safety features like personal protective equipment and site protocols.
+
+**Narrative Assets**  
+Headline: "Energy is our strength – over 100 years of expertise in energy technology." Key points include the company’s long-term expertise, comprehensive services from planning to commissioning, and specialized competence in overhead line planning.
+
+**Interaction Flow**  
+Visitors can choose between self-guided or guided tours, starting at an infopoint with an overview of history and offerings. Interactive planning stations, model demonstrations, and videos are featured, ending at a contact/career kiosk.
+
+**Zones Layout**  
+Freestanding zones designed as islands include a reception and introduction area, an engineering zone with CAD/GIS stations, and a safety and equipment section. The layout supports exploration and in-depth engagement at each station.
+
+**Anchor Objects**  
+Central features include a large model of an overhead line mast, interactive touch kiosks, VR/simulation stations, and displays with safety gear and site protocols. These serve for demonstration, interaction, and information delivery.
+
+**Circulation & Accessibility**  
+Specifics on aisle width, entrances, and accessibility features are not provided.
+
+**Ambience**  
+Details regarding lighting, audio, music, and scent design are not specified.

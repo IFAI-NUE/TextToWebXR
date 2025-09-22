@@ -1,0 +1,26 @@
+identity_brand
+Legal Name: A leading Pump and Compressor Manufacturer. Sector: Manufacturing. Maturity: Established international medium-sized enterprise with approximately 700 employees. Geographic Reach: Global presence with locations in multiple countries.
+
+value_proposition_map
+Core Offerings: 1) Manufacturing of pumps and compressors – Benefit: Reliable fluid and pressure technology for various industries; Target: Industrial operators. 2) Custom solutions and engineering – Benefit: Tailored systems over standard products; Target: Customers with specific needs. 3) Global support and local presence – Benefit: International service with regional closeness; Target: Multinational and local clients. Focus on product quality and custom solutions complemented by global service.
+
+culture_profile
+Company Culture: Practical, engaged, with a focus on short decision paths. Values: Innovation, responsibility, and teamwork are emphasized. Work Style: Pragmatic, solution-oriented approach with flexibility. Collaboration: Cross-department cooperation and focus on employee development.
+
+portfolio_focus
+Showcased Exhibits: Physical pumps and compressors, technical models, product datasheets, case studies, and digital demonstrations. Demos and Videos: Product function demonstrations and usage scenarios. Presentation: Independent demonstration stands for viewing and explanation.
+
+narrative_assets
+Headline: Proven Pump and Compressor Technology, Delivered Globally. Key Messages: 1) Long-standing expertise as a manufacturer across various sectors; 2) Custom, flexible solutions with swift decision paths; 3) International presence with local service. Metrics: Approximately 700 employees and multiple locations as indicators of reach and capacity.
+
+interaction_flow
+Experience Flow: Begins at an information point with orientation kiosks, followed by product islands with demonstrations. Interactive stations lead to case studies and service offerings; concludes with a career and contact area. Modes: Self-guided exploration with guided demo sessions.
+
+zones_layout
+Zone Distribution: Central exhibition island with main products, thematic satellite islands for solutions, a separate career and info area, and mobile demo and meeting pods. Product islands dominate the exhibition, supplemented by service and career areas.
+
+anchor_objects
+Key Anchor Objects: Large pump and compressor models on pedestals as focal points; section models for internal component display; interactive kiosks for product information; mobile meeting and presentation pods for discussions and recruitment. Function: Demonstration and customer engagement; Mobility: Heavy equipment stationary, portable pods movable.
+
+circulation_accessibility: Not specified
+ambience: Not specified

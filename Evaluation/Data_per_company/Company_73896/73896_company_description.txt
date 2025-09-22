@@ -1,0 +1,11 @@
+About Us: We are a leader in innovative asset surveillance solutions, enabling seamless customer experiences. We developed the first patented anti-theft IoT sensors for retail protection.
+
+With our Intelligent Asset Surveillance (IAS) solutions, retailers can:
+
+- Actively track and trace IAS-tagged items for deeper insights into product and customer behavior.
+- Easily attach IAS tags that unlock at the point of sale for faster checkout.
+- Enable tag unlocking for staffed checkout, self-checkout, associate mobile devices, and even shopper's mobile devices to enhance customer experiences.
+- Utilize robust IAS tags that integrate with existing EAS infrastructure for exit alerts.
+- Conduct active inventory checks with associate mobile devices as they move through the store.
+- Use innovative cabinet and showcase locks unlocked via associate mobile devices - eliminating the need for keys.
+- Employ Active IAS tag beaconing for identifying stolen items, enhancing deterrence, and aiding in apprehensions and merchandise recovery by law enforcement.

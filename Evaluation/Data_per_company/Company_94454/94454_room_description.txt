@@ -1,0 +1,48 @@
+**Brand Identity**
+
+**Company Name:** A tech startup focusing on B2B generative AI solutions, founded in 2023 in Würzburg, Germany. Founders have extensive consulting experience.  
+**Geographic Reach:** Based in Würzburg, targeting the B2B market.  
+**Color Palette:** Dark, tech-oriented tones (e.g., deep blue, petrol, neutral gray).  
+**Design Style:** Clear, modern, and functional with geometric, minimalistic shapes.  
+**Materials:** Digital surfaces, matte metals, and high-quality finishes.
+
+**Value Proposition**
+
+**Core Platform (≈50%):** A low-code software platform enabling the development, testing, and integration of generative AI applications without coding. Target audience: B2B companies and departments; evidenced by a focus on rapid prototyping.  
+**Predefined Use-Cases Library (≈20%):** Ready-made AI use cases for swift business process implementation; target audience: experts and process leaders.  
+**Multi-LLM Access & Security (≈15%):** Secure, easy access to various LLM providers; target audience: IT teams and security managers.  
+**Onboarding & Customer Success (≈15%):** Support for deployment, customization, training, and ongoing assistance; target audience: clients during rollout.
+
+**Culture Profile**
+
+**Values:** Customer-oriented, practical, and results-driven, focusing on tangible business productivity.  
+**Pace:** Startup speed with rapid learning and development, emphasizing quick prototyping.  
+**Collaboration Style:** Cross-functional and team-oriented; employees work independently and cooperatively.  
+**Work Environment:** Flexible hours, small teams; emphasis on practical customer work and AI learning.
+
+**Portfolio Focus**
+
+Showcases include interactive demos of the low-code IDE, use-case library demonstrations, short videos of customer workflows, and example integrations. Visitors can test use cases through interactive demo terminals and sandbox stations. Security: Emphasizes safe access to LLM providers and governance features.
+
+**Narrative Assets**
+
+**Headline:** Bring Your GenAI Use Cases to Life.  
+**Key Message 1:** Rapid prototyping makes AI accessible without programming effort.  
+**Key Message 2:** Secure access to multiple LLM providers allows flexible model choices.  
+**Key Message 3:** Predefined use cases offer immediate automation and productivity benefits.
+
+**Interaction Flow**
+
+Modes include self-guided exploration, guided demo tours, and sandbox interaction. Starting at the info hub with an overview, visitors can select demo use cases, work in the sandbox, view integration examples, and finalize with contact/pilot agreements. Stations facilitate independent exploration and guided sessions.
+
+**Zones Layout**
+
+Freestanding arrangement with a central info hub (introduction and brand), multiple demo islands with thematic use-case terminals, a sandbox lab for interactive prototypes, a story and reference zone with videos, and consulting/meeting pods for direct discussions. Emphasis on demo and sandbox areas, supplemented by storytelling and consultation zones.
+
+**Anchor Objects**
+
+Freestanding info kiosks and interactive terminals showcase platform functions; holographic or large displays for key messages and videos; mobile sandbox stations (laptops/tablets) for hands-on prototyping; freestanding consulting pods for discussions and live demos. Designed to inform, demonstrate, explore, and discuss; highly mobile for various exhibition scenarios.
+
+**Accessibility and Ambience**
+
+No information provided.

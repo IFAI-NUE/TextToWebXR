@@ -1,0 +1,33 @@
+Brand Identity:  
+Legal Name: Brose Group. Tagline: Building Excellence Together. Sector: Mechatronics and Automotive Supplier (systems for doors, hatches, seats; electric motors). Scale: Large enterprise, established (about 32,000 employees, annual revenue of 7.9 billion euros, one of the top five family-owned suppliers). Global Reach: Present in 69 locations across 24 countries. Color Palette: Technical, neutral tones with blue and gray shades; HEX codes: not specified. Design Language: Precise, functional, and engineering-driven with clear, mechanical lines. Materials: Metallic and technical plastics for demonstration objects and prototypes. Logo Usage: Not specified.
+
+Value Proposition Map:  
+Pillar 1 — Mechatronic Systems for Doors, Hatches, and Seats: Provides reliable vehicle functionality and comfort; Target: OEMs and vehicle manufacturers; Evidence: One in three new cars contains at least one product from the company. Importance: ~35% (leading product category).  
+Pillar 2 — Electric Motors (200 W–14 kW) for Steering, Thermal Management, E‑Bikes/E‑Scooters: Offers efficient drives and modular solutions; Target: OEMs, mobility providers, and two-wheeler manufacturers; Evidence: Wide range of performance and applications. Importance: ~25%.  
+Pillar 3 — Testing, Development, and Validation Services (X-ray/CT, Test Facilities): Delivers accelerated product release and high quality assurance; Target: Internal development departments and external clients; Evidence: Job postings for testing and CT roles and test automation. Importance: ~20%.  
+Pillar 4 — Talent Development, Training, and Student Collaborations: Benefits include talent acquisition and integrated practical experience; Target: Students and young professionals; Evidence: Extensive student programs, dedicated contacts, and training. Importance: ~10%.  
+Pillar 5 — Global Manufacturing and Supply Chain Expertise: Ensures reliable production and global customer proximity; Target: International OEMs; Evidence: 69 locations in 24 countries. Importance: ~10%.
+
+Culture Profile:  
+Values: Family-owned business culture focused on reliability, quality, advancement, and collaboration. Pace: Technically oriented and results-driven with systematic development and testing processes. Collaboration Style: Cross-functional and international, strong involvement of students with clear contact points. Work Mode: Hybrid work possible (home office options), flexible hours, and regular training.
+
+Portfolio Focus:  
+Features standalone product islands with real components and prototypes (door/hatch/seat systems), motor demonstrations of varying power levels, and mobile test rigs. Includes interactive visualizations and short video demonstrations of development and validation processes. Handling Note: Heavy demonstration objects are secured and sometimes mounted on rotating pedestals or transport frames; safety information clearly displayed.
+
+Narrative Assets:  
+Headline: Mechatronics for Safe, Comfortable Mobility. Key Statements: 1) One in three new cars uses company technology — significant market presence and trust. 2) Broad portfolio from door and seat systems to electric drives for diverse mobility applications. 3) Strong development and validation expertise with global presence and talent development. Metrics & External Signals: About 32,000 employees, 69 locations in 24 countries, revenue 7.9 billion euros (2023); among the top five family-owned automotive suppliers.
+
+Interaction Flow:  
+Modes: Self-guided exploration, guided demonstration tours, and hands-on stations for students/interested parties. General Path: Welcome at a standalone orientation podium, proceed to product islands with motor and system demonstrations, then to lab and test stations with live explanations, ending at a recruiting and info lounge. Each station designed as an independent experience area for clear visitor pathways.
+
+Zones Layout:  
+Orientation and reception as a central hub; product demo islands (doors/locks, seats, motors) occupy the largest area; lab and testing zone with test benches and CT demo are compactly arranged; recruiting and training area with seating for conversations and presentations; storage and logistics area with mobile transport frames. Space Distribution: Product-oriented islands dominate, test/lab elements and meeting zones are clearly defined.
+
+Anchor Objects:  
+Large, freestanding product islands with complete door, hatch, or seat assemblies on rotating pedestals to demonstrate function and mechanics; motor benches with mounted electric motors and interfaces for visualization; mobile test stands/testing benches for measurements and short demos; reception podium and recruiting lounge as standalone communication objects. Function: Focal points for explanations, tests, and interaction; Mobility: Many objects are mobile or on transport frames, heavy equipment securely installed.
+
+Circulation Accessibility:  
+Minimum aisle width, entry points, accessibility: not specified. General Access: Explanations and staff available in English and German for international understanding; areas are standalone and can be configured for adapted access and assistance.
+
+Ambience:  
+Lighting: Technical, directed lighting with high color rendering for clear component and detail display. Audio/Music: Subtle, modern ambient sounds and localized audio or video explanations in English and German; targeted soundscapes for functionality demonstrations. Scent: Not specified.

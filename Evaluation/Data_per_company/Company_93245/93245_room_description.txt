@@ -1,0 +1,113 @@
+**Brand Identity**
+
+**Legal Name**: Engineering Minds GmbH
+
+**Tagline**: "We get the job done!"
+
+**Sector**: Aerospace, specializing in payload development and onboard electronics.
+
+**Stage**: Lean start-up with sustainable growth.
+
+**Geographic Range**: Not specified.
+
+**Color Palette (HEX)**: Not specified.
+
+**Design Language**: Not specified.
+
+**Material Note**: Not specified.
+
+**Logo Usage**: Not specified.
+
+---
+
+**Value Proposition Map**
+
+1) **Payload and Onboard Electronics Development (approx. 35%)**: Custom electronics solutions for satellites; target groups include satellite manufacturers and integrators, evidenced by a company profile and job listings focused on PCB and FPGA development.
+
+2) **System Development for Long-term Missions (approx. 20%)**: Emphasis on reliability for traditional space missions; target groups are conventional space industry players, supported by mission statements and reliability standards.
+
+3) **Cost-Efficient Solutions for New Space (approx. 20%)**: Scalable, cost-effective approaches for series production; aimed at New Space companies, as described in the company’s coverage of future satellite programs.
+
+4) **Prototyping, Testing, and Qualification (approx. 15%)**: Establishing test systems, FPGA/PCB design, and evaluation; targets project teams and clients; supported by job descriptions (test systems, IP cores, PCB layout).
+
+5) **Talent Development and Partnerships (approx. 10%)**: Supervising bachelor’s/master’s theses and integrating student project outcomes; targets students and research partners; evidenced by listings for thesis projects and internships.
+
+---
+
+**Culture Profile**
+
+**Values**: Quality, reliability, and customer orientation, with innovative solutions.
+
+**Pace**: Agile, streamlined work focusing on efficient, outcome-oriented processes.
+
+**Collaboration Style**: Multidisciplinary teamwork with clear documentation and close cooperation between hardware and software engineers.
+
+**Work Mode**: Combination of independent projects and team integration; flexible work hours offered.
+
+---
+
+**Portfolio Focus**
+
+Showcasing independent prototypes and model exhibits like PCB boards, FPGA modules, and payload breadboards, along with interactive 3D models and video demonstrations of system operations.
+
+**Handling**: Defined interaction points with ESD notices and limited physical contact, complemented by touch-enabled terminals for simulations.
+
+**Safety**: Notices on sensitive electronics and equipment, with clear guidelines for handling prototypes.
+
+---
+
+**Narrative Assets**
+
+**Headline**: "We bring your visions to space."
+
+**Core Message 1**: Provides tailored onboard electronics and payload systems for various satellite programs.
+
+**Core Message 2**: Combines high reliability for long-term missions with cost-effective solutions for New Space.
+
+**Core Message 3**: Practical development focused on PCB, FPGA, and test infrastructure; supported by thesis projects and project-based hires.
+
+**Metrics & External Signals**: No specific figures provided; external signals include multiple job listings and a focus on PCB/FPGA expertise.
+
+---
+
+**Interaction Flow**
+
+Visitors start at an orientation station, followed by thematic demonstration islands (electronics prototypes, system integration, testing stations).
+
+**Modes of Interaction**: Self-guided exploration, guided tours, or short presentations at demonstration points, concluding with a recruitment/contact area for discussions and application info.
+
+---
+
+**Zones Layout**
+
+Central demonstration island with prototypes and interactive 3D models as attractions, flanked by a testing and measurement station, and a zone for scalable New Space solutions. Separate recruiting and info area for discussions and theses, with a quiet lounge nook for presentations and networking. Emphasis on demonstration and testing, with smaller areas for recruitment and relaxation.
+
+---
+
+**Anchor Objects**
+
+Standalone prototype stands with PCB exhibits and FPGA boards for direct viewing, mobile test benches with measuring instruments for demonstrations, interactive kiosks for simulations and 3D models, and a standalone satellite breadboard mockup as a centerpiece.
+
+**Function**: Information dissemination, technical skill demonstration, and contact point for discussions.
+
+**Mobility**: Test benches and kiosks are mobile; prototype stands and breadboard mockup are more stationary.
+
+---
+
+**Circulation & Accessibility**
+
+**Minimum Corridor Width**: Not specified.
+
+**Entrances/Access to Zones**: Not specified.
+
+**Accessibility**: Not specified.
+
+---
+
+**Ambience**
+
+**Lighting**: Not specified.
+
+**Audio/Music**: Not specified.
+
+**Scent**: Not specified.

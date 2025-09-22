@@ -1,0 +1,29 @@
+identity_brand
+Company: A leading European industry firm in the wood and furniture sector with a family-owned approach. Locations: 8 sites in Austria, Germany, and Czech Republic; Products in over 90 countries. Design: Structured and timeless, functional. Focus: Coniferous woods and refined wood products.
+
+value_proposition_map
+Core Offerings: 1) Wood construction products for builders, carpenters, planners. 2) Concrete formwork solutions for formwork manufacturers and construction companies. 3) Custom wood packaging for industrial needs. 4) Ready-to-use lumber and planed goods for craftsmen and industry. 5) Bioenergy from sawdust for energy users and sustainable operators.
+
+culture_profile
+Values: Family-driven, reliability, continuity, sustainability. Approach: Predictable and steady. Collaboration: Regional diversity and team-oriented; local diversity as a source of innovation. Work Environment: Flexible hours, remote work options, focus on training and health.
+
+portfolio_focus
+Includes product and material samples, formwork technology models, packaging examples, and video demos. Interaction: Tactile, interactive display stations for product engagement.
+
+narrative_assets
+Headline: Passion for Timber – Quality, Sustainability, Reliability. Key Messages: 1) High-quality wood products for construction, formwork, and packaging. 2) Support of sustainable forestry through regional partnerships. 3) Family-driven culture with a focus on consistency. Metrics: 8 locations, approximately 2,100 staff, presence in over 90 countries.
+
+interaction_flow
+Visitors navigate stations: an introduction plinth, thematic product stations (construction, formwork, packaging, energy), interactive test tables, and a career information zone. Modes: Self-guided exploration, moderated demos, and focused consultation at the recruiting kiosk. Final contact station for follow-up and materials.
+
+zones_layout
+Zones organized as clusters: central brand area, product-focused zones, tech/demo zone, sample interaction area, career info zone, and lounge areas. Modular elements enhance flexibility.
+
+anchor_objects
+Types: Solid plinths for wood samples, free-standing racks with product samples, scaled-down formwork machine models, interactive kiosks, try-out workbenches, seating areas for discussions. Function: Showcase, demo, test, inform, advise. Mobility: Modular and mobile for flexible layout changes.
+
+circulation_accessibility
+General modular setup allows adaptation to various access needs; specific measurements and certifications are not provided.
+
+ambience
+Follows brand identity: natural, calm atmosphere with warm, material-focused tones. Specifics on lighting, music, soundscapes, or scents are not provided.

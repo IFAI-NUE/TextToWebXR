@@ -1,0 +1,39 @@
+identity_brand
+
+Legal Name: Solidaris Group. Tagline: Doing Good Together. Sector: Auditing and Consulting for Healthcare and Social Economy (Auditing, Tax, Legal, Business, and IT Consulting). Maturity: Established company with over 90 years of history and around 400 employees. Geographic Reach: Nationwide, with ten locations (e.g., Berlin, Erfurt, Freiburg, Hamburg, Cologne, Mainz, Munich, Münster, Stuttgart, Würzburg).
+
+value_proposition_map
+
+Auditing (25%): Tailored audits for healthcare and social economy organizations; Benefit: Legal compliance and assurance; Target: Nonprofit organizations, care and health providers; Proof: Extensive industry experience and nationwide presence. Tax Consulting (25%): Preparation of tax returns, financial statements, and support during audits; Benefit: Tax relief and planning; Target: Clients in healthcare and social sectors; Proof: Specialized teams and focused job offerings. Legal Consulting (15%): Legal advice for nonprofit and social organizations; Benefit: Legal security in organizational matters; Target: Organizations in social and health sectors; Proof: Comprehensive service portfolio. Business Consulting (20%): Management consulting and industry expertise; Benefit: Increased efficiency and sustainability; Target: Institutions with nonprofit missions; Proof: Long-standing consulting expertise. IT Consulting (15%): Support in IT-related matters; Benefit: Digital processes and IT compliance; Target: Operational entities and administrative units; Proof: Clearly defined consulting range.
+
+culture_profile
+
+Values: Trustworthy, values-based collaboration, combining ethics with economic success, empathy, and mutual support. Pace: Emphasis on individual development and early responsibility indicates a learning-oriented dynamic. Collaboration: Team-oriented, flat hierarchies, knowledge exchange without cutthroat behavior. Work Mode: Flexible hours, remote work, part-time options, and support for education.
+
+portfolio_focus
+
+Showcased core services include auditing and consulting (audit, tax, legal, business, IT) and professional development opportunities like the Solidaris Academy. Elements of experience and location, as well as employee benefits information, should be included. Formats: Information and demonstration content, case studies, and career information.
+
+narrative_assets
+
+Headline: Doing Good Together. Core Statements: Solidaris is an industry expert for healthcare and social economy; the company blends values-based consulting with economic success; Solidaris actively supports employee development. Metrics & External Signals: Over 90 years of history, about 400 employees, ten locations; numerous benefits and specific job offers highlight attractiveness and expertise.
+
+interaction_flow
+
+Visitors choose between service and career paths, receive an overview of service areas or entry opportunities, and delve into demos or case studies. They can then request contact or follow-up materials. The flow supports targeted information search and recruitment outreach.
+
+zones_layout
+
+Central information zone as a focal point, followed by standalone service areas for audit, tax, legal, business, and IT consulting. An additional career zone with details on the Solidaris Academy and benefits, alongside a communication/networking area. Emphasis on service and career information, with smaller areas for demos and exchanges.
+
+anchor_objects
+
+Standalone service modules for presenting service areas, a career installation with training and educational information, standalone media objects for case studies, and seating clusters for discussions. Function: Orientation, in-depth engagement, contact initiation.
+
+circulation_accessibility
+
+Flow: Clear paths to service and career areas with subsequent contact options. No specific details on minimum walkway widths, entries, or accessibility features.
+
+ambience
+
+Atmosphere: Values-oriented, trustworthy, and supportive, focused on collaboration and meaningful engagement. No details on lighting, audio, music, or scent concepts.

@@ -1,0 +1,80 @@
+**Identity Overview:**
+
+- **Legal Name:** A medium-sized IT software development company with 1,000–2,499 employees.
+- **Sector:** IT-Software Development.
+- **Stage:** Established.
+- **Geographic Reach:** National, with an international environment (mentions of English collaboration in job listings).
+
+**Value Proposition Map:**
+
+1. **HMI Development & Interface Integration (40%):**
+   - Development of user interfaces and integration of native interfaces (navigation, radio, media, CarPlay) for automotive contexts.
+   - Target Audience: OEM development teams and HMI product managers.
+   - Evidence: Job listings for HMI development and simulation of native interfaces.
+
+2. **Test Automation & Quality Assurance (30%):**
+   - Building automated test cases and test infrastructure to enhance quality and efficiency in the release process.
+   - Target Audience: Development and QA teams.
+   - Evidence: Multiple positions on test automation and test cases.
+
+3. **Data Analysis & System Improvement (20%):**
+   - Power-BI analysis, ERP development, and report optimization for decision support.
+   - Target Audience: Internal departments and data managers.
+   - Evidence: Student tasks involving Power BI and ERP.
+
+4. **Tools & Developer Infrastructure / Talent Development (10%):**
+   - Development of internal tools, SharePoint content, and support for student development to strengthen the developer ecosystem.
+   - Target Audience: Internal developers and emerging talent.
+   - Evidence: Tasks for internal projects and numerous student positions.
+
+**Culture Profile:**
+
+- **Values:** Focus on continual learning, health, and employee benefits (retirement plans, training, health measures).
+- **Pace:** Agile and iterative, with job descriptions highlighting agile teams and continuous improvement.
+- **Collaboration Style:** Cross-functional and team-oriented with open communication (German and English required).
+- **Work Mode:** Flexible and hybrid with remote work options and flexible hours.
+
+**Portfolio Focus:**
+
+- Features interactive HMI demos, simulations of native interfaces, test automation demonstrations, and data visualization examples (Power BI).
+- **Artifacts:** Prototypes, demo software, short videos, and documented use cases.
+- **Handling:** Interactive stations with hands-on exploration and guided lab sessions for developers.
+
+**Narrative Assets:**
+
+- **Headline:** Intelligent user interfaces and reliable test solutions for automotive software.
+- **Core Messages:**
+  1. We develop HMI and interface solutions integrating native functions.
+  2. We ensure quality through automated test processes.
+  3. We provide decision support with data analysis.
+  4. We invest in talent and continuous learning.
+
+**Interaction Flow:**
+
+- Visitors select a mode at a hub: self-guided, guided tour, or deep-dive workshop. 
+- The path leads to demo stations (HMI → Test Automation → Data Visualization) with interactive tasks and explanations.
+- There is a hands-on lab zone for in-depth technical exploration and a career lounge with information on student positions and benefits.
+
+**Zones Layout:**
+
+- Orientation and reception area (about 10%) with an information pillar.
+- HMI Demo Zone (about 35%) with multiple cockpit and display stations.
+- Test Automation Lab (about 25%) with test benches and interactive stations.
+- Data and Tools Zone (about 15%) with visualization towers and analysis kiosks.
+- Career and Lounge Area (about 15%) for discussions, job info, and relaxed encounters.
+
+**Anchor Objects:**
+
+- Free-standing HMI cockpit stations with interactive displays as main demonstration objects; primarily semi-permanent, some mobile on carts.
+- Touch kiosks and large interactive tables for self-service and prototype presentations; portable.
+- Test Automation Racks or test benches serving as demonstration labs for automated tests; generally stationary, modular setup.
+- Data Visualization Towers with live dashboards; portable or can be fixed.
+- Lounge furniture and information islands as flexible meeting points.
+
+**Circulation & Accessibility:**
+
+- Minimum path width, entries, and specific accessibility measures: no information available. General accessibility notes: not specified.
+
+**Ambience:**
+
+- Lighting, audio, music, and scents: no information provided.

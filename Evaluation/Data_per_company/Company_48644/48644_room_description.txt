@@ -1,0 +1,61 @@
+### identity_brand
+
+**Company Name:** INDUSTRONIC  
+**Tagline:** Communication Systems for a Safer World  
+**Sector:** Industrial Communication, Public Address, and Alarm Systems  
+**Maturity:** Established, internationally leading company with medium-sized operations  
+**Geographic Reach:** Headquartered in Wertheim am Main, service offices in several German cities, with branches in the USA, Singapore, China, and Dubai  
+**Design Language:** Technical, functional, robust, and clear, focusing on signaling and readability  
+**Materials:** Industrial-grade metals, durable plastics, and long-lasting surfaces  
+
+### value_proposition_map
+
+**Pillar 1 – Industrial Speech and Alarm Systems (40%):** Provides reliable communication, public address, and warning systems for critical safety facilities, serving industries like chemical, steel, energy, and offshore sectors.  
+**Pillar 2 – Engineering & System Integration (25%):** Plans and integrates into complex facilities in collaboration with major engineering partners.  
+**Pillar 3 – Service, Maintenance, and Support (20%):** Lifecycle support, maintenance, and a global service network.  
+**Pillar 4 – Research & Product Development (15%):** Hardware and software development, including prototype tests.  
+
+### culture_profile
+
+**Values:** Safety, reliability, innovation, and quality  
+**Pace:** Engineering and solution-focused with an emphasis on thorough, tested outcomes  
+**Collaboration Style:** Close internal and external cooperation, project-based teams  
+**Work Mode:** Hybrid options, flexible hours, and offerings for training and wellness  
+
+### portfolio_focus
+
+Showcasing standalone product exhibits like industrial intercoms, speaker/alarm stations, server and rack demonstrators, along with amplifier prototypes and embedded devices. Includes interactive software demos and video presentations of use scenarios. Hands-on handling at demonstration stations with clear safety information.
+
+### narrative_assets
+
+**Headline:** Communication for a Safer Industry  
+**Key Messages:**  
+1. Proven systems in critical industrial environments  
+2. Global partner with local service  
+3. Continuous research and integration of hardware/software solutions  
+
+### interaction_flow
+
+Visitors can choose between a guided tour or self-exploration at a standalone reception kiosk. The path leads to product islands with live demos, an R&D pod with prototypes, and a service/integration station with case studies. There is a recruitment and contact area for conversations and applications.
+
+### zones_layout
+
+**Central Demonstration Area (40%):** Interactive product islands and listening stations  
+**Product and Reference Area (30%):** Freestanding exhibits and monitors for use examples  
+**R&D and Prototype Pod (15%):** Test benches and mobile devices  
+**Meeting and Recruitment Zone (15%):** Seating and consultation stands  
+
+### anchor_objects
+
+Freestanding demonstration towers and speaker columns for audio demonstration and attraction; function as acoustic demonstration and focal point. Mobile test benches and rack demonstrators for system integration presentations; often rollable. Interactive kiosks and touch stations for demo control and information; typically mobile.
+
+### circulation_accessibility
+
+Not specified
+
+### ambience
+
+**Lighting:** Technical, directed at exhibits to highlight labeling and controls  
+**Audio:** Clear speech reproduction with demonstrative alarm and announcement signals, and high speech intelligibility in use scenarios; volume staggered between demonstration and background  
+
+Music/Scent: Not specified

@@ -1,0 +1,56 @@
+**Identity and Brand Overview:**
+
+Kyocera AVX Components is a global leader in the production of advanced electronic components, specifically focusing on automation, component manufacturing, and hydrogen technology. It is a wholly-owned subsidiary of the Kyocera Corporation and operates in over 15 countries. The Neuhaus-Schierschnitz location employs approximately 180 people. Their visual style is technically precise and functional, featuring modular and clear forms.
+
+**Value Proposition:**
+
+1. **Advanced Electronic Components:** Accelerates technological innovations for clean tech OEMs. Targeted at energy, mobility, and industrial solution manufacturers. Globally recognized as a key component supplier.
+   
+2. **Automation Solutions and Component Manufacturing:** Enhances production reliability and efficiency for industrial users and plant builders. Supported by an in-house automation sector.
+   
+3. **Hydrogen Technology:** Supports the generation and use of hydrogen as an energy carrier for emission-free mobility and energy applications, targeting energy providers and mobility sectors.
+   
+4. **Engineering and Service (Commissioning, PLC Programming, Maintenance):** Provides lifecycle support and secure implementation of customer-specific facilities for operators and industrial clients. 
+
+**Culture Profile:**
+
+Values innovation, sustainability, and reliability, focusing on technological solutions for a clean future. The work pace is project-oriented, involving intense development phases and regular customer service visits. Collaboration is interdisciplinary and international, emphasizing teamwork between development, manufacturing, and service.
+
+**Portfolio Focus:**
+
+Features physical components (electronic parts) displayed on standalone podiums, demos of automation units, and compact hydrogen plant models. Includes interactive demos for PLC software and exhibits on safety and hazard analysis.
+
+**Narrative Assets:**
+
+- Headline: "Power your future with us."
+- Core Message 1: Kyocera AVX delivers advanced components that accelerate technological innovations.
+- Core Message 2: The company advances automation and hydrogen technology as contributions to eco-friendly energy systems.
+- Core Message 3: A global network and local expertise in Neuhaus-Schierschnitz, with around 180 employees, bolster implementation and service. 
+
+**Interaction Flow:**
+
+Visitors begin at an information kiosk, choosing between self-guided or moderated tours. They then proceed through distinct stations: a component gallery, interactive automation demos, hydrogen plant models, and a tech service hub. Additional offerings include workshops and expert Q&As, ending with networking opportunities at a career and contact point.
+
+**Zones Layout:**
+
+- Entry/Orientation Area with an information kiosk (approx. 10%).
+- Gallery for electronic components with podiums and showcases (approx. 30%).
+- Automation demo zone with interactive stations and consoles (approx. 25%).
+- Hydrogen technology zone with model plants and safety features (approx. 20%).
+- Service/Workshop Islands and career area with seating and demo workspaces (approx. 15%). 
+
+**Anchor Objects:**
+
+- Podiums displaying electronic components for detailed viewing; portable.
+- Interactive demo rigs for automation with control terminals; modular and mobile.
+- Compact hydrogen generation models for functional demos and safety education; semi-permanent.
+- Video/Info pods and presentation islands for workshops; movable and modular.
+- Service workbenches for practical demonstrations; mobile.
+
+**Circulation and Accessibility:**
+
+Visitors should move easily through the exhibit with considerations for accessibility and safe navigation, although specific dimensions and standards are not detailed.
+
+**Ambience:**
+
+No specific details on lighting, audio, or atmosphere are provided, with a focus on technological and safety priorities.

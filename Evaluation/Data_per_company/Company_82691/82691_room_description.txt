@@ -1,0 +1,29 @@
+identity_brand  
+A company is a multidisciplinary engineering firm with the slogan "Shaping the Future." Sector: all construction sectors (urban planning, mobility & transport, water & environment, building construction, energy & industry). Maturity level: established firm with around 400 employees at 13 locations. Geographic reach: national with international project involvement; no specific color palette, design language, material guidelines, or logo usage rules provided.
+
+value_proposition_map  
+Core services include planning and engineering for infrastructure, sustainable urban development, energy and industrial projects, as well as project management and construction planning. Benefit: long-lasting, resource-efficient solutions. Target groups: public clients, investors, developers, and operators. Proof: interdisciplinary teams and cross-sector project experience. Additional offers for newcomers and career entrants (internships, practical semesters, theses) targeting students and entry-level professionals, evidenced by explicit job postings. Continuous focus on technology and innovation consulting; benefits include increased efficiency and innovation capacity. Priorities: infrastructure/planning and sustainable urban development lead, followed by project management, energy/industry, and talent promotion.
+
+culture_profile  
+Values: progress, innovation, sustainability, and team orientation are central. The pace and approach are goal-oriented and efficient, with a focus on interdisciplinary collaboration. Collaboration style: open, cross-disciplinary, and participative; work mode: flexible with options like remote work, flexible hours, and training opportunities.
+
+portfolio_focus  
+Showcasing cross-sector project examples and best practices in urban planning, mobility, water/environment, building construction, and energy. Formats include digital demos, 3D models, and video presentations, as well as case studies that demonstrate innovation and sustainability. Handling: interactive, open exhibits, and VR/AR stations for exploration; no details on exhibition content safety requirements provided.
+
+narrative_assets  
+Headline: "Shaping the Future." Core messages: The company shapes sustainable infrastructure through interdisciplinary engineering. Innovation is a core identity driving climate-conscious urban development. The company supports emerging talent and offers opportunities for students. Measurable indicators: around 400 employees, 13 locations; visible external signals include benefits and career opportunities.
+
+interaction_flow  
+Visitors start at a central introduction pod, then choose thematic pods (e.g., urban planning, mobility, water, energy) to explore in interactive 3D models or VR stations. Concurrently, there is a career niche for students with info terminals on internships and thesis opportunities. Finally, a demo area with video presentations and contact points facilitates deeper networking.
+
+zones_layout  
+Free-standing zones include a central introduction pod, multiple thematic sector pods (urban planning, mobility, water, building construction, energy), an innovation/lab pod for technologies and methods, a career pod for emerging talent, and a demo/presentation area. Larger spaces are reserved for the sector pods, with the innovation lab and career pod being more compact, and the demo area serving as a flexible showcase segment.
+
+anchor_objects  
+Central free-standing anchor objects include: a large 3D city model on a pedestal (stationary) for overall narration, interactive multitouch tables for detailed exploration (partially mobile), VR booths/stations for immersive insights (free-standing and divisible), thematic model pedestals with scale models (stationary), and information totems and seating clusters for conversation areas (mobile). Functions: orientation, exploration, interaction, and conversation facilitation; Mobility: a mix of stationary and movable elements.
+
+circulation_accessibility  
+No specific guidelines on minimum aisle widths, entrances, or accessible dimensions are provided. No context-based information on accessibility or special access requirements.
+
+ambience  
+The brand's aesthetic: efficient, resource-conscious, and inspiring, with a straightforward, technology-oriented presentation style derived from its brand and values. No specific technical specifications on lighting, audio profiles, music, or scent concepts provided.

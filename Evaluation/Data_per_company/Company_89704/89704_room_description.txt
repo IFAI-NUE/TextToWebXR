@@ -1,0 +1,100 @@
+**identity_brand**
+
+**Legal Name:** Hirschvogel Group
+
+**Tagline:** Impressive People. Impressive Products.
+
+**Sector:** Automotive industry supplier and manufacturing specialist (forging and precision machining).
+
+**Maturity Level:** Established, global family-owned business with approximately 6,500 employees and nine production sites.
+
+**Geographical Reach:** International
+
+**Color Palette:** Not specified, but metallic grays and accent company colors would be suitable.
+
+**Design Language:** Technical precision, clear structural lines, and light, functional contours.
+
+**Materials:** Steel and aluminum as core materials.
+
+**Logo Usage:** Not specified.
+
+**value_proposition_map**
+
+**Pillar 1 – Forging:** Production of high-performance, ready-to-install components for engines, transmissions, and drivetrains; target groups include OEMs and system suppliers; proof: components in nearly every third vehicle worldwide.
+
+**Pillar 2 – Precision Machining & Finishing:** Precision processing for high-quality components; target groups: automotive manufacturers and suppliers with high-quality standards; proof: wide range of products from transmission shafts to wheel carriers.
+
+**Pillar 3 – Development and Project Partnership:** Guidance from design to production, including specification creation and investment projects; target groups: purchasing and development departments at OEMs; proof: project and thesis work offered within the company.
+
+**Pillar 4 – Lightweight and E-Mobility Components:** Aluminum and weight-reduced solutions for chassis and e-mobility; target groups: manufacturers focused on efficiency and weight reduction; proof: product highlights like aluminum pivot bearings and wheel carriers.
+
+**weightings:** Not specified (performance priorities qualitatively outlined above).
+
+**culture_profile**
+
+**Values:** Family business with a strong sense of community, high responsibility towards employees, and a willingness to innovate.
+
+**Pace:** Pragmatic and results-oriented with a focus on stability and quality.
+
+**Collaboration Style:** Team-oriented, internationally connected, and open to cross-department coordination.
+
+**Work Mode:** Combination of on-site work in production and flexible work models (e.g., remote work, flexible hours), with clear development and training opportunities.
+
+**portfolio_focus**
+
+Products displayed on freestanding pedestals featuring real components (e.g., transmission shafts, wheel carriers, injectors), with demonstrators of forming and machining processes as physical models, as well as interactive kiosks with video demos and technical data.
+
+**Handling:** Exhibits are demonstrated as safe, manageable samples in terms of weight; safety information for heavy parts is clearly provided.
+
+**Presentation Formats:** Mix of static models, motion demos, and digitally supported information stations.
+
+**narrative_assets**
+
+**Headline:** Precision and Lightness for Global Mobility.
+
+**Key Messages:** 
+1. Global manufacturing expertise in forging and machining for demanding vehicle components.
+2. Technical solutions that combine efficiency and lightweight design.
+3. Family-owned company with strong employee responsibility and international presence.
+
+**Measurable Metrics & Signals:** Approximately 6,500 employees, nine plants, components in nearly every third vehicle worldwide.
+
+**interaction_flow**
+
+Visitors start at a freestanding reception and orientation station, choose a path (Products, Technology, Careers) at interactive kiosks, and follow a sequence of freestanding product islands, tech demonstrations, and VR/AR stations. Mobile consulting stations and a career counter conclude the experience, with opportunities for discussions with HR or in-depth technical talks.
+
+**Modes:** Self-guided exploration, guided tours, and career advice in clearly separated, freestanding areas.
+
+**zones_layout**
+
+Entrance area with reception and orientation points, large product zone with multiple freestanding islands for core competencies (transmission, drivetrain, chassis, engine/e-mobility), a tech lab zone with demonstration platforms and VR stations, a career and HR zone with consulting pods, and a lounge and networking area with seating islands.
+
+**Space Allocation:** Product-centered main area, flanked by technology and career sections; exact square footage not provided.
+
+**anchor_objects**
+
+Typical anchor objects include heavy component pedestals (e.g., transmission shafts), mock-up presses, or machinery models as demonstrators, interactive touch kiosks, VR/AR booths, and modular consultation pods.
+
+**Function:** Display, Demonstrate, Inform, Consult.
+
+**Mobility:** Kiosks and consultation pods are modular and movable; heavy pedestals and machinery models are generally stationary to semi-mobile.
+
+**circulation_accessibility**
+
+General flow description: Clear, circular or linear pathways between freestanding islands with orientation points at reception and intersections.
+
+**Minimum Aisle Width:** Not specified.
+
+**Entrances and Transitions:** Not specified.
+
+**Accessibility:** Not specified (the company's commitment to employee responsibility is noted, but specific accessibility measures are not detailed).
+
+**ambience**
+
+**Lighting:** Not specified.
+
+**Audio/Music:** Not specified.
+
+**Scent:** Not specified.
+
+**Atmosphere Notes:** Technically precise, professional, and welcoming; specific parameters for lighting, sound, or scent are not provided.

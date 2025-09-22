@@ -1,0 +1,29 @@
+identity_brand
+Legal Name: BPR Consult GmbH & Co. KG; Compact Tagline: "Join us, we're already here!". Sector: Construction, Architecture, and Engineering Services; Status: Established engineering firm with cross-project experience. Geographic Reach: Regional, national, and international (Germany, Albania, Mongolia/partner network). Color Palette: Dominant blues and grays (no exact HEX codes provided). Design Language: Technical-linear, constructive, and geometric; Material Focus: Concrete, steel, glass as key materials. Logo Usage: Not specified.
+
+value_proposition_map
+Pillar 1 – Infrastructure Planning: Comprehensive planning for major railway projects, bridges, and roads; Target Groups: Public clients, railway operators, and municipalities; Evidence: Specialization in traffic systems. Pillar 2 – Structural and Building Design: Structural and design planning for buildings and facilities; Target Groups: Clients and developers; Evidence: Building/structural services portfolio. Pillar 3 – Railway Technical Equipment & Operations: Planning of technical equipment for railway infrastructure; Target Groups: Railway projects and operators; Evidence: Mention of railway technical expertise. Pillar 4 – Environmental and Water Planning: Environmental impact and development planning; Target Groups: Authorities and project developers; Evidence: Explicit competence in environmental planning. Pillar 5 – Project Management & Client Services: Complete project control and construction supervision; Target Groups: Clients, investors; Evidence: Offer of project management for clients. Weighting: Qualitative description, as no exact percentages are provided.
+
+culture_profile
+Values: Practical engineering expertise, reliability, and teamwork, supported by training and health initiatives. Tempo: Project-driven and deadline-bound, with flexible work rhythm through adaptable schedules. Collaboration Style: Interdisciplinary and partner-oriented within a network of multiple engineering firms. Working Mode: Location-distributed teams focused on cooperation and further qualification; Specific home-office or hybrid policies: Not specified.
+
+portfolio_focus
+Showcase of representative project artifacts, such as scale models of bridges and traffic hubs, interactive BIM models, and project videos demonstrating planning processes. Handling: Interactive touch/VR stations for model and process exploration; Physical models for tactile interaction and explanation. Security details for exhibits and visitors: Not provided.
+
+narrative_assets
+Headline: "Integrated Engineering Planning for Transport, Construction, and Environment." Core Messages: 1) Comprehensive planning for complex transport infrastructure; 2) Combining structural and environmental expertise with client-side project management; 3) Network structure with national presence and international partnerships. Measurable Metrics & Indicators: Around 500 employees at over 20 locations in the company, networked with about 1,000 employees at over 25 locations through partnerships.
+
+interaction_flow
+Visitors select a mode at a standalone orientation pillar (e.g., Overview, Projects, Careers) at the start. They then follow interactive stations: Model Plaza for physical exhibits, BIM Pods for digital exploration, and a presentation room for film and case study demos. Finally, they reach the career and contact station with information about internship opportunities and benefits.
+
+zones_layout
+Orientation zone with a standalone information pillar forms the entry point; central Model Plaza with several large exhibits serves as the focal area. BIM and demo pods arranged around the Plaza offer deeper digital insights; a separate career and discussion area with seating islands provides interaction opportunities. A lounge-like networking zone with seating completes the offerings.
+
+anchor_objects
+Large-scale models of bridges and traffic hubs: Serve as eye-catchers and explanatory objects; Mobility: Not specified. Interactive touch kiosks and digital BIM Pods: Enable deep-dive exploration of projects; Mobility: Not specified. VR/Simulation units for immersive project views: Functional for user demonstrations; Mobility: Not specified. Presentation Cube or standalone projection unit for videos and case studies: Used for group presentations; Mobility: Not specified. Seating islands and discussion pods for recruiting content and interactions: Mobility: Not specified.
+
+circulation_accessibility
+Not provided
+
+ambience
+Not provided

@@ -1,0 +1,37 @@
+**Identity Brand**  
+We are your partner for measurement and testing applications. Industry sectors include machinery and plant engineering, electrical engineering/precision mechanics/optics, aerospace, medical technology, and research & development. Established and experienced in developing and manufacturing testing systems. Color Palette: Not specified; Design Language: Technical, functional, precise; Materials: Metal and plastic components, electronic modules, pneumatic and optical parts; Logo Use: Not specified.
+
+**Value Proposition Map**  
+1) Development & Manufacturing of Semi- and Fully-Automatic Testing Systems (35%): Custom testing stands for development and production environments, focusing on non-destructive methods. Target groups are OEMs, suppliers, and research institutions. Evidence: Company description for complete testing system realization.  
+2) Consulting & Project Management (20%): Conceptualization, requirements documentation, and guidance by experienced project managers to meet specific needs. Target groups are clients with individual testing needs. Evidence: Offering consulting to qualification.  
+3) Testing Adapters and Mechanical Solutions (20%): Mechanical, pneumatic, or vacuum-based adapters for functional testing. Target groups are electronics manufacturers and test labs. Evidence: Mention of specific testing adapters and systems.  
+4) Software Applications for Testing (15%): Development of testing applications and software integration to automate tests. Target groups are production and test engineers. Evidence: Offering programming of testing applications.  
+5) Qualification, Support & CE Guidance (10%): Documentation, commissioning, and support in conformity assessment procedures. Target groups are product manufacturers with regulatory needs. Evidence: Guidance through the CE conformity assessment process.
+
+**Culture Profile**  
+Values: Customer-oriented and entrepreneurial thinking, reliability, and results-focused, supported by training opportunities. Pace: Project-driven with a pragmatic, result-oriented work rhythm. Collaboration Style: Close, partnership-based collaboration with clients and partners, and team-oriented work. Work Mode: Flexible and modern, offering options like remote work, flexible hours, and continuing education.
+
+**Portfolio Focus**  
+Displays include standalone prototypes and demonstration testing stands for semi- and fully automated tests, testing adapters (mechanical, pneumatic, vacuum-based), optical and laser measurement devices, and tactile measurement systems. Complemented by interactive software demos and video sequences on measurement and testing processes, feasibilities studies, and documentation examples. Handling: Hands-on at demonstration stations and supported commissioning demos. Safety/Note: CE conformity guidance offerings are documented.
+
+**Narrative Assets**  
+Headline: Customized Measurement and Testing Solutions for Research and Production. Core Messages:  
+1) We offer partial to complete solutions from consulting to qualification.  
+2) Specialized in non-destructive measurement methods including optical, pneumatic, and tactile techniques.  
+3) Cross-industry expertise in medical technology, aviation, research, and industrial production.  
+Measurable Metrics: Not specified; External Signals: Extensive project experience and current job postings and benefits as indicators of growth and employee development.
+
+**Interaction Flow**  
+Modes: Self-guided exploration, guided demo, and consultation. Pathway: Orientation at a reception kiosk, followed by demo stations with live test setups and interactive software stations, concluding with discussions in a consultation or offering area and finalizing contact for future projects. Additional Mode: In-depth technical sessions or workshops by appointment.
+
+**Zones Layout**  
+Free-standing orientation/reception island for introduction and information materials (small portion). Demo islands with multiple testing stands and measurement tech exhibits form the core area allowing parallel presentations. Hands-on area with adapter pedestals and workbench stations for practical tests, and a separate software/visualization area with touch kiosks. Consultation and meeting niches as free-standing pods for project discussions.
+
+**Anchor Objects**  
+Free-standing test stands/demo machines as central anchors for demonstrations and measurements (mainly mobile or on wheels for flexibility). Adapter and component pedestals for presenting mechanical test adapters and interfaces (moveable). Interactive touch kiosks and monitor pedestals for operating test applications and visualization (mobile to semi-fixed). Seating and consulting pods for discussions and mobile VR/AR stations for simulations.
+
+**Circulation Accessibility**  
+Not specified
+
+**Ambience**  
+Not specified

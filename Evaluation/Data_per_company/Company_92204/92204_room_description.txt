@@ -1,0 +1,39 @@
+identity_brand
+
+Legal Name: Research Institute for Workforce Management and Organization. Tagline: "Change Starts with Us!" Sector: Applied Research on Human and Technology in the Digital Workplace; Maturity Level: Established research institute with around 650 staff and extensive demonstration and lab facilities. Geographical Reach: Locations in multiple cities; cooperative networks with universities. Color Palette (if specified): Not provided. Visual Style: Not provided. Material Notes: Not provided. Logo Usage: Not provided.
+
+value_proposition_map
+
+Core Offerings: 1) Strategy Consulting and Organizational Design for Digital Transformation — Benefits: Practical implementation of new work models; Target Groups: Large companies, SMEs, public institutions; Evidence: Interdisciplinary teams, applied research. 2) Technological Solution Development (AI, IoT, Connected Production, VR/AR) — Benefits: Prototype system solutions and demonstrators; Target Groups: Industry partners, research consortia. 3) Demonstration Centers, Laboratories and Transfer Platforms — Benefits: Tangible test scenarios and pilot projects; Target Groups: Businesses and administrations; Evidence: Approximately 15,000 m2 of office, development, and test spaces. 4) Collaborations, Training, and Knowledge Transfer — Benefits: Capacity building and networking; Target Groups: Research partners, decision-makers, and professionals. Emphasis: Qualitative description (multiple pillars work integrally; focus on applied research and transfer).
+
+culture_profile
+
+Values: Human-centered, interdisciplinary, and practice-oriented. Pace: Research-driven with a focus on impactful implementation and iterative development. Collaboration Style: Close cooperation with industry, universities, and public actors, team-oriented project work. Work Mode: Flexible and hybrid (note on flexible working hours and remote work options).
+
+portfolio_focus
+
+Displayed Content: Interactive VR/AR demos, prototypes for human-technology interaction, use-case exhibits on digitalization and connected production, and video documentaries of projects. Handling: Visitor interaction through demonstration stations and guided trials. Safety: Not provided.
+
+narrative_assets
+
+Headline: "Change Starts with Us!" Core Messages: 1) We shape the future of work through applied research and transfer. 2) Human-centered technology integration creates productive and sustainable work models. 3) Close collaborations with industry and academia enable rapid transfer to practice. Measurable Indicators & Signals: Around 650 staff members, over 15,000 m2 of demonstration and lab spaces; partnerships with institutes like IAT and TU Berlin.
+
+interaction_flow
+
+Visitors choose between guided modes and personal exploration, start at an info kiosk, experience modular demo stations (e.g., VR/AR sets or prototypes), watch project documentaries, and end with contact and transfer offers. Guided tours offer in-depth exploration, while self-guided stations provide brief hands-on experiences. The aim is a quick transition from insights to concrete collaboration offers.
+
+zones_layout
+
+The exhibition is designed as a series of standalone islands: entrance/info kiosk, multiple demo islands with VR/AR stations, prototype platforms, a media and video lounge, and a communication and networking zone for discussions. Space distribution: Demo islands and prototypes take the largest share, media lounge and communication zone complement the tour. Architectural elements: Not provided.
+
+anchor_objects
+
+Typical anchor objects include standalone demo pods or VR capsules, modular exhibition pedestals for prototypes, interactive kiosks/touch stations, and mobile presentation islands for workshops. Function: Presentation, interaction, guided demonstration, and transfer. Mobility: Many anchors are modular and movable; some stations can be adapted for different formats.
+
+circulation_accessibility
+
+Minimum aisle width, entrances, and specific accessibility measures: Not provided. Notes on accessibility through adaptable formats or hybrid offerings: Not provided.
+
+ambience
+
+Lighting, audio, music, or scent profiles for the exhibition: Not provided. Notes on atmospheric design in context (e.g., audience-appropriate presentations and moderated formats): Not provided.

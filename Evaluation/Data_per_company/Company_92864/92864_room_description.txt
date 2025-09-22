@@ -1,0 +1,65 @@
+**Identity Brand**
+
+**Legal Name**: A. Eberle GmbH & Co. KG  
+**Slogan**: Measure. Control. In all networks.  
+**Sector**: Measurement and control technology for energy providers and industry.  
+**Maturity**: Established mid-sized company (since 1980) with market leadership in specific areas.  
+**Geographical Reach**: Strong national presence in Germany with international customer service.  
+**Color Palette/Form Language**: Not specified, clear and functionally precise, focused on clarity and reliability.  
+**Material/Logo Use**: Not specified.
+
+**Value Proposition Map**
+
+- **Voltage Regulation**: Develops and supplies medium and high voltage regulations to ensure network availability; targets energy providers and industrial operators, leading in Germany for voltage regulation.
+- **Power Quality Systems**: Installed systems and mobile analyzers for quality improvement and error prevention; targets utility companies and large industries; leading in German power quality.
+- **Fault and Ground Fault Solutions**: Short circuit and ground fault location and compensation for quick troubleshooting; targets network operators and self-supplied energy operators.
+- **Control Technology & Secure Communication**: SCADA-compatible for remote maintenance and operations; targets system operators and integrators.
+- **Services & Training**: Custom engineering, commissioning, seminars, and training; targets users, operators, and partners.  
+- **Weighting**: Balanced quality; specific percentages not provided.
+
+**Culture Profile**
+
+- **Values**: Clarity, openness, and fairness are central, promoting transparent, learning-oriented collaboration.
+- **Work Style**: Hands-on problem-solving, pragmatic and solution-oriented.
+- **Pace and Mode**: Innovation-driven with a solid approach; partly agile environment, international collaboration, and frequent travel.
+
+**Portfolio Focus**
+
+- Showcases technical artifacts like voltage regulators, power quality systems, mobile analyzers, and functional demos for measurement and troubleshooting.
+- Includes demonstrations of control technology and practical training simulations for commissioning.
+- **Handling**: Practical, touchable demonstrations and training modules; safety requirements not specified.
+
+**Narrative Assets**
+
+- **Headline**: Measure. Control. In all networks.
+- **Key Statements**:
+  1. Since 1980, products and services ensure energy infrastructure reliability.
+  2. Market leader in voltage regulation and power quality in Germany.
+  3. Solutions support renewable energy integration and energy transition.
+
+**Interaction Flow**
+
+Visitors are welcomed at an information point, then guided to product islands with live demos and interactive training stations.
+- **Modes**: Self-guided exploration, demos by experts, and scheduled training/seminars.
+- **Path**: Introduction → Product and error diagnosis demos → Hands-on training → Service and career info → Contact/Follow-up.
+
+**Zones Layout**
+
+Central product areas with technical exhibits, standalone training stations, and areas for mobile field tests and analyzers. Includes a service/consultation island and a separate career/recruiting area with information points. Space distribution based on product demos and training priorities.
+
+**Anchor Objects**
+
+- Freestanding control and operation cabinets demonstrate voltage regulation.
+- Mobile power-quality analyzers on stands/trolleys for field tests.
+- Demonstration transformer with tap changer for regulation visualization.
+- SCADA/communication rack for functional demo.
+- Interactive kiosks and benches for hands-on practice.  
+- **Mobility**: Mobile analyzers and kiosks are transportable; larger cabinets are stationary.
+
+**Circulation Accessibility**
+
+- **Minimum Aisle Width/Entrances/Accessibility**: Not specified.
+
+**Ambience**
+
+- **Lighting/Audio/Music/Scent**: Not specified.

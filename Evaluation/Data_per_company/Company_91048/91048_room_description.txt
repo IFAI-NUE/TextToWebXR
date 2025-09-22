@@ -1,0 +1,39 @@
+identity_brand
+
+Legal Name: EOS GmbH. Tagline: Responsible Manufacturing through Industrial 3D Printing. Sector: Machinery and Equipment Manufacturing. Established Company since 1989; Pioneer in Direct Metal Laser Sintering (DMLS) technology and quality. Global Reach: Worldwide. Color Palette: Not specified. Design Language: Precise, functional, and technologically driven with clear, technical geometries. Material: Metallic and technical plastic surfaces suitable for additive manufacturing solutions. Logo Usage: Not specified.
+
+value_proposition_map
+
+1) Industrial Metal DMLS Systems (Main Product) — Benefits: High-precision, high-productivity manufacturing for complex end and serial parts; Target Groups: OEMs, Aerospace, Medical Technology, Toolmaking. Weight: 40%. 2) Additive Manufacturing Systems for Plastics — Benefits: Cost-effective, scalable plastic production; Target Groups: Serial Producers and Prototyping. Weight: 25%. 3) Global Service & Consultation — Benefits: Operational security, lifecycle support, and process optimization; Target Groups: Existing Customers and Users. Weight: 20%. 4) Solutions for Responsible Manufacturing (Sustainability & Efficiency) — Benefits: More resource-efficient production chains; Target Groups: Companies with sustainability goals. Weight: 15%.
+
+culture_profile
+
+Values: Responsibility, innovation, quality, and sustainability reflected in company communication and benefits. Pace: Research-driven and technology-oriented, structured by industrial quality standards. Collaboration Style: Interdisciplinary and cross-team, with close coordination among inventors, experts, and external partners like patent attorneys. Work Mode: Flexible and modern, supported by remote working options, flexible hours, and training opportunities.
+
+portfolio_focus
+
+Showcases industrial manufacturing systems for metal and plastics, printed part examples for quality assurance, demo models, and explanatory videos. Handling: Interactive controls and demonstration stations for process insights; safety aspects in machine operations are emphasized. Specific technical details on demonstration processes: Not specified.
+
+narrative_assets
+
+Headline: Pioneer in Responsible Industrial 3D Manufacturing since 1989. Core Messages: EOS combines high-end technology with sustainable production; Leadership in DMLS and strong expertise in plastic systems; Global service ensures customer process lifecycle support. Measurable Metrics & Signals: Founded in 1989; Employee Count: 1,000–2,499; Recognized Pioneer in DMLS.
+
+interaction_flow
+
+Visitors start with a brief introduction to the technology and company role, follow clear demonstration stations for metal and plastic processes, and view physical part examples. Interactive stations offer detailed information, and there is a section for service and consultation dialogues as a conclusion. Modes: Guided presentations, self-exploration at info kiosks, and consultation sessions.
+
+zones_layout
+
+Freestanding reception and orientation unit as the central starting point, multiple demonstration islands with machines, separate presentation and video areas, pedestals for part exhibits, and lounge and consultation spaces. Arranged in clear, spatially distinct zones addressing different themes and interaction levels. Size and dimensions: Not specified.
+
+anchor_objects
+
+Large additive manufacturing systems as main anchors (e.g., Metal DMLS Machines, Plastic Systems), pedestals with printed parts for material and quality illustration, interactive information kiosks, consultation booths, seating clusters for breaks and discussions. Function: Demonstration, information, consultation; Mobility: Exhibits on pedestals and kiosks typically mobile; Machines are predominantly stationary.
+
+circulation_accessibility
+
+Minimum aisle width: Not specified. Entries/access points to individual zones: Not specified. General accessibility: Not specified.
+
+ambience
+
+Lighting, audio, music, and scent: Not specified.

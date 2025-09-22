@@ -1,0 +1,29 @@
+identity_brand
+Legal Name: An established digital security specialist and part of a larger group, with a nationwide presence in several cities. Sector: IT Security / Internet / IT Services and Software Development.
+
+value_proposition_map
+Pillar 1 – Secure Network Communication: Offers encrypted VPN solutions and secure cloud connections, providing confidential data communication. Targeted towards organizations and cloud providers. Pillar 2 – Protecting Critical Infrastructures: Securing critical infrastructure and industrial settings, enhancing operational security and compliance. Targeted towards infrastructure and industrial operators. Pillar 3 – Remote Access & Maintenance: Secure remote maintenance solutions for machines and mobile users, including work-from-home. Targeted at service technicians and IT teams. Pillar 4 – Consulting and Services: Customized services, training, and support. Providing knowledge transfer and tailored implementation for government and industry clients.
+
+culture_profile
+Values: Security-focused, solution-oriented, and service-minded. Pace: Structured and reliable, with opportunities for development. Collaboration Style: Team-oriented and pragmatic; cross-functional work is common. Work Mode: Flexible hours and remote work options, balanced with client-oriented services.
+
+portfolio_focus
+Displays include technical demonstrations of core solutions and materials for training and information. Interactive demo stations and print materials are provided, with access to live demos monitored by specialists.
+
+narrative_assets
+Headline: "Reliable IT Security for Organizations and Industry". Key Message 1: Specialist in encrypted communication and secure connections. Key Message 2: Practical protection for critical infrastructures. Key Message 3: Accompanying services and training for sustainable implementation.
+
+interaction_flow
+Visitors choose between self-guided or guided experiences, beginning with an orientation capsule. Thematic demo stations with interactive equipment follow, supported by materials and live training sessions.
+
+zones_layout
+Freestanding thematic zones include Secure Connectivity, Critical Infrastructure, Remote Access, and Training, each designed for user engagement and learning.
+
+anchor_objects
+Interactive kiosks for topic selection, demo pods for visualization, print stations with materials, and consulting areas for discussions. Most items are movable or customizable.
+
+circulation_accessibility
+No specific information provided.
+
+ambience
+No specific information provided.

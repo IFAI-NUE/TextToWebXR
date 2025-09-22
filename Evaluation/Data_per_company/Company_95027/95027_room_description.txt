@@ -1,0 +1,39 @@
+identity_brand
+
+Company Name: Local Utility Company (LUC). Tagline: "Simply Close to You." Sector: Regional energy and utility services, including recreational offerings. Established: A well-established company with about 130 years of experience. Geographic Reach: Local to regional, serving up to 80,000 people. Color Palette: Green accents (e.g., #2E7D32), complementary blue (e.g., #0288D1), and neutral grey (e.g., #616161). Design Language: Robust, organically rounded forms with clear readability. Material Note: Use of natural and technical materials for freestanding exhibits (wood, painted metal, glass-like displays, fabric displays). Logo Usage: Prominent placement on freestanding information pillars, reception columns, and mobile media stands.
+
+value_proposition_map
+
+Pillar 1 – Supply of 100% Green Electricity & Gas: Core offering with high value for households and businesses, targeting all regional customers; substantiated by self-report of 100% green electricity. Weight: approx. 40%. Pillar 2 – Water and District Heating Supply: Reliable basic service for households and commercial entities, targeting local households, backed by years of operation. Weight: approx. 20%. Pillar 3 – Local Energy Transition & Renewable Projects (PV, Wind, E-Mobility): Planning, feasibility analyses, and offer calculations for renewable installations; target: municipalities, businesses, PV enthusiasts; Evidence: job postings for PV design and project support. Weight: approx. 20%. Pillar 4 – Recreation and Quality of Life (Local Recreational Facilities): Focus on leisure and regional quality of life, targeting residents and visitors, evidenced by the mention of the recreation center. Weight: approx. 10%. Pillar 5 – Customer Service, HR & Community Services: Recruiting, employer branding, employee services and additional benefits; target: employees, applicants; Evidence: job ads and benefits (remote work, flexible hours). Weight: approx. 10%.
+
+culture_profile
+
+Values: Sustainability, regional focus, and pioneering spirit are key, supported by years of experience. Pace: Strategically and long-term oriented with a focus on the energy transition by 2035. Collaboration Style: Interdisciplinary and service-oriented, with close integration of technology, sales, and HR. Working Mode: Hybrid work models with flexible hours and remote work options, including health and social services.
+
+portfolio_focus
+
+Showcasing freestanding exhibits on energy supply and renewables: Model PV arrays, charging infrastructure demos, interactive media stands with supply data, and visualizations of the recreation center. Complemented by HR and employer branding kiosks with information on benefits and student projects. Handling: Interactive touch interfaces and physical controls, clear usage instructions, and personalized user paths. Safety: Robust, stable exhibits and clearly marked access areas.
+
+narrative_assets
+
+Headline: "130 Years of Service — Local, Sustainable, Future-Oriented." Key Statements: We deliver 100% green electricity and gas for the region; we drive the local energy transition by 2035; we enhance quality of life with offerings like the recreation center. Measurable Metrics & External Signals: Approximately 130 years of company history, supplying up to 80,000 people, energy transition target year 2035.
+
+interaction_flow
+
+Visitors start at a freestanding reception pillar for orientation, choose self-guided tours via media stands or join guided walkthroughs. The path leads from an overall overview to modular stations: energy supply, renewable project hub, water and heating station, recreation/recreation center, and career section. Each station offers short explanatory videos, interactive calculators (e.g., PV calculator), and consultation touchpoints. The visit concludes at a mobile feedback and contact station for appointments and applications.
+
+zones_layout
+
+Central orientation hub with freestanding info pillars occupies 10–15% of the space; energy supply and renewable technologies as cohesive units take about 40%; water and heating stations about 15%; recreation center presentation and experience area about 15%; career and community zone with service counter around 15%. All areas are arranged as standalone, freestanding zones, clearly readable and thematic.
+
+anchor_objects
+
+Freestanding information steles and reception columns serve as initial contact points and brand anchors, mostly fixed but modularly mounted. Interactive kiosks/touch media stands for deeper content, with integrated accessibility and headphone output, mostly mobile. Physical model exhibits like PV modules, charging point demonstrations, and a water process model provide tactile views; these are stable, mostly fixed, some movable. Seating islands and lounge modules create rest areas, mobile placement.
+
+circulation_accessibility
+
+Minimum path width: clear paths should be at least 1.5 meters to ensure barrier-free access and wheelchair passage. Entries: all freestanding stations with low operating heights and high-contrast, tactile labeling. Accessibility: user-friendly touchpoints at sitting height, audio guide options, clear lighting guidance, and easily reachable contact stations; personalized assistance via mobile stations if needed.
+
+ambience
+
+Light: Warm, energy-efficient LED lighting of exhibits with zonal accent lighting for interaction areas. Audio: Subtle zone sounds – water sounds at the water station, calm nature or city sounds in the experience zone, factual commentary modules at technology stations. Music: Subdued ambient music between stations, optional mute function. Scent: Subtle, fresh notes in the leisure zone (e.g., aquatic/lightly plant-like) to support the atmosphere.

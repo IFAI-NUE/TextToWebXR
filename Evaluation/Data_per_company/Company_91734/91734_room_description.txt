@@ -1,0 +1,59 @@
+### Identity Brand
+
+A technology services company with a focus on IoT and industrial logistics solutions. Founded in 2018, this fast-growing startup emphasizes transparency and efficiency in supply chain management. It operates internationally to track material flows across sites. Specific color schemes and design language are not specified.
+
+### Value Proposition Map
+
+1. **Cloud-Based Asset Management Platform**  
+   - **Benefits:** Real-time tracking, booking information, automation.  
+   - **Target Audience:** Medium to large industrial enterprises.  
+   - **Evidence:** In use since 2018 for fleet management across locations.
+
+2. **Integration with Various Auto-ID and IoT Sources**  
+   - **Benefits:** Flexible hardware and data integration.  
+   - **Target Audience:** IT/Logistics teams with diverse inventories.  
+   - **Evidence:** Multi-ID support.
+
+3. **Process Modeling, Reporting, and Monitoring**  
+   - **Benefits:** Process optimization, transparency in material flows.  
+   - **Target Audience:** Process managers and operations management.  
+   - **Evidence:** Focus on reporting and process mining.
+
+4. **Implementation, Support, and Customer Success**  
+   - **Benefits:** Deployment, training, ongoing support.  
+   - **Target Audience:** Clients needing implementation and operations.  
+   - **Evidence:** Job postings with customer success and implementation tasks.
+
+Priority is on the platform and integration, followed by analytics/process functions and services.
+
+### Culture Profile
+
+Values customer orientation, proactive teamwork, and pragmatic problem-solving in logistics processes. The environment is dynamic and growth-focused, with a hybrid work model offering flexible hours, remote work options, and regular collaboration between clients and internal teams.
+
+### Portfolio Focus
+
+Showcases digital product demos of the cloud platform, auto-ID/IoT integrations, and tagged transport containers or demo sensors. Formats include interactive demos, video walkthroughs, and case studies.
+
+### Narrative Assets
+
+Headline: "Transparency and Efficiency in the Supply Chain." Key messages highlight real-time tracking, diverse ID system openness, and a focus on process modeling to optimize material flows. Founded in 2018, it exhibits strong growth, though specific KPIs are not provided.
+
+### Interaction Flow
+
+Modes include self-guided exploration at interactive kiosks, live demos with customer success staff, and workshops for technical depth. Visitors can choose between brief overviews or detailed technical sessions.
+
+### Zones Layout
+
+Features an introduction area, multiple demo zones for software visualizations and flow simulations, exhibition zones for tagged assets, and collaboration pods for workshops. Emphasis is on interactive demos and hardware presentation.
+
+### Anchor Objects
+
+Typical anchors include interactive kiosks for platform demos, display shelves with tagged transport containers and sensors, VR/AR stations for immersive insights, and platforms for workshops. All are standalone and can be reconfigured.
+
+### Circulation Accessibility
+
+Details on minimum aisle width, entrances, and accessibility are not specified.
+
+### Ambience
+
+Details on lighting, audio, music, and scent are not provided.

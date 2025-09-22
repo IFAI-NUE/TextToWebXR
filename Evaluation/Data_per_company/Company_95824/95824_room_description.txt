@@ -1,0 +1,48 @@
+**Identity Brand**  
+- **Company Name:** An independent engineering firm.  
+- **Tagline:** Pioneers in Energy.  
+- **Sector:** Electrical Engineering / Energy Supply (Connecting renewable energy to the medium voltage grid).  
+- **Maturity:** A young company, active for about four years.  
+- **Geographical Reach:** Nationwide in Germany.  
+- **Color Palette:** Not specified.  
+- **Design Language:** Technically modular, functional, and practical.  
+- **Material Suggestion:** Industrial and robust (e.g., metal enclosures for switch cabinet components).  
+- **Logo Usage:** Not specified.  
+
+**Value Proposition Map**  
+1. **Main Product (Hardware):** A robust switch cabinet solution with integrated communication and grid protection hardware; Target audience: Renewable energy operators, installation partners; Core offering in company profile. Weight: 40%.  
+2. **Commissioning & On-Site Services:** Secure installation and testing until compliance; Target: Grid operators and plant operators; Highlighted in job postings (commissioning, tests, protocols). Weight: 30%.  
+3. **Software & Remote Operation:** Communication and control software for monitoring and remote technology; Target: Operators, IT departments of partners; Part of a comprehensive service package. Weight: 20%.  
+4. **Documentation & Consulting:** Technical documents, certifications, and development support; Target: Suppliers, testing bodies, clients; Involves creating technical documents and visualizations in tenders. Weight: 10%.  
+
+**Culture Profile**  
+- **Values:** Pioneering spirit for renewable energy, responsibility, and practical innovation.  
+- **Pace:** Project-driven and agile; Work requires readiness to travel nationwide.  
+- **Collaboration Style:** Interdisciplinary and closely coordinated with IT departments, technicians, and partners.  
+- **Work Mode:** Hybrid with options for home office, flexible hours, and emphasis on training.  
+
+**Portfolio Focus**  
+Showcases primarily the main product, auxiliary hardware components, software demos, and technical documentation. Complemented by commissioning demos, testing protocols, and on-site video uses. Interactive product displays and programming examples. Provides safety and compliance information.  
+
+**Narrative Assets**  
+- **Headline:** Pioneers in Energy.  
+- **Core Statements:** Connects renewable energy to the public medium voltage grid; Main product is central; Offers a unique nationwide comprehensive package combining hardware, service, and software; The team represents practical implementation strength and documentation quality.  
+- **Key Metrics & Signals:** Approximately four years in the market, nationwide sites, emphasizing a unique solution in Germany.  
+
+**Interaction Flow**  
+Not specified.  
+
+**Zones Layout**  
+Not specified.  
+
+**Anchor Objects**  
+- **Primary Anchor:** Free-standing replica of the main product as a demonstration object for hardware and protection technology.  
+- **Additional Anchors:** Interactive kiosks for software and programming demos, testing stations with protocol output, and mobile presentation tables for technical documents.  
+- **Function:** Demonstration, hands-on interaction, technical training.  
+- **Mobility:** Not specified.  
+
+**Circulation & Accessibility**  
+Not specified.  
+
+**Ambience**  
+Not specified.

@@ -1,0 +1,29 @@
+identity_brand
+Company Name: ProLeiT GmbH. Tagline: “Process Control Systems. MES inside.” Sector: Process control and automation for the process industry. Established as a global company under Schneider Electric, active in over 2,100 plants across more than 110 countries. Geographic Reach: Worldwide. General Color Palette: Blue and green tones. Design Language: Technical, precise, modular, and clear interfaces. Material Note: Robust industrial materials and screen-based displays with a metallic/technical appearance.
+
+value_proposition_map
+Pillar 1 – Process Control Systems & MES (approx. 40%): Provides integrated process control systems with MES features for seamless production control and traceability; Target: Breweries, beverage, dairy, bakery, food, chemical, and pharmaceutical producers; Evidence: Used in over 2,100 plants globally. Pillar 2 – Automation Solutions & Engineering (approx. 25%): Delivers automation solutions and engineering expertise to enhance efficiency and reduce resource use; Target: Operators of complex process technology plants; Evidence: Subsidiary of Schneider Electric, global projects. Pillar 3 – Industry-Specific Software Solutions (approx. 20%): Specialized software for breweries, dairies, beverages, and food with specific industry knowledge; Benefit: Optimized recipe and process stability; Target: Food and beverage producers. Pillar 4 – Training, Support & Services (approx. 15%): Offers training, development, and support for operations and growth; Benefit: Faster onboarding and transition processes; Target: Operators and internal IT/OT teams; Evidence: Training offerings and high conversion in training programs.
+
+culture_profile
+Values: “Impact-Maker,” pragmatic, team-oriented (“One ProLeiT”), and technically proficient. Pace: Results-focused and action-driven – “Doers, not dreamers.” Collaboration Style: Interdisciplinary teams from electrical engineering, computer science, process engineering, brewing, and food technology. Work Mode: Encourages ongoing education, flexible working hours, and international experience opportunities; strong focus on practical application and on-the-job learning.
+
+portfolio_focus
+Showcases include software demos (process control systems, MES dashboards), interactive production simulations, industry-specific use cases (breweries, dairies, bakeries), and training/career opportunities. Artifacts: Virtual control interfaces, code and data flow examples, and case studies. Handling: Interactive touch and control terminals with guided demo sessions. Security: Emphasis on data quality and privacy in product presentations.
+
+narrative_assets
+Headline: “Impact in Production: Efficient, Reliable, Global.” Key Messages: 1) We provide process control and MES for reliable production management. 2) Industry expertise in brewery, beverage, food, chemical, and pharma. 3) Focus on resource efficiency and measurable impact. Metrics & Signals: Active in over 2,100 production facilities across more than 110 countries; Subsidiary of Schneider Electric; high training program conversion rates.
+
+interaction_flow
+Visitors choose at a welcome kiosk between modes: Quick Start (overview), Demo Mode (interactive systems), Career Mode (training & benefits), and Deep Dive (technical discussions). General Path: Intro pod → Solution islands with hands-on demos → Career and learning lounge → Consultation pod for individual inquiries. Each station is modular, offering short, medium, or deep interaction times.
+
+zones_layout
+Intro area with a central information kiosk for quick orientation (small portion). Solution islands with multiple standalone demo stations for process control systems and MES (largest portion). Hands-on and test areas with copies of control panels and simulation tables. Career and learning lounge with seating areas and info kiosks, and a consulting/meeting pod for detailed discussions.
+
+anchor_objects
+Interactive touch kiosks and a central information kiosk as anchors, standalone demo terminals with physical control panels, cylindrical production simulators (e.g., tank or plant mockups) for visualization, seating and discussion areas, and mobile hardware racks with control devices. Functions: Orientation, demo operation, discussion facilitation, physical product presentation. Mobility: Many exhibits are modular and mobile; larger simulators can be designed as portable installations.
+
+circulation_accessibility
+No specific details on minimum aisle widths, entrances, or accessibility in context.
+
+ambience
+No specific details on lighting, audio, music, or scent concepts in context.

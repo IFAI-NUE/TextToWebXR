@@ -1,0 +1,5 @@
+About Us: DeepAdvisor was founded in 2023 by experienced professionals with over 20 years in leadership roles within B2B software companies and consulting firms. The founders also co-founded and led a B2B software startup acquired by a major consulting firm in 2019, where they served as partners until 2023. With the emergence of powerful LLM models since 2022, the landscape of business processes and software applications is undergoing significant changes.
+
+To actively support this transformation, DeepAdvisor provides B2B clients with easy and secure access to various LLM providers and their AI models. Our library of predefined AI use cases ensures that generative AI with DeepAdvisor is readily available for experts and their business processes. Our software goes beyond simple chat functions, offering tangible business benefits in operational productivity and process automation.
+
+The DeepAdvisor software platform encompasses all the necessary features for developing, testing, and integrating business applications into operational workflows, all without the need for programming skills (Rapid Prototyping).

@@ -1,0 +1,32 @@
+**Identity Brand**  
+Electronic Counseling Institute. Tagline: Projects & Qualification in Electronic Communication for Psychosocial Counseling. Sector: Education & Training, Health/Social Services, IT Services, Science/Research. Maturity level, geographic reach, color palette (HEX), design language, material notes, and logo usage guidelines: not specified.
+
+**Value Proposition Map**  
+1. Research and Project Work (approx. 35%): Developing and conducting projects for electronic psychosocial counseling; target groups include research partners, universities, and practice organizations. Evidence: Institute activities and project focus.  
+2. Training and Qualifications (approx. 30%): Professionalization of digital counseling formats; target groups are professionals, students, and counseling centers. Evidence: Slogan and listed benefits (training).  
+3. Research Support & Language Services (approx. 25%): Assistance with surveys, transcription, translation, and analysis (e.g., MAXQDA, SPSS); target groups are research projects and multilingual studies. Evidence: Job postings mentioning tasks in interviews, transcription, and analysis.  
+4. IT Training & Tool Instruction (approx. 10%): Training in relevant software and tools for data collection and processing; target groups are staff and students. Evidence: Requirements for MS Office and software knowledge.
+
+**Culture Profile**  
+Values: Professionalism, self-responsibility, and promotion of further education, indicated by benefits like training and the encouragement for independent work in job posts. Pace: Project-oriented with practical focus and long-term employment prospects. Collaboration style: Interdisciplinary and multilingual, involving student assistants. Work mode: Hybrid options and flexible schedules (remote work available).
+
+**Portfolio Focus**  
+Mostly features research and project artifacts as well as qualification materials: Interview transcriptions and translations, questionnaires, analysis reports, training materials, and software-related documents. Additionally, tool demonstrations (e.g., MAXQDA/SPSS) and examples of processed documents (Word, Excel, PDF) may be included. Handling: User-guided demonstrations and document-based insights; security specifications: not specified.
+
+**Narrative Assets**  
+Headline: Electronic Communication for Psychosocial Counseling. Key Points: 1) Research and projects in digital counseling practice; 2) Qualification offers for practitioners and students; 3) Multilingual research support and data analysis expertise. Measurable metrics: not specified; external signals: active job listings and noted benefits (e.g., training, remote work).
+
+**Interaction Flow**  
+Modes: Self-guided stations and guided demonstration points with interactive terminals for project and training materials. General path: Start at an information kiosk, then visit project stations and training demos, view multilingual survey examples, ending at a feedback or contact station for further collaboration.
+
+**Zones Layout**  
+Freestanding orientation area with info point, multiple project and research pods for material access, a zone for qualification and training demos, and individual language and transcription booths as independent units. Complemented by mobile meeting and discussion pods and seating islands for informal consultations; area focus: project and training zones.
+
+**Anchor Objects**  
+Key freestanding anchor objects include information and check-in kiosks (function: orientation, mobility: stationary to movable), interactive terminals/workstations (function: demo and training, mobility: mobile/rollable), enclosed booths for language and transcription work (function: quiet recording/translation, mobility: semi-mobile), and mobile meeting and discussion pods with seating clusters for consultation (mobility: easily movable).
+
+**Circulation Accessibility**  
+Minimum aisle width: not specified. Entrances: freestanding entry stations/info points planned. Accessibility: No specific features or standards mentioned, only benefits regarding good transport links and parking options.
+
+**Ambience**  
+Light, audio, music, and scent: not specified.

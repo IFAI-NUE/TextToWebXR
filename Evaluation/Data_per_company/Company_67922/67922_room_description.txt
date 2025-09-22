@@ -1,0 +1,29 @@
+identity_brand
+Company: An established engineering services firm focusing on vehicle inspections and technical services. Tagline: “With Expertise and Empathy” (≤80 characters). Sector: Engineering with a focus on vehicle testing and technical services. Maturity: A well-established small to medium enterprise with local/regional focus. Geographic Reach: Regional. Color Palette, Form Language, Material Note, and Logo Usage: Not specified.
+
+value_proposition_map
+Pillar 1 – Technical Testing and Preparation (approx. 40%): Includes preparing and technically inspecting vehicles using diagnostic tools and lifts; Target Audience: Vehicle owners, workshops, fleet operators; Evidence: Job descriptions with practical testing tasks. Pillar 2 – Engineering and Consulting Services (approx. 30%): Provides engineering services and technical consulting; Target Audience: Municipal/regional clients and business customers; Evidence: Company profile as an engineering firm. Pillar 3 – Training & Practical Learning (approx. 20%): Offers internships and practical semesters with hands-on tasks; Target Audience: Students and trainees; Evidence: Internships and student job listings. Pillar 4 – Employee Benefits & Retention (approx. 10%): Offers retirement plans, training, free drinks, staff events, discounts, and parking; Target Audience: Potential and current employees; Evidence: Benefits list in the profile.
+
+culture_profile
+Values: Emphasizes expertise, reliability, empathy, teamwork, friendly demeanor, and communication skills. Tempo: Practical and solution-oriented with a focus on technical procedures. Collaboration Style: Collegial, hands-on, and team-oriented with support for on-the-job training. Work Mode: Mostly onsite with practical, technical activities and strict safety standards.
+
+portfolio_focus
+Features: Independent testing and diagnostic stations, demonstration vehicles on lifts, mobile measuring devices, and training stations. Demonstrations/Models/Videos: Practical demos and live handling of testing devices with potential instructional videos; No specific media formats provided. Handling & Safety: Managed by trained staff; lifts and devices require supervision and safety training.
+
+narrative_assets
+Headline: “With Expertise and Empathy – Technical Testing Expertise On-Site.” Core Messages: 1) Practical engineering and testing services focused on vehicle technology; 2) Training and onboarding for students and interns; 3) Attractive employee benefits for talent retention. Measurable Metrics & External Signals: No specific metrics provided; external signals include job listings and highlighted benefits.
+
+interaction_flow
+Modes: Guided tours, hands-on interaction at demo stations, curated training sessions for students. Pathway: Start at an info/reception point; proceed to stations with diagnostic and testing devices, with a practical demo on a vehicle lift, then head to a discussion and information area about careers/benefits. Support: Technical staff provides practical training.
+
+zones_layout
+Zones: Reception/info point as entry, central testing and demo area with vehicles and lifts, training/bench area with mobile devices, lounge and discussion spot for HR info and benefits, temporary displays for internships/job info. Area Distribution: Focus on practical testing area, smaller zones for training and dialogue.
+
+anchor_objects
+Types/Examples: Demo vehicles on lifts (anchor for tech demos), mobile diagnostic benches, and devices (interaction and training), info kiosks (information and navigation), seating and discussion pods (recruiting/talks). Function: Demonstration, interaction, information, and recruiting. Mobility: Lifts and vehicles mostly stationary or semi-mobile; diagnostic benches and kiosks are mobile; discussion pods somewhat mobile.
+
+circulation_accessibility
+Flow & Access: Visitor guidance along freestanding stations for clear visibility and work pathways; entry points at clearly marked info kiosks. Minimum aisle width, specific dimensions, and detailed accessibility measures: Not specified. General Accessibility: No specific measures stated, however, parking is available as mentioned in benefits.
+
+ambience
+Lighting: Not specified; expected to have functional, work-oriented lighting at testing and workstations. Audio/Music: No specific sound designs; likely technical operational sounds during demos, quiet background music in discussion areas. Scent: Free drinks as a benefit suggest a plausible coffee/beverage offering.

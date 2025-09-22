@@ -1,0 +1,47 @@
+identity_brand
+
+Company: Campus Engineering Ltd. Tagline: Not provided. Sector: Construction, Architecture, Engineering Services. Expertise: Seasoned specialists in conversion and revitalization projects. Geographic Reach: Projects for regional and metropolitan areas. Color Palette: Not provided. Design Language: Not provided. Material Note: Not provided. Logo Usage: Not provided.
+
+value_proposition_map
+
+1) Conversion & Revitalization (25%): Planning and implementing the reutilization of former industrial or military sites; Benefit: Creating valuable land for municipalities and developers; Target: Municipalities, Project Developers, Investors; Evidence: Specialization in conversion and revitalization.
+
+2) Feasibility Studies & Cost Estimation (20%): Providing realistic development costs and risk assessments; Benefit: Reliable decision-making foundations; Target: Investors, Developers; Evidence: Credible feasibility studies.
+
+3) Project Management, Permitting & Construction Supervision (25%): Comprehensive management to construction execution, including monitoring and cost control; Benefit: Risk reduction and cost management; Target: Clients, Developers; Evidence: Project management and supervision offerings.
+
+4) Infrastructure & Renewable Energy Integration (15%): Planning for media and traffic infrastructure and energy integration; Benefit: Sustainable areas with modern supply solutions; Target: Urban Planners, Municipalities; Evidence: Mention of infrastructure and energy integration.
+
+5) Site Clearance & Ordinance Disposal (15%): Secure clearance of complex sites; Benefit: Safe and legally compliant construction preparation; Target: Developers, Authorities; Evidence: Site clearance and disposal services.
+
+culture_profile
+
+Values: Practicality, expertise, and interdisciplinary teamwork. Tempo: Goal-oriented, punctual work phases split between office and field. Collaboration Style: Close cooperation between project leaders and disciplines; supported by students and freelancers. Work Mode: Hybrid of office-based and fieldwork.
+
+portfolio_focus
+
+Features case studies on conversion and revitalization, excerpted reports, CAD plans, photos, and models of areas and infrastructure. Presentation: Digital plans and physical models accessible interactively; photo and report access provided. Safety: Includes guidelines for handling soil/water samples and site work.
+
+narrative_assets
+
+Headline: Future-proof urban areas through conversion and reliable engineering. Core Messages: 1) Specialization in developing and revitalizing large areas for cities and investors. 2) Decisions based on credible studies and risk assessments. 3) Comprehensive execution skills from permitting to management. Measurable Metrics & External Signals: Not provided.
+
+interaction_flow
+
+Modes: Self-guided exploration at information kiosks, guided tours at model tables, and detailed consultations at advice stations. General Path: Start at an orientation kiosk, choose project stations with models and reports, deepen understanding at interactive CAD tables, and finish at the consultation area. Each station offers summaries and contact information.
+
+zones_layout
+
+Orientation area with a freestanding information kiosk, clusters of project stations with interactive displays and model tables, a hands-on lab for samples and demonstrations, and an advisory area with mobile seating groups. Areas guide visitors from overview to detailed work. Zone transitions are marked by freestanding elements.
+
+anchor_objects
+
+Interactive information kiosks for orientation, large model tables for area scale, VR/AR stations with headsets for immersive tours, touch tables for plans, sample stations with secure storage for soil/water samples, mobile consultation stands; Mobility: Mainly mobile elements, some models, and sample stations are stationary.
+
+circulation_accessibility
+
+Not provided.
+
+ambience
+
+Not provided.

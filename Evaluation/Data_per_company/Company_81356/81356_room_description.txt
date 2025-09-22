@@ -1,0 +1,29 @@
+Identity Brand
+Legal Name: A global electronics company. Tagline: Beyond Connections. Sector: Automotive manufacturing / Supplier for automotive data transmission. Stage: Established global market leader with around 650 headquarters employees and approximately 6,000 employees worldwide. Geographic Reach: Germany, Bulgaria, China, France, Japan, Mexico, South Korea, Czech Republic, USA. Color palette: Not specified. Design language: Not specified. Material note: Not specified. Logo usage: Not specified.
+
+Value Proposition Map
+Core Offer: Vehicle data transmission solutions — Benefits: Fast, secure, and reliable data transmission; Target Audience: Automotive manufacturers and suppliers; Proof: Declared global market leader in the future data transmission market. Technology and Development Services — Benefits: Collaborative development and integration of transmission solutions; Target Audience: OEMs and development departments; Proof: Job postings for technical project work and measurement system analysis. Global Production & Delivery — Benefits: International supply and manufacturing capacities; Target Audience: International vehicle manufacturers; Proof: Locations in multiple countries. Talent and Research Support — Benefits: Securing skilled workers through dual study programs and theses; Target Audience: Students and universities; Proof: Announcements for dual study places and theses. Weights: Described qualitatively.
+
+Culture Profile
+Values: Cohesion, innovation, and a strong commitment to quality as described in the company profile. Pace & Work Style: Solution-oriented, analytical, and innovation-driven; high initiative expected. Collaboration Style: Team-oriented with flexible working hours, remote work options, and targeted further training. Work Mode: Mix of in-person and flexible models, supported by company benefits and training opportunities.
+
+Portfolio Focus
+Exhibited Items: Demonstrators of data transmission solutions, testing setups, prototype modules, and interactive visualizations of transmission technology. Format: Physical models combined with video or data demos to illustrate metrics and MSA results. Handling & Safety: No specific handling rules or safety requirements indicated.
+
+Narrative Assets
+Headline: Beyond Connections — Secure, fast data transmission in vehicles. Key Messages: 1) Global market leader in vehicle data transmission; 2) Focus on reliability, safety, and innovation; 3) Strong international presence and commitment to education/research. Measurable Metrics & Signals: Around 650 employees at HQ, about 6,000 employees worldwide, locations in nine countries; supported by active job postings and training offers.
+
+Interaction Flow
+Modes: Combined experience paths with self-guided stations, guided demonstrations, and interactive hands-on stations. General Path: Introduction to brand message, followed by technology and testing stations, in-depth measurement and lab demos, and final career/contact station. Visitors choose between short tours, deep-dive demos, or career sessions.
+
+Zones Layout
+Standalone intro island with brand presentation as a starting point. Technology cluster with several demonstration islands for hardware and transmission examples. Testing islands for measurement setups and MSA demonstrations. Career and training island with information kiosk and contact options. Lounge and discussion islands for exchange and informal interaction.
+
+Anchor Objects
+Product and demonstrator islands (pedestals) for component and module presentations; Function: Display and interaction; Mobility: Generally mobile/movable. Modular testing stations and measurement benches; Function: Live demonstrations of data transmission and MSA; Mobility: Partially stationary. Interactive information kiosks for digital content and recruiting information; Function: Self-service and registration; Mobility: Mobile. Seating and discussion pods for networking and consultation; Function: Connection and advice; Mobility: Mobile.
+
+Circulation Accessibility
+Specific information about minimum aisle widths, access points, or exact accessibility measures is not provided; therefore: no information. Information on implementing accessible access or specific requirements is not mentioned.
+
+Ambience
+No information provided on lighting design, audio, music, or scent in the given context.

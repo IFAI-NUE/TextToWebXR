@@ -1,0 +1,29 @@
+identity_brand
+Known as i40 - the future skills company. Industries: Education & Training, IT Services, Software Development, Management Consulting, Media. Status: Established, internationally active EdTech with proven market presence. Geographic Reach: Active in 14 countries, over 350,000 learners. Color scheme, design language, and material details are not specified. Logo usage not specified.
+
+value_proposition_map
+Pillar 1 (35%): Scalable E-Learning Platform – Benefit: centralized, company-wide learning delivery; Target Audience: HR, L&D, global corporations; Evidence: 350,000 learners in 14 countries. Pillar 2 (30%): Customized Learning Content and Future Skills Courses – Benefit: practical skill development for digital transformation; Target Audience: Professionals, Leaders; Evidence: Multiple German E-Learning Awards (2022, 2023). Pillar 3 (20%): Training and Transformation Consulting – Benefit: Support in New Work, sustainability, and organizational change; Target Audience: Management and Transformation Leads; Evidence: Positioned as leading EdTech. Pillar 4 (15%): Technical Development & Integration – Benefit: customized software solutions and interfaces for learning environments; Target Audience: IT Departments and Integrators; Evidence: Service offerings include IT services and software development.
+
+culture_profile
+Values: Learning orientation, innovation, and practical benefits are prioritized. Pace: Agile, goal-oriented work with a high pace of learning and adaptability. Collaboration Style: Open, team-oriented, and cross-functional; strong emphasis on training and staff development. Work Mode: Hybrid with flexible hours, remote work options, and personal development opportunities.
+
+portfolio_focus
+Showcases include interactive platform demos, sample courses, and success cases with user numbers and awards as evidence. Complemented by video testimonials and brief walkthroughs of learning solutions. Handling: Visitors interact at freestanding demo stations and touch terminals. Security specifications not provided.
+
+narrative_assets
+Headline: i40 – Future Skills for the Digital Economy. Key Messages: We deliver scalable learning solutions for businesses; our content empowers leaders and employees for the future; proven impact through high user numbers and awards. Metrics & Signals: over 350,000 learners in 14 countries, German E-Learning Awards 2022 and 2023.
+
+interaction_flow
+Modes: Self-guided exploration at demo stations, guided short tours, and hands-on sessions. General Path: Reception kiosk → Platform demo introduction → In-depth content booths with practical examples → Consulting and meeting pods for individual discussions. Visitors can smoothly transition between quick demos and detailed appointments.
+
+zones_layout
+Entrance area with freestanding reception kiosk and orientation displays, followed by several demo pods and interactive touch islands. Middle of the room: larger presentation and workshop islands, seating clusters for interaction. Periphery: Consulting and meeting pods and a lounge island for informal talks and breaks.
+
+anchor_objects
+Freestanding reception kiosks and orientation pillars as initial contact points, interactive demo pods and touch tables for hands-on experiences, presentation islands with seating for demonstrations, freestanding consulting pods for discussions, and display stands with awards. Mobility: Most objects designed as movable, modular units; fixed anchor points not specified.
+
+circulation_accessibility
+Flow: Clearly structured movement paths between islands for intuitive navigation. Minimum aisle width, entrances, and specific accessibility not specified.
+
+ambience
+Lighting, audio, music, and scent details not provided.

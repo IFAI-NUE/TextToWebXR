@@ -1,0 +1,39 @@
+identity_brand
+
+Legal Name: Engineering Consultancy. Sector: Engineering services with a focus on urban water management. Maturity: A seasoned team offering advisory services in planning and construction execution. Geographic Reach: Munich and surrounding areas. Color Palette: Not specified; Guidelines for logo usage: Not specified.
+
+value_proposition_map
+
+1) Planning & Approval Consultation – Benefit: Technical concepts for wastewater facilities up to approvable planning; Target Audience: Municipal clients in Munich; Evidence: Company profile focused on consulting and planning. 2) Construction Execution & Management – Benefit: Implementation and management of the construction phase to ensure operational safety; Target Audience: Owners and project managers; Evidence: Offer "Consultation for planning phase and subsequent construction execution". 3) Sewer Renovation & Construction – Benefit: Maintenance and construction of sewer infrastructure; Target Audience: Municipal and utility entities; Evidence: Job listing featuring these activities. 4) Stormwater Management & Separator Systems as well as Surveying/Infrastructure Planning – Benefit: Flood protection and technical compliance; Target Audience: Local authorities and planning partners; Evidence: Job listing activities. Emphasis: Predominantly planning/consultation and construction execution with specialization in water management.
+
+culture_profile
+
+Values: Collaboration on equal footing, high customer service mentality, support through continued education and mentoring. Tempo and Style: Structured, self-driven work within an experienced team with strong communication skills. Collaboration Style: Team-oriented, consultative, and practical; Work Mode (e.g., Remote/Hybrid): Not specified.
+
+portfolio_focus
+
+Includes approvable plans, existing condition maps, tender documents, and project cases from sewer renovation, construction, and stormwater management. Presentation: Case-based project descriptions and technical documents demonstrating consulting and execution capabilities. Handling of exhibits and safety requirements: Not specified.
+
+narrative_assets
+
+Headline: Engineering Sustainable Solutions for Urban Water Systems. Key Statements: 1) Focus on operational safety and flood prevention; 2) Support from concept phase to construction execution; 3) Active in projects around Munich. Measurable Metrics and External Indicators: No data on metrics; external signals include job listings, offered benefits, and proximity to a local university.
+
+interaction_flow
+
+Modes: Information Mode (service overview), Project Experience Mode (case studies and plans), Career Mode (job profiles and mentoring offers). Overview: Entry through a distinctive information object, followed by service stations with project cases, and a career section offering opportunities for students and professionals. Details on interaction dynamics and UI/UX elements: Not specified.
+
+zones_layout
+
+Freestanding zones: Intro/Identity area, Service and Performance Islands, Portfolio/Model Islands with project cases, and a Career and Team Presentation Zone. Space distribution: Emphasis on service and portfolio presentation; career opportunities presented in a targeted side area. Specific area sizes and architectural data: Not specified.
+
+anchor_objects
+
+Types/Examples: Freestanding information pillars for company identity, project-related 3D models or platforms with plan documents, interactive stations for service details and tender examples, and a career station with mentoring information. Function: Orientation, in-depth project information, recruitment appeal, and consulting space. Mobility/Anchoring of objects: Not specified.
+
+circulation_accessibility
+
+Details on minimum aisle widths, entries, and specific accessibility measures: Not specified.
+
+ambience
+
+Lighting, Audio, Music, and Scent Concept: Not specified.

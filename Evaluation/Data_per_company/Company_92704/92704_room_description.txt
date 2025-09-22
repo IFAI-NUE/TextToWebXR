@@ -1,0 +1,29 @@
+identity_brand
+Name: ING Deutschland. Tagline: "digital, agile, and personal" (≤80 characters). Sector: Digital and universal banking/financial services with a strong IT focus. Established institution (third largest bank in Germany with over 9 million customers and around 6,000 employees). Geographic reach: Germany with Dutch roots and an international wholesale network.
+
+value_proposition_map
+Pillar 1 – Retail Banking: Checking accounts, savings products, consumer loans, and securities; Benefit: simple, digital account management and investment options; Target: individual customers. Pillar 2 – Mortgage Finance: Mortgages and construction loans; Benefit: long-term home financing options; Target: prospective homeowners and property buyers. Pillar 3 – Business Banking (SME): Loans and support for small and medium-sized enterprises; Benefit: financing and advice for business growth; Target: SMEs. Pillar 4 – Wholesale Banking: Services for large, international businesses; Benefit: complex project and corporate financing; Target: large and international corporations. Pillar 5 – Digital Platforms & Services: Agile digital products and hybrid customer formats; Benefit: fast, user-friendly services and innovation; Target: digitally savvy customers and business partners.
+
+culture_profile
+Values: Diversity, initiative, teamwork, and innovation are key, with ideas valued over roles. Pace: Fast pace and experimentation with quick alignment and sprints. Collaboration: Flat hierarchies, small teams, frequent feedback loops, close international coordination. Work Mode: Hybrid working with digital and in-person interactions.
+
+portfolio_focus
+Products showcased (accounts, savings, loans, securities), case studies from business and wholesale projects, and the ING sustainability strategy. Includes interactive demos of digital services and recruitment info for talent.
+
+narrative_assets
+Headline: "An unbanky bank: digital, agile, and personal." Core messages: 1) We drive finance with societal impact; 2) We operate like a start-up within a large established institution; 3) Sustainability is integrated and expanded in the core business. Metrics: Over 9 million customers, around 6,000 employees, third-largest bank in Germany; global ING origin and own wholesale unit.
+
+interaction_flow
+Visitors experience various modes: independent exploration at info stations, hands-on product demos at interactive pods, curated tours focusing on careers and sustainability. Path: Welcome area → Brand intro → Product & case study zones → Interactive demo pods → Career and interaction area. Optional: digital contact with recruiters and experts via hybrid interfaces.
+
+zones_layout
+Exhibition divided into zones: brand entrance zone, multiple product and sector zones (Retail, Mortgage, Business, Wholesale), a sustainability zone, and a career/networking area. Layout prioritizes product and demo spaces, career zone as a distinct node, sustainability as a thematic subzone.
+
+anchor_objects
+Stand-alone anchor objects include interactive info totems, touch kiosks (product info, account comparisons), demo pods with screens and headphones (service flows, case studies), seating and discussion areas for recruitment talks, and large guiding pillars with brand messages.
+
+circulation_accessibility
+Access and flow should be barrier-free and clearly structured; specific details on minimum aisle widths, entries, or technical accessibility: not provided.
+
+ambience
+Tone and lighting reflect the brand: vibrant, open, friendly, with clear lighting and subtle background music for a relaxed, easygoing impression. Specific scent or sound design details: not provided.

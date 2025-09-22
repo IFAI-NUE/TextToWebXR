@@ -1,0 +1,51 @@
+**Brand Identity**  
+Company Name: ASIS GmbH  
+Tagline: Connecting Technology and People  
+Sector: Automation solutions, coating technology, plant construction, and engineering for the automotive, supplier, and general industries  
+Company Size: Mid-sized, established company (~140 employees)  
+Geographic Reach: Headquarters in Landshut, branches in Oldenburg, Lüneburg, Altdorf, and a subsidiary in China; operates internationally  
+Design Language: Technically functional and solution-oriented  
+Material Preference: Industrial materials such as metal and technical components  
+
+**Value Proposition Map**  
+- **Complete Solutions & Plant Construction**: Turnkey projects for automotive and supplier industries, including planning, delivery, and commissioning; targets OEMs and suppliers.  
+- **Automation & Robotics**: PLC and robot programming, offline programming, and commissioning; targets industrial clients and integrators.  
+- **Coating & Surface Technology**: Process development and quality optimization in surface technology; targets painting operations and production lines.  
+- **Industry 4.0, Data & AI**: Data capture, machine learning for predictive maintenance and process optimization; targets production and maintenance teams.  
+- **Project Management & Service**: Project coordination, documentation, and customer support up to commissioning; targets project managers and clients.  
+No exact percentages available, but construction/automation and coating technology dominate, supplemented by data-driven services and project support.  
+
+**Culture Profile**  
+Values: Team-oriented, flexible, innovative thinking  
+Pace: Project-driven and deadline-focused with a pragmatic approach  
+Collaboration Style: Cross-departmental and communicative, emphasizing teamwork  
+Work Mode: Hybrid options (remote work mentioned) combined with on-site work for technical tasks  
+
+**Portfolio Focus**  
+Exhibits: Stand-alone models of plants and robotic cells, painting technology demonstrators, and interactive software demos for process optimization  
+Demos/Models/Video: Simulations of robotic operations, video documentation of projects, live data visualizations for Industry 4.0 applications  
+Interaction: Interactive control stations and hands-on demos for technical processes; discusses safety features  
+
+**Narrative Assets**  
+Headline: Connecting Technology and People  
+Key Messages:  
+1) ASIS provides comprehensive industrial automation solutions from planning to commissioning  
+2) Combines traditional construction with modern data/AI approaches for process optimization  
+3) A team-oriented, flexible culture supports innovation and client engagement  
+Metrics: Approximately 140 employees, multiple locations in Germany, and a subsidiary in China indicate international project reach  
+
+**Interaction Flow**  
+Modes: Intro (company overview), Demo (interactive tests), Career (jobs, benefits, contact)  
+Path: Entry point with company profile and claim, followed by demo islands for automation, painting technology, and data/AI, project examples, and a concluding contact/recruiting station  
+Interaction: Visitors can initiate technical demos, load software scenarios, and view project cases; technical commissioning scenarios as showcases  
+
+**Zones Layout**  
+Freestanding intro area with brand and company information, multiple demo islands for automation and robotics, a larger demo block for coating/surface processes, a data & AI lab with interactive visualizations, a project gallery cluster, and a career/contact kiosk  
+No exact square footage provided; prioritizes automation and coating technology islands, supplemented by data and project areas  
+
+**Anchor Objects**  
+Types/Examples: Freestanding models of robotic cells and plant exhibits (function: demonstration; mobility: using VR), interactive kiosks and control panels (function: software demos; mobility: mobile), large touch tables for data visualization (function: Industry 4.0 analyses; mobility: semi-static), VR/simulation stations for programming (function: training; mobility: repositionable).  
+Aim is modular, freestanding arrangement that allows for exchange and retrofitting  
+
+**Accessibility & Ambience**  
+No specific information provided.

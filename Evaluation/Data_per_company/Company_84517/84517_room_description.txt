@@ -1,0 +1,52 @@
+**identity_brand**
+
+**Tagline:** People Create Infrastructure for People.  
+**Sector:** Construction/Engineering Services  
+**Maturity:** Established company with over 95 employees, operating nationwide.  
+**Geographic Reach:** Nationwide presence with locations in various cities.  
+**Design Language:** Functional, solution-oriented, and technically multi-perspective.
+
+**value_proposition_map**
+
+1. **End-to-End Services:** Seamless project execution and responsibility from a single source; Target Audience: Municipalities and Companies.  
+2. **Urban Water Management & Traffic Planning:** Practical infrastructure solutions; Target: Municipal clients and private developers.  
+3. **Energy and Telecom Infrastructure:** Integrated infrastructure solutions; Target: Utilities, Municipalities, Project Developers.  
+4. **Construction Supervision & Phases 1-9:** Reliable implementation and quality control; Target: Clients, Developers.
+
+**culture_profile**
+
+**Values:** Focus on quality of life, sustainability (balancing ecology, economy, and social aspects), and responsibility towards clients.  
+**Pace:** Flat hierarchies for fast, flexible work.  
+**Collaboration Style:** Transparent, team-oriented, solution-focused with open communication.  
+**Work Mode:** Hybrid options and benefits such as flexible hours, remote work, and training support modern work practices.
+
+**portfolio_focus**
+
+Projects showcased from concept to completion, including plans, case studies, and technical details; digital demos and interactive models for subjects like traffic planning are included.
+
+**narrative_assets**
+
+**Headline:** People Create Infrastructure for People.  
+**Core Messages:**  
+1. We provide end-to-end project services.  
+2. Every project is unique with creative, tailored solutions.  
+3. Aiming to improve quality of life while protecting the environment.
+
+**interaction_flow**
+
+**Modes:** Self-guided exploration, guided tours, and expert presentations.  
+**Path:** Welcome and orientation area, followed by thematic presentation zones, interactive stations with models and simulations, concluding with a career and consultation point.
+
+**zones_layout**
+
+Introduction and reception area with orientation points.  
+Large presentation area for project showcases and case studies.  
+Zone with interactive models for in-depth experiments.  
+Career zone with job information and consultation spaces.  
+Seating and relaxation areas for informal exchanges.
+
+**anchor_objects**
+
+Large-scale model displays and interactive touch kiosks with multimedia content for detailed research.  
+Presentation stands with video projections for key narratives.  
+Social anchor spaces with high mobility like seating islands and discussion tables.

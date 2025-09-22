@@ -1,0 +1,29 @@
+identity_brand
+Legal Name: A.K. GmbH. Compact Tagline: "Accessories for Livestock and Pets" (≤80 characters). Sector: Retail, wholesale, and agriculture. Maturity: International production and wholesale company. Geographic Reach: Locations in Germany, Austria, France, Poland, and the UK; Europe-wide focus. Color Palette: Not specified. Design Language: Not specified. Material Info: Not specified. Logo Usage: Not specified.
+
+value_proposition_map
+Core business includes a wide range of accessories for livestock and pet care; target groups are farmers, horse owners, hobbyists, and pet owners; supported by product categories in the company profile. Another pillar is fencing and safety equipment for livestock and equestrian needs; substantiated by product categories. Services like product testing, certifications, and sales materials support customers and partners; supported by job descriptions (product testing, certifications, catalog creation). Distribution with international logistics and multiple locations; aimed at traders and large buyers; supported by sites and staff numbers. Weighting: Not deducible, qualitatively described.
+
+culture_profile
+Values and benefits reflect a commitment to employee retention and development (pension plans, training, bonuses, events). Work approach is structured, independent, solution- and results-oriented, with high flexibility and teamwork in an international setting (per job requirements). Collaboration style: Strong team and communication skills with regular training and exhibition participation. Work mode: Flexible hours offered; further details not provided.
+
+portfolio_focus
+Includes physical product groups and accessories for livestock, equestrian needs, fencing, safety, and pet care along with sales materials and product data. Additional assets involve product documentation, catalogs, online content, and results from product tests and certifications (as per product management tasks). Demos/models or video formats not explicitly described, no specific handling instructions besides “product tests.” Safety details for exhibition scenarios: Not provided.
+
+narrative_assets
+Headline: “Europe-wide Provider of Livestock and Pet Accessories.” Key Points: 1) A uniquely broad range of products for livestock, equestrian, and pet needs in Europe; 2) Operatively anchored with multiple locations in Europe and around 730 employees; 3) Quality assurance through testing and certifications, supported by sales materials and exhibitions. Measurable Metrics & External Signals: Approximately 730 employees, locations in Germany, Austria, France, Poland, and the UK; employee benefits and recruitment ongoing per job postings.
+
+interaction_flow
+Visitors guided by information points, can explore product categories and experience products at test or demo stations. Digital or printed sales materials and career stations for recruitment discussions are available. General Path: Orientation → Product Categories → Demo/Test Area → Consultation/Contact Point; further material transfer or coordination at the exit. Detailed modalities for digital interaction not provided.
+
+zones_layout
+Exhibition divided into distinct areas: entry info point, multiple product islands (livestock/agriculture, equestrian, fencing, safety, pet care), a central demo and test area, a sales/key account station, and a career/HR lounge. Layout based on product focus and interaction needs; exact square meter details missing. Storage or back-office areas not specified.
+
+anchor_objects
+Product islands with samples serve as primary anchors for presentation; mobility: partially mobile, partially stationary (no detailed info). Demo/test stations for hands-on testing per internal processes; function: validation and demonstration. Info kiosks/catalog stands offer sales materials and digital access; function: consultation and material provision; mobility: mobile. Career lounge/meeting pods designed for personnel and sales talks; mobility: not specified.
+
+circulation_accessibility
+No specific information on minimum aisle widths, entryways, or accessible design; hence: not specified. Contextual hints on flexible work hours and good transport links pertain to employees, not exhibition access. No accessible design concepts or requirements described.
+
+ambience
+Details on lighting, audio, music, or scent not included; hence: not specified.

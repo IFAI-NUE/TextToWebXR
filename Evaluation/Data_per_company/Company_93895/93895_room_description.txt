@@ -1,0 +1,61 @@
+Identity Brand:
+
+Legal Name: Tiefbautechnisches Büro Würzburg GmbH
+Tagline: Not specified
+Sector: Construction/Architecture, Energy and Water Supply, Engineering Services, Management/Consulting
+Size & Maturity: SME, Established (10-49 employees)
+Geographic Scope: Regional/Local (Würzburg and surrounding areas)
+Color Palette: Not specified
+Design Language: Not specified
+Material Note: Not specified
+Logo Use: Not specified
+
+Value Proposition Map:
+
+Pillar 1 – Planning & Engineering (approx. 40%): Creation of design drawings and calculations for municipal infrastructure projects, targeting municipalities, developers, and utility companies. Evidenced by job postings requiring direct involvement in planning.
+Pillar 2 – Water and Sewage Systems (approx. 25%): Design and renovation of sewer and water systems to ensure supply, targeting municipal administrations and energy/water suppliers. Supported by company profile mentioning water and sewage systems.
+Pillar 3 – Renovation & Expansion of Municipal Infrastructure (approx. 20%): Implementation and expansion of existing infrastructure, including town center design and traffic facilities, targeting municipalities and local clients. Supported by company profile.
+Pillar 4 – Project Management & Consulting (approx. 15%): Quality and safety checks, documentation, reporting, and interdisciplinary coordination, targeting clients and planners. Evidenced by mentions of documentation, quality checks, and interdisciplinary collaboration in advertisements.
+
+Culture Profile:
+
+Values: Responsibility towards society and the environment, sustainability, and practical solutions with a focus on eco-friendly technologies.
+Work Pace & Methods: Project-driven and practical with independent, structured work. Promotion of training and flexible work is established.
+Collaboration Style: Interdisciplinary teamwork with geologists, environmental engineers, and landscape architects, and hybrid working mode (remote work possible).
+
+Portfolio Focus:
+
+Exemplary project documents such as design drawings, 3D models, and construction site documentation are displayed, along with depictions of renovation and expansion projects. Additionally, materials on safety and quality checks, as well as examples of student involvement (internships, student projects) are included. Handling: Interactive views and documentation-based demos. Specific safety requirement notes: Not specified.
+
+Narrative Assets:
+
+Headline: Sustainable Municipal Infrastructure — Responsibly Planned and Executed
+Key Messages:
+1) We plan and renovate municipal infrastructure with a focus on climate and environmental protection.
+2) Practical implementation through close integration of planning, construction site, and quality control.
+3) Training and involvement of young professionals ensure long-term competence.
+Measurable Metrics: Not specified
+External Signals: Company description, job ads, and listed benefits (e.g., training, flexible working hours) underscore the focus on responsibility and employee support.
+
+Interaction Flow:
+
+Visitors start at a freestanding information kiosk with a brief introduction and choose between self-guided or curated modes. This is followed by freestanding model islands and interactive touch stations to browse design drawings, followed by a documentation and construction zone with video examples and safety briefings. The visit concludes with a freestanding career and contact station providing job listings, application info, and direct contact options.
+
+Zones Layout:
+
+Entrance and information area with one or more freestanding kiosks (approx. 10% of the space).
+Central model area with large-scale project models and explanatory pylons (approx. 40%).
+Interactive planning and documentation stations with touch kiosks and VR pillars (approx. 30%).
+Career and team area with freestanding seating islands and info points about training and student offers (approx. 20%).
+
+Anchor Objects:
+
+Large-scale project models on pedestals (function: overview, mostly stationary, partly mobile on rolling bases).
+Freestanding touch kiosks and interactive screen pillars (function: detailed views, mostly mobile or easily repositionable).
+VR/Headset pillars for immersive tours (function: in-depth insights, usually fixed or attachable).
+Material and sample stands (function: tactile demonstration, mobile).
+Illuminated information pylons/kiosks (function: orientation and context, generally stationary).
+
+Circulation & Accessibility: Not specified
+
+Ambience: Not specified

@@ -1,0 +1,9 @@
+About Us: We are an innovative startup specializing in IoT and logistics. Our mission is to provide both small and large enterprises with cutting-edge solutions for digitizing their load carriers in the supply chain. Our product is at the forefront of technology, and so are we!
+
+Founded in 2018, our company offers a unique cloud service for industrial logistics, enabling the tracking, automation, and optimization of material flows both internally and across borders.
+
+Our Mission - Transparency and Efficiency in the Supply Chain
+- Compatible with all types of identification systems and data sources (Barcode, RFID, UWB, etc.)
+- Focused solely on logistics for comprehensive asset management with real-time and temporary booking information
+- Powerful process model and comprehensive reporting out-of-the-box
+- Process Mining and Process Monitoring

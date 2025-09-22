@@ -1,0 +1,59 @@
+**Brand Identity**
+
+**Legal Name:** Company X  
+**Tagline:** Not specified.  
+**Sector:** Plant and Machinery; Electrical Engineering/Precision Mechanics/Optics; Energy and Water Supply.  
+**Stage:** Established family business, operating for 125 years.  
+**Geographic Reach:** Regional presence in a specific area.  
+**Color Palette (HEX):** Not specified.  
+**Design Language:** Not specified.  
+**Material Note:** Not specified.  
+**Logo Usage:** Not specified.
+
+**Value Proposition Map**
+
+**Pillar 1 – Regional Renewable Energy Generation:** Operates power and district heating networks, multiple power plant locations, and a biogas facility ensuring secure local energy supply; Target: Communities, households, regional companies; Evidence: Direct business profile details.  
+**Pillar 2 – Network Operation and Facility Management:** Planning, monitoring, and maintenance of district heating, power plant, and metering areas ensure operational security; Target: Network operators, technical clients; Evidence: Job descriptions.  
+**Pillar 3 – Digitalization & Operational Optimization:** Digitalization and monitoring enhance efficiency and oversight; Target: Internal teams, technical partners; Evidence: Mention of digital tasks.  
+**Pillar 4 – Employer Benefits & Development:** Extensive perks and training strengthen employee retention and recruitment; Target: Professionals and beginners; Evidence: Benefit list and reference to long-term staff. Weightings: Described qualitatively as exact proportions are not derived.
+
+**Culture Profile**
+
+**Values:** Reliability, regional responsibility, and sustainability are reflected in the company's longevity and focus on renewable energy.  
+**Pace:** Operationally focused and practical with a stable, consistent work rhythm; readiness for urgent tasks is expected.  
+**Collaboration Style:** Team-oriented, interdisciplinary, and communicative, with project team leadership and close partner alignment.  
+**Working Mode:** Combination of on-site tasks and flexible options like remote work; training and employee benefits are encouraged.
+
+**Portfolio Focus**
+
+Showcased are standalone technical models of energy production (e.g., model power plants, biogas models), interactive network maps, and digital dashboards for operational monitoring, along with project examples and documentation samples. Additionally, employee introductions and career opportunities can be featured. **Handling:** Interactive stations and touch-enabled kiosks allow exploration with clear user guidance and safety information. **Safety:** Work safety and operational procedures shown; specific safety protocols not detailed.
+
+**Narrative Assets**
+
+**Headline:** 125 Years of Regional Energy Expertise.  
+**Key Messages:**  
+1. Long-standing regional responsibility in a specific area.  
+2. Operation of integrated energy infrastructure with a focus on renewable production.  
+3. Practical planning, digitalization, and operation of networks and power plants.  
+4. Attractive employer with diverse benefits.  
+**Metrics & Signals:** Established operation (125 years), employee size (10–49 employees), and specific benefits list as evidence.
+
+**Interaction Flow**
+
+Visitors begin at a central introductory station with a company overview and history, proceeding to thematic demo areas (generation, network operation, digitalization) to explore operational data on interactive dashboards. Further stations offer insights into project work, safety concepts, and career opportunities; a closing section allows for contact or scheduling meetings. The layout follows standalone exhibits and clear action points.
+
+**Zones Layout**
+
+Zones include: Reception and Introduction area, Generation and Facility islands, Network and Monitoring stations, Project and Planning areas, Career and Benefits section, and a rest/talk zone. Central anchor islands with surrounding interactive stations allow for sequential exploration. Space distribution is prioritized by generation, operation/monitoring, and personnel/recruitment.
+
+**Anchor Objects**
+
+Typical anchor objects include model power and biogas plant models, free-standing interactive kiosks with network maps and dashboards, project case displays with exhibits, and a career/contact terminal. **Function:** Convey technical content, interaction, information access, and lead generation. **Mobility:** Most objects are movable so that presentation setups can be adapted.
+
+**Circulation Accessibility**
+
+Specific details on minimum aisle widths, entries, or accessible dimensions are not provided. Generally, elements should be arranged to ensure accessibility and free passage; detailed dimensions are absent, thus: not specified.
+
+**Ambience**
+
+Specifics on lighting, audio, music, or scent are not provided in the given context, thus: not specified.

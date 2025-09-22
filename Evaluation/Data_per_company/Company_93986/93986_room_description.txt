@@ -1,0 +1,29 @@
+**Identity & Brand**
+Legal Name: AgroSeed Co. Tagline: Collaborating for evolving agriculture. Sector: Agriculture, Forestry, and Fisheries. Maturity: Established company with over 70 years of experience. Geographic Reach: Europe, Africa, Asia, and the Americas. Color Palette: Not specified. Design Language: Not specified. Material Notes: Not specified. Logo Usage: Not specified.
+
+**Value Proposition Map**
+1) Research & Breeding (30%): Developing high-performance hybrid varieties for corn, sunflowers, and diversified crops; Benefits: higher yields and adaptability to agronomic challenges; Target: Farmers, Breeders; Proven expertise: over 70 years of breeding experience.
+   
+2) Seed Production (40%): Key hybrid seed producer in Europe; Benefits: reliable supply of quality-assured seeds; Target: Dealers, Agricultural businesses; Proven status: Key producer in Europe.
+
+3) Marketing & Customer Support (20%): Service and sales support across continents; Benefits: localized advice and service; Target: Customers in Europe, Africa, Asia, America; Proven presence: Explicit market presence in these regions.
+
+4) Seed Applications & Digital Services (10%): Use of seed-driven technologies and digital tools for sustainable farming; Benefits: practical decision support; Target: Modern farms, Agri-tech providers; Evidence: Mention of digital tools as part of business purpose.
+
+**Culture Profile**
+Values: Sustainability, innovation, and collaborative work with farmers. Work Style: Practical, data-driven, seasonally aligned with a focus on field tests and applied research. Collaboration: Interdisciplinary and customer-focused, close partnerships among breeders, technicians, and field partners. Work Mode: Blend of fieldwork, lab/R&D, and international communication; Responsibility and structured, rigorous approach required.
+
+**Portfolio Focus**
+Showcasing seed samples and variety profiles, breeding approach demos, datasets and field trial visualizations, as well as digital services and tools. Additional exhibits include sowing and harvesting machine models and video documentation of field trials. Handling: Interactive, standalone exhibits, and sample presentations with accompanying explanations; machine-related demos require safety briefings.
+
+**Narrative Assets**
+Headline: Collaborating for evolving agriculture. Key Messages: 1) Over 70 years in breeding and seed production, 2) Crucial role as hybrid seed producer in Europe, 3) Global presence with localized customer support, 4) Emphasis on sustainable, high-performance varieties and digital support. Measurable Indicators: >70 years of company history, size 500–999 employees, proven field trial activities and student research projects as external indicators.
+
+**Interaction Flow**
+Modes: Self-guided exploration, guided tours, interactive demo sessions, and VR field simulations. Rough Path: Reception/Info Kiosk → Introduction to mission and core activities → Thematic islands on breeding, production, and customer support → Hands-on demo/VR field trial → Contact and consultation station for collaborations. Each station offers short learning modules, practical examples, and networking opportunities.
+
+**Zones Layout**
+Freestanding island arrangement: central reception/info hub (approx. 10%), research and breeding island with exhibits and data visualizations (approx. 25%), production and technology island with machine models (approx. 25%), marketing and support island with case studies and customer services (approx. 15%), demo and VR interaction area (approx. 15%), meeting and networking pods (approx. 10%). Designed as individual, freestanding units clustering various activities.
+
+**Anchor Objects**
+Types/Examples: central info kiosk (Function: Orientation, Mobility: mobile on wheels possible), seed pedestals with samples (Function: Display, Mobility: mobile), interactive touch kiosks and VR pods (Function: digital demos, Mobility: semi-mobile), sowing and harvesting machine models as exhibits (Function: Demonstration of practice workflows, Mobility: heavy/static), soil sample and display boxes (Function: Demonstration of soil properties, Mobility: mobile). Function: Orientation, education, practical demonstration, focal points for discussions.

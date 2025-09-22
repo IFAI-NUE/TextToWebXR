@@ -1,0 +1,49 @@
+**Identity Brand**
+
+A software company with the tagline "We develop software that moves." They are an independent consulting and project house providing tailored software solutions for enterprise clients and established medium-sized businesses. Founded in 2005, the company is owner-operated and growing organically. They have offices in Munich, Mainz, and Rosenheim, primarily serving the national market in Germany. Other details such as color palette, design language, and logo usage are not specified.
+
+**Value Proposition Map**
+
+- **Analysis & Modernization:** Focuses on updating mission-critical systems for operational efficiency and scalability. Targets enterprise clients and established businesses. Emphasis on analysis and modernization. High priority.
+  
+- **Development & Implementation:** Provides customized software solutions for complex business needs. Same target clientele. Supported by references like major telecom and automotive companies. High priority.
+  
+- **Information Security & Compliance:** Enhances data protection and IT security for clients with significant security needs. References include job postings and knowledge of security standards. Medium priority.
+  
+- **Talent Development & Training:** Focuses on nurturing new talent and building knowledge through internships and academic support. Targets students and early-career professionals. Medium priority.
+
+**Culture Profile**
+
+Presents as a technology-driven, owner-led company emphasizing learning, respect, and teamwork. The work environment includes hybrid models, flexible hours, and a hands-on, autonomous approach. Values include professional quality, continuous learning, and a healthy employee-centric environment with benefits like remote work, training, and health measures.
+
+**Portfolio Focus**
+
+Features interactive demo stations with live prototypes and code examples, case study displays for large-scale projects, and modular tech labs for in-depth tech exploration. Interactive touch stations and demo workstations are used; sensitive data is anonymized and compliance aspects are recorded. Security guidelines are clearly displayed.
+
+**Narrative Assets**
+
+Headline: "We develop software that moves." Core Messages: 1) Independent consulting for mission-critical systems; 2) Practical promotion of young talent and research through internships and academic support; 3) Reliable security expertise and adherence to standards. Notable Signals: Founded in 2005, offices in Munich, Mainz, and Rosenheim, clients like major telecom and insurance companies, and recognized as an attractive workplace.
+
+**Interaction Flow**
+
+Visitors start with a freestanding information pillar to select paths (client, tech deep dive, career). They move to interactive demo stations or tech pods for hands-on experiences, followed by a career section for application info and a networking lounge. The visit concludes at a feedback station with digital networking options.
+
+**Zones Layout**
+
+- **Intro and Orientation Zone:** Freestanding info pillars (approx. 10% of space).
+- **Project and Product Demo Zones:** Interactive demo stations (approx. 45%).
+- **Tech Lab Zone:** In-depth technical insights (approx. 20%).
+- **Career and Recruiting Zone:** Pods with seating areas (approx. 15%).
+- **Lounge/Networking Zone:** Freestanding seating groups (approx. 10%).
+
+**Anchor Objects**
+
+Key freestanding objects include orientation pillars with touch selection, interactive kiosks/screens for case studies, demo pods with workstations for hands-on sessions, mobile demo carts, and career booths for interviews. Functions include orientation, presentation, interaction, and recruiting. Mostly modular and partly mobile.
+
+**Circulation Accessibility**
+
+Not specified.
+
+**Ambience**
+
+Not specified.

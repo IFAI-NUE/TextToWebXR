@@ -1,0 +1,29 @@
+identity_brand
+Legal Name: Established Company GmbH & Co. KG. Tagline: "Together for a Green Future." Sector: Measurement services and billing for heating energy, water, and electricity; digital metering technology. Maturity: Established, multi-generational family business with approximately 800 employees. Geographic Reach: Nationwide with regional locations. Color Palette: Dominant green, supplemented by blue, gray, and white. Design Language: Clear, functional, and technical with friendly, slightly rounded elements. Material Note: Device and exhibit aesthetics include metal, technical plastics, and matte glass surfaces.
+
+value_proposition_map
+Core services are divided into four pillars: 1) Measuring devices and installation service — Benefit: reliable consumption recording; Audience: property managers, owners, suppliers; Evidence: extensive experience and digital metering technology. 2) Billing and billing services — Benefit: accurate, transparent ancillary cost billing; Audience: owners, tenants, managers; Evidence: multi-generational billing expertise. 3) Data platform & digital services — Benefit: data to identify savings potential; Audience: facility managers, energy managers; Evidence: emphasis on digital metering techniques. 4) Consulting, training & talent development — Benefit: Customer advice and qualified staff through trainee programs; Audience: new customers, career starters; Evidence: certified trainee program starting May 2025. Focus: Strong emphasis on metering technology, billing, and data services; talent development and training complement the portfolio.
+
+culture_profile
+Company Culture: Appreciative, family-oriented, and inclusive. Work Tempo and Style: Customer-focused and practical with a hands-on mentality; commitment and result-orientation valued in sales. Collaboration Style: Team-oriented, mentoring-supported (mentors in trainee programs) and supportive; Work Mode: Flexible working hours with home office option and a focus on further education.
+
+portfolio_focus
+Primarily showcasing freestanding artifacts and interactive demos: physical measuring devices and mobile reading units, live dashboards with consumption data, billing examples, and information islands about the trainee program. Handling: Exhibits as tangible demo devices on pedestals and movable stands; interactive touchpoints for self-tests and live simulations.
+
+narrative_assets
+Headline: "Smart Measuring, Reliable Billing, Saving Energy." Core Messages: 1) Generations of expertise in consumption measurement and billing; 2) Digital metering technology makes savings potential visible and contributes to CO2 reduction; 3) Family business with strong employee focus and talent development.
+
+interaction_flow
+Modes: Self-guided interaction at touchpoints, guided demonstrations, and brief consultations, as well as recruiting/info sessions for new talent. General Visitor Path: Orientation kiosk → central device and demo island → data visualization islands with live dashboards → service and consultation islands with case studies → trainee/career stand for discussions and registration.
+
+zones_layout
+The exhibition is organized around freestanding islands: a central demonstration island for devices and hardware, surrounded by several data and visualization islands for interactive consumption analyses. Complementary consulting and recruiting pods provide space for discussions and workshops, along with lounge and networking areas with freestanding seating groups.
+
+anchor_objects
+Key freestanding anchor objects include: device pedestals with physical measuring devices (functional demonstration), interactive kiosks for dashboard and billing demos, mobile demo racks for reading units, freestanding information monoliths for program info and a career-focused consulting pod. Function: Orientation, demonstration, interaction, and conversation facilitation.
+
+circulation_accessibility
+No specific measurements provided for aisle widths, entrances, or structural access; the company emphasizes inclusion and equal opportunity, thus a barrier-free implementation is expected, though specific requirements are not detailed.
+
+ambience
+No specific details given on lighting, audio, music, or scent concepts; visually, a green-accented, functional, and friendly presentation is expected based on brand identity.

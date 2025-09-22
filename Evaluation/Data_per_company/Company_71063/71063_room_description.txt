@@ -1,0 +1,29 @@
+identity_brand
+Legal Name: Wieland Electric GmbH. Short Tagline: Pioneer in Safe, Pluggable Electrical Installation (≤80 characters). Sector: Electrical Engineering, Equipment and Machinery Manufacturing, Plastic and Metal Processing. Maturity: Established, traditional mid-sized family business and global leader in its core segment. Geographic Reach: Regionally rooted with an international market orientation. Color Palette: Not specified. Design Language: Functional, technical, and precise; clear, engineering-oriented forms. Material Note: Dominated by plastic and metal components; manufacturing presence evident. Logo Usage: Not specified.
+
+value_proposition_map
+1) Pluggable Connection Technology (Products) – Benefit: Secure, rapid electrical installations; Targets: Electricians, Building Technology, OEMs; Proof: Described as a pioneer and global leader. Weight: 40%. 2) In-house Manufacturing & Equipment Construction (Production Solutions) – Benefit: Customized production, short development cycles; Targets: Industry and manufacturing partners; Proof: Own base manufacturing, machinery, and tool construction. Weight: 25%. 3) Electronic and Distribution Solutions (Systems/Platforms) – Benefit: Intelligent energy and signal distribution; Targets: Energy Suppliers, Building Automation, Integrators; Proof: Company vision towards future-proof energy and signal distribution. Weight: 20%. 4) Talent Development & Training Offers (Services) – Benefit: Practical training, recruitment of skilled personnel; Targets: Students, Graduates; Proof: Comprehensive offers in internships, practical semesters, thesis work, dual studies, and student positions. Weight: 15%.
+
+culture_profile
+Values: Innovation, quality, customer focus, and entrepreneurial tradition in a family-run environment. Pace: Technically oriented and methodical with room for long-term development. Collaboration Style: Team-oriented, experience-driven, and supportive, with professional mentoring by experienced engineers. Work Mode: Hybrid model with flexible hours, remote work options, and opportunities for training and health promotion.
+
+portfolio_focus
+Featured freestanding product exhibits (connectors and modules), demonstrations of manufacturing and equipment solutions, interactive models for electronics and distribution technology, video demos, and prototypes. Handling: Visitors can handle parts at supervised stations and try plug-and-play demos; safety-related devices are monitored. Safety guidance and supervised demonstrations ensure responsible interaction.
+
+narrative_assets
+Headline: Future-safe Connection Technology – Secure, Pluggable, Made in Germany. Key Statements: 1) Market leadership in pluggable electrical installation, 2) Integrated development and manufacturing of plastic and metal components, 3) Practical talent development and job opportunities. Measurable Metrics & Signals: Employee size 1,000–2,499, positioned as a global leader with a long company history; specific proof of training and internship offerings in job listings.
+
+interaction_flow
+Visitors start with a brief orientation at an info stand, move through independent demonstration islands with product showcases, arrive at a manufacturing and equipment simulation zone, and conclude in the career and contact area. Modes: Self-guided exploration, guided demo sessions, and career advice. General Path: Info → Product Details/Demos → Manufacturing Models → Career/Network.
+
+zones_layout
+Central product island with core display, surrounded by thematic demonstration islands (manufacturing, electronics, system solutions). Separate career and consulting area as a relaxed lounge with seating and information displays. Demo zone for videos and simulations, plus compact hands-on points for students and interested parties. Space distribution: Central product island as the focal point, with supplementary zones for manufacturing and career evenly distributed.
+
+anchor_objects
+Freestanding product pedestals displaying connectors (function: presentation; mostly stationary), interactive kiosks/touchscreens for simulation and product selection (function: information; mobile or on wheels possible), large demonstration benches with plug-and-play modules (function: hands-on testing; semi-mobile), scale models of machines or equipment (function: demonstration of manufacturing processes; usually stationary), and a career lounge with freestanding counters for advice (function: recruitment; mobile).
+
+circulation_accessibility
+Minimum aisle width: Not specified. Entrances and access points: Not specified. Accessibility: Not specified.
+
+ambience
+Lighting: Not specified. Audio/Music: Not specified. Scent: Not specified.

@@ -1,0 +1,39 @@
+**Brand Identity**
+
+Legal Name: A major automotive technology company. Tagline: The Future in Motion. Sector: Automotive, Electrical Engineering, IT Hardware and Software. Status: Established, globally active technology enterprise (founded in 1871, approximately 200,000 employees, high revenue). Geographic Reach: International presence in around 57 countries. Color Palette: Black, Yellow, Dark Blue, Gray. Design Language: Technology-oriented, precise, and functional with clear outlines. Material Hint: Metallic and technical materials, plastics, and composites. Logo Usage: Not specified.
+
+**Value Proposition**
+
+Pillar 1 – Driving and Safety Systems: Offers passive safety, braking, and chassis solutions to enhance safety and control for vehicle manufacturers and fleet operators, supported by the automotive portfolio. Pillar 2 – Assisted and Automated Driving: Systems and sensors for assisted/autonomous driving functions aimed at OEMs and suppliers, backed by relevant technology references. Pillar 3 – Interior and Sensor Technologies: Display, control technologies, audio, and camera solutions for vehicle interiors enhancing comfort and perception; targeted at OEMs and end consumers, with portfolio references. Pillar 4 – Connectivity and Mobility Services: Intelligent information and communication technology solutions for fleet operators; aimed at fleet and commercial vehicle manufacturers, explicitly mentioned in the profile. Pillar 5 – Vehicle Electronics & High-Performance Computing: Electronic control units and high-performance computers for vehicle control, targeting developers and OEMs; part of the company's offering. Weighting: No percentage breakdown provided.
+
+**Culture Profile**
+
+Values: Technological advancement, safety, sustainability, and employee development, reflected in training and health offerings. Pace: Research-oriented and industry-focused with an emphasis on industrialization. Collaboration Style: Cross-functional and interdisciplinary, with close cooperation between development, production, quality, and operations. Work Mode: Combines on-site and remote options with flexible hours and employee benefits.
+
+**Portfolio Focus**
+
+Features technical artifacts and functional demos related to driver assistance, sensors, display and control technologies, and electronic control devices and HPC prototypes. Formats include: physical prototypes, interactive digital demos, video and visualization sequences, and documentation/process visualizations. Handling: Interactive stations with explanatory content and demonstrations of industrial readiness. Safety Guidelines: Assumed demonstration-related precautions; no specifics given.
+
+**Narrative Assets**
+
+Headline: The Future in Motion. Key Message 1: Delivers safe, efficient, and connected technologies for mobility and transport. Key Message 2: Offers a wide range of solutions from passive safety to high-performance computing for automated driving. Key Message 3: A global enterprise with extensive production and development capabilities, emphasizing industrialization. Measurable Metrics & External Signals: 2022 revenue around 39.4 billion euros, approximately 200,000 employees in 57 countries.
+
+**Interaction Flow**
+
+Modes: Curated tours, theme-specific deep dives, and self-guided exploration. General Path: Reception and introduction, central overview, selection of thematic stations (e.g., assistance, interior, connectivity), interactive demos, and prototype testing, concluding with career and information nodes. Additional Options: In-depth sessions with experts and digital take-away information.
+
+**Zones Layout**
+
+Central demonstration area as an orientation point with surrounding zones focused on drive systems, interior technologies, connectivity, and electronics. Separate career and recruiting lounge for HR interactions and job info. Tech lab and prototype area for physical models and tests, alongside a media zone for video and visual content. No specific area sizes.
+
+**Anchor Objects**
+
+Vehicle mockups and component systems (e.g., braking and chassis units) as large freestanding demonstration pieces; fixed or semi-mobile. Sensor and camera rigs as interactive demonstrators; mobile or modular. Standalone kiosks and touch terminals for information, interaction, and applications; mobile or easily repositionable. Prototype server racks/HPC units as focal points for electronics and computing; usually stationary.
+
+**Circulation & Accessibility**
+
+Minimum aisle width, entryways, and detailed accessibility metrics: Not specified. General requirements for access by various audiences: No specific implementation details provided.
+
+**Ambience**
+
+Lighting, audio, music, and scent concept: Not specified.

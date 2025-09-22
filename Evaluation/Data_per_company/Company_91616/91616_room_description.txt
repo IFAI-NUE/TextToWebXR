@@ -1,0 +1,85 @@
+Company: Retorte GmbH
+
+Tagline: Dedicated to Selenium.
+
+Sector: Chemical and Petrochemical Industry.
+
+Status: Established medium-sized company with over 75 years of experience and a leading market position in selenium.
+
+Geographical Reach: Global, serving clients in more than 50 countries.
+
+Color Scheme: Metallic tones (silver/grey, anthracite) with warm accents; no specific HEX codes.
+
+Design Language: Technically precise with clear geometric shapes.
+
+Materials: Stainless steel, technical plastics, and glass for laboratory and demonstration objects.
+
+Logo Usage: Not specified.
+
+**Value Proposition:**
+
+1. High-Purity Selenium & Products:  
+   - Benefit: Extremely high purity for demanding applications.  
+   - Target Audience: Semiconductor, pharmaceutical, fine chemicals, and optics industries.  
+   - Proof: Production of selenium with up to 99.999% purity.
+
+2. Proprietary Oxidation Technology/Equipment:  
+   - Benefit: Consistent process quality and high environmental standards.  
+   - Target Audience: Industrial buyers, OEMs.  
+   - Proof: Own laminar oxidation and computer-controlled equipment.
+
+3. Processing and Drying Technologies (e.g., Spray Drying):  
+   - Benefit: Low-dust, consistent products and enhanced workplace safety.  
+   - Target Audience: Animal feed manufacturers and industrial processors.  
+   - Proof: Spray drying implementation since 1997.
+
+4. Quality Assurance, Laboratory, and Custom Solutions:  
+   - Benefit: Reliable specifications, bespoke product development.  
+   - Target Audience: Customers with specific needs.  
+   - Proof: In-house laboratory, cleanroom technology, and tailored offerings.
+
+Approximate Weighting: Production & High-Purity Selenium 40%, Oxidation Technology 25%, Processing/Drying 20%, Quality Assurance & Customer Solutions 15%.
+
+**Culture Profile:**
+
+Values: Long-term focus, quality, environmental responsibility, and customer orientation.  
+Pace: Steady and continuous development, emphasis on reliable processes over short-term gains.  
+Collaboration: Flat hierarchies, close-knit team, hands-on learning, and a focus on lifelong learning.  
+Work Mode: Technically oriented, with clear responsibilities prioritizing safety and training.
+
+**Portfolio Focus:**
+
+Displays include product samples of varying purity and material forms, models, and demonstrations of selenium oxidation systems and spray drying, along with lab instruments and demo stands. Demonstrations may include computer-aided visualizations and system controls. Samples and devices are usually available for inspection, managed under supervision. Safety protocols and demonstrations of safety equipment are included.
+
+**Narrative Assets:**
+
+Headline: Over 75 Years of Focus on Selenium.  
+Key Messages:  
+1. World leader in selenium chemicals and high-purity selenium.  
+2. Unique laminar oxidation technology ensures high product quality and environmental standards.  
+3. Broad industry spectrum and bespoke solutions for demanding customers.  
+Metrics & Signals: Over 50 products, about 500 clients in 20 industries, high-purity selenium up to 99.999%.
+
+**Interaction Flow:**
+
+Modes: Guided tours with detailed commentary, self-guided stations via free-standing info terminals, and curated demo cycles.  
+Path: Start at an info kiosk → Timeline and history → Process and technology models (oxidation, reduction, spray drying) → Lab and quality stations → Product display areas → Consultation and meeting spaces.
+
+**Zones Layout:**
+
+Intro area with an information kiosk and company history, followed by a technology zone with free-standing models and process demos, a quality/lab area with samples and testing stations, a product showcase with sample podiums, and an interaction/consultation area. Area distribution prioritizes production/technology, followed by product and lab displays, with moderate space for discussions.
+
+**Anchor Objects:**
+
+- Large model of reduction reactor (stationary).
+- Model of laminar oxidation column with interactive visualization (fixed or heavy).
+- Spray dryer mock-up (mobile on wheels).
+- Sealed sample podiums (mobile).
+- Free-standing lab demo table with instruments (mobile).
+- Interactive globe/touch table for supply chain visualization (mobile).
+
+Function: Orientation, showcasing technological uniqueness, active visitor engagement, and consultation space.
+
+**Accessibility and Ambience:**
+
+Not specified.

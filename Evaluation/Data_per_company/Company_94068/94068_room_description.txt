@@ -1,0 +1,39 @@
+**identity_brand**
+
+Legal Name: PRODATO - a part of the Dataciders group. Tagline: Processes, Data, Organization. Sector: IT Solutions, Data Value Creation, and Consulting; established since 1999, part of the Dataciders group since July 2024. Geographic Focus: Primarily Germany, with regional presence near Nuremberg. Color Palette: Not specified. Design Style: Practical, functional, and data-oriented with clear typography. Material Note: Not specified. Logo Use: Not specified.
+
+**value_proposition_map**
+
+Core Pillar 1 (35%): Data Solutions & Analytics — Customized data platforms and visualizations for sustainable information value; Target: Medium-sized businesses and specialized departments; Evidence: Custom IT projects since 1999. Core Pillar 2 (30%): Process Optimization & Automation — Practical concepts for efficiency enhancement; Target: Organizations with complex processes; Evidence: Company claim “Processes, Data, Organization.” Core Pillar 3 (25%): IT Consulting & Implementation — Consultation, design, and technical implementation of IT solutions; Target: Decision-makers in IT, Controlling, and Operations; Evidence: Diverse project fields in job postings. Core Pillar 4 (10%): Operations, Support & Training — Operational support, onboarding, and training for sustainable use; Target: Existing clients and internal teams; Evidence: Emphasis on onboarding and continuous training.
+
+**culture_profile**
+
+Values: Appreciation, diversity, mutual support, and sustainable employee development are central. Tempo: Steadily growing and practice-oriented with a focus on long-term customer success. Collaboration Style: Team-oriented, interdisciplinary exchange, and mentoring for new employees. Work Mode: Hybrid work with flexible hours, personalized onboarding, and promotion of work-life balance.
+
+**portfolio_focus**
+
+Showcases interactive demonstrations of data-based solutions, whitepapers/blog content, visuals, and prototypes for sales support. Also includes information on career and HR processes, and examples of implementations and concepts. Handling: Interactive stations and explanatory exhibits for direct use. Security: No details on technical security requirements of demos.
+
+**narrative_assets**
+
+Headline: Processes, Data, Organization — Sustainable Information Value Creation. Core Messages: 1) Since 1999, creating bespoke IT solutions; 2) Custom concepts link feasibility with economic benefits; 3) Part of the Dataciders group since July 2024 to expand capabilities; 4) Employees are a focus through mentoring and training. Key Metrics & External Signals: Founded in 1999 and integrated into Dataciders (July 2024) are central trust signals.
+
+**interaction_flow**
+
+Visitors choose between guided or self-guided modes at a central info point and receive a brief orientation. The path leads to interactive demo stations, thematic presentation panels, and a career info point with contacts. Finally, takeaway materials and a feedback stand for reflection are available.
+
+**zones_layout**
+
+Freestanding zones include an entrance info point, central demo area for data visualizations, a consulting/showcase area for solutions, a career and HR section, and smaller social islands for interaction and events. Space Allocation: Largest for hands-on demos, medium for consulting, compact for career zone, social islands complementary. All zones are intended as independent, freely positionable units.
+
+**anchor_objects**
+
+Freestanding info stands and digital totems for orientation and navigation; interactive touch tables and control exhibits for live demos; VR/AR pods or enclosed demo cubicles for immersive presentations; seating islands and counters for discussions; mobile career stand with contacts for onboarding and recruiting. Function: Orientation, demonstration, consultation, and exchange. Mobility: Many objects designed as movable or reconfigurable modules; fixed installation possible if needed.
+
+**circulation_accessibility**
+
+Accessibility is valued in the company culture. Specific technical guidelines for minimum aisle widths, entries, or other access measurements are not provided. Accessibility and adaptive use options should be supplemented if necessary.
+
+**ambience**
+
+Atmosphere: Professional, welcoming, and supportive with a clear, factual tone that combines technical expertise and humanity. No specific information on lighting, audio, music, or scents.

@@ -1,0 +1,39 @@
+identity_brand
+
+Short Tagline: "Driven by technology - Driven by people." Sector: Machinery and packaging technology for pharmaceutical and consumer goods. Status: Established family-run business, now in its fourth generation, with over 45 years of innovation and global presence. Geographic Reach: Global, with over 800 employees worldwide. Color Scheme: Not specified. Design Language: Functional, technically precise, and industrially high-quality. Material Note: Industrial metals and durable, robust components. Logo Usage: Not specified.
+
+value_proposition_map
+
+Pillar 1 (50%): Packaging Machines — High-quality and reliable film, carton, and palletizing solutions; Target: Pharmaceutical and consumer goods manufacturers; Proof: Longstanding market leadership and international clientele. Pillar 2 (20%): Custom and Mechatronic Solutions — Tailored developments for complex packaging tasks; Target: OEMs and plant operators; Proof: Development projects and innovation focus. Pillar 3 (15%): Digital Commissioning & Virtual Modeling — Process model integration and virtual commissioning of operable models; Target: Engineering teams and project managers; Proof: Description of tasks for developing methodologies. Pillar 4 (15%): Global Service & Support — Commissioning, training, and after-sales support; Target: Existing customers and global operators; Proof: International presence and customer network. (Weights sum to 100%.)
+
+culture_profile
+
+Values: Trust, respect, pride, and teamwork form the basis of the company culture. Pace: Innovative and long-term oriented, with a continuous focus on technological advancement. Collaboration Style: Team-oriented, family-run, and globally connected; high employee identification (92% recommendation rate). Work Mode: Flexible working hours and home office options are part of the offering; development and training are encouraged.
+
+portfolio_focus
+
+Displays include fully functional machine exhibits, scale models, prototypes, digital models, and CAD artifacts to illustrate construction and control logic. Complemented by operational simulations and virtual commissioning demos, explained through short videos and interactive station content. Handling: Demonstrations are supervised with clear safety guidelines; detailed safety requirements are not specified.
+
+narrative_assets
+
+Headline: "Technology Meets People — Leading Packaging Solutions for Decades." Core Message 1: An innovation-driven, family-run machinery company with long-standing industry experience. Core Message 2: Focus on custom mechatronics and digital commissioning to enhance efficiency in production and packaging. Core Message 3: Strong employer brand with awards like Great Place to Work and high employee retention. Measurable Metrics & External Signals: Over 45 years of innovation, more than 800 employees, 92% recommendation rate, "Best Employers in Germany" award, and "Great Start" certification.
+
+interaction_flow
+
+Visitors can choose between modes: a brief orientation tour, an in-depth demo tour, an interactive VR/simulations session, or a recruitment/information discussion. General Path: Start at an intro pod with company overview, proceed to machine islands and interactive kiosks, followed by VR stations for virtual commissioning and optional discussions in a lounge pod. Each station allows for self-guided exploration or guided presentations with staff.
+
+zones_layout
+
+Freestanding intro pod for reception and orientation, several machine islands for large exhibits, isolated VR/simulation islands for digital demos, a gallery with CAD and prototype pedestals, and lounge and meeting pods for discussions and recruitment. The layout is zoned by use: dominant demo/machine area, flanked by interactive digital islands and quiet interaction spaces; specific area measurements are not provided.
+
+anchor_objects
+
+Types: Full-scale machine islands (demonstration systems), scale models on pedestals, interactive touch kiosks, VR rigs with seating, freestanding information towers, and modular seating groups. Function: Each unit serves as a landmark, demonstration area, or interaction station. Mobility: Small models, kiosks, and seating modules are modular and movable; large machines are centrally positioned with limited mobility.
+
+circulation_accessibility
+
+Minimum Aisle Width: Not specified. Entry/Exit Points for Stations: Not specified. Accessibility: Not specified.
+
+ambience
+
+Lighting, Audio/Music, and Scent Concept: Not specified.

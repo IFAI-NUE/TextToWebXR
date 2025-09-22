@@ -1,0 +1,29 @@
+identity_brand
+Legal Name: Building Solutions SE. Tagline: "Creating the Future Together" (≤80 characters). Sector: Structural engineering, construction, turnkey building, and integrated planning and building technology services. Maturity: An established, mid-sized, family-owned business and subsidiary of an international construction group. Geographic Reach: Several locations in Germany (including Munich, Augsburg, Nuremberg, Saarbrücken, Frankfurt, Cologne, Düsseldorf, Essen, Leipzig, Cottbus, Berlin, Bielefeld, Hannover, Oldenburg, Bremen, Hamburg) and international group activities; no specified color palette, design language, or material references; logo usage not specified.
+
+value_proposition_map
+Pillar 1 – Structural & Building Construction (approx. 40%): Provision of robust construction services for builders and investors; Evidence: Profile as a benchmark-setting company in structural construction. Pillar 2 – Turnkey Building & Project Management (approx. 30%): One-stop solutions for developers and owners, ensuring on-time delivery; Evidence: Explicit mention of turnkey projects. Pillar 3 – Technical Building Equipment & Integrated Planning (approx. 15%): Technical planning, site management, and quality assurance for planners, operators, and students (internships); Evidence: Job listings and service offerings. Pillar 4 – Specialized Divisions in Group (approx. 15%): Engineering, environment, real estate, and hospitality as complementary services for developers; Evidence: List of group divisions within the holding.
+
+culture_profile
+Values: Long-term focus, responsibility, technical precision, and employee support reflected in benefits and family-run profile. Tempo: Project-driven, pragmatic work pace with deadline-bound execution, promoting individual development. Collaboration Style: Interdisciplinary and team-oriented, close coordination between site, technical, and planning teams. Work Mode: Mix of on-site and office work, offering flexible hours, training, and support for thesis work.
+
+portfolio_focus
+Showcase of project artifacts and technical expertise: Models and visualizations of construction projects, demos of technical building solutions, and documentation of turnkey projects. Handling: Interactive stations for project views and technology demonstrations; safety instructions and gear are provided. Safety: No specific safety protocols provided for exhibits.
+
+narrative_assets
+Headline: "Creating the Future Together." Core Message 1: Mid-sized, family-owned construction company with strong manufacturing depth and technical focus. Core Message 2: Comprehensive solutions for real estate—from construction to integrated planning and technical equipment. Core Message 3: Employer with numerous benefits and support offers for employees, and regional presence in many German cities. Measurable Values: Not specified; external signals: locations, group affiliation, and advertised training/internship positions.
+
+interaction_flow
+Modes: Orientation/Reception, Project and Technical Inspection, Career and Dialogue Zone, Deep dive into interactive demos. General Path: Welcome area → large project models and digital demo kiosks → technical demo area with physical components → career lounge for questions about training, internships, and entry opportunities. Each station is designed as a standalone element, appealing to visitors with concise information.
+
+zones_layout
+Entrance area with reception desk and orientation board, central exhibition gallery with project models and digital kiosks, technical demo zone with equipment mock-ups and interactive stations, career and meeting area with niches and information points, and a retreat area for in-depth discussions and VR experiences. Space distribution follows a clear sequence from overview to detail, providing ample open areas for interaction and demonstration.
+
+anchor_objects
+Large freestanding project models and panorama displays as focal points for reference projects; interactive touch kiosks and monitors for navigating BIM/project information; technical equipment mock-ups (e.g., piping, ventilation, or control units) for hands-on interaction; VR/simulation booths for immersive project views; seating and conversation pods as standalone meeting islands. Mobility: Kiosks, monitors, and some mock-ups are mobile; large models are stationary but freestanding.
+
+circulation_accessibility
+Minimum aisle width, entrances, and detailed accessibility information: Not specified. General Approach: Open layout with clear paths and freestanding anchor points, offering visitors various access routes and low entry barriers; mobile elements are used as needed to adjust accessibility.
+
+ambience
+Lighting, audio, music, and scent: Not specified.

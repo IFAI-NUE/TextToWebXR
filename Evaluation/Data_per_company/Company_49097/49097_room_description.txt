@@ -1,0 +1,39 @@
+**Identity Brand**
+
+Legal Name: A metall processing company. Sector: Metal forming; supplier for the automotive industry with a focus on e-mobility. Maturity: Established, family-owned business since 1967 with four locations and approximately 750 employees. Geographic Reach: Global partner in the automotive sector. Color Palette: Not specified. Design Language: Functional and precise with technical geometry, visible in component contours and assembly groups. Material Note: Steel and other metallic stamping and forming parts, as well as fasteners. Logo Usage: Not specified.
+
+**Value Proposition Map**
+
+Pillar 1 — E-Mobility Components (approx. 30%): Production of specific parts for electric vehicles; target audience automakers and OEM supply chains; verified importance in e-mobility. Pillar 2 — Stamped and Formed Parts (approx. 25%): Near-series production of precise metal parts; target audience mass manufacturers and designers; core competency "stamped and formed parts." Pillar 3 — Welded and Riveted Assemblies (approx. 20%): Assembly of connecting assemblies for vehicle structures; target audience assembly lines and vehicle manufacturers; explicitly mentioned offering. Pillar 4 — Functional Assemblies (approx. 15%): Complex assemblies with functional integration; target audience module and system suppliers; offering includes "functional assemblies." Pillar 5 — Support from Concept to Series Start (approx. 10%): Engineering and series support for clients; target audience development departments and project managers; statement on support from concept to start.
+
+**Culture Profile**
+
+Values: Family-run company focused on reliability, quality, and long-term partnerships. Pace: Industry-oriented, structured work pace with a near-series focus and continuous growth since 1967. Collaboration Style: Close, long-term partnerships with clients and cross-departmental teamwork internally. Work Mode: On-site production and engineering combined with flexible working hours, training, and health programs for employees.
+
+**Portfolio Focus**
+
+Displays include standalone component exhibits and assembly groups as physical samples, interactive models of forming processes, and short video or dashboard sequences on production data. Handling: Parts on pedestals for viewing, rotating models, and contactless interaction options. Safety Requirements: No specific requirements mentioned.
+
+**Narrative Assets**
+
+Headline: "Tradition in metal forming, global partner in the automotive industry." Key Message 1: Long-standing experience since 1967 as a family-run business. Key Message 2: Comprehensive range from stamped and formed parts to welded and functional assemblies for e-mobility and mass-produced vehicles. Key Message 3: Support from concept to series start and global customer relationships. Measurable Metrics: Founded in 1967, four locations, approximately 750 employees; external signals: long-term partnerships with automakers.
+
+**Interaction Flow**
+
+Visitors start at a central information pillar with a brief overview, then choose from freestanding stations: product islands (components), assembly demos, and data stations. Each station offers a brief explanation, example parts, and optional interactive media or demonstrations. A standalone career/contact point provides HR information and contacts.
+
+**Zones Layout**
+
+Freestanding arrangement with a central anchor for the main product, surrounding product islands for component categories, a demo zone with assembly and process models, and a data and visualization island with monitor columns. There is a separate career/information area with kiosks and a small lounge area with seating for informal meetings. Space distribution is based on product presence, demo intensity, and communication needs.
+
+**Anchor Objects**
+
+Types: Pedestals with component samples, standalone assembly or test stations (mini rigs), interactive touch kiosks/monitor columns, rotatable display cases, and VR stations. Function: Presentation, demonstration of assembly processes, data insight, and visitor interaction. Mobility: Many objects on rolling bases or as easily movable islands, allowing for flexible adjustments.
+
+**Circulation Accessibility**
+
+Minimum aisle width, entries, accessibility: Not specified.
+
+**Ambience**
+
+Light/Audio/Scent: Not specified.

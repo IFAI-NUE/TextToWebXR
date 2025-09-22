@@ -1,0 +1,29 @@
+identity_brand
+Legal Name: University of Applied Sciences Augsburg. Tagline: Together, we shape the world. Sector: Education & Research; Established institution with about 7,500 students and over 600 staff. Geographic Scope: Regionally rooted with an international student body (~70 nationalities). Color Palette: No specific HEX values; suggests a neutral, professional palette with accents in school colors. Design Language: Clear, practical, and functional; Material Hint: Modern, sustainable surfaces likely. Logo Usage: No specific guidelines provided.
+
+value_proposition_map
+1) Practical Teaching (40%): Offers around 50 bachelor, master, and continuing education programs. Benefit: Preparation for international job markets and regional economy. Target: Students and future professionals. Evidence: Number of programs and student figures. 2) Research & Development (20%): Applied research as an innovation driver. Benefit: Technology transfer and regional impetus. Target: Industry partners, funders. Evidence: Positioning as an innovation hub. 3) Career Service & Networking (15%): Support for career transition. Benefit: Connections with companies and alumni. Target: Students, businesses. Evidence: Career service and network maintenance descriptions. 4) Continuing Education (15%): Part-time and further training offers. Benefit: Lifelong learning. Target: Professionals and companies. Evidence: Continuing education offerings. 5) Campus Services & Employee Benefits (10%): Flexible hours, remote work options, health and sports offerings. Benefit: Employer appeal. Target: Employees and applicants. Evidence: Listed benefits.
+
+culture_profile
+Values: Mutual respect, open communication, equality, and family-friendliness characterize the culture. Pace & Work Style: Practical, solution-oriented with a flexible, partly hybrid work mode. Collaboration Style: Team-oriented, connecting education, research, and regional partners. Promotion: Development and wellness focus through training and health programs.
+
+portfolio_focus
+Showcasing student projects, research outcomes, prototypes, and digital demos along with info materials on study offers and Career Services. Formats include physical models, interactive demos, and video/presentation content. Handling: Hands-on demonstrations and supervised demos planned; no specific safety protocols mentioned.
+
+narrative_assets
+Headline: Together, we shape the world. Key Messages: 1) Practical education for international and regional needs. 2) Innovation hub with strong ties to regional economy. 3) Inclusive, family-friendly, development-focused work and learning environment. Measurable Indicators: About 7,500 students, over 600 staff, students from around 70 nations, approximately 50 study programs; external indicators through benefits and Career Service activities.
+
+interaction_flow
+Visitors start at a central information point, choosing between self-guided or assisted modes. The path leads from orientation through thematic presentation areas to interactive demo spaces and networking zones. Concludes with a feedback and contact station for further information or application inquiries. Events and evening formats are integrable as separate modes.
+
+zones_layout
+Central Orientation: Compact area with info and reception (approx. 10%). Presentation Islands: Study areas and research focused, freestanding pillars and plinths (approx. 40%). Interactive Demo & Workshop Zone: Tables and prototype displays (approx. 20%). Presentation & Event Nooks: Seating and media technology (approx. 15%). Lounge & Networking Islands: Conversations, career advice, and exchanges (approx. 15%).
+
+anchor_objects
+Freestanding Info & Reception Desk: Central orientation, partially mobile or modular. Interactive Touch Pylons/Steles: Show programs, schedules, and contact info; typically mobile. Exhibition Plinths & Demo Tables: For models and prototypes, mostly mobile or easily movable. Seating Islands & Meeting Pods: For advice and discussions, semi-mobile. Presentation Platforms with Media: For demonstrations and talks, mainly fixed or modularly transportable.
+
+circulation_accessibility
+Minimum corridor width: Not specified. Entrances and thresholds: Not specified. Accessibility: The institution actively promotes equality and inclusion; specific accessibility measures not mentioned.
+
+ambience
+Not specified.

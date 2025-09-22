@@ -1,0 +1,39 @@
+identity_brand
+
+Company: KPIT Technologies; Tagline: "Reimagining mobility with you for a cleaner, smarter & safer world" (up to 80 characters). Sector: Automotive and mobility ecosystem, embedded software, AI, and digital solutions. Maturity: Established global company with thousands of employees; geographical reach: global (Europe, USA, Japan, China, Thailand, India; European centers in Munich, Wolfsburg, Dortmund, Sweden). Color palette: unspecified. Design language: unspecified. Material note: unspecified. Logo usage: unspecified.
+
+value_proposition_map
+
+KPIT provides integrated software development and system integration for the automotive industry; Benefits: accelerated implementation of new mobility technologies; Target groups: OEMs and Tier‑1 suppliers; Evidence: global projects and development centers. Pillar 2: Embedded software & test automation; Benefits: reliable, scalable software solutions and test pipelines; Target groups: development and testing teams in automotive projects; Evidence: job openings for automotive software testing, focus on automated test cases. Pillar 3: AI and digital solution platforms for mobility; Benefits: data-driven features and integration services; Target groups: mobility providers and system integrators; Evidence: positioning as a partner for next-gen mobility roadmaps. Weighting: qualitative distribution across engineering, test automation, and AI/digital integration, no percentage weights available.
+
+culture_profile
+
+Culture: international, diversity-aware, and collaborative with employees from over 25 nationalities at the European unit. Values and work style: agile, results-oriented, with a focus on self-directed work and structured, responsible approaches. Pace and benefits: innovation-driven, dynamic pace with flexible working hours, remote work, and employee support offerings.
+
+portfolio_focus
+
+Showcase includes technical artifacts and demos of embedded software, test automation, and integration projects. Examples: Demonstrators for automated test cases, example codes (Python/CAPL), and integration models. Formats: interactive demos, video presentations, and technical case studies; Handling: visitor interaction at standalone demo stations. Security specifics regarding handling and protection of test data: not specified.
+
+narrative_assets
+
+Headline: "Reimagining mobility — cleaner, smarter, safer." Key messages: 1) KPIT is a global, independent software and integration partner for OEMs and Tier‑1s; 2) Focus on embedded software, AI, and digital solutions to accelerate mobility innovations; 3) European excellence centers apply global best practices locally. Measurable indicators & signals: over 11,000 employees worldwide; KPIT centers in Munich, Wolfsburg, Dortmund, and Sweden; diverse teams with >25 nationalities in Europe.
+
+interaction_flow
+
+Visitors start at a central orientation point with a brief overview and choice of mode (guided tour, self-directed exploration, or planned product deep-dive). The path includes thematic demo pods on embedded software, test automation, and AI solutions, followed by hands-on stations for test workflows and code examples. Finally, advisory/recruitment islands are available for discussions and networking, along with digital takeaway materials.
+
+zones_layout
+
+Freestanding zones arranged: central orientation/reception post, clusters of thematic demo pods (Embedded, Testing, AI/Digital), several larger setups for vehicle/system mockups or test rigs, and compact meeting/collaboration islands. Complemented by lounge areas for informal talks and recruitment stands, as well as technical backstage pods for staff presentations. The layout is pod-based and modular for quick adjustments.
+
+anchor_objects
+
+Key freestanding anchor objects include: interactive demo kiosks with touch/VR access (Function: hands-on experience; Mobility: easily movable), larger vehicle or system mockups/test rigs (Function: physical reference for integration work; Mobility: mostly semi-mobile), closed consulting and meeting pods (Function: confidential discussions; Mobility: modular), and info pillars/holographic columns for central storytelling points (Function: orientation and visualization; Mobility: mobile/easily repositionable).
+
+circulation_accessibility
+
+Unspecified
+
+ambience
+
+The ambiance is aligned with the company's positioning: futuristic, technical, and professional, conveying the themes "cleaner, smarter & safer." No specific details on lighting, audio, music, or scents provided.

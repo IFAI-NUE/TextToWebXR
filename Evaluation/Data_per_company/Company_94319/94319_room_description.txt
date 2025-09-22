@@ -1,0 +1,29 @@
+identity_brand  
+Tagline: Credible Communication and Effective Leadership. Sector: Corporate Communication and Organizational Development; Maturity: Owner-led boutique consultancy with extensive expertise. Geographic Reach: Digital and on-site with mid-sized companies, large corporations, and nonprofit organizations. Color Palette: Not specified. Style: Clear, minimalist, and professional, focused on objectivity and trust. Material: Not specified. Logo Usage: Not specified.
+
+value_proposition_map  
+Pillar 1 — Strategic Corporate Communication (approx. 30%): Developing clear strategies for internal and external audiences; target groups include management and communication leaders; backed by extensive experience. Pillar 2 — Organizational Development & Change Processes (approx. 25%): Guiding strategic and change projects for sustainable implementation; target groups include executives and project leaders; supported by complex scenario practice. Pillar 3 — Crisis Communication & Leadership in Exceptional Situations (approx. 20%): Support in crisis management and effective leadership; target groups include board members and crisis teams; referenced through personalized consulting work. Pillar 4 — Executive Coaching and Team Sparring (approx. 15%): Personal coaching and sparring-based support for leaders; target groups include executives and key personnel. Pillar 5 — Content, Presentation, and Workshop Design (approx. 10%): Creating presentations, drafts, and workshop preparations; target groups include project teams and marketing/HR departments; proven through internal processes and tool expertise.
+
+culture_profile  
+Values: Reliability, credibility, high quality standards, initiative, and flexibility, as highlighted in job descriptions. Pace: Pragmatic and results-oriented with a willingness to quickly adapt to new topics. Collaboration Style: Partnership-based and sparring-oriented—close cooperation in one-on-one consultations and teams. Work Mode: Hybrid and flexible; digital and on-site work with opportunities for training, remote work, and flexible hours.
+
+portfolio_focus  
+Showcases consulting artifacts and examples such as research, presentations, drafts, and case studies on strategy, change, and crisis projects. Complemented by demos of workshop formats and tool workflows (e.g., Miro, PowerPoint, WordPress, Canva) as well as brief video or audio explanations. Handling: Interactive insights into templates and samples, with browsing and viewing options for presentations. Security/Confidentiality: Not specified.
+
+narrative_assets  
+Headline: Credible Communication and Effective Leadership as the Basis for Long-term Organizational Success. Core Statements: 1) Owner-led boutique consultancy with an unbiased external perspective; 2) Guidance for management, leaders, and teams in strategic, change, and crisis situations; 3) Combines digital and personal collaboration for diverse client types. Measurable Metrics: Not specified. External Signals: Client structure includes mid-sized companies, large corporations, and nonprofit organizations.
+
+interaction_flow  
+Visitors start with a concise introduction to the business logic and choose between guided or self-directed exploration modes. Key offerings are then explored through thematic stations, followed by in-depth case studies and tool demos. Finally, there's an option for a contact or consultation session with team members.
+
+zones_layout  
+Standalone intro station as the starting point, multiple content pods for service pillars, a gallery for case study exhibits, interactive demo tables for tools and presentations, and a collaborative workshop lab for simulations and practical exercises. Complemented by a meeting and contact area for discussions and networking; space distribution is qualitative based on content focus.
+
+anchor_objects  
+Standalone info kiosks and touch pedestals for orientation and content selection; content pods to showcase service pillars; demo tables for interactive tool demonstrations; seating and conversation pods for personal consultations; all types should be mobile and easily adjustable, including touch stations, presentation stands, modular tables, and seating islands.
+
+circulation_accessibility  
+Not specified.
+
+ambience  
+Not specified.

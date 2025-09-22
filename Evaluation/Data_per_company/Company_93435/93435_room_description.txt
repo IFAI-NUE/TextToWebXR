@@ -1,0 +1,32 @@
+identity_brand  
+Company Name: A renowned technology company (Location: Ansbach). Tagline: "Technology for Life." Sector: Mobility Electronics — electronic control units and mechatronic components for the automotive industry. Established since 1957, with about 2,500 employees. Part of a global manufacturing network. Color Palette (HEX): Red (e.g., #E60000), Dark Gray (#333333), White (#FFFFFF). Design Language: Functional, precise, modular. Materials: Metal, technical plastics, and electronic components/PCBs.
+
+value_proposition_map  
+1) Electronic Control Units & Mechatronic Components (about 50%): Value: Reliable, high-quality components for vehicle manufacturers; Target: OEMs and internal manufacturing networks; Evidence: Long-standing product portfolio at the Ansbach location.  
+2) Production Support in Global Network (about 20%): Value: Industrial manufacturing expertise and cross-location tasks; Target: Internal network and manufacturing partners; Evidence: Undertaking cross-functional tasks in the global manufacturing network.  
+3) Sustainability & Energy Management (about 15%): Value: Optimization of energy flow and decarbonization; Target: Site management and industrial projects; Evidence: Activities aligned with energy management standards.  
+4) Talent Development & Internships (about 15%): Value: Attracting new talent and practical training; Target: Students and graduates; Evidence: Numerous offers for dual study programs and internships.
+
+culture_profile  
+Values: Quality, sustainability, innovation, teamwork. Pace: Industry-focused, goal-oriented, precise work approach. Collaboration: International cooperation with a focus on hands-on mentality and cross-functional exchange. Work Mode: Factory-based work with flexible models and remote options.
+
+portfolio_focus  
+Displays include physical artifacts and technical exhibits, especially electronic control units and mechatronic components. Also featured are demonstrators and manufacturing models, with visualizations and videos on energy management projects.
+
+narrative_assets  
+Headline: "Technology for Life — Precision, Sustainability, and Training at Ansbach." Core Messages: 1) Long-standing manufacturing expertise since 1957; 2) Contribution to quality of life and resource conservation; 3) Focus on automation, electrification, and digitalization; 4) Strong talent development through dual programs and internships. Metrics: Established since 1957, around 2,500 employees, approximately 28 nationalities.
+
+interaction_flow  
+A visit begins with an informational display, followed by self-guided stations with product showcases and interactive demos. In-depth stations offer energy management visualizations and a career/student area for inquiries. A contact station concludes the visit.
+
+zones_layout  
+Zones are arranged with a central product and exhibit hub, manufacturing demos, energy labs, career and learning areas, and lounge spaces. The product hub is the largest, followed by demo and career areas, with a smaller seating area.
+
+anchor_objects  
+Important freestanding objects include: Product pedestals for exhibits (static display), interactive kiosks (information and simulation), mechatronic demo rigs (functional demonstration), energy management consoles (simulation and analysis), and seating areas (exchange, flexible).
+
+circulation_accessibility  
+Minimum aisle width: Not specified. Entries/Access: Not specified. Accessibility for people with mobility impairments: Not specified.
+
+ambience  
+Lighting: Not specified. Audio: Not specified. Music/Soundscape: Not specified. Scent/Atmosphere: Not specified.

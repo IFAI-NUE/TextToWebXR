@@ -1,0 +1,54 @@
+**Identity**
+
+- **Company Name:** Eiffage Infra-Süd GmbH  
+- **Tagline:** "We build with passion."  
+- **Sector:** Road and civil engineering, structural engineering, rail and track construction; part of the Eiffage Infra-Bau.  
+- **Maturity:** Established regional player and reliable partner for major projects.  
+- **Geographical Reach:** Metropolitan Nuremberg with locations in Hersbruck, Pfaffenhofen an der Ilm, and Stuttgart.  
+- **Color Palette:** Not specified, but visually robust and industrial (high-contrast accents, neutral construction tones).  
+- **Design Language:** Functional, technical lines, robust proportions.  
+- **Materials:** Concrete, steel, and asphalt.  
+- **Logo Usage:** Not specified.  
+
+**Value Proposition**
+
+1. **Road and Civil Engineering (≈30%):** Planning and execution of projects with practical application; benefits include durable traffic areas for public clients and municipalities, supported by regional projects and service descriptions.  
+
+2. **Structural/Bridge Engineering (≈25%):** Expertise in complex structures; benefits for infrastructure operators and builders through specialized knowledge, exemplified by the "Main Bridge Lichtenfels" project.  
+
+3. **Rail and Track Construction (≈25%):** Complete infrastructure solutions; target audiences include rail operators and public clients; highlighted in the company's profile.  
+
+4. **Major Project Execution & In-house Production (≈20%):** Comprehensive capabilities with a high degree of in-house production; advantages include enhanced control and timeliness; noted as a reliable partner for large projects.  
+
+**Culture**
+
+- **Values:** Passionate craftsmanship, safety, teamwork, and ongoing development.  
+- **Pace:** Project-driven with phases of high dynamics on-site, balanced with planned preparation phases.  
+- **Collaboration Style:** Team-oriented and mentored; job postings highlight mentorship and close cooperation.  
+- **Work Mode:** Mix of field and office work with flexible working hours and training opportunities.  
+
+**Portfolio**
+
+Displayed are stand-alone models and demos such as scale bridge models, cross-section samples of road structures, track sections, and machinery models. Augmented by interactive software demos (e.g., RIB iTWO) and project case videos. Handling includes tactile modules and touch terminals for exploration; safety and PPE exhibits are separate elements.
+
+**Key Messages**
+
+- **Headline:** "Regional Infrastructure. Technical Depth. Reliable Execution."  
+- **Core Statements:**  
+  1. Expertise in roads, engineering, and rail construction.  
+  2. Reliable partner for large projects due to high in-house production.  
+  3. Commitment to employee development and attractive benefits.  
+
+- **Locations:** Nuremberg, Hersbruck, Pfaffenhofen an der Ilm, and Stuttgart, with project example Main Bridge Lichtenfels; strengthened engagement through mentoring opportunities for student workers.
+
+**Visitor Flow**
+
+Visitors begin at a central information kiosk, then choose thematic stations (road, bridge, rail, major projects). Interactive kiosks offer software demos and case studies, followed by VR or model stations, concluding with a recruiting lounge. The flow can be linear or allow free movement between stations.
+
+**Layout**
+
+Central hub as the starting point, surrounded by thematic areas for road, engineering, and rail construction. Separate demo and VR area with interactive terminals and a lounge zone for personnel topics. Stand-alone machinery and material exhibits form an axis; pathways remain spacious and accessible.
+
+**Key Objects**
+
+Large bridge model as a visual anchor for engineering, modular road cross-section for hands-on explanation, rail segment for rail technology demonstration. Interactive RIB-iTWO kiosks and VR stations as digital anchors; machinery models (e.g., excavator replicas) as tactile focal points. Mobility: Many anchor objects are modular or on wheels, with some heavier models fixed in place.

@@ -1,0 +1,31 @@
+**Identity Brand**
+
+Legal Name: A global company established in 1961, employing around 7,200 people. Catchphrase: Your future starts now! Sector: Machinery and Automation Engineering. Geographic Reach: Over 80 locations worldwide. Color Palette: Unspecified. Design Language: Unspecified. Material Notes: Unspecified. Logo Usage: Unspecified.
+
+**Value Proposition Map**
+
+1) Packaging Systems (Core Product, ~40%): Fully automated machines for food, consumer goods, and pharmaceuticals; Benefits: efficient, protective packaging; Target Groups: Manufacturers and packers; Evidence: Position as a world-leading manufacturer. 2) Automation & Line Integration (~20%): Control and software solutions for production lines; Benefits: Higher throughput and integration capability; Target Groups: Industrial operators and system integrators; Evidence: Job listings related to HMI and line control. 3) Inspection & Labeling Solutions (~15%): Systems for quality assurance and traceability; Benefits: Product safety and compliance; Target Groups: Food and pharmaceutical sectors; Evidence: Offer descriptions on labeling and testing. 4) End-of-Line: Cartoning & Palletizing (~15%): Solutions for packaging completion and logistics preparation; Benefits: Efficient shipping preparation; Target Groups: Logistics and packaging departments; Evidence: Mention of cartoning and palletizing processes. 5) Service, Training & Sustainability Consulting (~10%): After-sales service, training, and material efficiency consulting; Benefits: Lifecycle support and resource conservation; Target Groups: Existing customers and decision-makers; Evidence: Company focus on sustainable packaging and comprehensive benefits/training.
+
+**Culture Profile**
+
+Company values emphasize sustainability, resource efficiency, and technical quality. Work Approach: Practical and responsible, with a focus on continuous education and stability. Collaboration Style: Cross-departmental and team-oriented, supported by agile practices (Scrum mentioned in job listings). Work Mode: A mix of in-person and hybrid models; flexible working hours and remote work options available.
+
+**Portfolio Focus**
+
+Showcasing functional machine solutions and system integrations as standalone demonstrators, supplemented by video and software demos as well as product samples of packaging materials. Career and training offers are presented through interactive stations for students, interns, and thesis opportunities. Handling Instructions: Interactive demos with clear operating and safety instructions; cleanroom knowledge as a relevant background for pharmaceutical demonstrations.
+
+**Narrative Assets**
+
+Headline: Packaging, Protecting, Designing Sustainably. Key Messages: 1) Industry leader with global presence and decades of expertise since 1961; 2) Complete solutions from machinery to service for food, consumer goods, and pharmaceuticals; 3) Focus on resource efficiency and recyclability of packaging. Measurable Metrics & Signals: Approximately 7,200 employees, over 80 locations, numerous job openings and educational/research opportunities indicate innovation and growth capacity.
+
+**Interaction Flow**
+
+Visitors start at a central information and orientation station, choosing between product, technology, or career paths and move to thematic demonstration islands. At the island systems, there are multimodal interactions: live demos, video timelines, touch information points, and hands-on sample platforms. Specific testing and discussion areas are designated for students and applicants; concluding information and contact options close the visit.
+
+**Zones Layout**
+
+Freestanding central orientation unit/reception (small signage island). Product islands with machinery and process demonstrations (largest area share). Software and automation island with interactive terminals. Inspection and quality assurance island with samples and measuring equipment. Career and research island for internships, theses, and recruiting. Relaxation and conversation area with seating for concluding discussions.
+
+**Anchor Objects**
+
+Large-format machine models or mockups as eye-catchers and demonstration platforms (usually stationary). Modular conveyor prototypes for live demos (mobile or semi-mobile). Interactive touch kiosks and tabletop terminals for software demos (mobile or podium mounted). Product pedestals with packaging samples and patterns (mobile). VR/AR stations for immersive process insights (mobile). Service/tool carts for on-site demonstrations (mobile on wheels).

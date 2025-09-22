@@ -1,0 +1,18 @@
+About Us: Many software development projects fail to launch or end immediately after development because they are not transitioned into productive, long-term operation. Our institute supports faculties and institutions with the planning, development, and operation of software projects.
+
+Consultation on:
+- Applying for software projects regarding future development efforts
+- Requirements for production software
+- State-of-the-art software technology stacks
+- Design
+- Service and financial aspects
+- Software maintenance and operation
+
+A selection of our projects and collaborations:
+- University Job Exchange
+- Study & Work International
+- GO MATCH
+- Practical Days
+- University Transfer Forum
+
+The institute is affiliated with the Faculty of Informatics and is excited to offer (computer science) students a creative environment for IT projects, bachelor's/master's theses, doctoral projects, or employment.

@@ -1,0 +1,67 @@
+**Identity Overview**
+
+- **Legal Name:** Eddylab GmbH
+- **Tagline:** "Sensors to perform"
+- **Sector:** Electronics, Precision Mechanics, Optics, Automation Technology
+- **Company Size:** Medium-sized with a hands-on approach
+- **Geographic Reach:** Regionally rooted, present in over 45 countries
+- **Design Language:** Precise, functional, technically geometric
+- **Material Note:** References to metals and technical plastics in precision mechanics
+- **Logo Usage:** Not specified
+
+**Value Proposition**
+
+- **Core Offerings:** Development and production of high-precision sensors; custom single solutions and small series; in-house manufacturing services; educational and career opportunities
+- **Benefits:** Reliable measurement solutions, short development cycles, custom adaptations, local manufacturing expertise, long-term employee development
+- **Target Audiences:** OEMs, industrial companies in automation and measurement technology; international users in over 45 countries; apprentices/technical specialists
+- **Evidence:** In-house manufacturing, export to 45+ countries, active training opportunities
+- **Emphasis:** Focused on product development and custom solutions; manufacturing and personnel development complement the service profile
+
+**Culture Profile**
+
+- **Values:** Hands-on approach, team orientation, reliability, responsibility
+- **Pace:** Pragmatic and results-oriented with short development to production cycles
+- **Collaboration Style:** Close cross-sectional collaboration between development and in-house production
+- **Work Mode:** On-site presence in the manufacturing facility combined with flexible working hours and remote options for suitable roles
+
+**Portfolio Focus**
+
+- **Displayed Objects:** Physical sensor prototypes, standard models, custom small series examples
+- **Demos/Models/Video:** Interactive measurement demos and explanatory manufacturing videos
+- **Handling:** Free-standing display pedestals and hands-on stations for virtual inspection and operation
+- **Safety:** No specific safety requirements mentioned
+
+**Narrative Assets**
+
+- **Headline:** "Sensors to perform"
+- **Key Messages:** 1) Precision measurement technology made locally, 2) Custom solutions and small series from our own manufacturing, 3) International deployment in over 45 countries, 4) Sustainable personnel development with training offers
+- **Measurable Indicators & External Signals:** Export/use in over 45 countries; active job postings for training as a sign of youth development
+
+**Interaction Flow**
+
+- **Modes:** Self-guided exploration, guided tours, and interactive demos
+- **Path:** Central info/reception kiosk → Choose a demonstration island (standard products, custom solutions) → Hands-on station with live data simulations → Video pillar for production presentation → Contact/recruiting point
+- **Visitor Engagement:** Visitors select stations based on interest, utilizing mobile or free-standing info points for detailed information
+
+**Zones Layout**
+
+- **Free-standing Areas:** Central reception/info kiosk, several demonstration islands for product categories, hands-on lab booths with workbench character, video and production presentation area, recruiting and lounge space
+- **Space Distribution:** Focus on demonstration islands and hands-on areas, complemented by compact info and contact islands. Layout zoned by usage type for clear, recognizable clusters
+
+**Anchor Objects**
+
+- **Key Anchor Objects:** Product pedestals with sensor exhibits (static), interactive touch kiosks and tablet stands (mobile/placable), modular workbenches/assembly stations (free-standing, partly mobile), vertical video pillars for manufacturing films (free-standing), recruiting counter/lounge desk (mobile)
+- **Functions:** Displaying, demonstrating, interacting, information dissemination, and recruitment
+- **Mobility:** Mix of fixed free-standing objects and easily movable modules
+
+**Circulation & Accessibility**
+
+- **Minimum Aisle Width:** Not specified
+- **Entrances and Access Points:** Not specified
+- **Accessibility:** No specific measures or standards mentioned
+
+**Ambience**
+
+- **Lighting:** Not specified
+- **Audio/Music:** Not specified
+- **Scent:** Not specified

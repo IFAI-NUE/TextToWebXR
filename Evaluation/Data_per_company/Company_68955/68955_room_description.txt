@@ -1,0 +1,39 @@
+identity_brand
+
+Legal Name: The BBH Group (Rechtsanwälte · Steuerberater · Unternehmensberater PartGmbB; BBH Consulting AG; BBH AG Wirtschaftsprüfungsgesellschaft; BBH Solutions AG; BBH Engineering GmbH). Tagline: Tailored solutions for all business situations. Sector: Legal, Tax, Audit, Business and Strategy Consulting, Engineering; Maturity: Established, growing corporate group with a family culture. Geographic Reach: Multisite presence (including partnerships with universities, national presence); Color Palette: Not specified. Design Language: Professional and clear; Material Note: Not specified; Logo Use: Not specified.
+
+value_proposition_map
+
+Core Services: 1) Legal and Tax Advisory – Benefit: Secure structuring and advice for businesses; Target Groups: Energy sector clients, municipal companies, and mid-to-large companies; Evidence: Explicit mention of the law and tax firm in the group. 2) Auditing and Audit Services – Benefit: Certified reports, accounting advice; Target Groups: Companies requiring audit services; Evidence: Own auditing firm. 3) Business and Strategy Consulting (including Energy Sector, IT Strategy/Security) – Benefit: Technical and strategic solutions for production and distribution issues; Target Groups: Energy suppliers, technical businesses; Evidence: Consulting services descriptions. 4) Corporate Finance & Valuation – Benefit: Company valuations, Due Diligence, restructuring solutions; Target Groups: Investors, executives; Evidence: Offers for CVA/CFA promotion and Corporate Finance projects. 5) Training & Talent Development (BBH Academy, Internships, Dual Studies) – Benefit: Securing skilled professionals and developing new talent; Target Groups: Students, young professionals; Evidence: Extensive training and promotion programs. Weighting: No quantitative percentages derivable, qualitative focus as outlined above.
+
+culture_profile
+
+Values: Humanity, collegiality, appreciation, and trust are guiding principles, complemented by team spirit and personal responsibility. Tempo and Work Style: Dynamic and results-oriented with a family atmosphere and short decision-making paths. Collaboration Style: Interdisciplinary, team-specific with a consistent four-eyes principle and cross-location exchange. Work Mode: Flexible working hours, remote work options, and intensive training through the BBH Academy.
+
+portfolio_focus
+
+Content Featured: Case studies, consulting and audit examples, technical solution models from the energy sector, and career and training programs. Formats: Interactive demos, short explainer videos, and proof of training offerings. Handling: Digital touch interactions and downloadable informational material. Security specifics for exhibition content: Not specified.
+
+narrative_assets
+
+Headline: Tailored solutions for all business situations. Key Messages: 1) Interdisciplinary expertise combines law, taxes, audit, consulting, and engineering; 2) Talent development and training are integral (BBH Academy, support for CVA/CFA); 3) Family culture with flat hierarchies and clear development paths. Measurable Metrics: Not specified; External Signals: Several actively advertised positions and extensive benefits list as indicators of employer attractiveness.
+
+interaction_flow
+
+Modes: Guided tour and free exploration. General Path: Initial information hub with company overview, followed by thematic demonstration pods on law/taxes, audit, consulting, and engineering, then a career hub with job listings and application station, concluding with a feedback and contact point for follow-up discussions. Interactive stations offer in-depth content and direct contact opportunities with recruiting representatives.
+
+zones_layout
+
+Free-standing Zones: Central brand island for group presentation, ring-shaped service pods for individual service fields, a career hub with application and information pillars, a demo area with seating islands for presentations, and separate discussion and networking islands. Space Allocation: Central focus on company overview, flanked by consulting and technology demos, with a clearly separate career area and a meeting zone for interaction.
+
+anchor_objects
+
+Types and Examples: Tall information totems with text and QR codes (for orientation), interactive touch kiosks and tablet stations (research and downloads), enclosed demo pods with presentation technology (demonstrations), seating and discussion islands (interaction), a presentation stage for live sessions, and mobile info trolleys for pop-up actions. Function: Orientation, communication, consulting, application, and presentation. Mobility: Interactive kiosks and info trolleys are designed to be mobile; larger pods and stage are stationary, free-standing installations.
+
+circulation_accessibility
+
+Specific guidelines for minimum aisle widths, entrances, or accessibility features: Not specified.
+
+ambience
+
+Specific details on lighting, audio, music, or scent concepts are not included: Not specified.

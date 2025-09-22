@@ -1,0 +1,33 @@
+**Brand Overview:**  
+Company: A well-established IT services and software development firm focusing on testing and quality assurance. Founded in 1992, it has around 400 employees and is fully self-funded. Operating across six locations in Germany and three international branches. Brand colors primarily include green, complemented by white and gray. The design style is clear, functional, and precise. No material or logo usage details provided.
+
+**Value Proposition:**  
+1. Professional testing and quality assurance services (Benefit: reliable, error-free products; Audience: software product manufacturers) – 30%.  
+2. Test automation and framework development (Benefit: more efficient testing processes, fewer operational errors; Audience: development teams, DevOps) – 25%.  
+3. Consultation throughout the development process, including accessibility (Benefit: early detection and resolution of weaknesses; Audience: product managers, project leaders) – 20%.  
+4. Training and talent development (Benefit: practical training, talent acquisition; Audience: students, businesses) – 15%.  
+5. Knowledge sharing and thought leadership (Benefit: professional knowledge transfer, brand trust; Audience: industry professionals, clients) – 10%.
+
+**Culture Profile:**  
+Values: Passion for quality, expertise, continuity, and sustainability. Approach: Methodical and practical, focusing on reliable, well-tested outcomes. Collaboration style: Team-oriented with peer reviews and interdisciplinary collaboration. Work mode: Flexible and hybrid options available; benefits include remote working, flexible hours, and training opportunities.
+
+**Portfolio Focus:**  
+Features practical artifacts and demos such as case studies, interactive demos, code samples, and podcast episodes. Formats include software demonstrations, video clips, and visual explanations. Interaction: Visitors can engage at standalone stations and kiosks.
+
+**Narrative Assets:**  
+Headline: Software Quality Mission - Reliable and Accessible. Key Points: The company ensures reliable, accessible software; accompanies clients with experience and consistency since 1992; utilizes a mix of consulting, automation, and training with around 400 specialists. Metrics & Signals: Founded in 1992, about 400 employees, with multiple national and international locations; visible via the "SWAQ" podcast.
+
+**Interaction Flow:**  
+Visitors can choose between guided or self-guided modes at an info kiosk. Flow: Introduction videos or live demos at kiosks → hands-on stations for automation and testing frameworks → podcast lounge for more content → contact/recruitment area with study and job information → ending with a feedback station.
+
+**Zones Layout:**  
+The central reception and orientation area with an info kiosk make up about 10% of the space. Demo islands and interactive kiosks for testing frameworks and case studies take up roughly 45%. Hands-on labs and training stations constitute about 25%. Podcast and networking/recruitment areas comprise around 20%.
+
+**Key Features:**  
+Standalone info kiosks with touch screens as anchor points. Interactive demo kiosks and touch tables for engaging with software. A podcast module for audio and live shows. Seating and communication pods for discussions and recruitment. Product and case study platforms with media stations.
+
+**Circulation & Accessibility:**  
+Accessibility is a focus regarding software usability. Specific measurements or widths not indicated. No additional information on physical access, ramps, or infrastructure.
+
+**Ambience:**  
+Visual atmosphere: Calm, professional with a green accent and neutral tones to emphasize content. Audio: Use of podcast clips and spoken explanations at stations, accompanied by light ambient sound. Lighting: Focused on stations, generally subdued and functional. No scent details provided.

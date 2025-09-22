@@ -1,0 +1,44 @@
+**Identity and Brand**  
+Legal Name: [Company Name].  
+Tagline: "IT at Heart".  
+Sector: IT Services and Software Development, focusing on ERP/Business Software.  
+Maturity: Established mid-sized company with over 200 employees.  
+Geographic Range: Locations in various German cities; nationwide presence.  
+Design Language: Clear, technical, user-focused.
+
+**Value Proposition Map**  
+1) Microsoft Dynamics 365 Business Central Implementation & Customization (Approx. 40%):  
+   Benefit: Optimizes and automates business processes;  
+   Target Audience: Mid-sized companies across industries.  
+
+2) Industry Solutions for Trade — Specific Products (Approx. 25%):  
+   Benefit: Specialized retail/wholesale functionalities;  
+   Target Audience: Wholesale, retail, and eCommerce sectors.  
+
+3) Integrations & Cloud Services (Approx. 20%):  
+   Benefit: Connects ERP with systems like SAP and Salesforce;  
+   Target Audience: Companies with diverse system landscapes.  
+
+4) Implementation, Training, & Sustainable Support (Approx. 15%):  
+   Benefit: Comprehensive project support from analysis to assistance;  
+   Target Audience: Customers seeking long-term support.
+
+**Culture Profile**  
+Values: Emphasis on innovation, continuous learning, and employee welfare (training, health initiatives, events).  
+Pace: Practical and project-driven with a focus on efficient delivery.  
+Collaboration Style: Team-oriented with mentoring for interns and thesis guidance.  
+Work Mode: Hybrid, with home office options and multiple regional offices; pet-friendly, employee-centric benefits.
+
+**Portfolio Focus**  
+Demonstrations should highlight core product elements: Live demos of Microsoft Dynamics 365 Business Central, showcases of specific industry solutions, integration examples, and Azure services. Also: Case studies, code samples, and training modules for interns and thesis projects. Setup: Interactive demo stations and access terminals.
+
+**Narrative Assets**  
+Headline: "IT at Heart – Your Full-Service Partner for Business Central and Trade."  
+Key Messages:  
+1) Comprehensive support from analysis to training and assistance.  
+2) Specialized industry solutions for retail, wholesale, and eCommerce.  
+3) Strong partnerships and presence with over 200 employees.  
+Metrics & Signals: Microsoft partner status and locations in multiple German cities; workforce over 200.
+
+**Additional Information**  
+(No further details on interaction flow, layout, anchor objects, circulation, or ambience.)

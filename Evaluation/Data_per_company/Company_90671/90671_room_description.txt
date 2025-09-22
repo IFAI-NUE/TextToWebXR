@@ -1,0 +1,80 @@
+### identity_brand
+
+**Legal Name:** Anonymized Entity  
+**Tagline:** ONE TEAM. ONE VISION.  
+**Sector:** Development and manufacturing of highly innovative production and automation systems.  
+**Maturity:** Longstanding, established family business (founded 1926) with global presence.  
+**Geographic Reach:** Production sites in Germany, China, USA, Brazil, Italy, and India; worldwide service and sales network.  
+**Color Palette:** Not specified.  
+**Design Language:** Precise, technical-functional, industrial.  
+**Material Note:** Metallic, durable materials and industrial-grade surfaces.  
+**Logo Use:** Not specified.
+
+### value_proposition_map
+
+**Pillar 1 – High-Precision Manufacturing Systems:**  
+- **Benefit:** Efficient, high-quality serial production.  
+- **Target Groups:** Automotive manufacturers and suppliers, other industrial companies.  
+- **Evidence:** Long-term relationships with renowned automotive manufacturers and extensive production expertise.
+
+**Pillar 2 – Automation and Complete Solutions:**  
+- **Benefit:** Increased throughput, consistency, and automation in production lines.  
+- **Target Groups:** Production planners and plant operators.  
+- **Evidence:** Offering highly innovative automation systems.
+
+**Pillar 3 – Global Service & Sales:**  
+- **Benefit:** Local service and spare parts supply to ensure facility availability.  
+- **Target Groups:** Operators of international production sites.  
+- **Evidence:** Production sites and branches in six countries.
+
+**Pillar 4 – R&D and Special Solutions (e.g., E-Mobility):**  
+- **Benefit:** Development of customized solutions and validation of new manufacturing processes.  
+- **Target Groups:** OEMs and developers in e-mobility.  
+- **Evidence:** Job postings related to battery stack assembly and plant design.
+
+**Weights:** Not specified; qualitative emphasis on mechanical engineering, automation, global service, and R&D.
+
+### culture_profile
+
+**Values:** Long-term family business philosophy, quality, precision, innovation orientation, and team spirit (ONE TEAM. ONE VISION.).  
+**Pace:** Technically focused with ongoing development and long-term planning rather than short sprints.  
+**Collaboration Style:** Interdisciplinary and international, with coordination between design, production, and service.  
+**Work Mode:** Supportive benefits (flexible work hours, remote work, training) indicate hybrid work forms and employee development.
+
+### portfolio_focus
+
+Features standalone artifacts and demonstrators such as machine and plant models, CAD and construction demos, as well as video and media stations offering insights into automated production processes. Also included are prototype exhibits related to e-mobility (e.g., stack assembly concepts) and interactive measurement or monitoring systems.  
+**Handling:** Interactive pedestals and demonstrators for viewing and selective process initiation.  
+**Safety Measures:** Not specified.
+
+### narrative_assets
+
+**Headline:** Tradition and Precision in Global Manufacturing Since 1926.  
+**Key Messages:**
+1. Family-run business with a commitment to long-term quality.
+2. Technological leadership in production and automation systems.
+3. Global manufacturing and service presence to ensure quality and availability.
+
+**Measurable Metrics & External Signals:** Founded in 1926, approximately 9,000 employees, and production sites in Germany, China, USA, Brazil, Italy, and India; clientele includes renowned automotive manufacturers.
+
+### interaction_flow
+
+Not specified.
+
+### zones_layout
+
+Not specified.
+
+### anchor_objects
+
+Freestanding machine and plant models as central demonstration anchors; interactive CAD and design stations on pedestals for detailed views; media stations/video pods for process films and references; mobile product showcases or spare parts and service kits as hands-on exhibits.  
+**Functions:** Demonstration, interaction, information, and recruitment.  
+**Mobility:** Many exhibits designed as freestanding, movable modules; mobile showcases and rollable demonstrators possible.
+
+### circulation_accessibility
+
+Not specified.
+
+### ambience
+
+Not specified.

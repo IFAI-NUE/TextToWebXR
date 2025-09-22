@@ -1,0 +1,39 @@
+identity_brand
+
+Company Name: N-ERGIE AG. Tagline: N-ERGIE - Noticeably closer. Your reliable energy provider. Sector: Energy and Water Supply. Established regional supply company (Founded in 2000, about 2,400 employees, €4.9 billion revenue in 2022). Geographic Reach: Network region covering much of Middle Franconia and adjacent areas (approx. 8,400 km²). Color palette and design language: Not specified. Material hints and logo usage: Not specified.
+
+value_proposition_map
+
+1) Energy Supply (Electricity & Natural Gas): Offers reliable energy resources to households and industry; target groups include private customers, commercial clients, and public institutions; supported by regional network area and significant revenue. 30%. 2) Drinking Water & District Heating: Supplies Nuremberg with drinking water and district heating; target group includes municipal households and regional consumers; confirmed through explicit service offering. 20%. 3) Network Operations & Infrastructure (N-ERGIE Netz GmbH): Manages and maintains electricity and gas networks to ensure supply security; target group includes network operators, municipalities, industrial clients; backed by dedicated network subsidiary and extensive network. 25%. 4) Customer and Service Solutions: Billing, customer support, rollout of new metering systems and digital interfaces; target groups are end-users and business customers; supported by job ads related to metering operations and communication. 15%. 5) Employer and Development Opportunities: Training, internships, employee benefits, and development to retain staff; target group includes applicants and employees; demonstrated through extensive benefits listing and numerous internships/HR positions. 10%.
+
+culture_profile
+
+Values: Reliability, customer focus, responsibility, and continuous development, derived from company description and benefits. Pace: Predominantly deliberate and secure with project-driven phases (e.g., implementation of metering systems). Collaboration Style: Team-oriented, structured, and process-focused; job requirements emphasize teamwork and independence. Work Modality: Hybrid options (including remote work), flexible hours, and support via professional development and health programs.
+
+portfolio_focus
+
+Features representative artifacts and digital demos, such as network infrastructure models, metering system applications, rollout scenarios, and interactive service information modules. Supported by career and training exhibits, as well as case studies in customer service and HR projects. Handling: Interactive terminals and demonstration devices for visitor interaction; technical demos incorporate safety and data privacy measures. Specific exhibits and material details: Not specified.
+
+narrative_assets
+
+Headline: Regionally rooted, reliably supplied. Core Message 1: Secures electricity, gas, water, and district heating for much of Middle Franconia. Core Message 2: Operational strength through own network subsidiary and technical rollout expertise. Core Message 3: Employer with comprehensive benefits and development opportunities for about 2,400 employees. Key Metrics & Signals: Approx. €4.9 billion revenue (2022), around 2,400 employees, network area ~8,400 km², founded in 2000.
+
+interaction_flow
+
+Modes: Self-guided tours, guided presentations, and targeted career sessions. General Pathway: Reception area → Overview module with key figures → Thematic demo stations (Energy, Network Operations, Water/District Heating) → Technical deep-dives and metering demo → Career and HR area with contacts → Contact/Conclusion zone. Interactive stations allow deeper content on demand; Time requirement: Quick informative tours to intensive professional visits.
+
+zones_layout
+
+Central reception and orientation area is the starting point, surrounded by thematic stations: Energy Supply, Network Operations, Water & District Heating, Metering/Technology, and Career/HR. Complemented by demo and testing area for hands-on exhibits and a relaxation and discussion lounge for consultations. Area distribution staged by focus: Large areas for network operations and energy, medium for technical demos, compact area for career/HR.
+
+anchor_objects
+
+Freestanding information pillars and digital kiosks serve as initial contact and interaction points; Function: Orientation, content delivery, registration; Mobility: Rollable. Physical models of network components and metering stations (transformer, line, and meter replicas) illustrate technology; Function: Demonstration, tactile engagement; Mobility: Mostly fixed to semi-mobile. Demo stands with touchscreens and seating areas offer in-depth content and recruitment discussions; Function: Interaction and consultation; Mobility: Modular and adaptable.
+
+circulation_accessibility
+
+Minimum aisle width for accessibility: 1.5 m, allowing wheelchair passage and two-way traffic. Entryways: Step-free access to all freestanding stations, clearly marked transitions, and low-touch interaction options. Additional measures: High-contrast floor markings, auditory cues, and optional text size or screen reader support at digital kiosks. Detailed technical specifications: Not specified.
+
+ambience
+
+Lighting: Clear, functional lighting with accentuation on freestanding exhibits and warm accent lights in interaction zones. Audio/Music: Subtle, professional background music and occasional speaker announcements during tours; technical demos include accompanying soundscapes to convey operational conditions. Scent: Subtle, clean-fresh to support a professional environment.

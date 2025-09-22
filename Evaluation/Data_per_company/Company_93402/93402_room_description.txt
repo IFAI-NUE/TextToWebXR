@@ -1,0 +1,39 @@
+**identity_brand**
+
+Legal Name: Rolf Janssen GmbH Electrical Works. Tagline: “Ready for the Future of Energy Supply.” Sector: Electrical Engineering. Established: 75-year-old leading company in its field. Geographic Reach: Not specified. Color Palette (HEX): Not specified. Design Language: Not specified. Material Note: Not specified. Logo Usage: Not specified.
+
+**value_proposition_map**
+
+Pillar 1 — Electrical Solutions & Components (40%): Providing tailored electrical solutions for industrial and institutional clients; Evidence: Company profile and long-standing market presence. Pillar 2 — Project & Procurement Management (30%): Commercial project management and coordination of sub-suppliers throughout the bidding and implementation process; Target: Clients from energy and industry; Evidence: Job listings. Pillar 3 — Automation & Control Systems (20%): Planning, technical consulting, and implementation of control systems; Target: Plant operators and automation projects; Evidence: Job requirements and duties. Pillar 4 — Employer Benefits & Talent Development (10%): Attractive employee benefits for retention and recruitment; Target: Professionals and new talent; Evidence: Listed benefits like flexible work hours and company pensions.
+
+**culture_profile**
+
+Values: People-centric, blending tradition with innovation readiness. Pace and Work Style: Structured, cost-conscious, solution-oriented. Collaboration Style: Team-oriented, interdisciplinary with a strong customer focus. Work Mode: Merges technical expertise with commercial responsibility; flexible working hours are offered.
+
+**portfolio_focus**
+
+Content: Technical solutions and systems from energy and automation technology, project examples, and proposal processes. Formats: System and component demonstrations, documented project cases, and consulting offers. Handling and Safety: No details provided.
+
+**narrative_assets**
+
+Headline: “75 Years of Experience — Ready for the Future of Energy Supply.” Key Messages: 1) Long-standing expertise in electrical engineering and project management. 2) Combination of tradition and innovation. 3) Employee focus as a success factor. Measurable Metrics & External Signals: 75 years in business; active postings for sales and project roles; listed employee benefits highlighting employer attractiveness.
+
+**interaction_flow**
+
+Visitors start at a reception or info kiosk, choose between interactive demo stations or project case areas. Further along, advisory and discussion pods are available for in-depth talks, followed by a personnel info and recruitment section. Finally, there is a contact station for follow-ups and inquiries.
+
+**zones_layout**
+
+Entrance zone with info kiosk, central demo and product stations, bordered by project case areas and interactive simulation stations. Separate zone for advisory pods and a recruitment corner with information stations. Space Distribution: Demo stations dominate, while advisory and personnel areas are in smaller, concentrated sections.
+
+**anchor_objects**
+
+Freestanding reception/info kiosks as entry and orientation points. Demo stations with control and measurement panels to illustrate technical solutions; interactive simulator stations for automation scenarios. Product and prototype pedestals for inspection, along with mobile advisory and discussion pods for client meetings. Most anchor objects are modular and mobile for flexibility.
+
+**circulation_accessibility**
+
+Not specified.
+
+**ambience**
+
+Atmosphere: “Positively Charged” — energetic and practical. Lighting: Focused lighting on demo stations and exhibits; Ambient Sounds: Subtle, technical sound design to support presentations. Scent Concept: Not specified.

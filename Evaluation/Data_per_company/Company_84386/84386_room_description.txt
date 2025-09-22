@@ -1,0 +1,75 @@
+### Identity
+
+**Brand Name:** Mainfranken Energy Co-op  
+**Tagline:** "Energy Partner for Mainfranken" (≤80 characters)  
+**Sector:** Regional Energy Services / Utilities  
+**Maturity:** Established mid-sized cooperative with over 200 employees and a regional focus.  
+**Color Palette:** Not specified.  
+**Design Language:** Not specified.  
+**Material Notes:** Not specified.  
+**Logo Usage:** Not specified.  
+
+### Value Proposition Map
+
+1. **Basic Supply & Energy Services (30%):** Electricity supply and services for households and local businesses.  
+   **Target Groups:** Private clients, businesses, municipalities.  
+   **Proof:** Self-identification as a regional energy supplier with a comprehensive offering.
+
+2. **Expansion of Renewable Energies (25%):** Planning and investment in local projects to reduce climate impact.  
+   **Target Groups:** Municipalities, investors, community groups.  
+   **Proof:** Mention of renewable energy investments.
+
+3. **Fiber Optic & Digital Infrastructure (20%):** Building widespread high-speed internet for homes and businesses.  
+   **Target Groups:** Regional households, businesses, administrations.  
+   **Proof:** Explicit project mention of fiber optic network.
+
+4. **Climate-Neutral Heating & Charging Infrastructure (15%):** Developing heating projects and expanding charging points for e-mobility.  
+   **Target Groups:** Homeowners, fleets, municipalities.  
+   **Proof:** Mention of climate-neutral heating solutions and charging infrastructure.
+
+5. **Consultation, IT, and GIS Services (10%):** Services around geodata, information systems, and technical consultation.  
+   **Target Groups:** Internal departments, municipalities, planners.  
+   **Proof:** Job listings for GIS, IT, and consulting roles.
+
+### Culture Profile
+
+**Culture:** Cooperative, regionally rooted, customer-focused, and responsible.  
+**Pace & Work Style:** Pragmatic and project-oriented with structure and responsibility, alongside opportunities for development.  
+**Collaboration Style:** Cross-departmental, team-oriented, service-oriented;  
+**Work Mode:** Hybrid options with home office and flexible hours, plus employee benefits and health measures.
+
+### Portfolio Focus
+
+Displayed are practical artifacts and digital demos: interactive GIS applications, renewable energy plant models, fiber optic and charging infrastructure demonstrators, and project/service videos and presentations.  
+**User Interaction:** User-friendly touch and gesture controls, with accompanying explanations and training sequences.  
+**Security:** Operational and compliance topics covered by information modules.
+
+### Narrative Assets
+
+**Headline:** "Progress for the Region – Sustainable, Digital, Cooperative."  
+**Core Messages:**  
+1. Local supply with future solutions.  
+2. Active expansion of renewable generation and digital infrastructure.  
+3. Customer proximity and cooperative engagement.  
+**Measurable Metrics & Signals:** Over 200 employees;  
+**External Signals:** Various job postings for IT, GIS, and technical roles indicating growth and diversification.
+
+### Interaction Flow
+
+Visitors start at a central orientation point and then select thematic zones (Supply, Renewables, Broadband, Mobility, Careers) for brief introductory modules. In-depth stations offer interactive GIS demos, model evaluations, and video explanations; contact or application options are available at the end. The path is linear with optional branches to deep-dive modules.
+
+### Zones Layout
+
+Thematic islands are arranged as freestanding zones: central reception/orientation island, energy supply island, renewables island, digital infrastructure island, mobility/heating solutions island, and career/community island with lounge elements. The layout allows a mix of short stops and longer deep-dive areas, with each island individually accessible.
+
+### Anchor Objects
+
+**Types:** Interactive info kiosks with touchscreens (Function: Intro info, mobile), large touch tables or globe GIS (Function: Spatial data exploration, less portable), scaled models of plants (Wind/Solar, Function: Visual aid, usually mobile on a stand), fiber cross-section and EV charging station prototype demonstrators (Function: Technical understanding, mobile or fixed), seating and conference pods (Function: Consultation, mobile). Many elements are transportable or modular, while some larger demos may be stationary.
+
+### Circulation & Accessibility
+
+Not specified.
+
+### Ambience
+
+Not specified.

@@ -1,0 +1,29 @@
+identity_brand
+Legal name: [Company Name] GmbH & Co. KG. Tagline: "Get to know us and become part of our team" (≤80 characters). Sector: Construction; Status: Medium-sized, forward-looking; Geographic reach: Not specified. Color palette, design language, material suggestions, and logo use: Not specified.
+
+value_proposition_map
+Pillar 1 — Construction Execution & Quality: Offers reliable construction services focusing on practical execution; Target: Construction clients; Proof: Self-presentation as a strong construction company. Pillar 2 — Employer & Career: Attractive employment with permanent contracts and excellent benefits; Target: Professionals, newcomers; Proof: Benefit list and introductory video. Pillar 3 — Training & Development: Tailored training and onboarding; Target: Employees at all levels; Proof: Explicit mention of training and development offerings. Pillar 4 — Employee Services & Work-Life Balance: Flexible hours, remote work options, and additional perks; Target: Employees; Proof: Extensive benefits list. Weights: No exact percentages; equal emphasis on construction performance and employer attractiveness.
+
+culture_profile
+Family-run with flat hierarchies and mutual respect, focusing on individual support, practical onboarding, and continuous training. Team-oriented work mode with design freedom and high work-life balance.
+
+portfolio_focus
+Features media insights into the team and employment benefits, particularly the introductory video. Displays of benefits and career paths; specific project examples are not mentioned.
+
+narrative_assets
+Headline: Family-run construction company committed to employee development and quality. Core messages: 1) Focus on motivated, skilled teams; 2) Flat hierarchies and personal onboarding; 3) Extensive benefits and training opportunities. Measurable indicators & signals: About 45 employees, existing introductory video, part of the Eichbauer group.
+
+interaction_flow
+Visitors start at a freestanding reception and info pillar, choosing between guided tour, free exploration, and career mode. In career mode, they move through video stations, benefit displays, and interactive application terminals. In project/media mode, visitors find model tables, media booths, and contact points for deeper information or direct contact.
+
+zones_layout
+Zones are organized as freestanding islands: Reception island, career lounge with terminals, benefits lounge with media stands, model and project cluster with display tables, and a networking seating area. Larger spaces give way to well-defined, freely placeable modules allowing different durations of interaction. Career and benefit areas are the focus.
+
+anchor_objects
+Freestanding info kiosks/touchsteles for navigation and content; video booths for introductory videos; model tables with controls for scale models; freestanding seating groups and standing tables for discussions; beverage island as a hospitality element. Functions: Information delivery, media playback, exhibition, interaction; Mobility: Many elements should be mobile or on wheels.
+
+circulation_accessibility
+Aims for clear, low-barrier circulation with direct entries at freestanding reception and info objects. Specific aisle widths, entry dimension details, and formal accessibility certificates: Not provided. Recommendations for accessible entrances and interaction areas for wheelchairs; no specific implementation data available.
+
+ambience
+Atmosphere: Warm, friendly, team-oriented, similar to a welcoming office with a garden vibe. Soft, focused lighting on exhibits, subtle background lighting in spaces; gentle background music to support a relaxed ambiance. Specific scent or acoustic brand signals: Not specified.

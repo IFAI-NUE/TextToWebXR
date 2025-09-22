@@ -1,0 +1,39 @@
+identity_brand
+
+Name: CIM GmbH. Tagline: Logistics Software Specialists. Sector: Intralogistics / Warehouse Management Software. Status: Established family business with nearly 40 years in the market and a leading position. Geographic Reach: Headquarters in Fürstenfeldbruck, Germany; active nationally across industries. Color Palette: Cool shades of blue and gray. Design: Clear, functional, and modular with a technical, process-focused aesthetic. Material Note: Prefers high-quality, functional surfaces (metal, matte plastics, glass accents) for displays. Logo Usage: Prominent and consistent on standalone displays and screens for brand identification.
+
+value_proposition_map
+
+Pillar 1 — PROLAG World (WMS): Mature, standardized warehouse management system; Benefits: efficient warehouse processes and standardization; Target Groups: Logistics Managers, 3PL, Production; Proof: nearly 40 years in the market, market leader. Weight: 40%. Pillar 2 — Implementation & Projects: Software configuration, testing, launch, and project support; Benefits: reliable rollouts and process adaptation; Target Groups: Project Managers; Proof: Job descriptions related to project activities. Weight: 25%. Pillar 3 — Integration & Automation: Mobile device integration and automated warehouse controls; Benefits: connected, automated processes; Target Groups: Automated warehouse system operators; Proof: Requirement descriptions in job listings. Weight: 15%. Pillar 4 — Software Development & Quality Assurance: Java-based development, code reviews, unit testing; Benefits: stable, scalable software solutions; Target Groups: IT Departments, Development Teams; Proof: Multiple developer roles mentioned. Weight: 12%. Pillar 5 — Training & Support: Customer training, support, and maintenance; Benefits: user acceptance and continuous operation; Target Groups: End-users and operators; Proof: Job duties listed in ads. Weight: 8%.
+
+culture_profile
+
+Values: Family-oriented, responsible, customer-focused, and tech-savvy. Pace: Continuously driven by innovation with stable, pragmatic execution. Collaboration: Agile methods, Scrum teams, and high employee involvement with flat hierarchies. Work Mode: Flexible and hybrid with options for remote work, part-time, and family-friendly arrangements.
+
+portfolio_focus
+
+Showcases include demos of PROLAG World, integration examples with mobile devices and automation, live warehouse process simulations, and case study presentations. Artifacts: Interactive software demos, process mockups, small model setups for visualizing logistics operations. Handling: Hands-on stations and guided demo sessions; Security: Access restrictions on system demos and clear user rights for interactive exhibits.
+
+narrative_assets
+
+Headline: "40 Years of Smart Intralogistics Experience." Key Message 1: Market-leading warehouse management standard software (PROLAG World). Key Message 2: Combining software expertise, project management, and automated system integration. Key Message 3: A family business with a modern, employee-focused culture. Key Metrics: Nearly 40 years in the market, about 100 employees, member of Family Pact Bavaria; External client references: not available.
+
+interaction_flow
+
+Modes: Self-guided tours with interactive kiosks and curated guided demos with presenters. Path: Start at an orientation kiosk, move to product demos and simulation stations, deepen at integration and developer stations, end in contact and recruitment area with appointment setting options. Optional: In-depth live presentations per schedule.
+
+zones_layout
+
+Orientation area with reception kiosk and introduction points, several demo islands for software simulations and miniature automation displays, a case study station area with monitors, a quiet lounge and recruitment space for conversations, and a tech podium for live presentations. Space allocation prioritizes interactive demo islands, followed by presentation and conversation zones; precise square footage: not specified.
+
+anchor_objects
+
+Touchscreen kiosks and interactive tables as primary anchors (mobile or fixed), freestanding displays/monitors on stands for demo visualizations, model structures of conveyor technology/shelves for process demonstration, presentation platforms for live demos, and seating areas for consultations. Function: Orientation, demo operation, networking; Mobility: Many exhibits are on wheels or modular for varied use scenarios.
+
+circulation_accessibility
+
+Flow & Access: Clear, accessible paths with recommended minimum aisle widths of about 120 cm for wheelchair access and comfortable passing. Entrances: Multiple entry points at orientation kiosks and open demo islands; Accessibility: Low interaction heights at touchpoints and accommodating seating for consultations. Details on tactile signage or specific aids: not specified.
+
+ambience
+
+Lighting: Bright, even base lighting with accent lighting at exhibits to highlight demo points. Audio/Music: Subtle, focus-enhancing background music with targeted audio commentary at stations; Volume controlled to keep conversation areas quiet. Scent: Subtle, more neutral/fresh to ensure comfort and compatibility; Specific scent concepts: not specified.

@@ -1,0 +1,66 @@
+## Identity and Brand
+
+**Company Overview:** 
+A well-established engineering and IT services company with over 23 years of experience, employing around 65 staff members, and operating globally in sectors such as engineering services, IT hardware, programming, design, and software development.
+
+**Tagline:** Ideas Becoming Reality
+
+**Design Concept:** 
+Modern, sleek, and technically oriented with a focus on clear, user-centered interfaces. 
+
+## Value Proposition
+
+**Main Offerings:**
+1. **UI/UX Design for Automotive (30%):** Intuitive, brand-aligned interfaces for OEMs and development teams, backed by 23 years of expertise.
+2. **Virtual and Hybrid Simulations (25%):** Immersive tests and presentations for product testing and marketing.
+3. **Prototypical Builds & Showcars (25%):** Rapid validation of physical concepts for testing teams and show events.
+4. **Software Development & Integration (20%):** Comprehensive implementation for automotive clients, supported by an interdisciplinary team and certifications such as ISO 9001 and TISAX.
+
+## Culture
+
+**Values:**
+Hands-on innovation, interdisciplinary collaboration, and a commitment to quality.
+
+**Work Style:** 
+Agile, iterative work with rapid prototype development. Collaborative and engaging, with a mix of in-office and flexible remote work options.
+
+## Portfolio
+
+**Showcase:**
+Physical prototypes (seating models, showcars), interactive software demos, virtual experiences, and simulations. 
+
+**Quality Assurance:** 
+Adherence to organizational standards like ISO 9001 and TISAX.
+
+## Narrative Assets
+
+**Headline:** 
+"Digital Interfaces that Operate in Real Vehicles."
+
+**Core Messages:**
+1. Over 23 years of UI/UX and vehicle integration experience.
+2. Blend of digital simulation and physical prototype experiences.
+3. End-to-end solutions provided by an interdisciplinary team.
+
+**Metrics:** 
+Approximately 65 employees, 1,500 square meters of workspace, and collaborations with major automotive companies.
+
+## Interaction Flow
+
+Visitors can choose from self-guided VR/AR stations or guided demos of real prototypes. The journey includes an introduction, interactive digital scenarios, real-world prototype exploration, and consultation zones.
+
+## Zones Layout
+
+The space features a reception and orientation area, various VR/AR demo pods, a prototype bay with vehicle setups, a presentation and meeting area, and a lounge for discussions.
+
+## Anchor Objects
+
+Key elements include VR/AR pods, mobile vehicle platforms, seating setups, interactive consoles, and workbenches. These facilitate demonstrations, interaction, testing, and presentations.
+
+## Circulation & Accessibility
+
+No specific measurements provided. The company’s offerings suggest accessible working conditions, though detailed accessibility features are unspecified.
+
+## Ambience
+
+Aims for an immersive, tech-focused experience supported by VR/AR and physical prototypes, with specific details on audiovisuals or sensory elements not included.

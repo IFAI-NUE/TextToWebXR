@@ -1,0 +1,33 @@
+Identity Brand
+Short Tagline: Fast and easy digitization. Sector: Digitalizing business processes with a focus on Atlassian products (Jira, Confluence) and Salesforce, and offering process and project management consulting. Stage: Young startup with small, self-organized teams. Geographic Reach: Locations in two cities; clients include startups, SMEs, and industry leaders. General Color Palette and Form Language: No specifics provided. Human-centered and communicative, preferring clear, accessible forms.
+
+Value Proposition Map
+Pillar 1 – Atlassian Implementation (Jira & Confluence): Benefit: Quick, intuitive process mapping and automation; Target Groups: Customer Service, Project Management, Facility Management, HR, Sales; Evidence: Job postings for Jira/Confluence configuration. Estimated Weight: High.  
+Pillar 2 – Salesforce Support: Benefit: Enhanced use of sales and customer service processes; Target Groups: SME sales and customer service; Evidence: Company profile mentions Salesforce support. Estimated Weight: Medium.  
+Pillar 3 – Process and Project Consulting & Design: Benefit: Analysis, design, and implementation of efficient processes; Target Groups: Startups, SMEs, industry leaders; Evidence: Job descriptions with project and process analysis, customer workshops. Estimated Weight: Medium.  
+Pillar 4 – Training, Operations & Support: Benefit: Long-lasting user knowledge, operational support; Target Groups: End-users, administrators, various user groups; Evidence: Job postings related to training and support. Estimated Weight: Medium to Low.  
+Pillar 5 – Agile, Interdisciplinary Project Collaboration and Consulting: Benefit: Quick results through small teams and direct communication; Target Groups: Companies seeking quick, pragmatic solutions; Evidence: Company description and job requirements. Estimated Weight: Supportive.
+
+Culture Profile
+Values: Strong emphasis on communication, empathy, and accountability; avoids unnecessary hierarchies. Pace: Project-driven and fast, with a focus on quick, visible successes. Collaboration Style: Small, self-organized teams with high engagement and open communication. Work Mode: Flexible and hybrid options available, with emphasis on continuous learning and health.
+
+Portfolio Focus
+Showcasing practical demos and artifacts: Standalone demo stations for Jira and Confluence workflows, Salesforce examples, and service desk simulations. Supplemented by hands-on workshops at interactive tables and compact case study exhibits. Engagement: Visitors interact directly with system demonstrators and training modules.
+
+Narrative Assets
+Headline: Fast and easy digitization. Core Statements: 1) We digitize business processes pragmatically with Atlassian and Salesforce. 2) We work human-centered in small, self-organized teams and deliver quick measurable results. 3) We provide training, support, and ongoing operational assistance. No specific metrics provided. External Signals: Client segments and offered benefits like training and remote work options.
+
+Interaction Flow
+Modes: Guided tours, self-guided interaction at demo stations, short workshop sessions. General Path: Orientation at info totems, followed by modular demo stations (Atlassian, Salesforce), moving to hands-on worktables, and ending with consultation pods for advice and recruiting. Visitors can try systems live and sign up for further training.
+
+Zones Layout
+Entrance orientation and info zone: Approximately 10%. Demo islands with interactive kiosks for Jira/Confluence and Salesforce: Approximately 40%. Hands-on workshop area with interactive tables: Approximately 25%. Consultation and conversation pods: Approximately 15%. Lounge/networking area with seating for informal discussions: Approximately 10%.
+
+Anchor Objects
+Standalone info totems and touch kiosks: Function: Orientation, registration, quick demo access; Mobility: Easily movable. Interactive touch tables for workshops: Function: Hands-on configuration and group work; Mobility: Semi-movable. Demo cubes or media pillars with live displays: Function: Visual workflow demonstration; Mobility: Mostly stationary, modular setup. Standalone conversation pods and mobile seating: Function: Consulting, interviews, quiet discussions; Mobility: Highly movable.
+
+Circulation Accessibility
+Minimum corridor width, entryways, accessibility: No specifics provided.
+
+Ambience
+Lighting, audio, music, scent: No specifics provided.

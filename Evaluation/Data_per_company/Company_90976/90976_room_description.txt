@@ -1,0 +1,29 @@
+identity_brand
+A well-established global company specializing in plant and machinery manufacturing, with a focus on switchgear, control systems, energy and building technology, as well as vehicle cabin and casing production. Tagline: "Facilities that inspire." Founded in 1995, it is internationally active with a worldwide reach. Design is technically precise, modular, and functional. Materials include metal, electronic components, industrial casings, and composite parts. Logo use not specified.
+
+value_proposition_map
+Core Offerings: (1) Switchgear and Control Systems — Custom control solutions for industrial applications. Target: Machinery manufacturers, operators. Expertise established since 1995. (2) Energy and Building Technology — Reliable energy distribution and building control. Target: Utility companies and commercial properties. Certified for national and international markets. (3) Vehicle Cabins, E-Containers, Casing Manufacturing — Durable custom enclosures and components. Target: Vehicle manufacturers, logistics, energy sector. (4) Consulting, Quality Management, Process Improvement — Compliance and sustainable enhancements. Target: Customers with high-quality demands. Company-wide quality commitment and certifications. No specific percentages given.
+
+culture_profile
+Values: Quality consciousness, open communication, continuous improvement, and employee satisfaction. Consistent innovation focus, reliable delivery, sustainable development. Collaboration: Cross-departmental coordination and team-oriented projects. Work approach: Structured, results-driven, with employee benefits like retirement plans, health measures, events.
+
+portfolio_focus
+Showcased items should include freestanding prototypes and series components from switchgear, control systems, and casing construction, along with 3D CAD models and project plans. Includes ESG reporting and certification documents as digital demos.
+
+narrative_assets
+Headline: "Intelligent Systems and Solutions for Tomorrow's Innovation." Core Messages: 1) Since 1995, offering tailored solutions in switchgear, energy, and vehicle technology; 2) International deployment with specific expertise and certifications; 3) Strong focus on quality, continuous improvement, and employee focus.
+
+interaction_flow
+Visitors start with a compact introduction at a central information point, followed by freely accessible demonstration islands for product areas. Then delve deeper at interactive CAD stations or video stations with case studies, concluding at a contact and meeting point for inquiries and collaborations.
+
+zones_layout
+Introduction pod/info point as the starting point, followed by several product demonstration islands (switchgear, energy/building technology, vehicle cabins/casings). Supplementary tech and CAD stations as workspaces, and an ESG/certification island with a meeting and consulting area.
+
+anchor_objects
+Freestanding prototypes and machines (e.g., switchgear modules, casing prototypes) as physical anchors; interactive kiosks with CAD viewers, information displays; video columns for project presentations; sample tables with components. Function: Demonstration, detailed observation, information, and contact facilitation.
+
+circulation_accessibility
+No specific measurements for aisle widths, entryways, or accessibility details provided; however, a commitment to quality and certification standards suggests compliance with relevant access and safety requirements.
+
+ambience
+No specific details on lighting, audio, music, or scent are provided.

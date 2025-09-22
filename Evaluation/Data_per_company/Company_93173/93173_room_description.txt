@@ -1,0 +1,29 @@
+identity_brand
+Legal: KUTTER GmbH & Co. KG Construction. Tagline: BUILDING IS LIFE. Sector: Building, Civil Engineering, Turnkey Construction, Project Development, and a nationwide milling operation. Scale: Mid-sized family business, founded in 1925, third generation; Geographic reach: Nationwide with headquarters in Memmingen and branches in several locations. No specific details on colors, shapes, materials, or logo use.
+
+value_proposition_map
+Pillar 1 – Building and Turnkey Construction: Offers turnkey, cost-effective project execution for clients and investors; supported by extensive experience and company history. Pillar 2 – Civil and Specialized Civil Engineering: Provides in-depth technical planning and execution for infrastructure and specialized projects; supported by job descriptions (specialized civil engineering and foundation concepts). Pillar 3 – Project Development: Ensures comprehensive project management for developers and clients; supported by the mentioned service range. Pillar 4 – Milling & Modern Machinery: Delivers nationwide machine services and technical capabilities for various construction tasks; backed by references to a modern machinery park and nationwide activities. No specific weighting; traditional construction services are central, supported by specialized operations and project development.
+
+culture_profile
+Values: Quality, flexibility, and reliability form the core values of the family business. Work style: Professional and sustainable, supported by modern machinery and ongoing training. Collaboration: Close coordination between construction and project management, with interdisciplinary cooperation; Working mode: Combination of on-site and office work, with benefits like flexible hours and remote work.
+
+portfolio_focus
+Includes project references and case studies in building and civil engineering, showcasing the milling operations along with insights into machine capacities and project development. Typical exhibits include standalone models and media presentations on completed projects, along with staff and training opportunities. Interactive standalone presentations and media demos for handling; no specific safety protocols for exhibits provided.
+
+narrative_assets
+Headline: Rich in tradition, technically adept, nationwide presence. Key messages: 1) Founded in 1925, now third generation; 2) Comprehensive services from building/civil engineering to milling; 3) Emphasis on quality, flexibility, and reliability; 4) Attractive employer with extensive employee benefits. Measurable metrics: Approximately 2,300 employees and multiple locations nationwide; active job postings and specialized job requirements as an external signal.
+
+interaction_flow
+Introductory identification station with brand and service overview, followed by themed areas for project references, machinery/milling operations, and specialized engineering. A career and training section with information on benefits and open positions, plus a contact and consultation area. Optional VR/demo pods for in-depth project views and personal consultations.
+
+zones_layout
+Freestanding intro and reception cubes as the starting point; central area dominated by freestanding project model islands and media stations. Side areas with freestanding machine models and technology stations showcasing milling operations and equipment; career and training area set as a separate space, along with lounge and consultation areas. Allocation: Largest share for project and technology presentation, medium for career/info, smaller for lounge/consultation.
+
+anchor_objects
+Large-scale freestanding project models and podiums for visual anchoring; scale models of machines and milling operations as technical anchors. Interactive freestanding information stations and touch kiosks for detailed info, plus freestanding VR/demo pods for deeper exploration. Mobility: Ideally, project models and stations are fixed, while kiosks and pods are movable as needed.
+
+circulation_accessibility
+No specific details on minimum aisle widths, entry widths, or accessibility. Entry points and orientation through freestanding reception and info units; accessibility and entry widths should comply with applicable standards if required.
+
+ambience
+No specific requirements for lighting, audio, music, or scent. The brand's character and values suggest a professional, clearly structured environment that communicates technical expertise and reliability.

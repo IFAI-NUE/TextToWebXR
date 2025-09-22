@@ -1,0 +1,48 @@
+identity_brand  
+Company Name: Anonymized TPE Company.  
+Tagline: Custom engineered TPE and more.  
+Sector: Development and production of thermoplastic elastomers (TPE).  
+Status: International leader with over 700 employees and annual revenue exceeding €223 million.  
+Geographic Reach: Locations in Germany, Malaysia, and the USA.  
+Color Palette: Not specified.  
+Design Language: Technically-functional and customer-specific, preferring clear, modular freeform shapes.  
+Material Focus: Specializing in TPE compounds and raw material development.  
+Logo Use: Not specified.  
+
+value_proposition_map  
+Core Offering 1 — Development & Production of TPE Compounds: Custom materials for industrial applications targeting OEMs and manufacturers in automotive, consumer goods, and technology sectors; validated by description as a market-ready TPE producer.  
+Core Offering 2 — Custom Engineering & Technical Services: Support for process optimization and material flow projects; targeting internal development teams and production customers; supported by offered internships and technical support.  
+Core Offering 3 — Sustainable Raw Material Procurement & Quality Management: Identifying bio-based and recyclable raw materials and supplier development; targeting product development and procurement; validated by task descriptions for raw material introduction and supplier development.  
+Core Offering 4 — Global Information and Supply Network Service: Ensuring global information flows and supply chain quality; targeting international locations and customers; validated by global locations and tasks for global communication.  
+Weighting: Not in % derivable, qualitative focus on product development and custom TPE delivery, complemented by sustainability and technical services.  
+
+culture_profile  
+Values: Customer orientation, technical excellence, sustainability interest, and team orientation reflected in benefits and job postings.  
+Pace: Project-driven with a need for proactive, independent work style and willingness to travel.  
+Collaboration Style: Interdisciplinary and globally networked, interfaces between development, lab, sales, and procurement are typical.  
+Work Mode: Hybrid/modern staggered models with flexible working hours and remote work options, emphasizing training and health offerings.  
+
+portfolio_focus  
+Focus on standalone material samples and compound specimens, technical process demonstrators (e.g., material flow optimization), lab demos, and project case studies. Also includes handling demos and interactive stations for raw material origin and quality assurance. Safety instructions and handling guidelines are affixed to each demonstrator.  
+
+narrative_assets  
+Headline: “Custom engineered TPE — material science meets sustainability.”  
+Key Message 1: Market and customer-oriented development of TPE compounds.  
+Key Message 2: Global expertise with locations in Europe, Asia, and North America.  
+Key Message 3: Focus on sustainable raw materials and supply chain development.  
+Metrics & Indicators: Over 700 employees, annual revenue exceeding €223 million, and explicit job requirements for sustainability development showcase expertise and growth.  
+
+interaction_flow  
+Visitors start at a standalone orientation pillar with a brief introduction and choose between product and sustainability paths. The product path leads to material samples and process demos; the sustainability path highlights raw material sources and supply chain cases. Final stations offer technical project examples and a career and contact hub for applications and exchanges.  
+
+zones_layout  
+Central orientation with clear axes leading to four standalone zones: Product Samples & Compounds, Process and Engineering Demos, Sustainability & Raw Material Stations, and Career & Collaboration Hub. Space allocation follows priority: Product samples and engineering dominate; sustainability and career are smaller yet accessible areas. All zones are designed as standalone, freely positioned units.  
+
+anchor_objects  
+Standalone sample podiums with material samples and tactile exploration; interactive touch kiosks for data insights and case studies; demonstration modules for material flow and process optimization (mobile); lab demonstrators for quality tests and raw material comparisons; independent career hubs for discussions and application information. Function: Inform, demonstrate, interact; Mobility: Mainly movable or rollable for setup and transport.  
+
+circulation_accessibility  
+Not specified  
+
+ambience  
+Not specified

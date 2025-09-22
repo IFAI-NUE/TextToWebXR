@@ -1,0 +1,54 @@
+identity_brand
+
+Company Name: SEL.HERMES GmbH & Co. KG. 
+Tagline: "Your Success. Your Career. Our Mission. Let's work together!" 
+Sector: Engineering and staffing services across various industries (e.g., plant and mechanical engineering, IT, medical technology, automotive, chemicals, energy). 
+Experience: Established company with over 25 years of experience. 
+Geographic Reach: Germany, serving over 1,500 clients, including numerous top-tier companies. 
+Color Palette, Design Language, Material, Logo Usage: Not specified.
+
+value_proposition_map
+
+1) Staffing Services (40%): Tailored recruitment for industrial and IT sectors; Benefits: Rapid and expert filling of critical roles; Target: Industrial companies, SMEs, corporations; Evidence: 1,500+ clients, long market presence. 
+2) Engineering and Project Services (30%): Technical support and project execution by qualified engineers and technicians; Benefits: Project success through expert knowledge; Target: Companies in plant engineering, automotive, automation; Evidence: 25+ years of experience. 
+3) IT Consulting and Personnel (20%): Providing IT consultants and software/hardware expertise; Benefits: Support for digital engineering tasks; Target: IT departments, development projects; Evidence: Team of IT consultants. 
+4) Talent Pool & Recruitment Support (10%): Talent activation, pre-selection, and recruitment support; Benefits: Quick access to qualified candidates; Target: HR, hiring managers; Evidence: Job openings and active talent engagement.
+
+culture_profile
+
+Values: Customer-centricity, technical expertise, reliability, flat hierarchies. 
+Pace: Quick decision-making processes for fast project implementation. 
+Collaboration Style: Team-oriented and interdisciplinary with close interaction between engineers, technicians, and business roles. 
+Work Mode: Flexible work hours and remote work options, actively supporting training and employee development.
+
+portfolio_focus
+
+Showcase of project references and case studies in engineering and IT projects, profiles of staffing services, examples from the talent pool, and job descriptions. Includes team profiles, qualification overviews, and information on benefits and employee offerings. Presentation: Digital references and applicant information for easy review and contact. Security specifications: Not specified.
+
+narrative_assets
+
+Headline: "Your Success. Your Career. Our Mission."
+Core Message 1: SEL.HERMES combines over 25 years of engineering and staffing expertise for swift solutions to staffing and project needs.
+Core Message 2: Over 1,500 clients, including many top-tier companies, demonstrate market trust and industry relevance.
+Core Message 3: Flat hierarchies and an interdisciplinary team ensure efficient communication and rapid decision-making. 
+Metrics & External Signals: Over 25 years of experience, 1,500+ clients, top-tier company references.
+
+interaction_flow
+
+Entry through a central information hub with a brief company overview and slogan, followed by separate service and project areas for detailed offerings. A career section provides direct access to open roles, talent pool, and application pathways with contact options. Conclusion: Direct contact and placement options for company inquiries and candidate applications.
+
+zones_layout
+
+Focus on separate information and interaction areas: central entry hub, service/project areas, career/applicant area, and reference areas for case studies. Space division: Emphasis on service and project areas, followed by the career section and reference areas; supplemented by smaller meeting and consultation areas. No architectural details provided, only arrangement of freestanding elements.
+
+anchor_objects
+
+Typical anchor objects include central info hubs, interactive kiosks for case studies and applicant access, freestanding tables for project visualization, and seating/meeting pods for consultations. Function: Orientation, information dissemination, interaction, and application contact. Mobility: Modular and mobile design to allow adjustments and updates.
+
+circulation_accessibility
+
+Not specified.
+
+ambience
+
+Not specified.

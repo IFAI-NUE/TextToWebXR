@@ -1,0 +1,29 @@
+identity_brand
+Organization Name: Ingolstadt Municipal Services. Short Tagline: INKB. Clean Performance. Sector: Waste management, energy/water supply, public services. Maturity Level: Not specified. Geographic Reach: Local to Ingolstadt. Color Palette: Not specified. Design Language: Not specified. Material Information: Not specified. Logo Usage: Not specified.
+
+value_proposition_map
+1) Water Supply & Drainage (30%): Ensuring the provision of drinking water and wastewater management, benefiting residents and local infrastructure. Evidence: Company profile highlights supply and drainage as core topics. 2) Waste Management & City Cleaning (30%): Regular collection and sanitation for urban hygiene, targeting households and businesses. Evidence: Tasks outlined in company profile and job listings. 3) Winter Service & Road Maintenance (20%): Ensuring safe winter travel for residents and transport companies. Evidence: Winter service mentioned in company profile. 4) Municipal Employer & Personnel Services (20%): Attractive employer package with compensation, retirement plans, training, and flexible hours for professionals and students. Evidence: Benefits list and job ads.
+
+culture_profile
+The corporate culture emphasizes teamwork, mutual appreciation, and motivational leadership. The pace is practice-oriented and service-focused, with openness to digital solutions. Collaboration occurs both in-person and digitally through a social intranet. Initiative and structured, independent work are expected.
+
+portfolio_focus
+Displays feature standalone models of core tasks like water management, digital water meter demonstration devices, and waste logistics exhibits. Supplemented by interactive terminal stations for project information and a career station with application details. Users interact with freestanding terminals and physical models; safety guidelines are displayed on separate signs.
+
+narrative_assets
+Headline: INKB. Clean Performance. Key Messages: 1) We sustain the lifelines of Ingolstadt (water, wastewater, waste, cleaning, winter service). 2) We are a wholly owned subsidiary of the City of Ingolstadt and a municipal service provider. 3) We offer secure jobs and extensive employee benefits. Measurable Metrics: Not specified. External Signals: Benefits list and job ads as evidence of employer offerings.
+
+interaction_flow
+Visitors start at a freestanding orientation and reception station, choose modular options among theme islands (water, waste, winter service, career), and use interactive terminals. Demos and physical models provide deeper insights; a career station offers information on open positions and benefits. A freestanding feedback and contact station is available at the end.
+
+zones_layout
+Freestanding zones are thematically grouped and proportionally allocated: a water/drainage island (about 30%), a waste and cleaning island (about 30%), a winter/road service island (about 20%), a career and employer island (about 20%), and a central orientation/service zone. Each zone includes freestanding exhibits and terminal stations, clearly separated.
+
+anchor_objects
+Key anchor objects include freestanding reception/orientation kiosks, interactive terminal pillars, physical models (e.g., pipe section, water meter demo), a vehicle cabin model or simulator as an exhibit, and freestanding seating and discussion podiums. Functions: Information, interaction, demonstration, consultation. Mobility: Terminals and models are preferably mobile, larger vehicle exhibits are stationary.
+
+circulation_accessibility
+Minimum dimensions for aisles, entrances, and specific accessibility features are not detailed: Not specified. Information on the specific implementation of accessibility is not provided.
+
+ambience
+Specifics on lighting, audio, music, or scent are not mentioned: Not specified.

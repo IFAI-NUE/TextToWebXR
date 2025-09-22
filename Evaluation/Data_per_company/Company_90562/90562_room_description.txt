@@ -1,0 +1,68 @@
+**Identity Brand**
+
+- Legal Name: A long-standing engineering company.
+- Short Tagline: "We solve & move."
+- Sector: Engineering for stirring technology (biogas, manure, wastewater).
+- Maturity: Established family business since 1957 with over 65 years of experience.
+- Geographic Reach: Production located in Germany, operating globally.
+- Color Palette: Not specified.
+- Design Language: Robust, functional, technically driven with clear industrial contours.
+- Material Note: Primarily metallic materials like steel/stainless steel, durable manufacturing parts.
+- Logo Use: Not specified.
+
+**Value Proposition Map**
+
+- Core Offering 1 – Industrial Mixers: Provides electric mixers for biogas, manure, and wastewater; Benefit: stable processes and secure yields; Target: biogas operators, farmers, municipal treatment plants; Backed by invention status and manufacturing since 1957.
+- Core Offering 2 – Development & Design: Product development supported by CFD/FEM and customized design; Benefit: optimized efficiency and verified solutions; Target: engineering teams, plant constructors; Backed by internal development and production.
+- Core Offering 3 – Service & Spare Parts: Maintenance, assembly assistance, and manufacturing documentation; Benefit: operational safety and longevity; Target: existing clients and operators; Backed by comprehensive production and support structure.
+- Emphasis: Quality focus on hardware production and engineering with supplementary service, precise percentages not specified.
+
+**Culture Profile**
+
+- Values: Sustainability, quality, innovation, and familial spirit are central.
+- Pace: Reliable and development-oriented with a long-term perspective, not short-term rush.
+- Collaboration Style: Team-oriented, practical, and technically focused; close coordination among development, production, and sales.
+- Work Mode: On-site production with flexible working hours and employee benefits.
+
+**Portfolio Focus**
+
+- Features physical product exhibits (full-scale mixers and section models), interactive simulations (CFD/FEM demos on kiosks), and short video demos on media displays.
+- Handling: Demonstration platforms allow views of maintenance and assembly points, with clear safety distances around moving parts.
+- Safety: Separations and information pylons at exhibits to maintain protective distances.
+
+**Narrative Assets**
+
+- Headline: Over 65 years of stirring technology—made in Germany for the energy transition.
+- Key Message 1: Pioneer in electric mixers with continuous product development since 1957.
+- Key Message 2: Comprehensive contribution to sustainability by making residual materials usable.
+- Key Message 3: In-house manufacturing and practical engineering expertise as quality indicators; measurable indicators: founding year 1957, approximately 150 employees, company-owned solar installation as a sustainability signal.
+
+**Interaction Flow**
+
+- Starts with a free-standing reception kiosk for orientation, followed by a central exhibition axis with product plinths and demonstration areas.
+- Visitors can choose between brief overview demos at media displays or in-depth technical stations with CFD/FEM visualization.
+- Concludes at a consultation and contact podium, with optional appointment scheduling for plant visits or project discussions.
+
+**Zones Layout**
+
+- Central exhibit area with large product plinths as the focus; adjacent interactive demo zone with media displays and VR/simulation stations.
+- A compact development and R&D corner with prototype stands and a service/spare part island for documentation and assembly help.
+- Finishing with a small lounge and consultation island with seating areas and conversation pods; space allocation: primarily product display, moderate interaction, minor consultation/R&D.
+
+**Anchor Objects**
+
+- Large, free-standing machine plinths featuring full-scale mixers and section models serve as central anchors and demonstration objects; usually fixed in place.
+- Interactive media displays and VR kiosks act as mobile technical anchors for simulations and are movable.
+- Consultation and seating pods on wheels offer flexible meeting points; smaller spare part showcases and assembly devices are transportable.
+
+**Circulation Accessibility**
+
+- Open entry zone with clear pathways to anchor objects; recommended minimum aisle width of 1.5 meters for barrier-free encounters and wheelchair access.
+- Zone entries should be threshold-free or ramp-free platforms; seating and consultation areas at various heights for diverse needs.
+- Information at each exhibit should be tactile and digitally accessible.
+
+**Ambience**
+
+- Energy-efficient, daylight-like LED lighting for neutral illumination, complemented by warm accent lighting on exhibits.
+- Subtle soundscape with deep mechanical sounds and light natural tones linking technology and regional origins.
+- Scent concept: very subtle, natural notes (e.g., fresh, earthy nuances) to enhance the atmosphere; all systems optimized for energy efficiency in line with company values.

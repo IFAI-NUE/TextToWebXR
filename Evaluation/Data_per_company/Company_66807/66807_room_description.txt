@@ -1,0 +1,32 @@
+**Brand Identity**  
+Legal Name: Family Business. Tagline: "Making a Difference." Sector: Food and Beverages. Status: Established family-run business (founded 1908, third generation). Geographic Reach: Headquarters in Allgäu, production sites in Bavaria and Saxony, distribution in over 55 countries. Color Palette: Not specified. Design Language: Not specified. Material Notes: Not specified. Logo Use: Not specified.
+
+**Value Proposition Map**  
+1) Soft Cheese Specialties (50 Varieties): Benefit: Enjoyment and variety for customers and retailers; Targets: Consumers, retail chains, gourmet stores. Example: About 50 soft cheese varieties, distributed in over 55 countries. Weight: 50%.  
+2) High-Quality Dried Milk and Whey Derivatives: Benefit: Ingredient solutions for the food industry; Targets: B2B clients and food manufacturers. Example: Explicit product category in profile. Weight: 25%.  
+3) Regional Production & Expertise: Benefit: Traceability, quality, and specialized expertise; Targets: Retailers, partners, quality-conscious customers. Example: Regional milk, specialized plants in Bavaria and Saxony, family business since 1908. Weight: 15%.  
+4) Employer Benefits & Services: Benefit: Attractive working conditions; Targets: Employees and candidates. Example: Benefits like retirement plans, flexible hours, training, remote work. Weight: 10%.
+
+**Culture Profile**  
+Family-run with a focus on tradition and innovation; employees are key to success (approximately 1,200 staff). Values: Regional focus, quality, consistency, and willingness to learn. Pace: Stable, growth-oriented with a long-term view. Collaboration: Team-oriented, promotes training and cross-department projects.
+
+**Portfolio Focus**  
+Showcasing product samples (soft cheese samples and product models), process demos, and tech projects insights (e.g., SAP, milk volume calculation). Includes energy and environment project materials and recruitment/career information. Presentation: Stand-alone product displays and interactive stations. Safety specifics: Not specified.
+
+**Narrative Assets**  
+Headline: "Making a Difference." Core Messages: Family business since 1908, combining tradition with innovation; around 50 soft cheese specialties, sold in over 55 countries; approximately 1,200 employees in Bavaria and Saxony locations. Metrics: Founded in 1908, ~50 products, presence in >55 countries, ~1,200 staff; commitment to energy/environment management (ISO elements in job descriptions).
+
+**Interaction Flow**  
+Visitors start at a central welcome hub with brand information and choose pathways: product tasting, production interaction, sustainability insights, or career section. Each path includes stand-alone stations with interactive modules and follow-up options. Supports both structured and free exploration.
+
+**Zones Layout**  
+Exhibition divided into stand-alone hubs: Entrance/Brand Hub (info center), Product Presentation Hub (samples and displays), Production/Tech Hub (models, simulations), Sustainability/Energy Hub, Career & Training Hub, and a Lounge/Networking Hub. Approximate area distribution: Product 30%, Production 30%, Sustainability 15%, Career 15%, Lounge 10%.
+
+**Anchor Objects**  
+Types: Refrigerated display cases, product pedestals, large production models, interactive kiosks (e.g., milk calculation, SAP demos), energy visualization stations, career discussion pods. Function: Orientation, demonstration, information takeaway, interaction. Mobility: Mostly stand-alone modules; some movable, others stationary (technical details not provided).
+
+**Circulation Accessibility**  
+No specific information on walkway width, entry points, or accessibility measures.
+
+**Ambience**  
+No specific details on lighting, audio, music, or scent design. Acoustic and atmospheric design should support the "Tradition and Innovation" message (no detailed guidelines given).

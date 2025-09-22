@@ -1,0 +1,23 @@
+identity_brand
+Legal Name: A leading international manufacturer specializing in equipment and machinery. Tagline: simple|intelligent|feeding. Sector: Equipment and Machinery Manufacturing; Category: Established, growth-oriented mid-sized family business and international market leader. Geographical Reach: Over 50 countries worldwide, headquartered in Bavaria. Color Palette: Not specified. Design Language: Not specified. Material Notes: Not specified. Logo Usage: Not specified.
+
+value_proposition_map
+Pillar 1 – Mass-produced feeding and distribution technology (approx. 60% focus): Benefits: Efficient, reliable feeding solutions for dairy farms; Target Groups: Agricultural enterprises, contractors; Evidence: Mass production "Made in Germany" and global distribution in over 50 countries. Pillar 2 – Research & Development and Hardware/Telematics Concepts (approx. 25%): Benefits: Future-proof control and telematics solutions and prototyping; Target Groups: Internal development teams, partners, and clients with innovation needs; Evidence: Advertised roles in hardware architecture and user interface concepts. Pillar 3 – Sales, Service & Support (approx. 15%): Benefits: Global sales and service framework for successful product launches and support; Target Groups: International clients and dealers; Evidence: Presence in 50+ countries and mass-delivery programs.
+
+culture_profile
+Values: Family-driven unity, passion for advanced agriculture, high quality standards, and innovation readiness. Pace: Growth-oriented with a focus on continuous development and practical solutions. Collaboration Style: Team-oriented, interdisciplinary, and practical; employees are expected to work independently and collaboratively to develop solutions. Work Mode: Medium-sized structures with flexible hours, training, and health measures as part of the benefits.
+
+portfolio_focus
+Showcased are standalone machinery exhibits and model ranges of feeding technology as well as extraction and distribution technology, interactive prototypes of user interfaces and control hardware, and videos/dashboards on telematics. Handling: Interactive control consoles and demo runs of feed distribution for practical demonstrations. Safety notes and user manuals are presented as accompanying materials.
+
+narrative_assets
+Headline: simple|intelligent|feeding – Innovation for modern feeding. Key Messages: Provides mass-produced, high-quality feeding technology "Made in Germany"; the company is an international market leader with distribution in over 50 countries; development work includes hardware architecture, user interface concepts, and telematics solutions. Measurable Values & External Signals: Presence in over 50 countries and self-description as an international market leader.
+
+interaction_flow
+Visitors choose between a guided tour and self-directed exploration via interactive stations. General Path: Info Point → Product Gallery with standalone machine models → Innovation Area with prototypes and control consoles → Telematics/Dashboard Stations → Service/Career Stand and Networking Island. Each area offers touchpoints to initiate demos, videos, and technical details.
+
+zones_layout
+Standalone zones include: Entry Info Point and Orientation, extensive Product Gallery with series and model exhibits, Innovation Lab with prototypes and control stations, Telematics and Dashboard Islands, and Service/Career and Networking areas. The Product Gallery is the largest; innovation and telematics areas are compact and focused; Service/Career stations are designed as meeting islands.
+
+anchor_objects
+Key anchors include: Full-size standalone feeding machine exhibits (stationary or mobile on chassis) as central demonstration objects; scale models on pedestals for detailed views; interactive control consoles and stations for simulating control processes (usually mounted or on stands); mobile touchscreen kiosks for telematics demos; prototype rigs and component displays for technical insights; seating and consultation islands for discussions. Mobility: Some exhibits are mobile, others are stationary display objects.

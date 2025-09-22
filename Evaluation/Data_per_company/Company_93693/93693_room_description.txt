@@ -1,0 +1,69 @@
+**Identity and Brand**
+
+**Legal Information:** Company operates under a network model started in 2022, focusing on supply-chain services, particularly in the machinery, industrial equipment, and chemical sectors, as well as software and consulting services. **Tagline:** "Design your solution." **Sector:** Supply-Chain as a Service with a focus on mechanical engineering, chemical industries, and software and consulting services. **Maturity:** Young network model with a focus on consulting and implementation. **Geographic Reach:** Not specified.
+
+---
+
+**Value Proposition**
+
+- **Pillar 1 – Supply-Chain Design & Transformation (30%):** Redesign and transformation of processes in procurement, finance, and project management for the machinery and chemical industries.
+- **Pillar 2 – Sourcing and Supplier Development (20%):** Using a web crawler for supplier searches and developing them into partners, targeting procurement teams and purchasing managers.
+- **Pillar 3 – AI-supported Scoring & Analysis (15%):** AI-based scoring of potential suppliers for decision-making, aimed at procurement and SCM decision-makers.
+- **Pillar 4 – Process Modeling & Optimization (20%):** Modeling and optimizing internal/external supply chain processes for efficiency.
+- **Pillar 5 – Software Platforms SOLEX & SOLWO (15%):** Platform-based solutions for integration into ERP environments targeted at IT and ERP teams.
+
+---
+
+**Culture Profile**
+
+- **Values:** Action-oriented, cooperative, and practical, focusing on implementation.
+- **Pace:** Project-driven with iterative phases from analysis to regular operation.
+- **Collaboration Style:** A network of freelance supply-chain managers works closely with clients and suppliers.
+- **Work Mode:** Flexible and hybrid, offering training, flexible hours, and remote work options.
+
+---
+
+**Portfolio Focus**
+
+Demonstration of digital artifacts and project methodology graphics, along with software demos of the SOLEX and SOLWO platforms. Formats include interactive demos, process diagrams, and short video explanations. Interaction is facilitated through standalone demonstration stations and interactive tables.
+
+---
+
+**Narrative Assets**
+
+**Headline:** "Supply-Chain as a Service — design your solution."  
+**Core Messages:**
+
+1. Identifying and integrating suitable suppliers with a technical and process focus.
+2. Combining data and AI-supported sourcing methods with practical process integration.
+3. Software platforms aid collaboration and integration into ERP systems.
+
+**Externals Signals:** Active network and operations since 2022 with social media presence.
+
+---
+
+**Interaction Flow**
+
+**Modes:** Guided tours, self-exploration at interactive stations, and in-depth demo sessions with experts.
+
+**Pathway:** Start at a central info station → Choose a thematic demo area (Sourcing, AI Scoring, Process Modeling, Software) → Deep dive at a Software Bench or Live Demo → Contact/Project initiation at the Recruiting/Consulting stand.
+
+---
+
+**Zones Layout**
+
+Includes an introductory zone with a central reception/info pillar, thematic demo islands (Sourcing, AI, Process Design, Software), a collaboration zone with seating and meeting pods, and a recruiting/community corner for students and applicants.
+
+---
+
+**Anchor Objects**
+
+- **Info/Kiosk:** Starting and navigation point, usually mobile.
+- **Interactive Tables/Demo Terminals:** For SOLEX/SOLWO demos and process visualizations.
+- **Demo Pods/Islands:** Thematic stations with screens and graphics for deeper engagement.
+- **Seating and Collaboration Pods:** For consultations and discussions, modifiable and movable.
+
+---
+
+**Circulation and Accessibility**: Not specified.  
+**Ambience**: Not specified.

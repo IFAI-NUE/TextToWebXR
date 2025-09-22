@@ -1,0 +1,37 @@
+**Identity Brand**
+
+Company: An established IT services provider specializing in medical technology, automotive, and energy sectors with over 40 years of experience and around 160 employees. Located in Röttenbach, operating regionally to nationally. The corporate color palette features blue and gray tones. The design language is precise, functional, and technically oriented, utilizing high-quality materials such as matte metal, glass, and plastics.
+
+**Value Proposition Map**
+
+1. **Safety-Critical Software and System Development:** The benefit is secure digitization of complex products for medical technology, automotive, and energy companies, backed by over 40 years of experience.
+   
+2. **Quality Assurance and Testing:** Provides increased reliability and compliance for manufacturers of safety-relevant systems, supported by long-term testing experience and adherence to standards like ISO 9001/ISO 13485.
+
+3. **IT and Information Security:** Offers protection for critical systems and data, focused on clients with high security demands.
+
+4. **Talent Development and Consulting:** Supports emerging talent and consulting offerings for students and companies.
+
+**Culture Profile**
+
+Values emphasize safety, quality, a willingness to learn, and reliability. The pace is thorough and project-focused, with an emphasis on security and clarity. The collaboration style is team-oriented and supportive, with hybrid and flexible work modes offering options like home office and professional development.
+
+**Portfolio Focus**
+
+Features projects in safety-critical software development, testing demos, certifications, awards, and career opportunities. Formats include interactive demos and video presentations, with touch and demo stations for visitor interaction.
+
+**Narrative Assets**
+
+Headline: "Secure Digital Transformation!" Key messages highlight 40 years of expertise, cross-industry solutions for medical technology, automotive, and energy, and a strong focus on quality assurance, standards compliance, and information security. Recognition includes awards such as Bayerns Best 50 and Siemens Supplier Award.
+
+**Interaction Flow**
+
+Visitors start at the info kiosk, choose a mode (short tour, deep dive, career), and explore thematic demo and hands-on stations, ending at a networking area for interaction and Q&A.
+
+**Zones Layout**
+
+Includes an intro/reception area, central demo clusters, hands-on labs, and career islands. Areas are designed for interaction, focusing on practical stations and career opportunities.
+
+**Anchor Objects**
+
+Interactive info kiosks for orientation, demo pods with touch interfaces, prototype displays, and award showcases. Many elements are movable or adjustable; some are fixed for stability.

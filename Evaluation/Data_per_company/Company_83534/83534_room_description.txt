@@ -1,0 +1,29 @@
+identity_brand
+Legal Name: TRIALTA GmbH. Compact Tagline: HubSpot Partner for CRM Implementation and Process Optimization. Sector: HubSpot Consulting, CRM Implementation, and Optimization of Marketing, Sales, and Service Processes. Established: Founded in 2011 and positioned as a leading HubSpot Partner in the region. Geographic Reach: DACH region. General color palette, shapes, materials, and logo usage rules: not specified.
+
+value_proposition_map
+Core Elements: 1) Implementation of HubSpot CRM and process optimization for marketing, sales, and service; Benefits: Faster, more transparent customer processes; Target Audience: Medium to large companies; Evidence: Long-standing position as a leading HubSpot Partner in the DACH region. 2) Development & Interfaces: Custom development, API integrations, and interface experts; Benefits: System connectivity and automation; Target Audience: Companies with complex IT setups. 3) Training & Support: Certified HubSpot trainers and training programs; Benefits: User competence and sustainable usage; Target Audience: Internal marketing/sales/service teams. Emphasis: Primary focus on implementation and integrations with an additional focus on training and support.
+
+culture_profile
+Values: Customer orientation, practical approach, and continuous learning are reflected in the team composition and training offered. Pace and Work Style: Pragmatic, results-oriented, and acts as a consulting partner. Collaboration Style: Hybrid and flexible with home office options, flexible working hours, and emphasis on team events and development.
+
+portfolio_focus
+Features: Interactive CRM demos, case studies on implementations, examples of interface solutions and code snippets, and training modules. Formats: Live demos, video walkthroughs, and hands-on testing stations. Handling & Security: Demonstrated expertise in authentication and interface methods (e.g., SSO/OAuth, Web APIs) for secure integration.
+
+narrative_assets
+Headline: Experienced HubSpot Partner for CRM Implementation and Process Optimization since 2011. Key Points: 1) Extensive experience and established market presence in the DACH region; 2) Team of Certified HubSpot Trainers, CRM Consultants, and Developers; 3) Focus on measurable process improvement in marketing, sales, and service. Key Metrics: Founding year and partner status are noted signals; specific customer or revenue figures: not specified.
+
+interaction_flow
+Modes & General Path: Visitors choose between a Service Tour (Consulting & Case Studies), Tech Tour (Integrations & Demos), and Career Tour (Jobs, Benefits). At demo stations, they can interactively test systems, watch videos, and book appointments for further exploration. Finally, they have the option to contact or register for training/jobs.
+
+zones_layout
+Free-standing arrangement in functional clusters: Central demo islands for product and integration presentations, separate training stations with interactive elements, consulting pods for personal discussions, a career/benefits nook, and a lounge area for informal talks. Space Allocation: Emphasis on demo and integration areas, followed by training and consulting spaces, with a compact career zone.
+
+anchor_objects
+Types and Functions: Interactive kiosks with touchscreens for CRM demos; free-standing demo islands with large displays for integration examples; consultation pods as open seating areas for one-on-one discussions; mobile totems for recruiting info; VR/hands-on stations for in-depth product tests. Mobility: Mostly mobile or easily movable for flexible rearrangement.
+
+circulation_accessibility
+Not specified
+
+ambience
+Not specified

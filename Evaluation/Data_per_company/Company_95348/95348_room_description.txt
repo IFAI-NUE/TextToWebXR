@@ -1,0 +1,77 @@
+**Identity Brand**
+
+**Name:** Sphere Energy  
+**Tagline:** "Leverage the battery to win!"  
+**Sector:** Battery technology, consulting services, testing lab, software/IT for battery analysis.  
+**Status:** Rapidly growing, market-leading tech and consulting company (Scale-up/Expansion).  
+**Geographic Reach:** Locations in Germany, France, and Switzerland, active regionally in Europe.  
+**Color Palette:** Not specified.  
+**Design Language:** Not specified.  
+**Material References:** Not specified.  
+**Logo Use:** Not specified.  
+
+**Value Proposition Map**
+
+**Pillar 1 – Battery Brain (AI Platform):**  
+**Benefits:** Structures, interprets, and visualizes R&D and test data for decision support.  
+**Target Groups:** Automotive OEMs, battery manufacturers, R&D teams.  
+**Evidence:** Highlighted as a core product in the company profile.  
+
+**Pillar 2 – Cell and Battery Testing:**  
+**Benefits:** Standardized tests for performance and quality comparison.  
+**Target Groups:** Manufacturers, test labs, OEMs.  
+**Evidence:** Extensive portfolio of cell-level battery tests.  
+
+**Pillar 3 – Consulting and Development Services:**  
+**Benefits:** Process definition, project management, logistics/disposal/recycling support.  
+**Target Groups:** Industry partners and research institutions.  
+**Evidence:** Comprehensive consulting offerings in the profile.  
+**Weighting:** Exact percentages not derivable; the digital core product and physical test expertise qualitatively dominate as complementary pillars.  
+
+**Culture Profile**
+
+**Values:** Team spirit, curiosity, service orientation, and high motivation are explicitly mentioned.  
+**Pace:** Rapidly growing and innovation-driven, focusing on the latest technologies like AI.  
+**Collaboration Style:** Open to varying experience levels, team-oriented, and knowledge-sharing.  
+**Work Mode:** Flexible working hours and training opportunities, along with other benefits, support a modern, employee-focused work culture.  
+
+**Portfolio Focus**
+
+Showcases digital demonstrations of the Battery Brain (data visualizations, AI analyses), physical test setups, cell samples, and consulting/project examples.  
+**Handling:** Presentations and demonstrations by trained staff; visitor interactions with software demos and explained test models.  
+**Safety:** Processes for storage, logistics, disposal, and recycling of test items are part of the offerings and require secure handling.  
+
+**Narrative Assets**
+
+**Headline:** "Leverage the battery to win!"  
+**Key Messages:**  
+1. Leading combination of battery expertise and AI-driven software to solve complex problems.  
+2. Comprehensive offerings from cell tests to data preparation to consulting.  
+3. Strong, motivated team as a competitive advantage.  
+**Measured KPIs:** None provided.  
+**External Signals:** Locations in DE/FR/CH, job postings, and growth descriptions underline market orientation and recruitment interest; target industries include automotive OEMs and battery producers.  
+
+**Interaction Flow**
+
+**Modes:** Self-guided exploration, guided demo tours, and in-depth Technical Deep-Dives with experts.  
+**General Path:** Enter at a greeting and info station with an overview, followed by interactive software demos of the Battery Brain, then viewing of freestanding test setups and cell exhibits, and ending with contact and consulting stations for project inquiries. Visitors can choose between an overview and technical deepening.  
+
+**Zones Layout**
+
+Freestanding zones distributed by content: Intro/Reception area, interactive software demo zone, exhibition with physical test setups and cells, client and consulting conversation area, and a lounge space for informal talks and benefit presentation.  
+**Space Distribution:** No exact square footage given; demo and test zones dominate, with consulting and meeting areas supplementing the offerings.  
+
+**Anchor Objects**
+
+**Types/Examples:** Large, freestanding test setups and stations (functional as technical exhibits), platforms with cell and module samples (exhibition objects), interactive terminals/kiosks for the Battery Brain (software demos), freestanding meeting pods for consulting discussions.  
+**Function:** Demonstration, interaction, information delivery, consulting.  
+**Mobility:** Terminals and platforms are typically movable; test setups are generally stationary; specific mobility details not provided.  
+
+**Circulation Accessibility**
+
+General access information: Visitor guidance through clearly defined freestanding stations with flexible use of passages. Minimum aisle widths, specific entries, and detailed accessibility measures not provided. Other: Secure logistics for test items and organized processes form part of the company's statements.  
+
+**Ambience**
+
+Light, audio, music, scent: No specifics provided.  
+Mood/Tone: No technical details provided; the brand image suggests a technology-driven, professional, and committed presence with an inviting atmosphere for the specialist audience and potential employees.

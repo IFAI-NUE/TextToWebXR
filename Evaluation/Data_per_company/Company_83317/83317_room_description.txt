@@ -1,0 +1,42 @@
+**identity_brand**
+
+Legal Name: IBC SOLAR AG. Brief Tagline: “Solar Power with System”. Sector: Photovoltaics / Renewable Energy, Full-Service Provider. Established: 1982, pioneer in the field, operating in over 30 countries. Color Palette: Not specified. Design Language: Not specified. Material Note: Not specified. Logo Usage: Not specified.
+
+**value_proposition_map**
+
+1) Residential Photovoltaic & Storage (25%): Complete systems for homes from planning to turnkey delivery; Target Audience: Homeowners; Support: Full-service offering noted in company profile.
+2) Commercial & Industrial Installations (25%): Customized PV solutions for energy cost reduction and self-sufficiency; Target Audience: Businesses, Industry; Support: Offerings include commercial and industrial sectors.
+3) Solar Parks & Project Development (30%): Development, execution, and marketing of large PV projects as developer and main contractor; Target Audience: Investors and energy providers; Support: Explicitly mentioned in company profile.
+4) Services, Planning & Operation (20%): Engineering, certification, operational data analysis, support through partner network; Target Audience: Operators and installation partners; Support: Services from planning to handover and partner network. (Weights are approximate distributions, derived from offering scope.)
+
+**culture_profile**
+
+Values: Honesty, friendliness, and appreciation are emphasized core principles. Pace & Work Mode: Project-driven and pragmatic with flexible hours and hybrid options (remote work). Collaboration Style: Team and partner-oriented, close collaboration with global specialists. Workforce: Medium-sized company (approx. 250-499 employees).
+
+**portfolio_focus**
+
+Showcase includes technical artifacts and project documentation: System components (PV modules, storage, inverters), planning documents and AutoCAD plans, yield forecasts and operational data dashboards, solar park models, and potentially video case studies. Handling & Safety: Demonstration setups and informational displays for installation, operation, and certification; specific safety guidelines: not specified.
+
+**narrative_assets**
+
+Headline: “Solar Power with System”. Key Messages: 1) Comprehensive solutions from planning to turnkey delivery. 2) Pioneer and full-service provider since 1982. 3) International implementation expertise with partner network. Quantifiable Metrics & Signals: Founded in 1982, active in over 30 countries, company size approx. 250-499 employees.
+
+**interaction_flow**
+
+Modes: Visitors choose between guided tours and self-guided walkthroughs with interactive stations. General Path: Info or Reception Totem → Product and System Islands with Demonstrations → Data and Planning Stations (Simulation/AutoCAD Displays) → Project Case Study Modules → Consultation and Discussion Pods. Final Option: Contact/Follow-up at a standalone consultation counter.
+
+**zones_layout**
+
+Freestanding Zones: Entry/Info Totem as introduction, Product and Demo Islands with physical modules and storage, Interactive Simulation and Learning Islands, Project Case Gallery with standalone panels/displays, Consultation and Meeting Pods, Workshop/Hands-on Area. Space Distribution: Major portion for demo and product islands, supporting areas for simulations and consultations, compact workshop area.
+
+**anchor_objects**
+
+Types/Examples: freestanding pedestals with module and inverter samples, battery and storage racks on stands, interactive touch totems/kiosks, VR/Simulation stations (booths or stands), consultation pods and seating areas. Function: Exhibiting, demonstrating, interacting, and consulting. Mobility: Many objects designed as transportable/movable units (movable pedestals or on wheels) — specific mobility details: not specified.
+
+**circulation_accessibility**
+
+Specific guidelines on minimum aisle widths, entryways, or proven accessibility are not provided. Therefore: not specified.
+
+**ambience**
+
+Details of lighting, audio, music, or scent design are not provided. Therefore: not specified.

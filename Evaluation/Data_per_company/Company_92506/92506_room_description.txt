@@ -1,0 +1,23 @@
+### Brand Identity
+Legal Name: A Specialized Embedded Systems Company. Tagline: Design House for Embedded Systems. Sector: Electronics, Precision Mechanics, Optics, IT Hardware and Software, R&D. Company Size: Established mid-sized business (~150 employees) with its own test lab and production area. Geographic Reach: National and international clients in automotive, medical technology, industrial, and film sectors. Color Palette: Technical and cool (Blue, Gray, White). Design Style: Precise, functional, modular geometries. Material Note: Metal, PCBs, technical plastics, components.
+
+### Value Proposition
+1) Custom Embedded Systems (Design & Development): Offers tailored hardware and firmware solutions for complex applications. Target Groups: Automotive manufacturers, medical technology, film productions, industry. Weight: High quality. 2) In-house Test Lab and Production: Enables short development cycles to series production. Target Groups: Clients needing prototypes and small series. Weight: High. 3) Image Processing & Software Integration: Provides functional imaging cores and embedded software for camera and driver assistance systems. Target Groups: Film industry, OEMs with camera solutions. Weight: Medium. 4) Research, Training & Collaborations: Drives innovation through theses and internships. Target Groups: Universities, students, research projects. Weight: Low to medium.
+
+### Culture Profile
+Values: Open, team-oriented, eager to learn, and practical. Employee-oriented benefits (flexible working hours, remote work, canteen, staff events). Pace: Innovation-driven with pragmatic development and short paths between development, testing, and production. Collaboration Style: Interdisciplinary and communicative with strong student and newcomer involvement. Work Mode: Hybrid available (remote + on-site for lab/production), hands-on in hardware projects.
+
+### Portfolio Focus
+Showcases prototypes and near-series devices, embedded boards, camera cores, demo videos, and functional live demos. Handling: Interactive stations with guided access to devices and software demos, focusing on system functionality and integration capability. Safety: Lab-compliant handling, ESD precautions, supervised access for product samples. Media: Screencasts and sample applications from film and automotive to illustrate usage.
+
+### Narrative Assets
+Headline: Design House for Embedded Systems. Core Messages: 1) Tailored hardware and software solutions for automotive, medical tech, industry, and film; 2) In-house test and production capabilities enable short development cycles; 3) Practical innovation culture involving students and research. Metrics & Indicators: Around 150 employees, existing test lab and production area, numerous job postings for research and thesis works, references in film and automotive projects.
+
+### Interaction Flow
+Visitors start at an orientation kiosk with a company overview, choosing between a guided tour or self-guided interactive kiosks. This is followed by sector-specific demo zones (Automotive, MedTech, Film, Industry) with live demos and supervised prototype benches, leading to an R&D corner for thesis projects and student positions; concluding with discussions at a consulting/contact station. Interactions combine video, hands-on activities, and moderated short presentations.
+
+### Zone Layout
+Freestanding orientation island with overview boards and kiosks, multiple demo islands grouped by theme (Automotive, MedTech, Film, Industry), a production/test island with prototype benches, an R&D and career area for theses and internships, and a media/screening island for film demos. Additional lounge islands for conversations and networking, plus a consulting/contact island. Area Allocation: Demo islands occupy the largest space, followed by test/production island and R&D corner, with smaller areas for lounges and orientation.
+
+### Anchor Objects
+Demonstration pedestals with active embedded systems and camera cores (freestanding, static), interactive touch kiosks for technical info and software demos (mobile/static), prototype benches and test stands from the test lab (freestanding, stationary, supervised), large freestanding video towers or screens for use case examples, presentation islands for theses and portfolio exhibits. Mobility: Kiosks and some demo boards are mobile, test stands generally stationary and supervised.

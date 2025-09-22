@@ -1,0 +1,29 @@
+identity_brand
+Brand Name: New Returns. Short Tagline: "Reconnect Returns – Sustainable, AI-Powered." Sector: Retail, Wholesale & Foreign Trade; Marketing, Advertising & PR. Stage: Emerging start-up with approximately 40 employees. Geographic Reach: Not specified. Color Palette: Not specified. Design Language: Clear and functional with a touch of playfulness and innovation. Material Note: Not specified. Logo Usage: Not specified.
+
+value_proposition_map
+Pillar 1 – AI-Driven Return Management (≈40%): Automated matching processes to resell returned products; Target Audience: Retailers/Brands and E-Commerce Operators; Evidence: Company focus on AI automation and waste elimination. Pillar 2 – Operational Efficiency & Outsourcing (≈30%): Streamlined, efficient processes and outsourcing services to reduce costs for retailers; Target Audience: Retailers and Fulfillment Partners; Evidence: Emphasis on process optimization and outsourcing. Pillar 3 – New Revenue Streams & Market Access (≈30%): Solutions to help brands generate new income from returns; Target Audience: Brand Owners and Resellers; Evidence: Mission to connect products with the next satisfied customer. Weightings are indicative based on company description.
+
+culture_profile
+Values: Quality, creativity, innovation with a dash of unconventionality. Pace: Fast-moving and results-oriented with the motto “80% and go.” Collaboration Style: Hands-on, team-oriented, multilingual, with close interaction and visible individual contributions. Work Mode: Growth-oriented and mistake-friendly; specific remote/hybrid arrangements: not specified.
+
+portfolio_focus
+Showcase digital demos of AI processes, process visualizations, case studies, and prototype dashboards, as well as product examples from returns. Formats: Interactive demonstrations, short videos, and hands-on stations for workflow tracking. Handling: Interactive engagement by visitors; detailed safety requirements: not specified.
+
+narrative_assets
+Headline: "Rethink Returns – Zero Waste, Maximum Reuse." Core Statements: 1) We eliminate unnecessary waste through AI-driven resale; 2) We enhance operational efficiency through automation and outsourcing; 3) We create new revenue opportunities for brands and ease consumer access to products. Measurable Metrics: Team size (~40 employees), multilingual operations (English, Dutch, German, French) signaling international focus; specific performance metrics: not specified.
+
+interaction_flow
+Modes: Orientation, Storytelling/Demo, Interactive Testing, Discussion/Meeting, Takeaway Information. General Path: Reception Kiosk → Brief Introductory Video on Mission → Central Demo Area with AI Sandbox → Case Study Stations and Customer Successes → Meeting Pods for in-depth discussions and business development. Visitors move freely between open demos and reservable discussion areas.
+
+zones_layout
+Central Demo Island as the focus, flanked by several thematic islands for processes, case studies, and interactive tools. Additional clusters for seating and discussion areas, and an info/reception island at the entrance. Distribution: Demo and interaction areas dominate, with support and meeting areas smaller and decentralized; exact area sizes: not specified.
+
+anchor_objects
+Types: Reception Kiosk (information function, partly mobile), large demo islands with touch terminals (interaction, mostly stationary), freestanding plinth(s) for product displays (presentation, mobile), enclosed meeting pods or standing tables (discussion, partly mobile), individual AR/VR stations for immersive demos (interaction, anchored). Functions: Orientation, Demonstration, Presentation, Conversation; Mobility: Mix of fixed and movable elements.
+
+circulation_accessibility
+Minimum aisle width: not specified. Entry points: not specified. Accessibility: not specified.
+
+ambience
+Lighting Concept: Dynamic and focused to highlight products and demo stations, supporting an innovative ambiance. Audio/Music: Contemporary, stimulating ambient soundscape reflecting the brand's creative and playful personality. Scent: Not specified. Overall Atmosphere: Lively, inviting, and forward-looking, matching the identity as a creative, AI-driven start-up.

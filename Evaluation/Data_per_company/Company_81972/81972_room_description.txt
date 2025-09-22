@@ -1,0 +1,62 @@
+### Identity and Brand
+
+**Legal Name:** A well-established company in engineering and automotive solutions with over 700 employees across Austria, Germany, the USA, Mexico, and China.  
+**Tagline:** Futureproof Solutions for Automotive Industries.  
+**Sector:** Engineering, Machinery, Automotive Suppliers, Automation Technology.  
+**Geographical Reach:** Sites in multiple countries.  
+**Color Palette and Design Language:** Not specified.  
+
+### Value Proposition
+
+**Core Offer:** Development and production of highly automated manufacturing systems for the automotive industry.  
+**Benefits:** Offers high design freedom, efficiency, and quality in mass production.  
+**Target Audience:** Automotive OEMs and suppliers.  
+**Supporting Evidence:** Company profile, slogan.  
+
+**Engineering & Pre-Engineering:** Customized plant concepts, cost calculation, CAD data management.  
+**Benefits:** Tailored, implementable concepts.  
+**Target Audience:** Sales teams and project leads.  
+
+**Global Presence:** Teams and production in five countries, providing local support.  
+**Benefits:** Local implementation and support.  
+**Research & Process Optimization:** Investing in efficient, sustainable processes.  
+**Focus:** Emphasis on product solutions and engineering, with global service and process development as supporting pillars.
+
+### Culture Profile
+
+**Values:** Practical innovation, high quality standards, customer focus; summarized in "Make visions work."  
+**Pace:** Goal-oriented, growth-driven with a readiness for change.  
+**Collaboration:** Team-oriented, cross-functional, with strong internal interfacing.  
+**Work Mode:** Hybrid approach with options for remote work, flexible hours, and a focus on training and employee health.
+
+### Portfolio Focus
+
+Freestanding product and system models, interactive CAD visualizations, and demonstrations of automated systems. Includes video simulations of manufacturing processes and technical demos. Interactive touch and VR stations provide hands-on model manipulation. 
+
+### Narrative Assets
+
+**Headline:** Make visions work — Future-ready production systems for the automotive industry.  
+**Core Messages:**  
+1. Tailored, highly automated systems enable efficient mass production and design flexibility.  
+2. International network ensures capacity and customer proximity.  
+3. Over 700 employees and continuous investment in sustainable processes drive innovation.  
+
+### Interaction Flow
+
+Modes include self-guided exploration, guided technical tours, and career paths. Begins at an information kiosk, progressing to showcases with interactive CAD and video stations, with optional deep dives into engineering demonstrations, and ending at contact or lead stations.
+
+### Zones Layout
+
+Freestanding arrangement with central showcase islands displaying machines and prototypes; surrounding demo pods with interactive stations for technical deep dives; separate lounge and meeting areas for discussions; media and presentation with video projections and brief talks.
+
+### Anchor Objects
+
+Freestanding models of automated production systems, interactive touch tables for CAD models, VR simulation pods, info kiosks, and meeting pods. Designed for orientation, demonstration of technical functions, interaction, and personal discussions. Most are mobile, but large-scale models are stationary.
+
+### Circulation & Accessibility
+
+Visitor paths are designed for clear access to anchor objects and interactive stations. Specific accessibility measures are not detailed.
+
+### Ambience
+
+No specific details on lighting, audio, music, or scent. No particular guidelines for atmosphere or multisensory design available.

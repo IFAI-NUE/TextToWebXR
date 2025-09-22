@@ -1,0 +1,3 @@
+About Us: Shaping the Digital Future
+
+Sentinum provides IoT solutions for municipalities and businesses, from developing proprietary sensors to implementing intelligent web services for end users. We specialize in energy-autonomous and wireless sensors based on energy-efficient LPWAN communication technologies like MIOTY®, NB-IoT, and LoRaWAN®. Our scalable and affordable products are designed for the smart cities of tomorrow.

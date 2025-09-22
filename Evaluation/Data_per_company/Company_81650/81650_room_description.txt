@@ -1,0 +1,85 @@
+**identity_brand**
+
+**Tagline:** We ensure safe and efficient mobility. It's our mission.
+
+**Sector:** Global leader in brake systems and solutions for rail and commercial vehicles.
+
+**Maturity Level:** Established industrial company with 120 years of experience.
+
+**Geographic Reach:** Global, with over 100 locations in about 30 countries.
+
+**Design Language:** Technically precise and functional, focused on engineering aesthetics and connectivity.
+
+**Material Note:** Indicative of industrial materials like metal and composites; no specific guidelines.
+
+---
+
+**value_proposition_map**
+
+**Pillar 1 — Rail Vehicle Brake Systems:** Core product focused on safety and energy efficiency. Target: rail operators and manufacturers. Indicative weight: 40%.
+
+**Pillar 2 — Commercial Vehicle Systems:** Brake technology and additional systems for trucks and buses. Target: manufacturers and fleet operators. Indicative weight: 20%.
+
+**Pillar 3 — After-Sales, Parts, and Services:** Benefits through availability and lifecycle support. Target: operators and maintainers. Indicative weight: 20%.
+
+**Pillar 4 — Connected System Solutions & Digitalization:** Efficiency and system integration benefits. Target: transport companies and OEMs. Indicative weight: 20%.
+
+---
+
+**culture_profile**
+
+**Values:** Safety, innovation, sustainability, and technological excellence.
+
+**Pace:** Established, long-term focus, driven by research and digital innovation.
+
+**Collaboration Style:** International and cross-departmental, focusing on connected solutions.
+
+**Work Mode:** Hybrid work models with employee benefits like remote work, flexible hours, and training opportunities.
+
+---
+
+**portfolio_focus**
+
+Showcases include product artifacts (brake units, system components), service demos (after-sales processes, parts workflows), and digital models of connected systems. Formats include physical exhibits, interactive demos/simulations, and explanatory videos/presentations.
+
+---
+
+**narrative_assets**
+
+**Headline:** "Ensuring safe and efficient mobility."
+
+**Core Message 1:** As a market leader with 120 years of experience, we advance safety and energy efficiency in transportation.
+
+**Core Message 2:** Global presence with over 32,000 employees in around 30 countries ensures customer proximity and production capacity.
+
+**Core Message 3:** Focus on connected solutions, digitalization, and sustainable mobility.
+
+**Metrics:** 2024 revenue approx. €7.9 billion, with more than 32,000 employees and over 100 locations.
+
+---
+
+**interaction_flow**
+
+Visitors begin in a central entry area with overview points and introductory videos, choosing modular paths to product, service, and digitalization areas. Each area offers interactive stations for detailed demos, parts showcases, and VR/AR experiences. Additional spaces provide career information and benefits insights, culminating in a summary area with contact options and links for further engagement with sales/HR.
+
+---
+
+**zones_layout**
+
+Central orientation unit as a standalone information and reception pillar to guide visitor flow. Surrounding this unit are product and demo areas (brake systems, commercial solutions, after-sales), a lounge for service and business discussions, and a separate career and recruitment area. Ample movement space and occasional seating/rest areas; spaces are thematically organized by product, service, and career.
+
+---
+
+**anchor_objects**
+
+Large freestanding product towers with real components and labels serve as focal exhibits; interactive touch-kiosks provide data and simulations for in-depth exploration. Freestanding cases display parts, while VR platforms and demonstration areas offer dynamic system demos; many elements are modular and mobile, others are fixed platforms.
+
+---
+
+**circulation_accessibility**
+
+Not specified
+
+**ambience**
+
+Not specified

@@ -1,0 +1,29 @@
+identity_brand  
+Legal Name: SycoTec GmbH & Co. KG. Brief Tagline: Success in High-Speed. Sector: Electrical Engineering, Precision Mechanics, Optics, and Automation and Research Technology. Maturity: Over 50 years of industry experience and market presence; established specialist and leading manufacturer. Geographical Reach: Global operations. Color Palette: Qualitative metallic silver tones, deep blue, contrasting black/white. Design Language: Precise, compact, cylindrical, and linear forms; technically dynamic. Materials: Precision metals, anodized aluminum, and technical plastics. Logo Use: Freestanding totems and illuminated plaques for strong presence; recommended clear and calm presentation.
+
+value_proposition_map  
+Pillar 1 (35%): High-speed drives for industrial applications – Benefits: High speeds, reliability, efficiency; Target Groups: Machinery Builders, Industry OEMs; Evidence: Long product history and range from high-frequency spindles to turbo generators. Pillar 2 (25%): Dental and medical technology solutions – Benefits: Hygienic, ergonomic, and available micromotors and spindles; Target Groups: Dental industry, Medical technology OEMs; Evidence: Specialized CAD/CAM spindles and medical supply lines. Pillar 3 (25%): Precision components and assembly manufacturing – Benefits: Tailored parts with high precision; Target Groups: Developers and manufacturers of complex assemblies; Evidence: Wide manufacturing technologies from turning to welding. Pillar 4 (15%): Engineering services & automation support – Benefits: Customized solutions, process optimization, robotic integration; Target Groups: Clients with automation needs and research partners; Evidence: Job ads in automation, robotics, and material handling.
+
+culture_profile  
+Values: Precision, innovation, customer focus, and passion for dynamics. Pace: High technical work pace paired with methodical care. Collaboration Style: Interdisciplinary, team-oriented, and hands-on; Employee Expectations: Teamwork, independence, and experimental aptitude. Work Mode: Flexible, with options such as remote work, flexible hours, and training; emphasis on social benefits and support.
+
+portfolio_focus  
+Exhibits include standalone high-speed drives, dental spindles and micromotors, individual components and assemblies, and functional demo rigs for automation. Supplemented by CAD and model visualizations, videos of manufacturing processes, and interactive test stations. Handling: Interactive, touchable samples and stationary demo equipment; Safety: Hygienic presentation for dental medical exhibits and safety zones for moving demo rigs.
+
+narrative_assets  
+Headline: Precision Meets Speed – For Over 50 Years. Core Messages: 1) Market leader in high-speed drives with longstanding OEM experience; 2) Customized solutions for industry and dental/medical technology; 3) Precise manufacturing competence from single parts to assemblies. Measurable Metrics & Signals: Over 50 years of company history, distinct product divisions (industrial and dental), active job openings in research, automation, and thesis work indicating innovation focus.
+
+interaction_flow  
+Visitors begin at an information hub with a brief company overview and choose between industry, dental/medical, or manufacturing expertise paths. Subsequently, freestanding exhibits with interactive demonstrations and video stations are presented; live demos and discussion pods are available for technical deep dives. Conclusion: Contact station for project inquiries, OEM collaborations, or career/internship information.
+
+zones_layout  
+Freestanding introduction station and company plinth (about 10%), cluster with industrial drives and spindles (about 30%), cluster for dental and medical solutions (about 20%), manufacturing and components area with exhibits and process videos (about 20%), automation and robotics demo zone (about 15%), small lounge/career island for conversations and recruiting info (about 5%). All areas are distinct and clearly defined exhibit groups.
+
+anchor_objects  
+Types: Illuminated brand totems for orientation, podiums with high-speed drives and dental micromotors as tactile exhibits, mobile demo rigs with robotics and conveying technology, freestanding vitrines for precision parts, interactive kiosks with CAD visualizations and videos. Functions: Orientation, product demonstration, hands-on experience, technical briefing. Mobility: Totems and mobile demo rigs on rollers; podiums and vitrines preferably transportable but securely fixed.
+
+circulation_accessibility  
+Minimum aisle width: recommended at least 1.2–1.5 m for barrier-free access paths and to navigate mobile demo rigs. Entrances: Several standalone access points to exhibit clusters; clear, step-free access to all demo stations. Accessibility: Height-adjustable demo stations, ample maneuvering space for wheelchairs, and audiovisual alternatives (text/audio) for exhibit information.
+
+ambience  
+Lighting: Focused, cool white illumination on exhibits with warmer accents in brand areas; spotlights for detail views of components. Audio/Music: Subtle, technical background music with occasional explanatory voiceovers at demos, reduced noise except for live demonstrations, where machine-like soundscapes are present. Scent: Neutral, clean air; in dental/medical areas, a hygienic, fresh perception; in manufacturing demos, a slight metallic-technical nuance.

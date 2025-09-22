@@ -1,0 +1,29 @@
+identity_brand  
+Company Name: FlowChief. Tagline: Experts in Process Control, Energy Management & IIoT. Sector: Energy/Water Supply, IT Services, Software Development, and Automation Technology. Maturity: Agile SMB with pioneer status in web-based control systems. Geographic Reach: Nuremberg Metropolitan Area, Core Team in Wendelstein. Color Palette: Not specified. Style: Grounded, functional, technically precise with clear, minimal forms. Material Note: Not specified. Logo Usage: Not specified.
+
+value_proposition_map  
+Pillar 1 — Process Control & SCADA (35%): Development and support of control systems for facility management; Target Audience: energy supply and industrial operators; Evidence: Described as specialists in process control and pioneers in web-based systems. Pillar 2 — Energy Management & IIoT (30%): Software solutions for energy optimization and device integration; Target Audience: energy providers and facility operators; Evidence: Focus on energy management and IIoT in the company profile. Pillar 3 — Web-based Cloud Services (20%): Cloud and web-based control systems for modern monitoring and scaling; Target Audience: companies needing modern, remotely accessible systems; Evidence: Emphasis on web-based control systems and cloud services. Pillar 4 — IT Services & Training (15%): Consulting, implementation, and training; Target Audience: clients needing implementation and staff training; Evidence: Positioned in IT services and training with offered education programs.
+
+culture_profile  
+Values: Grounded, reliable, hands-on, team-focused with an emphasis on continuous improvement. Pace: Agile and pragmatic with quick decision-making. Collaboration Style: Flat hierarchies, collaborative input, and close teamwork; a "family" tone is emphasized. Work Mode: Flexible hours and work-from-home options, combined on-site and remote work, active promotion of training.
+
+portfolio_focus  
+Features interactive software demos of SCADA/Energy Management interfaces, IIoT prototypes, and cloud service demos, along with case studies and recruiting material. Formats include live demos at standalone stations, short videos, and demo hardware on stands. Handling: Visitor interaction at touch terminals and hands-on stations; Security for live systems: Not specified.
+
+narrative_assets  
+Headline: Pioneers of Web-Based Control Systems for a Sustainable Industry 4.0. Key Message 1: Customized SCADA and energy management software for industry and providers. Key Message 2: Agile, grounded team focusing on practical solutions and continuous education. Key Message 3: Modern, web-based cloud approaches and IIoT integration for operational efficiency. Measurable Metrics & External Signals: Not specified.
+
+interaction_flow  
+Modes: Greeting at a standalone reception station, choice between guided live demos, self-guided kiosk interactions, and recruiting talks in meeting pods. General Path: Reception → Brief intro at an info stand → Demo cluster with hands-on stations → Detailed consultation pods or recruiting corner → Lounge/Networking area. Visitors can move freely between stations or follow a set demo route.
+
+zones_layout  
+Standalone reception/info station as entry point, followed by a demo cluster with multiple interactive kiosks and a separate rig/hardware area for IIoT prototypes. Separate meeting pods and recruiting corner as standalone communication islands, along with a catering/lounge area with movable seating. Area Distribution: Demo cluster predominant, smaller meeting pods and lounge, compact reception.
+
+anchor_objects  
+Key anchor objects include standalone reception kiosks, interactive touch kiosks, controlled demo racks for IIoT/hardware, modular meeting pods, and a standalone brand totem. Function: Orientation, hands-on interaction, technical demonstration, and confidential conversations. Mobility: Kiosks and pods ideally modular and mobile on wheels or easily rearrangeable; demo racks semi-mobile to fixed.
+
+circulation_accessibility  
+Flow: Clear, open paths between standalone stations with lines of sight to anchor objects; entry through standalone reception station. Minimum walkway width: Not specified. Accessibility: Principle of inclusive access evident in flexible work forms, specific structural requirements or measurements not provided.
+
+ambience  
+Lighting: Directed, functional lighting for standalone demo stations and warm, friendly general lighting to emphasize groundedness. Audio/Music: Subtle, technical ambient music and acoustic signals during demos to support focus without distraction. Scent: Low-key, clean, and neutral; no strong scent concepts. Overall atmosphere should be professional, approachable, and technologically familiar.

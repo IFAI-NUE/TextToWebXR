@@ -1,0 +1,39 @@
+**identity_brand**
+
+Legal Name: Engineering Group VA Ltd. Short Tagline: Technology for People and Buildings. Sector: Engineering for Building Technology and Consulting Services. Maturity: Established company since 1963, with consistent growth (employees increased from ~70 to nearly 130 over 10 years). Geographical Reach: Nationwide in Germany with strategic locations. General Color Palette: Not specified. Design Language: Technical, precise, and functional. Material Note: Not specified. Logo Usage: Not specified.
+
+**value_proposition_map**
+
+Pillar 1 – Comprehensive Planning (approx. 40%): Planning and developing building technology systems for energy-efficient properties; target groups include project developers, builders, and architectural firms; supported by long-term project experience and status as a major engineering service provider in Germany. Pillar 2 – Consulting & Contracting (approx. 25%): Consulting services including contracting, quality control, and PPP models for risk minimization and efficiency; target groups are public clients and investors; supported by a broad range of services across four business areas. Pillar 3 – Implementation & Assessment (approx. 20%): Implementation, assessment, and quality control of technical systems; target groups are construction companies and facility managers; supported by comprehensive service offerings. Pillar 4 – Training & Knowledge Transfer (approx. 15%): Training, practical partnerships, and supervision of final projects; target groups are students and emerging professionals; supported by collaborations with universities and training programs.
+
+**culture_profile**
+
+Values: Practical expertise, innovation, sustainability, and employee development. Pace: On schedule, reliable, solution-focused, with an emphasis on efficient project execution. Collaboration Style: Cross-disciplinary and dialog-oriented with open communication between project managers, clients, and partners. Work Mode: Flexible working hours, remote work options, and extensive training opportunities to enhance expertise.
+
+**portfolio_focus**
+
+Showcases digital planning models and examples of modern, energy-efficient buildings, along with consulting, facility management, and quality control services. Includes published case studies, supervised theses, and university collaborations. Handling: Interactive presentations and walkthrough digital models to illustrate planning concepts. Security: Not specified.
+
+**narrative_assets**
+
+Headline: Sixty Years of Expert Building Technology. Core Message 1: Comprehensive planning and implementation of building technology systems from a single source. Core Message 2: Long-term client partnerships and strategic locations enable quick access to clients. Core Message 3: Strong focus on developing future talent through university partnerships and training programs. Key Metrics & Signals: Founded in 1963; employee count from ~70 to nearly 130 over the last ten years; active university partnerships.
+
+**interaction_flow**
+
+Introductory orientation with a brief company overview and navigation options, followed by thematic sections on planning, consulting, implementation, and training. Each section offers a mix of digital models, project examples, and contact opportunities with experts. Concludes with a career and cooperation zone for students and potential employees, including information on training and final projects.
+
+**zones_layout**
+
+Freestanding reception and orientation point as the start, followed by four thematic islands for main business areas (planning, consulting, implementation, training). Additional demonstration island for walk-through digital models and a lounge island for networking and recruitment. Size distribution: Focus on project and demo islands, supplemented by smaller info and contact islands.
+
+**anchor_objects**
+
+Interactive touch kiosks as informational anchors and navigation elements (mobile). Large digital model islands on platforms for BIM and project model visualization (stationary or mobile on wheels). Physical MEP mockups and installation models on pedestals for tactile demonstration (mobile or on wheels). Seating and discussion pods as meeting points for exchanges and consultations (mobile).
+
+**circulation_accessibility**
+
+Not specified
+
+**ambience**
+
+Not specified

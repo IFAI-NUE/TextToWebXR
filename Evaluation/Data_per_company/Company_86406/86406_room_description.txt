@@ -1,0 +1,37 @@
+**Identity**
+
+A globally established family-owned company specializing in high-frequency, high-voltage, and fiber optic technologies, as well as electronics and precision mechanics. It serves sectors such as automotive, telecommunications, data technology, medical technology, and aerospace with approximately 15,000 employees worldwide and around 3,300 at its Fridolfing location. 
+
+**Value Proposition Map**
+
+1) **High-Frequency Connection Solutions**: Deliver reliable signal transmission and precision for demanding applications. Targeted at mobile and telecommunications, data technology, and automotive sectors. Globally recognized as a leading manufacturer. Weight: 50%.
+   
+2) **High-Voltage and Fiber Optic Solutions**: Provide powerful power and data connections for specialized applications. Targeted at medical technology, aerospace, and industrial measurement. Weight: 20%.
+   
+3) **Precision Components and Mechanical Engineering Supply**: Transition from prototypes to mass production, offering high manufacturing quality. Targeted at OEMs in engineering and electronics. Weight: 15%.
+   
+4) **Engineering, Research, and Process Optimization**: Includes production process improvements and analyses (e.g., vibration behavior, press fits, predictive maintenance). Targeting internal manufacturing teams and industry partners. Weight: 15%.
+
+**Culture Profile**
+
+A family-oriented corporate culture emphasizing tradition, sustainability, and mutual appreciation. Values precision, quality, and responsibility towards employees and the environment. Technical and solution-focused work approach. Encourages collaboration with flexible work hours, remote options, and development opportunities.
+
+**Portfolio Focus**
+
+Features physical product samples, prototypes, functional demonstrators, and models, along with explanatory videos on production processes. Emphasizes interactive exhibits that demonstrate technical functions and manufacturing processes.
+
+**Narrative Assets**
+
+Core message: A leading provider of both standard and custom connection solutions, delivering precision and quality for high-tech industries. Family ownership and sustainability shape its culture and long-term direction. With approximately 15,000 employees globally and around 3,300 at Fridolfing, it has a proven customer base in mobile telecommunications, data technology, medical electronics, and automotive sectors.
+
+**Interaction Flow**
+
+Visitors start at an introduction station providing a company overview and tour options (guided vs. self-exploration). They then proceed through key areas: high-frequency solutions, high-voltage/fiber optics, and engineering demos. Interactive points offer prototype benches and lab stations with media, concluding with a career and contact island. The flow is modular, allowing repeated visits to stations.
+
+**Zones Layout**
+
+Includes introductory pods, a large product gallery, interactive demo labs, prototype workbenches, and career pods. Meeting islands are available for discussions. Space distribution: Product gallery 40%, demo labs 25%, prototype workbenches 15%, career pod 10%, intro/lounge islands 10%.
+
+**Anchor Objects**
+
+Comprising tall product pedestals with exhibits, interactive kiosks, modular demo rigs, hands-on prototype workbenches, freestanding display cases, and mobile presentation carts. They serve as orientation points, technical presentation areas, interaction spots, and recruitment spaces with a mix of fixed and mobile units for flexibility.

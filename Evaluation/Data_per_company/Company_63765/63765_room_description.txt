@@ -1,0 +1,29 @@
+identity_brand  
+Legal Name: 3X Banktechnik GmbH. Tagline: With 3X, you're part of a strong team. Sector: Services for financial institutions, construction/architecture, and engineering services. Maturity: Not specified. Geographic Reach: Based in Heiningen, operates nationwide in Germany. Color Palette (HEX): Not specified. Design Language: Not specified. Material Note: Not specified. Logo Usage: Not specified.
+
+value_proposition_map  
+Comprehensive Project Design and Planning: Development of architectural and design concepts for financial institutions; target audiences include banks and developers; evidence: covers all service phases. Tendering and Coordination: Management of tenders and contractor coordination for timely execution; target audience: developers and institutions; evidence: explicit mention of tendering activities. On-site Construction Management: Presence of construction managers and project control throughout all phases; target audience: clients, evidence in company profile. Planning Interface and Consulting (BIM/CAD and Contracts): Support in planning, contract issues, and BIM-based planning; target audience: internal and external planning teams; evidence: requirements in ArchiCAD, HOAI, and VOB knowledge. Weighting: Not quantifiable from current data, qualitatively focused on end‑to‑end services.
+
+culture_profile  
+Values: Efficient, structured, solution-oriented, and team-oriented as stated in job requirements. Pace: Project-driven with phases of high responsibility and pragmatic execution speed. Collaboration Style: Interdisciplinary interface work between project management, planners, and construction managers, along with external coordination with developers. Work Mode: Flexible hours, remote work possible, with training and employee benefits offered.
+
+portfolio_focus  
+Showcasing project-related artifacts and demos like BIM/CAD models, architectural plans, reference projects, and construction documentation. Enhanced with video and photo sequences, interactive model views, and phase visualizations. Handling: Interactive stations for exploring models and plans; touch and gesture control possible. Security specifics for exhibits or access rules: Not specified.
+
+narrative_assets  
+Headline: With 3X, you're part of a strong team. Core Statements: 1) End-to-end service provider for bank buildings from conception to realization; 2) Expertise across all service phases (1–8) with project managers, planners, and site managers; 3) Nationwide project execution with regional subcontractor networks; 4) Focus on efficient, structured implementation in time, design, and cost. Measurable Values & External Signals: Mention of service phases 1–8, Heiningen location, and published job ads as signals for active market presence.
+
+interaction_flow  
+Introduction via a brief overview station with company summary and choice between guided tour or free exploration. Visitors can access interactive BIM/project stations, open detailed views, and watch reference project videos. Closing area offers contact and career information with the option to directly enquire with project managers.
+
+zones_layout  
+Central exhibition area with standalone presentation objects for key cases, flanked by a series of interactive demo stations. Separately placed model and video islands for in-depth project exploration, alongside a distinctly separate career and contact area. Distribution in words: Focus on exhibition and demos, complemented by a smaller area for networking and personnel information.
+
+anchor_objects  
+Large project tower or cube with rotating reference views as a visual anchor for overall projects; typically standalone and stationary. Interactive BIM tables/touch tables for collaborative model viewing, designed to be mobile or on wheels. Model plinths with physical scale models, video totems for construction documentation, and standalone info kiosks for contact and career offers; seating and discussion pods for technical deep dives.
+
+circulation_accessibility  
+Minimum aisle width: Not specified. Entrances/exits to zones: Not specified. Accessibility (e.g., wheelchair access, tactile signage): Not specified.
+
+ambience  
+Lighting, audio, music, and scent design: Not specified.

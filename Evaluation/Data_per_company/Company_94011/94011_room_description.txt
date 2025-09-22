@@ -1,0 +1,39 @@
+identity_brand
+
+Legal Name: Softway AG. Brief Tagline: "SAP Forms with System and Product." Sector: IT Services/Software Development focused on SAP Output Management. Maturity: Established, with over 35 years of SAP experience. Geographic Reach: Not specified. Color Palette: Not specified. Design Language: Not specified. Material Note: Not specified. Logo Usage: Not specified.
+
+value_proposition_map
+
+Pillar 1 – Product: A specialized SAP form solution that simplifies creating and customizing forms in the SAP system; Target: SAP users in medium to large enterprises; Proof: "First and only SAP form specialist with system and product." Pillar 2 – Consulting & Implementation: Sustainable SAP solutions and proven integration methods; Target: Companies needing output management; Proof: Over 35 years of SAP expertise. Pillar 3 – Support & Personal Contact: Personal support and partnership for lasting benefits; Target: Clients who value direct contact; Proof: Explicitly mentioned personal point of contact and partnership approach. Weights: Qualitative emphasis on product and implementation, supplemented by personal support.
+
+culture_profile
+
+Values: Partnership, honesty, professionalism, and a familial atmosphere. Tempo and Style: Casual internal atmosphere with professional customer interaction. Collaboration Style: Personal exchanges, short pathways to contacts, using informal language internally fosters team spirit. Work Mode: Flexible hours and remote work options, focus on training and employee health.
+
+portfolio_focus
+
+Showcases include product demos of the form system, interactive live-customizing examples, case studies, and service-oriented consulting offers. Artifacts: Live demos, screenshares/videos of workflows, and success stories. Handling: Interactive stations for hands-on tests and guided demonstrations. Security Specifications and Certifications: Not specified.
+
+narrative_assets
+
+Headline: "SAP Forms with System and Product." Key Messages: 1) Over 35 years of SAP expertise as the foundation, 2) unique specialization in SAP forms with proprietary product, 3) partnership-driven, personal support for sustainable customer benefits. Measurable Metrics & External Signals: Over 35 years of experience; positioned as the only specialized provider with system and product. Additional External Signals: Not specified.
+
+interaction_flow
+
+Visitors start at an introductory information station with a brief overview, then choose interactive demo stations for live system trials and view specific case studies at standalone displays. Consulting pods for personal discussions and contact arrangements follow, with the visit concluding at a service and contact station for follow-up. Mode: Self-guided exploration combined with guided demo slots.
+
+zones_layout
+
+Central demo island with interactive stations as the largest area, flanked by consulting pods and smaller case study stands. Near the entrance, orientation totems and a contact area with seating for discussions; complemented by a lounge zone for informal encounters. Space Allocation: Central demo focus, moderate consulting areas, small to medium lounge.
+
+anchor_objects
+
+Interactive demo kiosks with touchscreens and keyboards for live customizing; info totems with introductory videos; consulting pods (freestanding seating and table combinations) for personal discussions; large-format brand installation/sculpture as a central anchor for orientation and photo opportunities. Mobility: Demo kiosks and totems preferably movable, consulting pods semi-mobile to stationary.
+
+circulation_accessibility
+
+Minimum aisle width, entrances, and specific accessibility details: Not specified.
+
+ambience
+
+Specific guidelines for lighting, audio, music, or scent: Not specified.

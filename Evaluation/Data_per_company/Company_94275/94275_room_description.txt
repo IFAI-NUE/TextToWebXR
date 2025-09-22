@@ -1,0 +1,47 @@
+**Brand Identity**
+
+A global leader in engineering and IT services, specializing in sectors such as automotive, aerospace, energy, medical technology, telecommunications, and semiconductors. With over 50,000 employees in about 30 countries, the company is internationally established in its field.
+
+**Value Proposition Map**
+
+1. **Engineering Services**: Comprehensive development services covering the entire product lifecycle, offering rapid implementation from ideas to production. Target audiences include OEMs and industrial projects, supported by extensive industry diversity and project experience.
+   
+2. **IT & Digital Solutions**: Involves software and cloud engineering, including testing; offering stable, secure software solutions with target customers in IT, telecommunications, and semiconductors.
+
+3. **System & Quality Engineering**: Focuses on system integration, testing, and quality assurance for embedded and complete systems, ensuring reliable functionality for clients in the automotive and medical technology sectors.
+
+4. **Talent & Consulting**: Provides skilled professionals and project management expertise, enabling fast scalability for businesses with development needs.
+
+**Culture Profile**
+
+The company values responsibility, commitment, creativity, and continuous development, living by the motto: “A home where people learn and thrive.” It operates in a dynamic, project-driven environment with a flexible, team-oriented collaboration approach, offering hybrid work options and strong support for continuous learning.
+
+**Portfolio Focus**
+
+Features technical artifacts and demonstrations from engineering and IT projects, including prototypes, subsystems, software demos, case studies, and videos explaining project solutions. Interactive demonstrations and explanatory presentations are available for visitors.
+
+**Narrative Assets**
+
+- **Headline**: Building Tomorrow's World Today.
+- Core Messages: Extensive expertise across various industries; comprehensive development and IT capabilities from concept to production; strong focus on employee development and career opportunities.
+- Metrics: More than 50,000 employees in around 30 countries; multiple open positions in software and system testing fields.
+
+**Interaction Flow**
+
+Offers a curated overview, interactive exploration (demos/models), career path insights (jobs & benefits), and in-depth exploration (technical case studies). Visitors choose between a quick overview or a detailed professional tour.
+
+**Zones Layout**
+
+Features a greeting and slogan presentation pod, themed industry islands (e.g., automotive, aerospace) with demonstration spaces, a central demo arena for interactive prototypes, a career and learning hub with information terminals, and consultation areas.
+
+**Anchor Objects**
+
+Includes interactive info kiosks with touch-infographics on offerings and career information, demo stations with prototypes for technical explanation, and large multimedia project islands showcasing case studies.
+
+**Circulation and Accessibility**
+
+Specific measurements for accessibility are not provided, but there is a general mention of flexible work forms and an inclusive employee focus, without specific equipment requirements for accessibility.
+
+**Ambience**
+
+Features a clear, technically professional atmosphere suitable for high-tech projects, with subtle, focused soundscapes or explanatory speaker texts for demos, and unobtrusive, motivating background music to foster concentration and innovation.

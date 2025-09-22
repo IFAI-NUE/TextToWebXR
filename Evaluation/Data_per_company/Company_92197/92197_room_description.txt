@@ -1,0 +1,39 @@
+identity_brand
+
+A leading company in high-frequency technology, established since 1946 with a strong global presence. Geographically, the company is headquartered in Munich with manufacturing in Germany, Hungary, and China, and offers global sales and support. The design palette includes primarily blue and gray tones with precise, functional, and technical forms, often cylindrical and modular, fitting for connectors. Materials include high-quality metallic substances and precision-crafted components.
+
+value_proposition_map
+
+Core Product: High-frequency components such as adapters, connectors, attenuators, and waveguides. Benefits include high performance and durability. Target industries include telecommunications, broadcasting, radar, satellite, medical, industrial, and research. The company boasts decades of patent activity and established customers. Custom manufacturing and mass production offer tailored solutions for industry partners and OEMs. Research and Development drive continuous innovation. Global support and service provide local availability through worldwide offices. The focus is strongly product-driven with emphasis on components and custom manufacturing, supported by R&D and global service.
+
+culture_profile
+
+The culture is characterized by technical excellence, innovation, and reliability, with research and development as core drivers. The pace is structured and long-term, yet agile in implementing technical improvements. The collaboration style is team-oriented and cross-departmental, with close cooperation between development and production. The working model combines site-based production with flexible arrangements such as remote work, flexible hours, and training.
+
+portfolio_focus
+
+Core products on display include adapters, connectors, attenuators, cables, and waveguide components, along with prototypes and application scenarios in mobile communications, broadcasting, radar, and medical technology. Additional content features technical demos and performance models.
+
+narrative_assets
+
+Headline: Setting standards in high-frequency technology. Key statements: 1) Over 75 years of experience and hundreds of patents signify sustainable innovation; 2) Precision manufacturing and high-quality standards ensure performance and durability; 3) Global presence with production and service capacities across multiple continents. Measurable metrics include a company history of over 75 years, hundreds of patents, more than 800 employees, and manufacturing sites in Germany, Hungary, and China.
+
+interaction_flow
+
+Visitors can choose between a self-guided tour at interactive stations and a guided demo path showcasing technical exhibits. General path includes a welcome at an info kiosk, presentation of key product islands, technical demonstrations in the demo arena, deep dive at hands-on pedestals, and a conclusion at a contact and consultation module for business inquiries. The process is modular, allowing return to previous stations.
+
+zones_layout
+
+Central demonstration island with live demos serves as the hub, surrounded by product islands with standalone pedestals for individual components. Separate prototype and innovation island for research topics, with flexible meeting and consultation pods. Quiet lounge and waiting zones with independent seating groups, service, and info points as freestanding kiosks.
+
+anchor_objects
+
+Standalone product pedestals for individual components, interactive touch kiosks for technical data and multimedia presentations, modular demo tables/testing stations for live demonstrations, enclosed presentation cubes for prototypes, and shielded measurement stations as demonstration platforms. Functions include presentation, interaction, demonstration, and consultation. Many elements are designed as modular, transportable units, with some testing stations being stationary.
+
+circulation_accessibility
+
+No specific details on minimum aisle widths, entries, or accessibility measures are provided. General information on accessible access or minimum dimensions is not included.
+
+ambience
+
+No specific details regarding lighting, audio, music, or scent are provided in the context.

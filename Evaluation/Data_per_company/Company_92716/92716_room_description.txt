@@ -1,0 +1,37 @@
+**Identity Brand**  
+Name: XEOMED. Tagline: Agile Online Marketing Agency for Healthcare. Sector: IT Programming & Design, Marketing/Advertising & PR, Other Services. Maturity: young and agile, startup/small team profile. Geographic Reach: not specified. Color Palette (HEX): not specified. Design Language: not specified. Material Notes: not specified. Logo Usage: not specified.
+
+**Value Proposition Map**  
+Pillar 1 — Healthcare Content: Creation of scientific and advisory texts for patients, professionals, and companies; Target Group: Pharma, Clinics, Health Portals; Evidence: Job listings for editorial healthcare texts.  
+Pillar 2 — Video & Graphic Production: Short videos and graphics for health communication; Target Group: Marketing teams in healthcare; Evidence: Job descriptions mention video production and graphic creation.  
+Pillar 3 — Editorial Content Management & Optimization: Refinement and enhancement of existing content for audience targeting; Target Group: Health website operators; Evidence: Job tasks for optimization and CMS work.  
+Pillar 4 — Online Marketing Services: Campaigns and digital visibility specifically for healthcare; Target Group: Healthcare clients needing online marketing; Evidence: Company description as an online marketing agency.  
+Weights: Not quantifiable from context; qualitatively focused on content creation and editing, supplemented by video/graphics and marketing services.
+
+**Culture Profile**  
+Values and work practices are characterized by agility, professional diligence, and employee focus. Pace: dynamic and project-driven, focusing on quick, iterative work steps. Collaboration Style: strong team cohesion and editorial collaboration; Work Mode: hybrid options with home office and flexible hours, complemented by training and health offerings.
+
+**Portfolio Focus**  
+Showcase includes editorial artifacts (articles, guides), multimedia demos (short videos, graphics), and example content revisions. Handling: interactive presentation stations and downloadable content packages. Security/Privacy: not specified.
+
+**Narrative Assets**  
+Headline: Scientifically Sound Healthcare Marketing — from Research to Video. Key Messages:  
+1. Specialized agency for healthcare communication with scientific expertise.  
+2. Editorial skills combined with video and graphic production.  
+3. Agile team tailoring content to target audiences.  
+Measurable Metrics: not specified; External Indicators: Job postings indicate requirements for medical or life-science expertise and editorial experience.
+
+**Interaction Flow**  
+Modes: Guided tour (brief introduction), self-guided exploration, and hands-on demo stations for content interaction. General Path: Start at information podium, followed by stations with text examples, video pedestals, and interactive graphic kiosks, ending at meeting and contact podium for consultation and recruitment.
+
+**Zones Layout**  
+Free-standing reception/info island to start, multiple content islands for text samples and case studies, cluster of video and demo kiosks, lounge pods for discussions and live presentations, along with a recruitment/career corner. Space distribution prioritizes content presentation at the center, complemented by demo clusters and conversation areas.
+
+**Anchor Objects**  
+Types: Free-standing touch kiosks with content collections, video pedestals with seating, pedestals for print and digital case examples, mobile meeting pods, and information stands. Function: Presentation, interaction, short meetings, and recruitment outreach. Mobility: mostly rolling or easily repositionable, some pedestals are mobile but stable.
+
+**Circulation Accessibility**  
+Not specified.
+
+**Ambience**  
+Not specified.

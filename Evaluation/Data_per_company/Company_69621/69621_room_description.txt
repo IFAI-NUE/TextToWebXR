@@ -1,0 +1,66 @@
+identity_brand
+
+Tagline/Slogan: "Pioneers of Precision." 
+Sector: Electrical engineering, precision mechanics, optics, as well as science, research & development. 
+Company Stage: Established, internationally operating company and subsidiary of a larger group, with awards; 
+Geographic Reach: Headquarters in Haar near Munich, sales office in the USA, another location in Feldkirchen. 
+Color Palette: Not specified. 
+Design Language: Precise, technically minimalist and functional. 
+Material Note: Not specified. 
+Logo Usage: Not specified.
+
+value_proposition_map
+
+Pillar 1 – Nano Drives (high-precision positioning systems): 
+Benefit: Extreme precision for research and industry; 
+Target Groups: Physics research, semiconductor and metrology industries; 
+Proven by development and production at the headquarters and awards. Weight: Approx. 50%. 
+
+Pillar 2 – Sensors and Measurement Technology: 
+Benefit: Reliable, high-resolution measurement and monitoring; 
+Target Groups: Research labs and industrial quality assurance; 
+Proven by product portfolio and international presence. Weight: Approx. 30%. 
+
+Pillar 3 – Microscope Systems & Complete Solutions: 
+Benefit: Integrable hardware/software systems for nanoscale applications; 
+Target Groups: Research institutes and system integrators; 
+Proven by multichannel sales and project development. Weight: Approx. 20%.
+
+culture_profile
+
+Values and Work Style: Focus on innovation and quality, with interdisciplinary collaboration between physicists, engineers, software developers, and product designers. 
+Pace: Driven by research and production, methodical and precision-oriented. 
+Collaboration Style: Team-oriented and cross-departmental; 
+Work Mode: Flexible hours, remote work options, and comprehensive employee benefits.
+
+portfolio_focus
+
+Core Products: Nano drives, sensors, and microscope systems, presented as physical devices, model exhibits, and explanatory demo videos. Demonstrations emphasize functionality and application; handling instructions highlight sensitivity and proper use. Safety aspects implied due to precise measuring devices; no specific guidelines given.
+
+narrative_assets
+
+Headline: "Pioneers of Precision." 
+Core Messages: Developing and producing high-precision solutions at the forefront of physical and technical capabilities; benefiting research and industry with integrated systems from the headquarters and international distribution; innovations driven by an interdisciplinary team. 
+Credible Metrics & Signals: Awards such as the Bavarian Innovation Prize and the German Founder's Award indicate external recognition; other quantitative KPIs not provided.
+
+interaction_flow
+
+Visitors choose a mode (Quick Overview, Product Deep Dive, Career Insight) and move to freestanding stations with products, interactive demonstrators, and video stations. Each station includes explanatory texts and media in German/English; staff or a virtual guide offers detailed application examples as needed. Contact with sales or recruiting is facilitated through freestanding info terminals.
+
+zones_layout
+
+Zones are arranged as freestanding clusters: Reception/Information Island, Product Exhibition Clusters with individual pedestals, Interactive Demo Islands for live demos, Career and People & Culture areas with open meeting spaces, and an Awards and References Display Island. Space distribution is thematically tiered from intro through product details to career/networking; specific square footage not provided.
+
+anchor_objects
+
+Freestanding pedestals with exhibits (nano drives, sensor prototypes) serve as main anchors and are primarily stationary, some with removable covers for demonstration. Interactive media pillars/touch columns provide detailed information and are mobile or modular. Demo benches with experimental setups allow controlled demonstrations; holographic or video-based displays present application cases. Award and recognition plinths are freestanding reference objects and mobile.
+
+circulation_accessibility
+
+Minimum aisle width: Not specified. 
+Entrances: Freestanding reception and info stations act as entrances to the modes; 
+Accessibility: Content should be available in German and English with alternative navigation/audio descriptions provided, specific technical guidelines not given.
+
+ambience
+
+Not specified.

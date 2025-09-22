@@ -1,0 +1,63 @@
+**Identity Overview**
+
+**Company Name:** Established IT consulting firm founded in 1999, with a focus on monitoring and managing infrastructure and cloud applications.  
+**Tagline:** Streamlining IT.  
+**Sector:** IT consulting.  
+**Size & Reach:** Over 90 employees, operating in Germany, Austria, and India.  
+**Design Style:** Modern, clear, and minimalist aesthetic.  
+**Materials:** Digital-oriented presentations and user-friendly office supplies.
+
+**Value Proposition**
+
+1. **IT Monitoring & Management (≈40%):** Offers solutions to ensure performance and availability for large business applications, webshops, and infrastructure.  
+2. **Consulting & Integration (≈25%):** Custom monitoring architecture support for CIOs and IT teams, backed by long-term project experience since 1999.  
+3. **Managed Operations (≈20%):** Ensures stable availability of monitoring solutions for companies with high demands.  
+4. **Knowledge Transfer & Training (≈15%):** Provides training and knowledge exchange for clients and staff, targeting technical teams and new talent.
+
+**Cultural Values**
+
+- **Values:** Mutual support, diversity, open communication, and social responsibility (support for specific charitable efforts).  
+- **Work Style:** Dynamic, learning-focused, with varied, engaging projects.  
+- **Collaboration:** Personal, direct exchange combined with digital tools.  
+- **Environment:** Hybrid, with opportunities for remote work.
+
+**Portfolio Highlights**
+
+Showcases include case studies, interactive dashboard demos, team and skills portraits, and short videos explaining architectural approaches. Features interactive stations and demo scenarios for performance and availability insights.
+
+**Core Messaging**
+
+- **Headline:** Streamlining IT.  
+- **Key Statements:**  
+  1. Focus on performance and availability of major applications.  
+  2. Extensive experience since 1999 with an international team.  
+  3. Personal collaboration complemented by digital efficiency.  
+- **Metrics & Recognition:** Established in 1999, over 90 employees, locations in Germany, Austria, and India.
+
+**Visitor Experience**
+
+- **Modes:** Self-guided exploration and guided tours with interactive demos.  
+- **Journey:** 
+  1. Entry area with company overview.  
+  2. Select a demo station (e.g., live dashboard).  
+  3. Dive into case study areas.  
+  4. Meet team avatars.  
+  5. Conclude in the contact/recruiting lounge.
+
+**Space Configuration**
+
+- **Zones:** Includes an info hub, demo pods, hands-on training area, team and culture lounge, recruiting and benefits section.  
+- **Layout:** Central hub for intro, main demo space, transition areas for lounges and conclusion.
+
+**Interactive Elements**
+
+- **Components:**  
+  - Info kiosks with touchscreens for demo selection.  
+  - Interactive demo pods with large displays.  
+  - Conversation areas with seating and lounge modules.  
+  - VR/AR stations for in-depth experiences.  
+- **Purpose:** Orientation, demonstration, engagement, and conclusion.
+
+**Overall Atmosphere**
+
+Friendly, professional, technically oriented, and reflective of the company culture. Subtle background sounds complement the settings, with clear lighting on presentation areas. Casual coffee aromas highlight informal meetings.

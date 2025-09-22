@@ -1,0 +1,29 @@
+identity_brand
+Legal Name: A mid-sized, established family business founded in 2001, specializing in the plastics industry and injection molding. Tagline: "Quality made locally" (concise and impactful). Sector: Plastics Industry / Injection Molding. Maturity: Established family business. Founded: 2001. From development to series partner. Geographic Reach: Regional within a specific area, with clear OEM reach in the national automotive market. Color Palette: Industrial and practical (dark gray, white, accented blue). Design Language: Technical, precise, and ergonomic elements. Materials: Focus on plastic components, with supplemental tool and metal parts. Logo Usage: Not specified.
+
+value_proposition_map
+Pillar 1 — Mass Production of High-Quality Plastic Components: Benefits: Reliable, quality-tested parts for automotive and other industries; Target Groups: OEMs, Tier-1 suppliers; Proof: Products in vehicles of major automotive brands. Pillar 2 — Development to Series Production: Benefits: Integrated development from prototypes to series; Target Groups: Product Development, Engineering; Proof: Self-identification as a developer and series partner. Pillar 3 — Quality Management & Complaints Handling: Benefits: ISO-compliant processes, 8D-report capability; Target Groups: Quality Managers, Procurement; Proof: Job requirements (ISO 9001:2015, 8D-Reports). Pillar 4 — Employer Benefits & Employee Development: Benefits: Recruitment and development of skilled workers; Target Groups: Professionals and Executives; Proof: Listed benefits like training, retirement plans. Qualitative Weighting: Dominance in production/quality, development, and quality management are tightly linked, with employer value as support.
+
+culture_profile
+Values: Quality consciousness, reliability, and family business spirit. Pace: Structured and deadline-focused, with practical work pace in production and project management. Collaboration Style: Team-oriented, cooperative, and project-aligned; employee development through training is important. Work Mode: Production-focused presence work combined with collaborative office and project work; hybrid details not specified.
+
+portfolio_focus
+Showcased Artifacts: Mass-produced and prototype plastic parts, sample parts for automotive and toys. Demos/Models/Video: Process and production workflows, quality documentation (e.g., 8D examples), short production films. Handling: Free-standing display pedestals and interactive stations for tactile and visual inspection. Safety Specifics: Not specified.
+
+narrative_assets
+Headline: High-quality Plastic Solutions — Established 2001. Core Messages: 1) We deliver high-quality components for demanding applications; 2) We support projects from development to series production; 3) ISO-oriented quality management and rapid complaint handling ensure reliability; 4) Attractive employer with training opportunities. Measurable Metrics & Signals: Founded in 2001, Employee range 50–249, Reference clients in the automotive industry, Reference to ISO requirements in job profiles.
+
+interaction_flow
+Modes: Self-guided exploration, guided demonstrations, and career advice. General Path: Start at an information hub, proceed to product and prototype displays, then process and quality stations with interactive insights, ending with a contact and applicant area for discussions. Visitors can switch between media content and physical exhibits; contact persons are available at defined free-standing points.
+
+zones_layout
+Freestanding zones arranged: Orientation/Info hub as first anchor, clusters with product pedestals for mass-produced and sample parts, process demo zone with machine mockups and video islands, quality/documentation island with 8D examples, career lounge with seating areas and info stations. Space distribution: Product presentation and process demo dominate, career and service areas are smaller, easily accessible islands. All zones are conceived as independent, freely placeable units.
+
+anchor_objects
+Types/Examples: Pedestals with displayed plastic parts (visible and tangible) for product focus; transparent display cases for prototype protection; interactive touch kiosks for technical data and quality management reports; machinery or tool mockups for process representation; seating areas and mobile consultation counters for HR dialogues. Function: Presentation, information dissemination, demonstration, consultation. Mobility: Many elements designed as rollable or lightweight modules; some exhibits stationary or permanently integrated depending on safety requirements.
+
+circulation_accessibility
+Goal: Clear, low-barrier visitor flow between freestanding islands. Minimum aisle width: Not specified. Entries/transitions between zones: Not specified. Accessibility (e.g., step-free access, tactile cues): Not specified.
+
+ambience
+Lighting: Neutral-bright, accentuated lighting to highlight surfaces and details. Audio/Music: Subtle, technical soundscape or quiet information streams; low volume for conversation facilitation. Scent: Not specified. General Atmosphere: Professional, precise, and trustworthy, matching the quality and production standards.

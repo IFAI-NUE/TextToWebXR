@@ -1,0 +1,29 @@
+identity_brand
+Company: TechnoPlan GmbH. Tagline: "Planning with Heart and Mind!" Sector: Engineering services, specializing in Technical Building Equipment (TGA). Experience: Established company with over 40 years and more than 1000 completed projects. Location: Based in Marktrodach; no further range specified. Color palette, design, material, or logo usage: Not specified.
+
+value_proposition_map
+Pillar 1 – Holistic TGA Planning: The benefit is comprehensive planning from one source; target groups are builders, investors, and general planners; proof: "we plan all TGA trades from one source." Pillar 2 – Consulting & Coordination: The benefit is extensive consulting and coordinated project management across all phases; target groups are project developers and executing companies; proof: text on coordination across all phases. Pillar 3 – Lifecycle Support: The benefit is support throughout a building's lifecycle; target groups are operators and facility managers; proof: statement on lifecycle support. Pillar 4 – Youth & University Cooperation: The benefit is active supervision of theses and talent development; target groups are students and universities; proof: multiple job postings for supervising Bachelor's/Master's theses. Weights: Not derived; the qualitative focus is on holistic planning, complemented by consulting/coordination and lifecycle support, university cooperation as a strategic youth pillar.
+
+culture_profile
+Values: Team orientation, commitment, ambition, and expertise are paramount. Tempo and style: Professional and practical with a focus on reliable implementation. Collaboration style and work mode: Interdisciplinary teamwork, promoting employees through training and flexible work conditions like remote work and flexible hours.
+
+portfolio_focus
+Showcased should be reference projects and planning services, demonstrating experience with "more than 1000 successfully completed projects," along with information on consulting, coordination, and lifecycle support. Additionally: Representation of university collaborations and thesis supervision offers. Details on demos/models, handling, or safety guidelines: Not specified.
+
+narrative_assets
+Headline: "Planning with Heart and Mind!" Key messages: 1) Over 40 years of experience in Technical Building Equipment, 2) Planning all trades from one source, 3) Coordination across all phases and lifecycle support, 4) Active collaboration with universities and talent development. Measurable indicators & external signals: Over 40 years of experience and more than 1000 projects; external signals include repeated offers for thesis supervision and listed employee benefits.
+
+interaction_flow
+Entry through a standalone info point with slogan and profile, followed by thematic reference areas for planning, consulting/coordination, and lifecycle. Proceed to the career/university area with thesis and employee benefit information; finally, an option for contact and appointment scheduling at a standalone reception terminal. Visitors can focus on navigating through information areas and dive into relevant topics.
+
+zones_layout
+Standalone reception area as entry, larger reference zones with project areas, a competency zone for planning and coordination, a career/university zone, and a small communication and consulting area. Space distribution: Reference and competency zones dominate, the career zone is more compact, and the consulting area serves as a retreat.
+
+anchor_objects
+Freestanding info monoliths with core numbers (40+ years, 1000+ projects) for orientation; project plinths with brief reference descriptions; terminal for career and thesis information; freestanding consulting areas for discussions. Function: Orientation, detailed information, interaction, and contact. Object mobility: Not specified.
+
+circulation_accessibility
+Details on minimum aisle widths, entrances, or specific accessibility features are missing; no information on technical requirements or specific adaptations for accessibility.
+
+ambience
+Information on lighting, audio, music, or scent concepts is not provided; no details available.

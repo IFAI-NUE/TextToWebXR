@@ -1,0 +1,38 @@
+identity_brand
+
+A well-established family business with over 60 years of experience in the gastronomy and tourism sectors, specializing in group travel, operates under a brand that conveys a personal, trustworthy, and service-oriented image. Its geographical coverage includes Germany, Europe, and global destinations.
+
+value_proposition_map
+
+1. Group Travel (40%): Expert planning and execution of travel for clubs, senior and travel groups, offering comprehensive organization and extensive experience. Credibility is evidenced by handling over 9,000 travel groups and approximately 325,000 participants.
+2. Educational Travel (20%): Customized offers for schools, universities, and educational institutions, emphasizing safe and well-thought-out trips.
+3. Sports and Event Travel (20%): Specialized logistics for associations and teams with unique requirements.
+4. Consulting & Custom Planning (20%): Personalized advice and tailored itineraries, with a trusted team providing bespoke travel planning.
+
+culture_profile
+
+Values include being family-run, employee-centered, reliable, and solution-focused, with a consistent, growth-oriented approach. Collaboration is characterized by open dialogue and team-oriented problem-solving. The company supports a blend of in-office and flexible work arrangements, encouraging independent work and ongoing training.
+
+portfolio_focus
+
+Features travel offers and their execution with sample itineraries, photo and video content of destinations, testimonials from past travelers and interns, as well as information on internships and employee benefits.
+
+narrative_assets
+
+Headline: "On Course for Success!"
+Core Message 1: Over 60 years of experience make us a leading provider of group travel.
+Core Message 2: Extensive reach with more than 9,000 travel groups and about 325,000 participants.
+Core Message 3: A family-run company culture focusing on employees and personalized advice.
+Measurable Metrics: Over 60 years in business, approximately 9,000 groups, around 325,000 participants, and about 130 employees.
+
+interaction_flow
+
+Modes: Self-exploration, guided tour, and interactive consultation. Path: Start at an info station for a brief introduction, move to thematic zones (group travel, educational trips, sports/events), deepen at interactive tables with sample routes and videos, and finish at booking/contact stations. Optional guided sessions available for school classes or partner groups.
+
+zones_layout
+
+Includes an entry point for brief info, central zone for group travel offers, educational and internship areas with testimonials, culture and employee zone highlighting brand and benefits, and media/relaxation spaces with video presentations. Arranged as freestanding modules, with the group travel zone being the most prominent.
+
+anchor_objects
+
+Freestanding info kiosks and touch tables for interactive travel planning; VR/video pods for destinations; totems with brand messages and stats; seating areas for consultations; mobile brochure stands and demo carts. Functions include orientation, interaction, presentation, and booking, with elements offering both stationary and mobile flexibility.

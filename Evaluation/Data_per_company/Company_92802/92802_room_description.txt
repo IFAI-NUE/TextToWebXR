@@ -1,0 +1,39 @@
+identity_brand
+
+Name: Institut für Angewandte Informatik. Short Tagline: Informatics Institute for Productive Software. Sector: Internet; IT Software Development; Media. Maturity: Established Academic Institute. Geographical Reach: Not specified. Color Palette (HEX): Not specified. Design Language: Not specified. Material Note: Not specified. Logo Use: Not specified.
+
+value_proposition_map
+
+Pillar 1 — Research & Ethics in AI/VR: Creating guidelines and monitoring mechanisms for bias detection and fairness in AI for VR job boards; Target Audience: Researchers, Developers, Public Clients; Evidence: Various project and job descriptions on ethical guidelines and bias monitoring. Pillar 2 — Usability & Interaction Design for VR Recruitment: Developing and implementing usability standards for intuitive VR experiences; Target Audience: Recruiters, Job Seekers, HCI Communities; Evidence: Job ads on usability and discoverability. Pillar 3 — Prototyping & Software Development: Development of Android apps, CMS, and e-paper prototypes, and comparative studies VR vs. Web; Target Audience: Industry Partners, Developer Teams, Students; Evidence: Task descriptions for app and CMS development. Pillar 4 — Education & Theses: Supervising Bachelor/Master theses and student projects on VR, AI, and interaction; Target Audience: Students; Evidence: Multiple thesis announcements. Weightings: Not numerically derivable, qualitative focus on research/teaching with strong ties to practical software development.
+
+culture_profile
+
+Values: Research ethos, practical relevance, transparency, and ethical responsibility in AI use. Pace: Research-driven with project-based iteration and high practical orientation. Collaboration Style: Interdisciplinary and team-oriented, involving students in real development tasks. Work Mode: Flexible with options like remote work, training, and flexible hours.
+
+portfolio_focus
+
+Featured Artifacts: Interactive VR demos, comparative prototypes (VR vs. Web), Android app and CMS prototypes, e-paper demonstrators, research data, and usability reports. Media: Live demos, video recordings of studies, test sets, and explanatory visualizations. Handling: Hands-on stations for user tests and guided demonstrations. Security/Privacy: Focus on data-friendly algorithms, transparency, and bias monitoring.
+
+narrative_assets
+
+Headline: Fair, User-Centric AI and Practical VR Solutions for Job Placement. Key Messages: We develop ethical guidelines and monitoring mechanisms to ensure fair AI in VR job boards; we establish usability standards and intuitive interactions for diverse user groups; we create prototype software solutions and supervise student research projects. Measurable Values & External Signals: No specific quantitative KPIs are given, but external signals include multiple project and job descriptions and the listed benefits.
+
+interaction_flow
+
+Methods: Self-guided exploration, guided demonstrations, and moderated user studies. General Pathway: Start at an info kiosk for topic selection, choose a demo station (VR or Web), conduct a hands-on session followed by reflection at a transparency and feedback station, conclude with additional information on projects and theses. Interactions focus on ease of use and explainable AI results.
+
+zones_layout
+
+Open Arrangement: Centrally grouped VR pods for hands-on sessions, flanked by interactive kiosks with web comparison demos and app prototypes. Complemented by plinths with e-paper displays and media pillars for video loops, as well as prototyping tables for workshops and student presentations. Separate conversation areas and mobile presentation spaces for moderation and user feedback complete the layout.
+
+anchor_objects
+
+VR Pods/Stations: Standalone headset stations with labels and hygiene protection, primarily for hands-on experiences; generally portable or modular. Interactive Kiosks/Terminals: Touchscreens for web comparison demos and app prototypes; serve information delivery and self-testing, mobile or easily placed. Demo Plinths with E-paper: Show prototypes and media content, serve as visual and functional anchors; usually transportable. Seating and Conversation Areas: For reflection and moderation, usually modular and movable. Mobile Whiteboards/Moderation Stands: For workshops and usability tests, easily movable.
+
+circulation_accessibility
+
+Flow & Access: Accessibility and usability for less experienced users are key focuses, with adapted interaction modes and explanatory elements. Specific minimum aisle widths, exact entry dimensions, or technical specifications are not provided.
+
+ambience
+
+Not specified.

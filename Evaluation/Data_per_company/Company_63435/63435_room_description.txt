@@ -1,0 +1,42 @@
+**Brand Identity**
+
+Legal Name: Fire Safety Planning & Partners LLP. Tagline: YOUR SAFETY, OUR PLANNING. Sector: Construction/Architecture and Engineering Services. Maturity Level: No information provided. Geographic Reach: Multiple locations in Nuremberg, Munich, Fürth, and Husum (regional with several branches). Color Palette: No information provided. Design Language: No information provided. Material Note: No information provided. Logo Usage: No information provided.
+
+**Value Proposition Map**
+
+1) Comprehensive Fire Safety Concepts & Documentation (45%): Benefit: Legally compliant planning for building permits and enhanced building safety; Target Groups: Developers, Architects, Project Managers; Evidence: Detailed documentation for all building types.
+2) Construction Phase Consulting & Coordination (25%): Benefit: Expert guidance during construction and coordination with authorities and planners; Target Groups: Developers, Planners, Authorities; Evidence: Offer of construction phase consulting and coordination participation.
+3) Evacuation, Rescue & Fire Service Plans (15%): Benefit: Clear evacuation and action documents for safety and response; Target Groups: Operators, Architects, Fire Services; Evidence: Creation of evacuation and fire service plans.
+4) Fire Load Assessments & Special Investigations per DIN 18230 (15%): Benefit: Reliable assumptions and proof for special constructions; Target Groups: Special Projects, Authorities, Planners; Evidence: Mention of fire load assessments according to DIN 18230.
+
+**Culture Profile**
+
+Values: Focused on safety, reliability, and professional quality, supported by training and health initiatives. Pace: Project-driven and goal-oriented. Collaboration Style: Close coordination with authorities, developers, architects, and internal project leads; regular meetings are part of the collaboration. Work Mode: Flexible with remote work options, flexible hours, and employee-focused benefits (e.g., pensions, travel subsidies, pet-friendly).
+
+**Portfolio Focus**
+
+Shown Artifacts: Fire safety documentation, floor plans, evacuation and rescue plans, fire service plans. Demos/Models/Video: No information provided. Handling: No information provided. Content Security: Document-based, standards-oriented planning documents (including DIN 18230) are core displayed content.
+
+**Narrative Assets**
+
+Headline: YOUR SAFETY, OUR PLANNING. Core Messages: 1) Comprehensive, standards-compliant fire safety planning for all building types; 2) Practical support through to building approval and construction; 3) Close coordination with authorities and planners; 4) Employee focus and continuous training. Measurable Metrics & External Signals: Work according to DIN 18230 and presence at multiple locations as quality signals; specific metrics: no information provided.
+
+**Interaction Flow**
+
+Visitors begin at a central information kiosk with a company overview and key topics, then proceed to themed stations (e.g., documentation, plans, special investigations) to explore project examples on interactive displays. Finally, an area for networking and recruiting offers direct contact opportunities. The path is linear and modular, allowing visitors to skip or delve into specific stations.
+
+**Zones Layout**
+
+Intro/Reception (≈10%) with central information kiosk; Service Islands (≈40%) each with a station on concepts, consulting, plans, and fire load assessments; Project Demos (≈25%) with floor plans and case studies on standalone displays; Networking/Recruitment Area (≈15%) with seating and consulting stations; Buffer and seating area for orientation (≈10%).
+
+**Anchor Objects**
+
+Standalone info kiosks for company identity and navigation (mobile/repositionable). Touch tables for CAD and plan visualizations (standalone, mobile). Presentation stands with printed floor and fire service plans (standalone). Seating islands and consulting counters for personal discussions (partially mobile, some fixed). Function: Orientation, interaction, exploration, and contact.
+
+**Circulation & Accessibility**
+
+Minimum aisle width: No information provided. Entrances and Access: No information provided. Accessibility: No information provided.
+
+**Ambience**
+
+Lighting: No information provided. Audio/Music: No information provided. Scent: No information provided.

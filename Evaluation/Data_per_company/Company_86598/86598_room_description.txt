@@ -1,0 +1,68 @@
+**Identity and Overview:**
+- Legal Name: VISPIRON SYSTEMS GmbH
+- Tagline: "Engineering a better world"
+- Sector: Engineering services, science, research & development
+- Established mid-sized company with around 200 employees
+- Headquarters in Munich, primarily national reach with regional customer projects
+- General Design Language: Pragmatic, technical, functional
+
+**Value Proposition:**
+1. **Development and Engineering Services:** 
+   - Benefit: Customized product development and technical solutions
+   - Target: OEMs, suppliers, research partners
+   - Evidence: Job listings and company profile
+
+2. **Testing & Validation:**
+   - Benefit: Reliable test concepts, error analysis, and execution
+   - Target: Battery and vehicle manufacturers, e-mobility projects
+   - Evidence: Battery testing ads, test tracks, specification ads
+
+3. **Consulting and Project Support:**
+   - Benefit: Expertise in consulting and requirement analysis
+   - Target: Energy and mobility sectors
+   - Evidence: Consulting services highlighted in profile
+
+4. **Lab and Infrastructure Services:**
+   - Benefit: Provision and management of testing infrastructure
+   - Target: Test specialists, customers with testing needs
+   - Evidence: Job descriptions for setup and management of test tracks
+
+   Emphasis is placed on development and testing, complemented by consulting and infrastructure services.
+
+**Cultural Profile:**
+- Values: Curious, team-oriented, determined, pragmatic
+- Culture: Focused on open communication and appreciation
+- Work Pace: Dynamic and project-driven with practical solutions
+- Collaboration Style: Close teamwork and client collaboration
+- Work Mode: Hybrid options with flexible hours and remote work
+
+**Portfolio Focus:**
+- Features: Prototypes, test tracks, demonstrations, technical docs, battery system demos
+- Visitor Experience: Interactive exploration of test processes, safety considerations for battery demos
+- Formats: Live demos, videos, documented results
+
+**Narrative Assets:**
+- Headline: "Engineering a better world"
+- Key Messages: 
+  1. Delivers practical solutions for sustainable mobility and energy
+  2. Combines technical expertise with practical testing infrastructure
+  3. Foundation of around 200 employees
+- Metrics & Signals: Team size ~200, job listings and benefits signal employer appeal
+
+**Interaction Flow:**
+- Modes: Orientation/reception, thematic interaction areas (development, testing, consulting), demo and career/contact sections
+- Path: Start at info kiosk, choose a theme, interact with demo stations, conclude at the career/contact area
+
+**Zones Layout:**
+- Free-standing zones include an information center, a demonstration field for test exhibits, development/project stations, and a career/culture lounge with seating
+- Focus: Demonstration and testing, with additional areas for consulting and recruitment
+
+**Anchor Objects:**
+- Examples: Test track replicas, interactive touch tables, display cases for battery cells and control devices
+- Mobility: Some anchors are transportable, test tracks typically more permanent
+
+**Circulation and Accessibility:**
+- No specific measurements or accessibility details provided
+
+**Ambience:**
+- No specific lighting, audio, music, or scent information provided

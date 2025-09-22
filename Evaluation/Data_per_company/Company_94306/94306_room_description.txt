@@ -1,0 +1,39 @@
+identity_brand
+
+Legal name: A known company. Tagline: Precision tools for efficient manufacturing. Sector: CNC precision, standard, and custom tools for automotive, machinery, aerospace, and woodworking industries. Established SME since 1974 with around 130 employees. International reach with branches in China and the USA. Color palette: Not specified. Design language: Technically precise, geometric, functional. Material notes: Carbide, steel, aluminum, and technical surfaces. Logo usage: Brand recognition through a registered trademark; detailed usage guidelines not specified.
+
+value_proposition_map
+
+Weights: Qualitatively described, not quantitatively. Pillar 1 – Powered Tools: Supplying high-performance powered tools for CNC lathes and machining centers; Benefit: Increased productivity and precision; Target: Series and contract manufacturers; Evidence: Portfolio and company profile. Pillar 2 – Cutting Tools & Clamping Systems: Standard and custom tools for machining and clamping technology; Benefit: Process stability and flexibility; Target: Automotive, machinery, and wood industries. Pillar 3 – Custom Solutions & Development: Tailored tools and solutions for specific needs; Benefit: Customized efficiency enhancement; Target: Customers with specific manufacturing tasks. Pillar 4 – Measuring and Quality Support: Use of measurement systems and quality assurance to ensure process security; Benefit: Reliable component quality; Target: Quality managers in manufacturing. Pillar 5 – Service, Training, and After-Sales: Onboarding, training, and technical support; Benefit: Faster implementation and continuous improvement; Target: Users and production managers.
+
+culture_profile
+
+Company values: Quality, passion for technology, teamwork, and responsibility. Pace: Stable, practice-oriented environment allowing for development and continuous improvement. Collaboration style: Familial and hands-on, combined with international orientation and strong team cohesion. Work mode: On-site manufacturing presence with flexible hours and shift options, alongside targeted training offers.
+
+portfolio_focus
+
+Displays include standalone exhibits such as real tool artifacts (cutters, inserts, powered tools) on pedestals, along with scale models and measuring devices. Complemented by interactive demos and video stations visualizing production processes and CNC grinding machines. Handling: Visitor interaction at kiosk stands and rotating showcases for detailed viewing. Safety specifics for exhibits: Not specified.
+
+narrative_assets
+
+Headline: Precision and smart solutions since 1974. Core messages: 1) Known brand represents durable precision tools and powered solutions for demanding manufacturing; 2) Medium-sized structure with international presence combines a familial culture and global expertise; 3) Focus on quality, support, and education for long-term customer relationships. Measurable metrics & external signals: Founded in 1974, around 130 employees, branches in China and the USA, and applications in automotive, machinery, aerospace, and woodworking.
+
+interaction_flow
+
+Visitors start at a standalone reception kiosk with an overview, choosing between a guided tour or free exploration. The tour moves through product islands to exhibits, interactive measuring stations, and demo pedestals with video presentations. Ending points include a career and benefits lounge with freestanding information pillars and a feedback kiosk.
+
+zones_layout
+
+The space is divided into freestanding zones: Entrance and orientation kiosk (about 10%), product and exhibit islands with pedestals (about 40%), technical demo and measurement labs as freestanding modules (about 25%), career and benefits lounge with seating pods (about 15%), and service and feedback islands (about 10%). All areas are designed as standalone, freely placed elements.
+
+anchor_objects
+
+Typical anchor objects include large tool pedestals with rotating displays for cutters and inserts, scale machine models as show mockups, interactive touch kiosks for product data, freestanding measurement stations with demonstrated devices, and seating and discussion pods for career talks. Function: Presentation, demonstration, interaction, and engagement. Mobility: Pedestals and kiosks are mostly fixed; smaller showcases and touch stations are designed to be mobile or modular.
+
+circulation_accessibility
+
+Minimum aisle width, entry points and specific accessibility requirements: Not specified.
+
+ambience
+
+Lighting, audio, music, and scent concept: Not specified.

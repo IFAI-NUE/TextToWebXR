@@ -1,0 +1,33 @@
+**Identity & Brand Overview**  
+We are digitizing metering infrastructure. Sector: Competitive metering services and digitization of technology for electricity, gas, submetering, and soon water and district heating. Maturity: An operational, nationwide provider and part of a larger corporate group. Color palette: Blues, white, and dark gray (e.g., #0072CE, #00AEEF, #FFFFFF, #222222). Design: Technical, precise, and functional with clear, geometric shapes; materials include robust plastics and metal surfaces for devices and installations. Logo usage: Not specified.
+
+**Value Proposition**  
+1) Competitive Metering Services (Electricity & Gas): Core service with operations for energy suppliers and direct marketers; target: energy suppliers, marketers; description provided. Weight: high ~35%.  
+2) Multi-Utility Integration & Submetering: Integration of additional energy types (water, district heating) for comprehensive solutions; target: property managers, energy service providers; weight ~20%.  
+3) Data Platform & Interfaces: Provision of real-time data and interfaces (REST-API, MQTT) for data processing; target: IT integrators, energy suppliers; weight ~25%.  
+4) Customer Portal & CO2 Calculator: Portal for energy data visualization and CO2 calculation; target: customers, building management; weight ~10%.  
+5) KNX Compatibility & Integration Support: Integration in smart building controls with white-label options; target: system integrators, electrical trades; weight ~10%.
+
+**Culture Profile**  
+Values: Responsibility, proactivity, team orientation, and customer focus; job listings emphasize initiative and responsibility. Pace: Practical and implementation-focused, with a market-driven product approach. Collaboration: Cross-functional between product, sales, IT, and partners; employees to be engaged team players. Work mode: Flexible work hours; autonomous work encouraged.
+
+**Portfolio Focus**  
+Showcases include physical meters (with KNX compatibility), digital products (online portal with CO2 calculator), and interface solutions (REST, MQTT) with data examples. Presentation: Devices on stands, interactive touch stations for demos, and data flow visualizations. Interaction: Primarily through touch demos and model explanations; detailed operational data shown as examples. Security specifics are not detailed.
+
+**Narrative Assets**  
+Headline: Digitizing metering infrastructure. Core messages: Nationwide metering for electricity and gas; expanding to multiple sectors and submetering; provides granular data (real-time) via standard interfaces (REST, MQTT) and KNX integration. External signal: Affiliation with a major corporate group underscores market relevance. Metrics: Provides energy data in nearly any desired granularity — no further metrics provided.
+
+**Interaction Flow**  
+Visitors start at an info kiosk with an overview film and portal access, choose a self-guided or guided tour, and move to device podiums, API demo stations, and integration zones. Each area offers an introduction, hands-on demos, and deeper engagement with a technical expert. The final stop is a consultation area for projects and technical integration. Modes: self-guided, demo, consultation.
+
+**Zones Layout**  
+Freestanding reception and orientation unit as a starting point; large hardware showcase zone, separate data & API zone with interactive terminals, integration area for KNX demonstrations, and a workshop/consultation zone. Space allocation: Hardware showcase and Data zone dominate; integration and consultation areas are compact. Areas are distinct, clearly described, without architectural anchors.
+
+**Anchor Objects**  
+Typical anchors include: stands with physical meters, interactive touch kiosks for portal and CO2 demos, code terminals for API exploration, and a mobile consultation area. Function: Demonstrate hardware, enable data access and technical discussions. Mobility: Kiosks and consultation areas should ideally be mobile and reconfigurable; meter stands can be fixed or modular.
+
+**Circulation & Accessibility**  
+Specific dimensions are not provided. Arrangement should allow clear paths for easy passage and accessibility; detailed accessibility standards are not specified.
+
+**Ambience**  
+Not specified.

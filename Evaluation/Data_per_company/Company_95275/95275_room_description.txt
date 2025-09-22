@@ -1,0 +1,65 @@
+**Identity Overview**
+
+Legal Name: GQS  
+
+Tagline: Your SAP Partner for the Food Industry – GQS runs with great people.  
+
+Sector: SAP S/4HANA and Cloud Technologies with a strong focus on the food and beverage industry.  
+
+Experience: Established, over 20 years in the field; Geographic Reach: DACH Region (Locations: Near Munich, Dortmund-Unna, Bremen, Berlin).  
+
+Color Palette: Not specified; Design Language: Not specified; Material Notes: Not specified; Logo Usage: Not specified.
+
+---
+
+**Value Proposition Map**
+
+Core Offerings: Implementation of SAP S/4HANA and cloud solutions to enhance process efficiency for medium-sized food companies; industry-specific GQS products, particularly for the beverage and brewing sector; strategic consulting and long-term support as a partner; training and trainee programs including SAP certification. Target audiences are medium-sized food companies, especially beverage producers, and emerging professionals in SAP consulting. Evidence: Over 20 years in the market, strong position in the beverage/brewing industry, concrete trainee programs. Focus: Emphasis on implementation and industry-specific solutions, supplemented by consulting and talent development (specific weighting not detailed).
+
+---
+
+**Culture Profile**
+
+Values: People-centric, respectful, with collaboration and communication on equal footing. Pace: Sustainable and partner-driven with project phases. Collaboration Style: Team-oriented, buddy system during onboarding, strong focus on knowledge sharing. Work Mode: Flexible with opportunities for remote work, flexible hours, and opportunities for further education.
+
+---
+
+**Portfolio Focus**
+
+Featured Content: Live and demo presentations on SAP S/4HANA and proprietary GQS products, case studies from food and beverage projects, materials on trainee programs and certifications. Formats: Interactive demo stations, videos, and practical examples; Handling: Hands-on demos and workshop settings for direct engagement. Security Specifications: Not specified.
+
+---
+
+**Narrative Assets**
+
+Headline: Your SAP Partner for the Food Industry. Key Messages: 1) Over 20 years of experience in digital transformation and SAP projects for the food sector; 2) Strong market position and unique products for the beverage and brewing industry; 3) People-centered: Team culture, continuous learning, and trainee paths leading to SAP certification. Measurable Metrics & Signals: More than 20 years in the market, 8-month trainee program with certification, multiple locations in the DACH region.
+
+---
+
+**Interaction Flow**
+
+Modes: Self-guided exploration, guided demo tours, and interactive workshop sessions. Basic Path: Arrival at an information kiosk for orientation, selection of a demo or workshop point, visit themed demo islands and consultation pods, conclude in the recruiting/contact area for follow-up. The goal is a clear path from orientation to experience to concrete next steps.
+
+---
+
+**Zones Layout**
+
+Free-standing areas: Entrance/Orientation Island, clusters of interactive demo islands for SAP and GQS products, separate learning and workshop zone for trainees, consultation and advice pods, lounge and service islands (e.g., refreshments). Space allocation is designed for practical demonstration and dialogue, with distinct zones for learning, presentation, and consultation.
+
+---
+
+**Anchor Objects**
+
+Typical Anchors: Information kiosk for orientation (mobile or free-standing), interactive demo terminals/stations for S/4HANA and industry solutions, exhibition islands with case studies and product presentations, enclosed meeting pods for client discussions, lounge area with refreshments for informal talks, workshop tables for training sessions. Mobility: Many object types should be rollable or modular for flexible reconfiguration.
+
+---
+
+**Circulation Accessibility**
+
+Minimum walkway width, entrances, accessibility: Not specified.
+
+---
+
+**Ambience**
+
+Lighting, audio, music, scent: Not specified.

@@ -1,0 +1,39 @@
+identity_brand
+
+Company Name: EVO Engineering GmbH. Tagline: NEXT GENERATION ELECTRIFICATION. Sector: Electrical Engineering, Automotive Supply, Engineering Services, Research/Development. Business Stage: SME, Team Size: 10–49 employees. Geographic Reach: Global. Color Scheme: Not specified. Design Language: Not specified. Material Details: Not specified. Logo Use: Not specified.
+
+value_proposition_map
+
+Pillar 1 - Electric Drive Engineering: Development of efficient, safe, scalable drive systems for OEMs and suppliers; Benefits: technical expertise and cost-efficiency; Evidence: company profile and mission; Importance: high quality. Pillar 2 - Testing & Validation: Testing and validation services for drives and charging systems; Target Audience: vehicle manufacturers, system integrators; Evidence: job postings and company description. Pillar 3 - Software, Simulation & Data Science: Modeling, simulation, AI/ML applications for energy management and system design; Target: product development teams; Evidence: job descriptions. Pillar 4 - Turnkey Solutions & Consulting: Customer-focused, cost-optimized project management and close client interaction; Target: companies seeking comprehensive development support; Evidence: service description. No percentage weights available; focus is qualitative.
+
+culture_profile
+
+Values: Quality, efficiency, safety, and customer-focused collaboration. Pace: Technically focused, results-driven with a high willingness to learn. Collaboration Style: Team-oriented, interdisciplinary, practical, with strong client communication. Work Mode: Flexible hours and remote work options, supplemented by training and employee events.
+
+portfolio_focus
+
+Displayed are development artifacts and demos in drive development, prototypes, test and validation setups, as well as system design simulations and visualizations. Additional software demos (modeling, AI/ML), project examples, and video documentation are presented. Handling guidelines and safety aspects for prototypes are conceptually included; specific instructions are not provided. Specific lists of individual exhibits are not detailed in the context.
+
+narrative_assets
+
+Headline: We electrify mobility – efficiently, safely, and globally. Core Messages: 1) EVO provides engineering services for the next generation of electric drives; 2) Focus on testing, validation, and cost-efficient turnkey solutions; 3) Use of data science, simulation, and AI to optimize energy management and system design. Measurable Metrics & External Indicators: Staff size 10–49, international reach, job openings in R&D, Data Science, and Testing/Validation as signs of competence.
+
+interaction_flow
+
+Visitors start at an info point with a brief introduction and choose between a guided tour or self-exploration. They proceed through sequential demo stations (concepts → prototypes → simulations) with interactive displays and optional live explanations from staff. The experience deepens in a “laboratory” area with technical demos and discussion opportunities, ending at a contact and networking station for follow-ups. Different modes (self-guided, guided, workshop-based) are available.
+
+zones_layout
+
+Entry and information area as a standalone reception unit, followed by a series of standalone demo stations for prototypes and test setups. Separate immersion or simulation zone for interactive visualizations and a prototype workspace for live demonstrations and workshops. Complementary lounge-style seating areas and meeting points for discussions and networking; specific space allocation not detailed.
+
+anchor_objects
+
+Standalone demo pedestals with touch interfaces for software and simulation results, vehicle models or drive units as exhibits, mobile testing stands/setups, prototype benches for hands-on demonstrations, and guidance pillars for orientation. Function: Presentation, interaction, explanation, and meeting point. Mobility: Some elements mobile/rollable (e.g., testing stands, prototype benches), others stationary; specific details not provided.
+
+circulation_accessibility
+
+Not specified.
+
+ambience
+
+Not specified.

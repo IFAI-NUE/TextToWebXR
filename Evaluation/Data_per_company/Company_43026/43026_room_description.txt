@@ -1,0 +1,29 @@
+identity_brand
+Company Name: Anonymized. Tagline: "Easier to shop. Harder to steal." Sector: Retail, IT Hardware, IT Software Development, Media, and R&D. Maturity: Not specified. Geographic Reach: Not specified. Color Palette: Not specified. Design Language: Functional, simple, and aesthetically pleasing, influenced by product and industrial design. Material Focus: Emphasis on 3D-printed casings and related plastics/prototyping materials. Logo Usage: Not specified.
+
+value_proposition_map
+Pillar 1 – Anti-theft Solutions: Development of hardware/products for loss prevention in retail; target audience includes retailers and wholesalers. Pillar 2 – Product Development for IoT/Hardware: Design of 3D-printable casings and mechanical variants; target audience includes product and development teams. Pillar 3 – Software/IT Integration: Software development and integration services for hardware solutions; target audience includes retail IT and integrators. Pillar 4 – R&D and Prototyping: Efficient R&D to minimize trial and error; target audience includes partners and internal product teams. Weights: Not derivable, qualitative description as above.
+
+culture_profile
+Values: Employee-focused (e.g., retirement plans, training), quality consciousness, customer focus. Pace: Result- and deadline-oriented, focusing on efficient R&D and quick iteration. Collaboration Style: Cross-team and cooperative, with expectations of strong communication skills in German and English. Work Mode: Flexible and hybrid options (remote work, flexible hours), with additional benefits for employees.
+
+portfolio_focus
+Artifacts Shown: Physical hardware prototypes and 3D-printed casing variants, as well as digital demonstrations of software/IoT functionalities. Demos/Models/Video: Product demos and design variants to illustrate mechanics and casings. Handling: Interactive viewing and demonstration of prototypes is expected. Security: Clear focus on theft prevention as a product goal, detailed security protocols are not specified.
+
+narrative_assets
+Headline: "Easier to shop. Harder to steal." Core Messages: 1) We combine hardware and software development for impactful retail solutions. 2) User-centered product design with 3D-printed prototypes shortens development cycles. 3) Employee-friendly culture and investment in development support innovation. Measurable Metrics: Not specified. External Signals: Active job postings and extensive benefits indicate company growth and employer positioning.
+
+interaction_flow
+Modes: Self-guided product inspection, guided demo presentation, and career/contact mode. General Path: Arrival at the central info and reception point, mode selection, visit to product and prototype islands with interactive kiosks, concluding in the career and contact area with information about benefits and open positions. Detailed timelines and interaction durations: Not specified.
+
+zones_layout
+Free-standing intro station in the middle as a focal point, various product and prototype islands scattered for hardware exhibits, a cluster area with interactive kiosks for software and IoT demos, a separate lounge area for career and benefit information, and a test/demonstration zone for mechanical variants. Space distribution in percentages: Not specified.
+
+anchor_objects
+Types/Examples: Free-standing pedestals with 3D-printed casings, interactive touch kiosks/tablets on stands, demonstration racks for IoT hardware, a prototype 3D printer as a showpiece. Function: Presentation, interaction, testing, and recruiting information. Mobility: Designed to be modular and movable, many units are on wheels or with modular bases for reconfiguration.
+
+circulation_accessibility
+Minimum aisle width: Not specified. Entrances/access to areas: Not specified. Accessibility: Not specified.
+
+ambience
+Lighting: Not specified. Audio/Music: Not specified. Scent: Not specified.

@@ -1,0 +1,29 @@
+identity_brand
+Company Name: Confidential. Tagline: "Tailored, hands-on, agile." Sector: Marketing, Advertising & PR; Media. Maturity: Established boutique agency, founded in 2018. Geographic Reach: Focus on Germany with an international network. Color Palette: Not specified. Design Language: Not specified. Material Information: Not specified. Logo Usage: Not specified.
+
+value_proposition_map
+Core Offerings: 1) Social Media Strategy & Management – Benefit: Customized support and clear positioning; Target Audience: Brands and companies seeking personal agency partnerships; Proof: Company profile, founders’ expertise. 2) Content Production (Text, Graphics, Video) – Benefit: Contemporary, aesthetic content for platforms like Instagram, TikTok, YouTube; Target Audience: Premium and cross-industry clients; Proof: Job descriptions and tasks. 3) Paid Campaigns & Performance – Benefit: Ad management and measurability; Target Audience: Advertisers with growth goals; Proof: Paid campaign tasks. 4) Analysis, Reporting & Project Management – Benefit: Data-driven optimization and coordinated freelancer relations; Target Audience: Clients seeking transparency; Proof: Task descriptions. Emphasis: No specific percentages given; focus on Strategy and Content, supported by Performance and Reporting.
+
+culture_profile
+Values: Personal partnership, specialization, excellence, and a hands-on mentality. Pace: Agile and pragmatic with quick implementation. Collaboration Style: Close, direct engagement with a limited number of clients. Work Mode: Flexible and hybrid-friendly (flexible hours, remote work, pet-friendly, employee events).
+
+portfolio_focus
+Features: Standalone displays of real social media projects: Video demos on separate screens, printed casebooks on pedestals, interactive editorial plan stations, and live simulators for ad setups. Interaction: Interactive touch interfaces with provided headphones; small physical artifacts (mockups, moodboards) on stands. Security: No specific measures mentioned.
+
+narrative_assets
+Headline: "Boutique Expertise for Social Media: Tailored, Hands-On, Agile." Core Messages: 1) Exclusive, personalized agency partnerships instead of mass management. 2) Creative versatility like a design studio combined with agency scalability. 3) Tried-and-tested services from strategy to content and performance. Measurable Metrics: Not specified. External Signals: Founded in 2018, founders with international education and industry experience, renowned clients from various sectors.
+
+interaction_flow
+Visitors choose between self-guided exploration and a moderated tour at a central reception podium. The path leads to modular stations: Strategy Station (briefing), Content Station (video and graphic demos), Ads Station (interactive simulator), and concludes in a consultation nook with standalone seating areas for discussions. Each station is self-contained and allows for brief, focused interactions.
+
+zones_layout
+Zones arranged freely: Reception/Info Podium as entry point, Showcase Area with multiple video displays, Content Lab with workstations and moodboard stands, Ads Lab with interactive consoles, Analytics Bar with report pedestals, and Consultation Pods with seating areas. Space allocation (approximate): Showcase and Content Lab dominate, followed by Ads Lab, Analytics Bar, and Consultation Pods.
+
+anchor_objects
+Key freestanding elements: Reception Podium (info point and bookings), vertical LED displays for video demos, interactive touch kiosks for ad and editorial plan simulators, stands with printed casebooks, mobile presentation carts for changing exhibits, and standalone seating areas for consultations. Mobility: Ideally, video displays and kiosks are movable; presentation carts are on wheels.
+
+circulation_accessibility
+Not specified.
+
+ambience
+Brand Ambience: Creative, clear, and personal, reflecting a hands-on agency aesthetic. Specifics on lighting, audio tracks, or scents: Not provided.

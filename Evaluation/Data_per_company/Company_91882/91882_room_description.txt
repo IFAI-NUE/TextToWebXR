@@ -1,0 +1,39 @@
+identity_brand
+
+INTERHOLCO AG — Sustainable Hardwood - Made in Africa. Industry: Forestry and Wood Industry; established internationally since 1962, supplying logs, sawn timber, and wood cuttings. Global reach with production and social projects in the Republic of Congo. Color palette: natural wood tones (brown, cream, green); shape language: clear, linear, modular wood profiles; material focus: African hardwoods, laths, and sawn timber; logo usage: not specified.
+
+value_proposition_map
+
+1) Sustainable hardwood products (60%): Offering logs, sawn timber, and laminated cuttings for construction and interior design; benefits: consistent quality and supply; target groups: construction companies, wood importers, interior designers; proof: product portfolio and long-standing market presence since 1962. 2) Responsibility & traceability (20%): Social and environmentally responsible sourcing to support local communities; benefits: CSR-compliant supply chains; target groups: sustainably oriented project leaders and institutions; proof: focus on social and environmental responsibility in company description. 3) Technical end solutions (15%): Wood products for verandas, ceilings, floors, and other building elements; benefits: ready-to-use components for project integration; target groups: architects, planners, developers; proof: mention of end solutions and application ranges. 4) Innovation & service (5%): Use of modern manufacturing technology and process transparency; benefits: technical precision and project partnerships; target groups: developers, technical buyers; proof: indications of innovative techniques and transparency.
+
+culture_profile
+
+Values: Sustainability, transparency, social and environmental responsibility, and quality awareness are core. Tempo and style: Dynamic and technology-oriented, with a focus on precision and innovation. Collaboration: Teamwork is prioritized, and interaction between international management and local teams is central; exact working modes: not specified.
+
+portfolio_focus
+
+Displays of standalone product samples and material specimens (cross-sections, laths, beams), assembled prototypes of building elements like verandas, ceilings, and floors, along with digital demonstrations of the supply chain. Supplemented by VR insights into production and forest locations and multimedia presentations of production steps. Handling specifics or safety protocols: not specified.
+
+narrative_assets
+
+Headline: Sustainable Hardwood – Made in Africa. Key messages: 1) Decades of experience as a global wood supplier since 1962; 2) Combining industrial technology with nature to deliver consistent, aesthetic hardwood solutions; 3) Social and environmental responsibility benefiting local communities in the Republic of Congo. Measurable indicators & signals: Company established since 1962 with employee range of 1,000–2,499; certification or specific KPIs: not specified.
+
+interaction_flow
+
+Modes: Self-guided exploration, guided short demos, and VR experiences; general path: Welcome and orientation station, stages with tactile material samples, technical demonstration islands with assembly and usage examples, immersive VR area for field and production view, concluding consultation and negotiation zone. Each station is arranged as a standalone exhibit, offering tactile and visual interaction.
+
+zones_layout
+
+Introduction area for context and brand message (approx. 10%), central product gallery area with samples and prototypes (approx. 50%), storytelling and sustainability area with multimedia exhibits (approx. 15%), technical demo and assembly islands for handling and tests (approx. 15%), and a compact advisory and closing area for B2B discussions (approx. 10%).
+
+anchor_objects
+
+Freestanding sample pedestals and columns for wood samples (mobile), large bundled product stacks on platforms for scale view (heavy, semi-permanent), full-scale assembly platforms with integrated components (semi-mobile on skids), VR cabins or stations (stationary), and interactive info columns with touch interfaces (mobile). Functions: presentation, tactile experience, demonstration and information delivery; mobility: mix of rolling pedestals and fixed platforms, depending on weight.
+
+circulation_accessibility
+
+Detailed specifications for minimum aisle widths, entrances, and specific accessibility standards: not specified.
+
+ambience
+
+Lighting: Warm accent lighting to highlight wood textures and surfaces; audio: subtle soundscape with instrumental and nature sounds reminiscent of the Central African rainforest; scent: subtle wood or forest accents to enhance material sense. Overall a calm, nature-connected ambiance emphasizing material texture and origin.

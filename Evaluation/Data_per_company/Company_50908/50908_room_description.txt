@@ -1,0 +1,39 @@
+identity_brand
+
+Legal Name: KAITECH GmbH. Short Tagline: "We truly connect!" Sector: Electrical Engineering, Precision Mechanics, Optics; IT Services and Software Development; Telecommunications. Maturity: Established mid-sized company. Geographic Reach: Established across Germany. Color Palette (HEX): Not specified. Design Language: Functional, technology-oriented, and compact with a clear focus on device and system integration. Material Note: Metal casings, plastic parts, circuit boards, and electronic components. Logo Usage: Not specified.
+
+value_proposition_map
+
+Pillar 1 — System Planning & Consulting (approx. 25%): Planning of radio systems for authorities and security-related users; target groups include authorities and organizations with safety responsibilities as well as system integrators; supported by company profile details on system planning. Pillar 2 — Product Development & Manufacturing (approx. 35%): Development and production of digital transmission devices, including board and casing technology; target group: operators and industrial customers; supported by job postings for hardware development and manufacturing. Pillar 3 — Security Communication Solutions (approx. 30%): Specialized transmission technology for security communications for German authorities; target group: government institutions and security-sensitive organizations; explicitly focused in the company profile. Pillar 4 — Sales & Support (approx. 10%): Technical sales, order management, and customer support; target group: existing and new B2B customers; supported by job postings for sales and customer support.
+
+culture_profile
+
+Values: Practicality, reliability, and commitment, supported by decades of experience in communication and transmission technology. Pace: Goal-oriented and project-driven with a willingness to work long-term on projects. Collaboration Style: Team-oriented and interdisciplinary among hardware, high-frequency, and software specialists. Work Mode: Agile working and quick adaptability, complemented by training and flexible working hours.
+
+portfolio_focus
+
+Showcasing physical product prototypes and series devices, board layouts and assemblies, functional demos of high-frequency systems, and explanatory video content (KAITECH Inside / YouTube). Handling: Protected presentations of devices with options for guided hands-on demonstrations; restricted access for sensitive components. Security: Products for security communication may require access and information restrictions.
+
+narrative_assets
+
+Headline: "We truly connect!" Core Message 1: KAITECH integrates planning, development, and manufacturing for reliable communication solutions. Core Message 2: Focus on security communication for German authorities makes the offering specialized and trustworthy. Core Message 3: Continuous development through in-house R&D engagement and collaborations with students and specialists. Measurable Metrics: Not specified; external signals: nationwide establishment and YouTube presence ("KAITECH Inside").
+
+interaction_flow
+
+Visitors start at a freestanding info pod with a short introductory video and navigation options, then choose between product and technology paths. In the product path, freestanding platforms with devices and interactive demo stations follow; in the technology path, in-depth displays on boards, layout, and HF concepts. Closing area offers freestanding consulting and career stations for sales contact and job information.
+
+zones_layout
+
+Intro Zone (freestanding reception/info pod) occupies a small portion, followed by a product showcase zone with multiple freestanding platforms and presentation pillars. Demo Zone with interactive stands and test setups forms the main area, complemented by a career and contact zone with mobile consultation tables and seating islands. A small lounge and media zone for videos and discussions completes the layout.
+
+anchor_objects
+
+Large product platforms with coverable housings for presenting devices and prototypes; Function: Main presentation, Mobility: movable on wheels or as fixed pedestals. Interactive touch kiosks and tablet stands for technical details and videos; Function: Deep-dive interaction, Mobility: easily repositionable. Antenna and module stands (model antenna on base) to demonstrate HF concepts; Function: visual anchors and demo setup, Mobility: portable. Mobile measurement and test trolleys with lab equipment for live demos; Function: practical demonstrations, Mobility: rollable.
+
+circulation_accessibility
+
+No information provided about minimum aisle width, entryways, or specific accessibility in the given context.
+
+ambience
+
+No information on specific lighting, audio/music, or scent settings in the provided context.

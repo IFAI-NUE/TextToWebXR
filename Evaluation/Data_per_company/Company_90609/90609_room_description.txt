@@ -1,0 +1,78 @@
+identity_brand
+
+Brand Name: Bulthaup GmbH & Co KG. 
+Tagline: "The Future is in Your Hands." 
+Sector: Wood and Furniture Industry, Premium Kitchen Manufacturer. 
+Stage: Established, family-run business in its third generation with around 600 employees worldwide. 
+Geographic Reach: International. 
+Color Palette: Not specified. 
+Design Language: Minimalistic, precise, and timeless; focuses on product aesthetics. 
+Material Hint: High-quality wood surfaces combined with metal and precision surfaces. 
+Logo Usage: Not specified.
+
+value_proposition_map
+
+Core Offering 1 — Premium Kitchen Systems: Custom kitchen solutions with high design and quality standards; Target: Private customers, architects, and planners; Evidence: Company profile as an international premium manufacturer. 
+
+Core Offering 2 — Product Development & Prototyping: Development and construction of 3D components and prototypes; Target: Internal development teams and industry partners; Evidence: Job listings for construction/3D. 
+
+Core Offering 3 — Digital/IT Solutions and System Projects: Software and system projects like license management and energy management; Target: Internal IT/Operations; Evidence: Posted student IT projects. 
+
+Core Offering 4 — Employee Benefits & Employer Branding: Comprehensive employee benefits, recruiting, and communication measures; Target: Potential employees; Evidence: Extensive benefits list and student job postings. 
+Weightings: Not exactly derivable, qualitatively described.
+
+culture_profile
+
+Values: Authenticity, trust, passion for quality, and future orientation, with family business principles. 
+Pace: Sustainable and reliable, more established than agile, with continuous development. 
+Collaboration Style: Team-oriented, hands-on with a focus on cross-functional collaboration. 
+Work Mode: Present and hybrid options, with flexible hours and remote work possibilities.
+
+portfolio_focus
+
+Displayed Artifacts: Freestanding kitchen modules and material samples, prototypes of 3D components. 
+Demos/Models/Videos: Digital presentations on product development, prototypes, and employer branding videos. 
+Handling: No specific interaction scope indicated; existing prototypes suggest demonstration and display material. 
+Safety: Not specified.
+
+narrative_assets
+
+Headline: "The Future is in Your Hands." 
+Key Message 1: Bulthaup represents premium quality and timeless design in kitchens. 
+Key Message 2: As a family-run company in its third generation, Bulthaup blends tradition with forward-looking development. 
+Key Message 3: Bulthaup invests in employees and systems (e.g., training, energy management, IT projects). 
+Measurable Metrics & Signals: Approximately 600 employees worldwide, third-generation company structure, extensive benefits, and active postings for student and technical projects.
+
+interaction_flow
+
+Visitors encounter a freestanding reception and orientation unit, choose between product and career paths, and are guided to thematic islands. 
+Product Path: Presentation of freestanding kitchen modules, material islands, and prototypes with accompanying digital stations. 
+Career Path: Media and information islands on employer branding and available positions. 
+Conclusion: Consultation points with seating for deeper engagement and contact.
+
+zones_layout
+
+Central Exhibition: Several freestanding product islands with kitchen modules and material samples. 
+Innovation Zone: Platforms with 3D prototypes and technical exhibits. 
+Digital Zone: Individual interactive kiosks/media stations for videos and IT demos. 
+Career and Communication Zone: Lounge with information islands and seating for discussions. 
+Zones are autonomous, freestanding units with clear pathways between them.
+
+anchor_objects
+
+Freestanding kitchen islands and module setups as main anchor objects, used for product demonstration and tactile experience; typically stationary due to size. 
+Platforms with 3D prototypes and component cubes showcasing development and innovation; mobile or fixed based on exhibit. 
+Interactive touch kiosks and media stations for videos and information display; generally mobile and easily repositionable. 
+Consultation tables and seating groups as anchors for personal conversations and recruiting.
+
+circulation_accessibility
+
+General Flow: Clearly defined pathways between freestanding islands for unobstructed visitor movement. 
+Minimum aisle width, entry points, and specific accessibility measures: Not specified. 
+Aim is an accessible, inviting arrangement of freestanding elements with ample space for interaction and orientation.
+
+ambience
+
+Lighting: Focused, warm illumination of freestanding exhibits to highlight wood and material surfaces. 
+Audio/Music: Subtle, calm background sounds to support a focused, high-quality atmosphere. 
+Scent: Subtle wood note or neutral fragrances to enhance material perception; specific scent concepts: Not specified.

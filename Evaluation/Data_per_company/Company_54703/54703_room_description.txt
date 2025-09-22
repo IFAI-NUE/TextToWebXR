@@ -1,0 +1,56 @@
+**Brand Identity**
+
+**Company Name:** A leading provider of lab and pilot systems for plastic processing companies.  
+**Sector:** Development and production of laboratory and pilot systems for plastic processing.  
+**Experience:** Established, mid-sized company with over 50 years in business and about 130 employees.  
+**Reach:** International operations.  
+**Visual Style:** Functional and precise industrial modularity.  
+**Logo Usage:** Typically used in corporate communications and on installations.
+
+**Value Proposition Map**
+
+- **Pillar 1 – Lab and Pilot Systems:** Custom solutions for plastic processing that enable research, development, and scale-ups for manufacturers and research institutes, backed by over 50 years of experience.
+- **Pillar 2 – Engineering & Commissioning:** Support with programming, HMI/SPS, and commissioning for system operators and industry partners.
+- **Pillar 3 – Software & Visualization:** Development of HMI frameworks and web visualization for improved usability and remote viewing, aimed at machine operators and automation teams.
+
+**Culture Profile**
+
+**Culture:** Technically focused and quality-driven with long-standing expertise.  
+**Values:** Reliability, innovation orientation, high-quality standards.  
+**Work Style:** Structured, independent work with teamwork and organized processes.  
+**Benefits:** Flexible hours, training opportunities, retirement plans, health measures, and events.  
+
+**Portfolio Focus**
+
+Showcase functional systems, interactive HMI/software demos, project examples, and services. Prototypes, control units, and visualization stations are highlighted.
+
+**Narrative Assets**
+
+Key Highlights:
+1. Over 50 years of experience in lab and pilot system development.
+2. Integration of mechanical engineering with software/control expertise.
+3. Target market includes plastic processing industries and research institutions.
+
+**Interaction Flow**
+
+Visitors start at an info station, move to demonstration areas and interactive HMI kiosks for software demos, then proceed to meeting spaces for detailed discussions.
+
+**Zones Layout**
+
+Features information and reception zones, demonstration areas with lab and pilot machines, grouped HMI/software kiosks, and meeting/lounge areas.
+
+**Anchor Objects**
+
+Examples:
+1. Full-scale pilot systems for technical demonstrations.
+2. Lab prototypes on platforms for showcasing components.
+3. Interactive HMI kiosks for software demos.
+4. Mobile control carts for commissioning and programming.
+
+**Circulation & Accessibility**
+
+Clear paths between demonstration and interaction areas, though specific dimensions are not provided.
+
+**Ambience**
+
+Atmosphere is professional and technically oriented, aligning with the company’s premium engineering standard.

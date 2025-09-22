@@ -1,0 +1,39 @@
+**identity_brand**
+
+Sector: Equipment and Machinery Engineering / Automation Technology; Maturity: Established, international company and market leader. Visual: Dominant signal color Yellow (#FFD400) combined with Black (#000000) and White (#FFFFFF); Design language: Robust, functional geometry with clear edges and rounded elements; Material: Steel, technical plastics, and powder-coated surfaces. Logo usage: Free-standing pylons and illuminated cubes for brand placement and orientation.
+
+**value_proposition_map**
+
+Exhibition stations divide offerings into four free-standing pillars: 1) Industrial trucks (Value: Efficient goods movement; Target: Logistics centers, retail; Proof: Global use) — approx. 35%. 2) Logistics systems and facility integration (Value: Process optimization; Target: Large warehouse operators) — approx. 30%. 3) Services & After-Sales (Value: Availability, lifecycle support; Target: Fleet operators) — approx. 20%. 4) Automation & Software solutions (Value: Efficiency increase, automation; Target: Industry 4.0 customers) — approx. 15%.
+
+**culture_profile**
+
+Cultural values are conveyed through free-standing value stations: Openness to new ideas, taking responsibility, efficiency, and mutual commitment. Tempo: Pragmatic and goal-oriented; Collaboration style: Cross-functional, team-oriented project stations with clear transitions. Work mode: Hybrid settings, supported by free-standing info pods on remote work and flexible hours with visible benefits.
+
+**portfolio_focus**
+
+Displays include free-standing artifacts and demonstrators: Full-scale vehicle models, modular system models, interactive simulation terminals, and video cubes with case studies. Handling: Mobile exhibits for safe demonstration rides and touchless simulations; Safety: Clearly marked distances and free-standing safety markings around moving exhibits.
+
+**narrative_assets**
+
+Headline in illuminated letters: "Making what moves." Core messages on info pillars: Provides integrated solutions; Traditional family company with global reach; Focus on sustainability and resource efficiency. Key metrics/signals are shown on monitor stations: Millions of goods moved daily, international market leader.
+
+**interaction_flow**
+
+Visitors follow a path between free-standing station islands: Welcome pylon → Product islands (vehicles) → System and automation demos → Service and lifecycle station → Career and HR pod. Modes: Self-guided exploration, guided demo sessions at simulation terminals, and short workshop slots at interactive tables. Each station is stand-alone and allows modular entry.
+
+**zones_layout**
+
+Free-standing zone layout: Large product islands with vehicle exhibits dominate the center (~50%), flanked by automation and system islands (~20%), service/after-sales islands (~15%), a career/recruiting pod (~10%), and a small lounge island (~5%) for conversations and breaks. All areas are designed as independent, movable units.
+
+**anchor_objects**
+
+Key free-standing anchor objects: Full-scale industrial trucks (functional for demos, partially mobile), scalable system models on pedestals, interactive touch kiosks, and VR simulation stations. Functions: Demonstration, interaction, orientation; Mobility: Most anchor objects are mobile or modularly movable.
+
+**circulation_accessibility**
+
+Flow: Clear, intersection-free paths between free-standing islands with a minimum width of 1.5 m for accessible passage. Entrances: Several free-standing reception platforms and archways for varied route selection. Accessibility: Free-standing ramps, tactile ground indicators to main stations, and audio support at kiosks.
+
+**ambience**
+
+Lighting: Directed spotlights on free-standing exhibits and warm ambient beams over lounge islands; Audio: Subtle industrial ambience with explanatory voiceovers at stations and zone-specific background music. Scent: Neutral, clean air fragrance via free-standing diffusers; Acoustics: Free-standing partitions and absorbers for clarity.

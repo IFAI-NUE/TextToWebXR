@@ -1,0 +1,29 @@
+identity_brand
+Legal Name: Exyte Central Europe GmbH. Tagline: Engineering, Systems, and Solutions for High-Tech Industries. Sector: Plant and Mechanical Engineering, Construction/Architecture, Biotech/Pharma, Automation, and Engineering Services. Maturity: Established company with over 100 years of history. Geographic Reach: International presence, headquartered in Stuttgart, with seven branches in Germany. Color Palette: Not specified. Design Language: Technical, precise, and functional aesthetics. Material Reference: Not specified. Logo Usage: Not specified.
+
+value_proposition_map
+Pillar 1 – Consulting & Engineering (approx. 25%): Consultancy, planning, and engineering for complex manufacturing environments; target audiences include semiconductor, battery, biotech/pharma, and data center operators; demonstrated through service offerings and project scope. Pillar 2 – Turnkey Plant Construction (approx. 30%): Construction and modernization of complete production facilities; benefit: comprehensive handover of operational high-tech factories; target audience: major clients in high-tech industries; evidence: execution of complete high-tech factories. Pillar 3 – Cleanroom and System Supply (approx. 20%): Supply and integration of innovative cleanroom systems and equipment; benefit: precisely controlled production conditions; target audience: manufacturers of sensitive processes. Pillar 4 – Project Management & Commissioning (approx. 15%): Project control, qualification, and acceptance; benefit: timeliness, safety, and quality; target audience: operators and investors; evidence: extensive project experience. Pillar 5 – Operations & Modernization (approx. 10%): Upgrades and services to ensure long-term plant performance; target audience: existing facility operators. Weightings are indicative, as no exact proportions are mentioned.
+
+culture_profile
+Values: Quality, safety, reliability, and collaborative customer relationships are central. Pace: Technically demanding projects require precise, timely execution. Collaboration Style: Interdisciplinary teams and close coordination with customers and suppliers. Work Mode: Hybrid working models with flexible hours and remote work options, supported by mentorships and training opportunities.
+
+portfolio_focus
+Typically showcased are technical artifacts and project examples such as cleanroom systems, plant concepts, and digital planning models. Enhanced by demos and video visualizations of factory projects, along with interactive models for system design. Handling: Interactive stations and demonstration modules to illustrate technology and processes. Safety Notices: No specific measures mentioned, but a high standard of quality and safety is contextually evidenced.
+
+narrative_assets
+Headline: Pioneer of Cleanroom Technology for Industrial High Technology. Core Messages: 1) Over 100 years of experience in complex plant engineering; 2) Comprehensive service range from consulting to turnkey handover; 3) Serving technically demanding clients in semiconductors, batteries, biotech/pharma, and data centers. Measurable Metrics & External Signals: More than 10,000 employees globally, approximately 150 ongoing projects annually, headquartered in Stuttgart with seven branches in Germany.
+
+interaction_flow
+Visitors start at a standalone intro station with a short film and menu selection (guided or free mode). In guided mode, modular showcases for each sector follow, featuring interactive models, technical detail stations, and project catalogs. The free path allows for deeper exploration of individual systems, digital twins, and expert contact. Concluding with meeting pods for in-depth discussions and digital materials for download.
+
+zones_layout
+Zones are organized as standalone islands: reception and intro hub, sector shows (semiconductors, batteries, biotech/pharma, data centers), technical deep-dive labs with models and digital twins, case study gallery with project models, and meeting and consulting islands. Space allocation is modular: larger show islands for core sectors, smaller niches for detailed technical displays, and an area for personnel and benefits information. All elements are independently positionable, allowing clear access paths between the islands.
+
+anchor_objects
+Freestanding anchor objects include: large-format cleanroom model modules as demonstration objects (functional for displaying airflow and interfaces), scale model factories and equipment rack replicas for detailed views, interactive holography or projection tables for digital twins, touch kiosks for case study selection, and modular meeting pods for advisory sessions. Mobility: Models and kiosks are mostly mobile or on wheels; meeting pods are designed as portable modules.
+
+circulation_accessibility
+No specific indications of minimum aisle widths, entry points, or detailed accessibility requirements in the context. Generally, a high standard of reliability and quality is emphasized, but specific accessibility guidelines are not mentioned.
+
+ambience
+The exhibition atmosphere is inspired by controlled, technical precision suitable for cleanroom and high-tech projects: clear, neutral lighting and a subtle, objective soundscape to support explanatory content. No scent indications are provided. Audio content focuses on technical explanations, project videos, and guided tours.

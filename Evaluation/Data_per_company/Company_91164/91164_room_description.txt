@@ -1,0 +1,32 @@
+identity_brand
+**Brand Name:** Not specified. **Tagline:** "Quality and Design Writing Instruments Since 1883." **Sector:** Writing Instruments / Design / Consumer Goods. **Maturity:** Established traditional brand with international expansion. **Geographic Reach:** Distributed in over 70 countries, based in Nuremberg. **Color Palette:** Classic muted tones with metal and natural accents. **Design Language:** Minimalist, functional, timeless with clear proportions. **Material Note:** Metal alloys, brass, aluminum, high-quality plastics, wood accents. **Logo Use:** Prominent brand marking on products, packaging, and digital channels for brand recognition.
+
+value_proposition_map
+**Pillar 1 — Premium Writing Instruments (Approx. 50%):** High-quality pens and pencils with a focus on material and design; Target groups: Collectors, design enthusiasts, gift buyers. **Pillar 2 — Brand Heritage & Design Identity (Approx. 20%):** Authenticity through tradition and distinctive aesthetics; Target groups: Brand-loyal customers, heritage lovers. **Pillar 3 — International Distribution & Trade (Approx. 20%):** Presence in over 70 countries and trade network; Target groups: Retail, specialty trade, e-commerce customers. **Pillar 4 — Content & Brand Communication (Approx. 10%):** Visual staging, social media content, and campaigns; Target groups: Young consumers, social media communities.
+
+culture_profile
+Open, team-oriented culture emphasizing humor and trust. Values include quality, craftsmanship, creativity, and a dynamic, growth-oriented pace. **Collaboration Style:** Cross-functional, closely linked with design and marketing; **Work Mode:** Hybrid options with flexible hours and remote work possibilities.
+
+portfolio_focus
+Showcases include physical artifacts (writing instruments, prototypes), design sketches, production details, and multimedia demos. **Handling:** Product samples and tactile stations available, sensitive pieces under supervision. Security or conservation requirements applied as needed.
+
+narrative_assets
+**Headline:** Tradition Meets Modern Design. **Key Statements:**
+1. Known for high-quality writing culture since 1883.
+2. Products blend sophistication, design, and modern materials.
+3. The brand is growing internationally with strong visual communication.
+
+interaction_flow
+Visitors start at an orientation pillar, explore accessible product islands, move to a multimedia station with videos and behind-the-scenes content, and can create personal product photos. A sales/information point is available for questions and purchases.
+
+zones_layout
+Freestanding entrance signals and orientation elements mark the start; several product islands with pedestals and displays form the main area; a separate media studio for videos and photos, and a workshop area complement the exhibition; sales and consulting point at the exit. **Space Distribution:** Small orientation area, large product islands, medium media/workshop space, compact retail/service.
+
+anchor_objects
+**Types:** Raised product pedestals, modular display tables, interactive touch kiosks, mobile photo booth/studio niche, benches, and a sales counter. **Function:** Presentation, interaction, content creation, seating, and consultation. **Mobility:** Many elements modular and on wheels, sensitive objects securely stationary.
+
+circulation_accessibility
+No specific dimensions or structural details provided; barrier-free design should be implemented (step-free access, wide aisles, accessible stations), but specific specifications are not mentioned.
+
+ambience
+**Lighting:** Controlled, dimmable studio lighting with product-focused accents and warm ambient lighting for comfort. **Audio/Music:** Subtle instrumental background music with quiet zones for video recordings. **Scent:** Subtle, high-quality notes (e.g., paper, leather, wood accents) to enhance product aesthetics.

@@ -1,0 +1,29 @@
+identity_brand
+Company name: Lausser GmbH. Tagline: "With Lausser, it works!" Sector: Energy and Building Technology/Technical Building Equipment. Maturity: Established, reliable mid-sized company with over 50 years of history. Geographic reach: Regionally rooted, active nationwide in Germany. Color scheme and materials: Not specified. Design language: Functional, pragmatic, and solid craftsmanship. Logo use: Not specified.
+
+value_proposition_map
+1) Heating and Cooling Technology (20%): Planning, installation, and maintenance of efficient heating and cooling systems; Target groups: Commercial, industrial, and builders; Proven track record outlined in company profile. 2) Ventilation and Air Conditioning Technology (15%): Indoor climate solutions for comfort and efficiency; Target groups: commercial projects and public buildings; Offer detailed in profile. 3) Sanitary and Gas Supply Technology (10%): Reliable supply and proper installation; Target groups: Businesses and municipalities; Service summary available. 4) Energy and Plant Technology (20%): System solutions for energy optimization and plant technology; Target groups: Project developers and operators of large facilities; Positioned as a leading service provider. 5) Service, Electrical, and Control Technology (15%): Reliable service, measurement, control, and regulation technology; Target groups: Operators, facility management; Service offerings detailed. 6) Project Development & Contracting (20%): Project support from planning to operation and contracting models; Target groups: Investors and builders; Offer includes project development and contracting. (Percentages are qualitative weightings based on the service offering.)
+
+culture_profile
+The culture is defined by solid craftsmanship, reliability, and a professional calm; experience and goal orientation are key. Approach: Pragmatic and timely, focusing on quality and time benefits through prefabrication. Collaboration style: Team-oriented, cross-disciplinary, regionally grounded with national readiness. Work mode: A blend of on-site presence and flexible options (flexible hours, remote working); social benefits available.
+
+portfolio_focus
+Showcase practical artifacts like prefabricated construction and plant components, technical prototypes, and project examples, complemented by documentary content (case studies, process presentations) and information on service and contracting offerings. Handling includes freestanding demonstration objects and information stands for viewer access; safety note: heavy or technical exhibits come with usage and safety labeling. Specific media types and dimensions: Not specified.
+
+narrative_assets
+Headline: From Pioneer to Innovation Leader in Energy and Building Technology. Core messages: Over 50 years of experience and solid craftsmanship; regionally rooted, nationally active; quality and time benefits through prefabrication and well-thought-out solutions. Measurable metrics & signals: Company established in 1971, employee category 500–999; positioned as a leading service provider in Germany.
+
+interaction_flow
+Visitors begin at a freestanding intro point with a brief overview and slogan, then choose between solution-oriented areas (e.g., heating, climate, energy) and a demo area for prototypes. In the consultation zone, specific project questions can be addressed, and there is an area for student career/final project discussions. Finally, there's an option to schedule project consultations or follow-up discussions.
+
+zones_layout
+Freestanding intro and reception islands (approx. 10%) lead to thematic product and service zones (approx. 40%) each with their own information offerings. A central demo and prototype area (approx. 25%) is used for technical demonstrations, flanked by discussion and consultation zones (approx. 15%). A compact career and learning section for final projects and recruiting completes the offerings (approx. 10%).
+
+anchor_objects
+Large plant samples and prefabricated component exhibits serve as focal points and demonstration objects; Function: technical understanding, scale, and material presence; Mobility: mostly stationary due to weight. Interactive info stands and touch kiosks provide detailed information and project examples; Mobility: easily repositionable. VR/demo stations or learning columns for final projects offer immersive insights; Mobility: mobile to semi-fixed.
+
+circulation_accessibility
+Minimum aisle widths, entrances, and specific structural accessibility measures: Not specified. General accessibility and barrier-free operation notes are not included: Not specified.
+
+ambience
+Specific guidelines on lighting, audio, music, or scent concepts are not provided in the context: Not specified.

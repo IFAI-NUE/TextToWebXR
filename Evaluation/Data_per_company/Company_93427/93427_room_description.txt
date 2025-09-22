@@ -1,0 +1,49 @@
+identity_brand
+
+"Forging Future"
+
+Sector: Electrical Engineering / Precision Mechanics / Optics as well as IT Hardware and Software Development. Business Stage: Small Business / Scale-up (10–49 employees). Geographic Reach: Not specified. Color Palette: Not specified. Design Language: Not specified. Material Notes: Not specified. Logo Usage: Not specified.
+
+value_proposition_map
+
+1) Hardware - Development of energy-autonomous, wireless sensors: Benefit: Reliable data capture without wiring; Target Groups: Municipalities, Companies; Evidence: Proprietary development of energy-autonomous sensors. Weight: 35%.
+
+2) Connectivity & Integration – LPWAN Technologies (MIOTY®, NB-IoT, LoRaWAN®): Benefit: Energy-efficient, wide-area networking; Target Groups: Smart City Operators, IoT Integrators; Evidence: Specialization in the mentioned standards. Weight: 25%.
+
+3) Web Services & Analytics – Intelligent web services for end users: Benefit: Actionable insights and applications from sensor data; Target Groups: Municipal decision-makers, IT departments; Evidence: Offering comprehensive web services. Weight: 30%.
+
+4) Implementation & Consulting – Scalable Smart City Solutions and Support: Benefit: Customized introduction and operation; Target Groups: Municipalities, Companies; Evidence: Implementation services in company profile. Weight: 10%.
+
+culture_profile
+
+Open, technology-oriented company culture focusing on innovation and practical execution. Flexible working hours, remote work options, and benefits such as free beverages and employee events suggest a modern, employee-centric approach. Seeking creative, independent individuals with an interest in new technologies; collaboration is interdisciplinary and pragmatic.
+
+portfolio_focus
+
+Features include physical sensor prototypes and product samples, demonstrations of LPWAN connectivity, and live demos of web services and dashboards. Handling: Interactive, tangible demonstrations and mobile demo kits for presentations. Security/Compliance: Not specified.
+
+narrative_assets
+
+Headline: "Forging Future"
+
+Key Messages: Provides energy-autonomous, wireless sensor technology and connected web services for scalable Smart City solutions; specializes in energy-efficient LPWAN technologies (MIOTY®, NB-IoT, LoRaWAN®) for cost-effective large area coverage; offerings range from sensor development to implementation and end-user software. Measurable Metrics & External Signals: Company size 10–49 employees; multiple job openings in media/marketing indicate active public relations and product marketing.
+
+interaction_flow
+
+Visitors start at a central information point with an overview of offerings and choose among standalone demo stations. These stations feature sensor prototypes and live data visualizations; interaction is hands-on and via mobile touch terminals. Finally, there is a consultation/meeting area for in-depth discussions and implementation questions.
+
+zones_layout
+
+A compact entry/info hub (approx. 15–20%) for orientation, followed by a cluster of demo pods with physical sensors and connectivity demos (approx. 40–50%). An analytics and dashboard lounge for data visualization and presentations (approx. 20%) and a workshop/meeting area for discussions and planning (approx. 10–15%). Smaller service and storage stations for mobile demo kits and technical equipment (approx. 5–10%).
+
+anchor_objects
+
+Freestanding sensor pod pedestals showcasing physical samples for demonstration of form and function (portable). Demo towers or columns illustrating network coverage and signal visualization (semi-portable). Interactive touch terminals on stands for live data and configuration (portable). Meeting islands with both standing and seated options for advisory situations (movable/modular). Mobile transport cases for demo sets and spare parts.
+
+circulation_accessibility
+
+Minimum aisle width: Not specified. Entrances/Access: Not specified. Accessibility (specific): Not specified.
+
+ambience
+
+Not specified.

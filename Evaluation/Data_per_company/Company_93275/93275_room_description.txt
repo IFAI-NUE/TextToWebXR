@@ -1,0 +1,64 @@
+**identity_brand**
+
+**Brand Name:** A leading agricultural insurance specialist, established in 1953 with nationwide reach across Germany. Known as a center of expertise in the agricultural sector. 
+
+**Sector:** Insurance with a focus on agriculture.
+
+**Established:** 1953.
+
+**Geographical Reach:** Nationwide in Germany with approximately 35 sales representatives.
+
+**Visuals:** Blue and green hues. Design language: clear, objective, and trustworthy.
+
+**value_proposition_map**
+
+1. **Agricultural Insurance Packages (40%):** Tailored concepts for crop and livestock production, providing comprehensive protection against agricultural risks. Targeted at farmers, vintners, and forest owners.
+
+2. **Weather Risk Insurance (25%):** Offers protection against hail, storms, heavy rain, frost, and drought. Targets plant producers.
+
+3. **Animal and Epidemic Insurance (20%):** Covers reportable animal diseases and illness protection. Targets livestock and horse owners.
+
+4. **Claims Management & Network of Experts (15%):** Fast, skilled claims handling through approximately 500 independent experts. Provides reliable support during claims.
+
+**culture_profile**
+
+**Values:** Reliability, safety, transparency, and practical approach backed by extensive experience.
+
+**Pace:** Pragmatic and season-oriented, with flexibility expected during peak times.
+
+**Collaboration Style:** Team-oriented with close interaction with field service and external experts, focusing on customer support.
+
+**Work Mode:** Hybrid options and flexible hours offered; training and career development are encouraged.
+
+**portfolio_focus**
+
+Features product overviews, case studies, and expert profiles in modular displays. Includes interactive demonstrations and multimedia presentations on insurance products and typical operational models.
+
+**narrative_assets**
+
+**Headline:** Knowing Where You Stand
+
+**Core Messages:** 
+1. Long-standing expertise since 1953 in the agricultural sector.
+2. Comprehensive protection against weather risks and animal epidemics.
+3. Nationwide presence with regional support and a large expert network.
+
+**interaction_flow**
+
+**Modes:** Self-guided exploration, guided tours, and personal consultations. Pathway: central info point → thematic product displays → claims and expert demos → consultation areas.
+
+**zones_layout**
+
+Consists of a central info hub, thematic product displays, a claims demo area, and consultation points. Product displays and demo areas dominate the space, while consultation points are strategically placed.
+
+**anchor_objects**
+
+Includes freestanding info stations, interactive kiosks for risk and rate calculation, large-scale model landscapes (fields, vineyards, barns) for illustrating risks, multimedia columns for short films, and consultation areas for personal discussions.
+
+**circulation_accessibility**
+
+Visitor flow and accessibility details such as minimum aisle widths and entrance specifications are not specified.
+
+**ambience**
+
+Specific details on lighting, audio, music, or scent design are not provided.

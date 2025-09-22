@@ -1,0 +1,29 @@
+identity_brand
+Legal Name: TGM Kanis Turbines Inc. Tagline: Passion for Steam Turbines and Steam Turbo Sets. Sector: Design, Manufacturing, Delivery, Installation, and Commissioning of Steam Turbo Sets (Industrial/Energy Technology). Maturity: Well-established Medium Enterprise (approx. 150–160 employees). Geographic Reach: National and International (indication of international client contacts). Color Palette: Not specified. Form Language: Technically precise, functional, and robust with clear engineering lines. Material Note: Metallic materials like steel and alloys, technical-industrial surfaces. Logo Usage: Not mentioned.
+
+value_proposition_map
+Pillar 1 — Engineering & Planning (25%): Custom design of steam turbo sets focused on customer needs; target groups are energy providers and industrial facility operators; evidenced by repeated emphasis on customer-specific planning in the company profile. Pillar 2 — Manufacturing & Production (30%): Production of high-quality turbo sets through secure processes; target groups: operators and OEMs; evidenced by the claim of top-quality and efficient processes. Pillar 3 — Delivery, Installation & Commissioning (20%): Complete onsite services up to commissioning; target groups: project operators and general contractors; evidenced by mention of installation and commissioning skills. Pillar 4 — After-Sales, Maintenance & Service (15%): Lifecycle support and sustainability focus for value retention; target groups: operators in operation and maintenance; evidenced by emphasis on sustainability and employee development. Pillar 5 — Project & Contract Management (10%): Customer-oriented, quick decisions and short decision paths for project execution; target groups: investors, procurement, international clients; evidenced by flat hierarchies and pragmatic work style.
+
+culture_profile
+Values: Solution-oriented, pragmatic, decisive, integrity, and sustainability awareness. Pace: Action-driven with short decision paths. Collaboration Style: Team-oriented, networked, and internationally focused; direct and respectful communication is valued. Work Mode: Flat hierarchies, flexible working hours, and remote options with a focus on employee development and health.
+
+portfolio_focus
+Shows include standalone product models and technical demonstrators of steam turbo sets, cutaway models to visualize internal components, and video documentation of installation and commissioning projects. Interactive simulations and control consoles demonstrate function and lifecycle support; handling guidelines and safety information are available at fixed module stations. Safety: Emphasis on safe processes, safety instructions, and distance recommendations at exhibits.
+
+narrative_assets
+Headline: Passion for Steam Turbines — from Planning to Commissioning. Core Messages: 1) Complete solutions for individual customer needs; 2) Premium quality combined with safe, sustainable processes; 3) Medium-sized agility with an international focus. Measurable Metrics & External Signals: Approx. 150–160 employees, frequent job postings and extensive employee benefits indicate stability and employer appeal.
+
+interaction_flow
+Visitors start at a standalone orientation island with a concept explanation, choose between a guided tour and self-service mode at information kiosks. Followed by stationary viewing of models and cutaways, interactive simulation stations, and project case studies on monitor islands; conclude in a contact and consultation niche with a contact terminal. The process is modular, allowing visitors to target specific stations.
+
+zones_layout
+Entry area with standalone welcome island and information kiosk, followed by a model and demonstration zone with multiple display islands (models, cutaways, installation mockups). Workshop/Project demonstration zone with mobile installation mockups and video islands, an interaction zone with consoles and simulation tables; concluding with a consultation zone with standing tables and contact terminals. Areas are arranged as standalone islands and modules, focusing on model presentation and interaction.
+
+anchor_objects
+Standalone full-scale turbo set models (static or sectioned) as visitor anchors for clear demonstration; functional cutaway models for component insight; mobile operation and simulation consoles for interaction; installation mockups and tool carts as demonstration objects; consultation islands with terminals for contact. Function: Exhibition focus, education, interaction, and customer engagement; Mobility: most anchor objects are designed as transportable/movable modules.
+
+circulation_accessibility
+Minimum aisle widths, entries, and specific accessibility details: not specified. General mentions of company accessibility (good transportation links, parking) are present in the context, but specific exhibition access parameters are not provided.
+
+ambience
+Light, Audio, Music, and Scent: not specified. Contextual information describes company climate and quality standards, but no specific requirements on lighting mood, acoustic accompaniment, or room scents for the exhibition are provided.

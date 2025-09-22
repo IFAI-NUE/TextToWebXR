@@ -1,0 +1,29 @@
+identity_brand
+Business Name: Comparison Portal for Car Rentals. Tagline: Simplifying Mobility Worldwide. Sector: Comparison Portal / Internet & IT Services. Maturity: Established, leading online platform (largest comparison portal in Germany, active for 8 years). Geographical Reach: Primarily Germany with a focus on global mobility simplification. Color Palette: Not specified (HEX: not provided). Design Language: Modern and clear, digitally oriented. Material Note: Focus on digital presentations and infographics; physical material details not provided. Logo Use: Not specified.
+
+value_proposition_map
+Core: Car Rental Price Comparison — clear benefit: best prices and comparison transparency; Target: Private Customers and Travelers; Proof: Largest comparison portal in Germany, winning over 35 awards. Product & Innovations — benefit: continuous feature development for user ease; Target: Users & Partners; Proof: Emphasis on product innovations and process optimization. Customer Service & Support — benefit: assistance with booking and queries; Target: End Customers; Proof: Mention of customer support as a company area. Employer Offering — benefit: attractive benefits and career paths; Target: Applicants and Employees; Proof: Extensive benefits (remote work, training, cafeteria, etc.). Weighting: Quality dominated by price comparison as the core offering, followed by product innovation, customer service, and employer branding (no specific percentages given).
+
+culture_profile
+Values: Enthusiasm, joy in product innovation, customer focus, and process optimization. Pace: Agile, results-oriented work with a focus on rapid feature iterations. Collaboration Style: Cross-functional teamwork between software development, product management, and customer support. Work Mode: Flexible hours and remote work options; support through training and numerous employee benefits.
+
+portfolio_focus
+Showcasing digital core products and innovations related to car rental price comparison: interactive product tests and demos, visualizations of comparison results, and insights into feature developments. Additionally, information on customer services, award recognitions, and employer benefits; specific details on security measures or handling guidelines not provided.
+
+narrative_assets
+Headline: Simplifying Mobility. Key Messages: 1) Germany’s largest car rental comparison portal, 2) over 35 award wins as a trust signal, 3) continuous product innovation and user-centered features, 4) attractive employer with extensive benefits. Measurable Metrics & External Signals: "Over 35 awards," "active for 8 years."
+
+interaction_flow
+Initial introduction with a brief overview of the offerings and award recognitions, followed by interactive demo stations showcasing the car rental price comparison experience. Deep dive into product innovations and customer service, concluding with a section on career and application information. Optional self-guided tour or brief guided tour through key areas.
+
+zones_layout
+Freestanding intro area with brand presentation and key messages, multiple demo pods for interactive price comparisons and feature demos, innovation island for product developments and prototypes, award pedestal or info island for award recognitions, and a career hub with recruitment kiosks and benefit information; layout is experience-centered from introduction to product to career.
+
+anchor_objects
+Interactive demo terminals (touchscreens) for price comparisons and filter experiments; information pedestals with award recognitions and metrics; recruitment kiosks for application info and benefit overviews; seating and discussion areas for engagement and quick consultation; primarily mobile, freestanding units for flexible repositioning.
+
+circulation_accessibility
+Specific details on aisle width, entryways, or detailed accessibility measures: not provided. Mentioned benefits like flexible hours and remote work suggest an inclusive culture, but detailed spatial accessibility requirements are not specified in this context.
+
+ambience
+Information on lighting, audio/music, or scent is not included in the provided context — therefore: not specified.

@@ -1,0 +1,29 @@
+identity_brand
+Legal Name: Forvis Mazars GmbH & Co. KG. Tagline: "Audit · Tax · Advisory — Trust and Progress". Sector: Auditing, Tax Consultancy, Advisory/Consulting, Financial Services. Maturity: Established international partnership with significant market presence. Geographic Reach: Present in over 100 countries with more than 2,500 employees across 12 locations in Germany. Color Palette: Primarily professional blue and green tones; HEX unspecified. Design Style: Clear, minimal, and professional with a geometric aesthetic. Material Note: Unspecified. Logo Usage: Unspecified.
+
+value_proposition_map
+Pillar 1 — Auditing: Provides reliable audits and compliance solutions; targets medium to large enterprises and international corporations; positioned as a leading audit and consulting firm with thousands of professionals. Pillar 2 — Tax Consultancy: Includes ongoing tax advisory, specialties (e.g., international tax law, transaction taxes), and tax return preparation; targets clients of all sizes; demonstrated by specialized job offerings and expertise. Pillar 3 — Advisory & Consulting: Transaction advice, due diligence, restructuring, and financial advisory; benefits include risk minimization and value enhancement in transactions; targets investors and management teams. Pillar 4 — Global Network & Talent: Access to global expertise and cross-border collaboration; benefits international clients and employees; supported by presence in over 100 countries and extensive employee numbers. Emphasis: Not quantified, qualitative focus on Audit/Tax/Advisory with a strong global network.
+
+culture_profile
+Values: Knowledge, diversity, forward-thinking, teamwork, and social responsibility are central. Pace: Growth-oriented and dynamic, with a strong focus on expertise. Collaboration Style: Cross-team and cross-country, high interaction between experts from different disciplines. Work Mode: Hybrid and flexible work options are offered (e.g., remote work, flexible hours) supported by training and wellness programs.
+
+portfolio_focus
+Features standalone exhibits of core services: Case study demos on auditing and tax cases, short explainer videos on advisory projects, interactive transaction simulations, and information stations for career opportunities. Handling: Visitors interact with touch kiosks, headsets, and demo terminals; hygiene concepts and simple cleaning protocols are provided. Security: No specific technical security requirements mentioned.
+
+narrative_assets
+Headline: "Growth through Trust and Expertise". Key Messages: 1) Forvis Mazars combines local presence with global reach, 2) excellence in Audit, Tax, and Advisory ensures sustainable client growth, 3) teamwork and diversity enable individual career development. Metrics & External Signals: Over 35,000 professionals globally, presence in more than 100 countries, over 2,500 employees across 12 German locations.
+
+interaction_flow
+Modes: Self-guided discovery, curated guided tours, and in-depth recruiting sessions. General Path: Welcome/Orientation station → Overview hub with quick insights → thematic stations (Audit, Tax, Advisory, Global Network) with interactive demos → Career lounge for discussions and interviews → Conclusion area with contact opportunities. Each station is a standalone unit and can be navigated modularly.
+
+zones_layout
+Entrance/Orientation zone (approx. 10% of space) as a freestanding welcome podium and overview totem. Brand Hub & Story Core (approx. 20%) with media island and metrics pillar. Thematic stations (Audit, Tax, Advisory, Global Network) collectively around 40% as individual, freely positioned experience islands. Career lounge and conversation niches around 20% as seating and advice areas. Demo Lab and reflection islands about 10% for deeper interaction and brief breaks.
+
+anchor_objects
+Large brand totems with metrics and navigation (fixed or semi-mobile) serve as orientation points. Interactive touch kiosks/steles for case demos and videos (movable). Demo tables with hardware stations for scenario simulations (modular, possibly on wheels). Seating islands and advice pods for personal conversations (easily movable). Screening pods for video presentations or interviews (semi-mobile, freestanding booths).
+
+circulation_accessibility
+Flow: Visitor guidance via clearly visible freestanding orientation points and open passages; specific minimum aisle widths not specified. Entries: No specific information on the number or location of technical entry/exit points. Accessibility: The organization emphasizes diversity and teamwork, but no specific details on the accessible design of the exhibition space are provided.
+
+ambience
+Lighting: Neutral, even base lighting supplemented by targeted accent lighting for exhibits. Audio/Music: Subtle background music and voice announcements for station content; individual stations with headphones for in-depth audio content. Scent: No specific scents mentioned; the atmosphere aims for professionalism and reliability with fresh, subtle sensory impressions.

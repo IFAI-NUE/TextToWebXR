@@ -1,0 +1,29 @@
+identity_brand
+Company Overview: Specializes in nonwoven products for insulation, filtration, cleaning, protection, and padding. With over 140 years of experience, it's one of the largest global nonwoven manufacturers, headquartered internationally. Focus: Nonwoven materials.
+
+value_proposition_map
+Key Areas: 1) Construction and Insulation – Benefits: Insulation and soundproofing; Audience: Builders and architects. 2) Household and Hygiene – Benefits: Cleaning and hygiene protection; Audience: Consumers and cleaning industry. 3) Filtration & Industrial Safety – Benefits: Industrial filtration and protection; Audience: Industrial companies. 4) Mobility Solutions – Benefits: Padding and insulation for vehicles; Audience: Automotive industry. 5) Company Expertise & Employee Development – Benefits: Continuous learning and career paths; Audience: Employees and candidates.
+
+culture_profile
+Values: Reliability, expertise in nonwovens, commitment to learning and development. Work style: Structured, project-oriented, longstanding stability. Collaboration: Team-based, cross-functional project work. Work mode: Flexible hours and training opportunities.
+
+portfolio_focus
+Content includes samples and application examples of nonwoven products for insulation, filtration, cleaning, protection, and padding. Demonstrations for construction, household, hygiene, industry, and mobility sectors are recommended.
+
+narrative_assets
+Headline: Nonwovens Experts – Over 140 Years of Experience. Key Points: 1) Enhancing everyday comfort through nonwoven solutions. 2) Wide applications in construction, household, hygiene, industry, and mobility. 3) International manufacturer with deep product and employee support. Metrics: Over 140-year history and global status.
+
+interaction_flow
+Visitors begin with a brief orientation, then explore material and application stations. In-depth demonstrations and advisory islands with product samples follow, concluding with a career and contact area.
+
+zones_layout
+Zones include an entry/orientation area, central material and sample zone, application showcases for each sector, innovation and development island, and a career lounge area.
+
+anchor_objects
+Key features include material towers or pillars with samples, interactive tables, mobile sample holders, info desks, and seating areas. Objects should be mostly movable.
+
+circulation_accessibility
+No specific details on accessibility standards; a step-free, logically guided path is recommended.
+
+ambience
+No details on lighting, audio, music, or scent provided.

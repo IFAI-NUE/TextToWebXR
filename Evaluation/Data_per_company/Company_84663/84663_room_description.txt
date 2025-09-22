@@ -1,0 +1,58 @@
+identity_brand
+
+Company Name: KÄSTL Touristik Ltd.
+Tagline: “Shape the future of travel with us!”
+Sector: B2B tourism, specializing in group, active, and health trips.
+Established: Family business since 1984 with a leading regional position.
+Market Reach: Main market in DACH, partner network across Europe.
+
+value_proposition_map
+
+Core Offerings:
+1) Group Travel – customized programs for tour operators and bus companies; Benefit: reliable, organized turnkey solutions; Evidence: long-standing market presence since 1984.
+2) Health and Wellness Trips – specialized offerings in coastal and mountain regions; Benefit: health focus and relaxation; Evidence: recognized pioneer in modern health travel.
+3) Experience, Active, and Cultural Trips – diverse programs for various target groups; Benefit: attractive product variety for B2B clients.
+4) Sales and Marketing Support for Partners – Benefit: market access and promotion concepts; Evidence: active sales in the DACH region.
+
+culture_profile
+
+Values: service-oriented, family-like, team-focused, and sustainable.
+Work Approach: dynamic, hands-on with flat hierarchies and open-door communication.
+Pace and Collaboration: fast and collaborative, regular team events, and training foster exchange and development.
+Work Mode: hybrid working possible, presence at main location plus remote options.
+
+portfolio_focus
+
+Showcase Core Travel Programs:
+Group travel, health and wellness packages, active and cultural trips, and B2B partner solutions. Complementary case studies, client references, and service descriptions can be presented. Materials like brochures and digital programs are suggested.
+
+narrative_assets
+
+Headline: “Since 1984: Experience and Health Trips Across Europe.”
+Key Statements:
+1) Established family business with over 40 years of experience.
+2) Focus on B2B clients in the DACH area and partnerships across Europe.
+3) Commitment to innovation and sustainability in health trips.
+4) Small, effective team with clear service orientation.
+
+interaction_flow
+
+Ideal Start: Brief company history and core competencies, followed by modular product stations for group, health, and activity travel. Further sections include partner/B2B areas and a career section, concluding with contact details and training/cooperation options.
+
+zones_layout
+
+Free-standing zones might be arranged as follows:
+Reception and introduction pod, product-oriented pods for group and health travel, B2B/partner area, career and team zone, and a small lounge for discussions. Arrangement focuses on product presentation and B2B networking.
+
+anchor_objects
+
+Key free-standing objects include:
+Information pods/kiosks for a brief company intro, themed product islands with presentation areas for travel programs, free-standing media stands for case studies and testimonials, a partner/meeting counter, and a career desk for recruitment info.
+
+circulation_accessibility
+
+No specific details on aisle widths, entries, or accessible features are provided.
+
+ambience
+
+No specific guidance on lighting, audio, music, or scent ambiance is provided.
